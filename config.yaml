@@ -9,7 +9,7 @@ max_results: 20
 
 publish_readme: True
 publish_gitpage: True
-publish_wechat: True
+publish_wechat: False
 
 # file paths
 json_readme_path: './docs/rs-arxiv-daily.json'
