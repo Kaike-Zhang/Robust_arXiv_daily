@@ -1,17 +1,12 @@
-## Updated on 2023.07.10
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href=#RobustnessRS>RobustnessRS</a></li>
-    <li><a href=#Robust-ML>Robust ML</a></li>
-    <li><a href=#Security-LLM>Security LLM</a></li>
-  </ol>
-</details>
+---
+layout: default
+---
 
+## Updated on 2023.07.10
 ## RobustnessRS
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-27**|**Shilling Black-box Review-based Recommender Systems through Fake Review Generation**|Hung-Yun Chiang et.al.|[2306.16526](http://arxiv.org/abs/2306.16526)|null|
 |**2023-06-28**|**Exploring chemical compound space with a graph-based recommender system**|Elton Ogoshi et.al.|[2306.16496](http://arxiv.org/abs/2306.16496)|**[link](https://github.com/simcomat/ionic-sub-rs)**|
 |**2023-06-22**|**Recent Developments in Recommender Systems: A Survey**|Yang Li et.al.|[2306.12680](http://arxiv.org/abs/2306.12680)|null|
@@ -33,12 +28,10 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
-
 ## Robust ML
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-07-04**|**Interpretable Computer Vision Models through Adversarial Training: Unveiling the Robustness-Interpretability Connection**|Delyan Boychev et.al.|[2307.02500](http://arxiv.org/abs/2307.02500)|**[link](https://github.com/delyan-boychev/pytorch_trainers_interpretability)**|
 |**2023-07-05**|**On the Adversarial Robustness of Generative Autoencoders in the Latent Space**|Mingfei Lu et.al.|[2307.02202](http://arxiv.org/abs/2307.02202)|null|
 |**2023-07-04**|**SCAT: Robust Self-supervised Contrastive Learning via Adversarial Training for Text Classification**|Junjie Wu et.al.|[2307.01488](http://arxiv.org/abs/2307.01488)|null|
@@ -60,12 +53,10 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
-
 ## Security LLM
 
-|Publish Date|Title|Authors|PDF|Code|
-|---|---|---|---|---|
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
 |**2023-06-26**|**Exploring the Robustness of Large Language Models for Solving Programming Problems**|Atsushi Shirafuji et.al.|[2306.14583](http://arxiv.org/abs/2306.14583)|null|
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-07**|**Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations**|Lifan Yuan et.al.|[2306.04618](http://arxiv.org/abs/2306.04618)|**[link](https://github.com/lifan-yuan/ood_nlp)**|
@@ -79,6 +70,4 @@
 |**2023-06-08**|**Sensitivity and Robustness of Large Language Models to Prompt Template in Japanese Text Classification Tasks**|Chengguang Gan et.al.|[2305.08714](http://arxiv.org/abs/2305.08714)|null|
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
-
-<p align=right>(<a href=#Updated-on-20230710>back to top</a>)</p>
 
