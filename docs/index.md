@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Causal Neural Graph Collaborative Filtering**|Xiangmeng Wang et.al.|[2307.04384](http://arxiv.org/abs/2307.04384)|null|
 |**2023-06-27**|**Shilling Black-box Review-based Recommender Systems through Fake Review Generation**|Hung-Yun Chiang et.al.|[2306.16526](http://arxiv.org/abs/2306.16526)|null|
 |**2023-06-28**|**Exploring chemical compound space with a graph-based recommender system**|Elton Ogoshi et.al.|[2306.16496](http://arxiv.org/abs/2306.16496)|**[link](https://github.com/simcomat/ionic-sub-rs)**|
 |**2023-06-22**|**Recent Developments in Recommender Systems: A Survey**|Yang Li et.al.|[2306.12680](http://arxiv.org/abs/2306.12680)|null|
@@ -32,6 +33,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-10**|**Enhancing Adversarial Robustness via Score-Based Optimization**|Boya Zhang et.al.|[2307.04333](http://arxiv.org/abs/2307.04333)|null|
+|**2023-07-07**|**RADAR: Robust AI-Text Detection via Adversarial Learning**|Xiaomeng Hu et.al.|[2307.03838](http://arxiv.org/abs/2307.03838)|null|
+|**2023-07-07**|**A Theoretical Perspective on Subnetwork Contributions to Adversarial Robustness**|Jovon Craig et.al.|[2307.03803](http://arxiv.org/abs/2307.03803)|null|
 |**2023-07-04**|**Interpretable Computer Vision Models through Adversarial Training: Unveiling the Robustness-Interpretability Connection**|Delyan Boychev et.al.|[2307.02500](http://arxiv.org/abs/2307.02500)|**[link](https://github.com/delyan-boychev/pytorch_trainers_interpretability)**|
 |**2023-07-05**|**On the Adversarial Robustness of Generative Autoencoders in the Latent Space**|Mingfei Lu et.al.|[2307.02202](http://arxiv.org/abs/2307.02202)|null|
 |**2023-07-04**|**SCAT: Robust Self-supervised Contrastive Learning via Adversarial Training for Text Classification**|Junjie Wu et.al.|[2307.01488](http://arxiv.org/abs/2307.01488)|null|
