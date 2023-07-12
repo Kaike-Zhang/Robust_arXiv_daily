@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.11
+## Updated on 2023.07.12
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -40,7 +40,7 @@ layout: default
 |**2023-07-05**|**On the Adversarial Robustness of Generative Autoencoders in the Latent Space**|Mingfei Lu et.al.|[2307.02202](http://arxiv.org/abs/2307.02202)|null|
 |**2023-07-04**|**SCAT: Robust Self-supervised Contrastive Learning via Adversarial Training for Text Classification**|Junjie Wu et.al.|[2307.01488](http://arxiv.org/abs/2307.01488)|null|
 |**2023-07-03**|**Enhancing the Robustness of QMIX against State-adversarial Attacks**|Weiran Guo et.al.|[2307.00907](http://arxiv.org/abs/2307.00907)|null|
-|**2023-06-28**|**Mitigating the Accuracy-Robustness Trade-off via Multi-Teacher Adversarial Distillation**|Shiji Zhao et.al.|[2306.16170](http://arxiv.org/abs/2306.16170)|**[link](https://github.com/zhaoshiji123/mtard-extension)**|
+|**2023-07-11**|**Mitigating the Accuracy-Robustness Trade-off via Multi-Teacher Adversarial Distillation**|Shiji Zhao et.al.|[2306.16170](http://arxiv.org/abs/2306.16170)|**[link](https://github.com/zhaoshiji123/mtard-extension)**|
 |**2023-07-07**|**Evaluating Similitude and Robustness of Deep Image Denoising Models via Adversarial Attack**|Jie Ning et.al.|[2306.16050](http://arxiv.org/abs/2306.16050)|null|
 |**2023-06-27**|**Robust Proxy: Improving Adversarial Robustness by Robust Proxy Learning**|Hong Joo Lee et.al.|[2306.15457](http://arxiv.org/abs/2306.15457)|null|
 |**2023-06-26**|**Robust and Space-Efficient Dual Adversary Quantum Query Algorithms**|Michael Czekanski et.al.|[2306.15040](http://arxiv.org/abs/2306.15040)|**[link](https://github.com/rtealwitter/quantumqueryoptimizer)**|
