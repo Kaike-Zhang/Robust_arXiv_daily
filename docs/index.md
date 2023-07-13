@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-06**|**LogitMat : Zeroshot Learning Algorithm for Recommender Systems without Transfer Learning or Pretrained Models**|Hao Wang et.al.|[2307.05680](http://arxiv.org/abs/2307.05680)|null|
 |**2023-07-10**|**Causal Neural Graph Collaborative Filtering**|Xiangmeng Wang et.al.|[2307.04384](http://arxiv.org/abs/2307.04384)|null|
 |**2023-06-27**|**Shilling Black-box Review-based Recommender Systems through Fake Review Generation**|Hung-Yun Chiang et.al.|[2306.16526](http://arxiv.org/abs/2306.16526)|null|
 |**2023-06-28**|**Exploring chemical compound space with a graph-based recommender system**|Elton Ogoshi et.al.|[2306.16496](http://arxiv.org/abs/2306.16496)|**[link](https://github.com/simcomat/ionic-sub-rs)**|
