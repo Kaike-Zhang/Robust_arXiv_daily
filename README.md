@@ -1,4 +1,4 @@
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -25,7 +25,7 @@
 |**2023-05-18**|**Preference or Intent? Double Disentangled Collaborative Filtering**|Chao Wang et.al.|[2305.11084](http://arxiv.org/abs/2305.11084)|null|
 |**2023-06-10**|**Integrating Item Relevance in Training Loss for Sequential Recommender Systems**|Andrea Bacciu et.al.|[2305.10824](http://arxiv.org/abs/2305.10824)|null|
 |**2023-05-03**|**Sim2Rec: A Simulator-based Decision-making Approach to Optimize Real-World Long-term User Engagement in Sequential Recommender Systems**|Xiong-Hui Chen et.al.|[2305.04832](http://arxiv.org/abs/2305.04832)|**[link](https://github.com/xionghuichen/sim2rec)**|
-|**2023-05-07**|**Disentangled Contrastive Collaborative Filtering**|Xubin Ren et.al.|[2305.02759](http://arxiv.org/abs/2305.02759)|**[link](https://github.com/hkuds/dccf)**|
+|**2023-07-12**|**Disentangled Contrastive Collaborative Filtering**|Xubin Ren et.al.|[2305.02759](http://arxiv.org/abs/2305.02759)|**[link](https://github.com/hkuds/dccf)**|
 |**2023-04-11**|**Privacy-Preserving Matrix Factorization for Recommendation Systems using Gaussian Mechanism**|Sohan Salahuddin Mugdho et.al.|[2304.09096](http://arxiv.org/abs/2304.09096)|null|
 |**2023-04-15**|**Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures**|Wei Yuan et.al.|[2304.03054](http://arxiv.org/abs/2304.03054)|null|
 |**2023-03-28**|**Item Graph Convolution Collaborative Filtering for Inductive Recommendations**|Edoardo D'Amico et.al.|[2303.15946](http://arxiv.org/abs/2303.15946)|**[link](https://github.com/damicoedoardo/igccf)**|
@@ -34,7 +34,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 
 ## Robust ML
 
@@ -64,7 +64,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 
 ## Security LLM
 
@@ -84,5 +84,5 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20230712>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230713>back to top</a>)</p>
 

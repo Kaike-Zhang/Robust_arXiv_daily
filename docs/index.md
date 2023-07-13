@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.07.12
+## Updated on 2023.07.13
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -20,7 +20,7 @@ layout: default
 |**2023-05-18**|**Preference or Intent? Double Disentangled Collaborative Filtering**|Chao Wang et.al.|[2305.11084](http://arxiv.org/abs/2305.11084)|null|
 |**2023-06-10**|**Integrating Item Relevance in Training Loss for Sequential Recommender Systems**|Andrea Bacciu et.al.|[2305.10824](http://arxiv.org/abs/2305.10824)|null|
 |**2023-05-03**|**Sim2Rec: A Simulator-based Decision-making Approach to Optimize Real-World Long-term User Engagement in Sequential Recommender Systems**|Xiong-Hui Chen et.al.|[2305.04832](http://arxiv.org/abs/2305.04832)|**[link](https://github.com/xionghuichen/sim2rec)**|
-|**2023-05-07**|**Disentangled Contrastive Collaborative Filtering**|Xubin Ren et.al.|[2305.02759](http://arxiv.org/abs/2305.02759)|**[link](https://github.com/hkuds/dccf)**|
+|**2023-07-12**|**Disentangled Contrastive Collaborative Filtering**|Xubin Ren et.al.|[2305.02759](http://arxiv.org/abs/2305.02759)|**[link](https://github.com/hkuds/dccf)**|
 |**2023-04-11**|**Privacy-Preserving Matrix Factorization for Recommendation Systems using Gaussian Mechanism**|Sohan Salahuddin Mugdho et.al.|[2304.09096](http://arxiv.org/abs/2304.09096)|null|
 |**2023-04-15**|**Manipulating Federated Recommender Systems: Poisoning with Synthetic Users and Its Countermeasures**|Wei Yuan et.al.|[2304.03054](http://arxiv.org/abs/2304.03054)|null|
 |**2023-03-28**|**Item Graph Convolution Collaborative Filtering for Inductive Recommendations**|Edoardo D'Amico et.al.|[2303.15946](http://arxiv.org/abs/2303.15946)|**[link](https://github.com/damicoedoardo/igccf)**|
