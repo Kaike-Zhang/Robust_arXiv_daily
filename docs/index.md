@@ -34,6 +34,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation**|Asif Hanif et.al.|[2307.07269](http://arxiv.org/abs/2307.07269)|**[link](https://github.com/asif-hanif/vafa)**|
+|**2023-07-14**|**Certified Robustness for Large Language Models with Self-Denoising**|Zhen Zhang et.al.|[2307.07171](http://arxiv.org/abs/2307.07171)|null|
 |**2023-07-10**|**Enhancing Adversarial Robustness via Score-Based Optimization**|Boya Zhang et.al.|[2307.04333](http://arxiv.org/abs/2307.04333)|null|
 |**2023-07-07**|**RADAR: Robust AI-Text Detection via Adversarial Learning**|Xiaomeng Hu et.al.|[2307.03838](http://arxiv.org/abs/2307.03838)|null|
 |**2023-07-07**|**A Theoretical Perspective on Subnetwork Contributions to Adversarial Robustness**|Jovon Craig et.al.|[2307.03803](http://arxiv.org/abs/2307.03803)|null|
@@ -62,6 +64,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-14**|**Certified Robustness for Large Language Models with Self-Denoising**|Zhen Zhang et.al.|[2307.07171](http://arxiv.org/abs/2307.07171)|null|
 |**2023-06-26**|**Exploring the Robustness of Large Language Models for Solving Programming Problems**|Atsushi Shirafuji et.al.|[2306.14583](http://arxiv.org/abs/2306.14583)|null|
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-07**|**Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations**|Lifan Yuan et.al.|[2306.04618](http://arxiv.org/abs/2306.04618)|**[link](https://github.com/lifan-yuan/ood_nlp)**|
