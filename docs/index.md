@@ -34,6 +34,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-16**|**Byzantine-Robust Distributed Online Learning: Taming Adversarial Participants in An Adversarial Environment**|Xingrong Dong et.al.|[2307.07980](http://arxiv.org/abs/2307.07980)|null|
+|**2023-07-16**|**On the Robustness of Split Learning against Adversarial Attacks**|Mingyuan Fan et.al.|[2307.07916](http://arxiv.org/abs/2307.07916)|null|
 |**2023-07-14**|**Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation**|Asif Hanif et.al.|[2307.07269](http://arxiv.org/abs/2307.07269)|**[link](https://github.com/asif-hanif/vafa)**|
 |**2023-07-14**|**Certified Robustness for Large Language Models with Self-Denoising**|Zhen Zhang et.al.|[2307.07171](http://arxiv.org/abs/2307.07171)|null|
 |**2023-07-10**|**Enhancing Adversarial Robustness via Score-Based Optimization**|Boya Zhang et.al.|[2307.04333](http://arxiv.org/abs/2307.04333)|null|
@@ -64,6 +66,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-17**|**Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models**|Huachuan Qiu et.al.|[2307.08487](http://arxiv.org/abs/2307.08487)|**[link](https://github.com/qiuhuachuan/latent-jailbreak)**|
+|**2023-07-15**|**Coupling Large Language Models with Logic Programming for Robust and General Reasoning from Text**|Zhun Yang et.al.|[2307.07696](http://arxiv.org/abs/2307.07696)|**[link](https://github.com/azreasoners/llm-asp)**|
 |**2023-07-14**|**Certified Robustness for Large Language Models with Self-Denoising**|Zhen Zhang et.al.|[2307.07171](http://arxiv.org/abs/2307.07171)|null|
 |**2023-06-26**|**Exploring the Robustness of Large Language Models for Solving Programming Problems**|Atsushi Shirafuji et.al.|[2306.14583](http://arxiv.org/abs/2306.14583)|null|
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
