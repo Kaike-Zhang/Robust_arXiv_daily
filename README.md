@@ -1,4 +1,4 @@
-## Updated on 2023.07.20
+## Updated on 2023.07.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -37,7 +37,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 ## Robust ML
 
@@ -46,7 +46,7 @@
 |**2023-07-16**|**Byzantine-Robust Distributed Online Learning: Taming Adversarial Participants in An Adversarial Environment**|Xingrong Dong et.al.|[2307.07980](http://arxiv.org/abs/2307.07980)|**[link](https://github.com/wanger521/ogd)**|
 |**2023-07-18**|**On the Robustness of Split Learning against Adversarial Attacks**|Mingyuan Fan et.al.|[2307.07916](http://arxiv.org/abs/2307.07916)|null|
 |**2023-07-19**|**Why Does Little Robustness Help? Understanding Adversarial Transferability From Surrogate Training**|Yechao Zhang et.al.|[2307.07873](http://arxiv.org/abs/2307.07873)|null|
-|**2023-07-14**|**Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation**|Asif Hanif et.al.|[2307.07269](http://arxiv.org/abs/2307.07269)|**[link](https://github.com/asif-hanif/vafa)**|
+|**2023-07-20**|**Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation**|Asif Hanif et.al.|[2307.07269](http://arxiv.org/abs/2307.07269)|**[link](https://github.com/asif-hanif/vafa)**|
 |**2023-07-14**|**Certified Robustness for Large Language Models with Self-Denoising**|Zhen Zhang et.al.|[2307.07171](http://arxiv.org/abs/2307.07171)|null|
 |**2023-07-10**|**Enhancing Adversarial Robustness via Score-Based Optimization**|Boya Zhang et.al.|[2307.04333](http://arxiv.org/abs/2307.04333)|null|
 |**2023-07-07**|**RADAR: Robust AI-Text Detection via Adversarial Learning**|Xiaomeng Hu et.al.|[2307.03838](http://arxiv.org/abs/2307.03838)|null|
@@ -72,7 +72,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
 ## Security LLM
 
@@ -95,5 +95,5 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20230720>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230721>back to top</a>)</p>
 
