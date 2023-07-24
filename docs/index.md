@@ -37,6 +37,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-21**|**Improving Viewpoint Robustness for Visual Recognition via Adversarial Training**|Shouwei Ruan et.al.|[2307.11528](http://arxiv.org/abs/2307.11528)|null|
 |**2023-07-16**|**Byzantine-Robust Distributed Online Learning: Taming Adversarial Participants in An Adversarial Environment**|Xingrong Dong et.al.|[2307.07980](http://arxiv.org/abs/2307.07980)|**[link](https://github.com/wanger521/ogd)**|
 |**2023-07-18**|**On the Robustness of Split Learning against Adversarial Attacks**|Mingyuan Fan et.al.|[2307.07916](http://arxiv.org/abs/2307.07916)|null|
 |**2023-07-19**|**Why Does Little Robustness Help? Understanding Adversarial Transferability From Surrogate Training**|Yechao Zhang et.al.|[2307.07873](http://arxiv.org/abs/2307.07873)|null|
