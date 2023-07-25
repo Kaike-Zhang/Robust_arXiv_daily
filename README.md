@@ -44,6 +44,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-24**|**Lost In Translation: Generating Adversarial Examples Robust to Round-Trip Translation**|Neel Bhandari et.al.|[2307.12520](http://arxiv.org/abs/2307.12520)|**[link](https://github.com/neelbhandari6/nmt_text_attack)**|
+|**2023-07-24**|**Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training**|Gege Qi et.al.|[2307.12498](http://arxiv.org/abs/2307.12498)|null|
 |**2023-07-21**|**Improving Viewpoint Robustness for Visual Recognition via Adversarial Training**|Shouwei Ruan et.al.|[2307.11528](http://arxiv.org/abs/2307.11528)|null|
 |**2023-07-16**|**Byzantine-Robust Distributed Online Learning: Taming Adversarial Participants in An Adversarial Environment**|Xingrong Dong et.al.|[2307.07980](http://arxiv.org/abs/2307.07980)|**[link](https://github.com/wanger521/ogd)**|
 |**2023-07-18**|**On the Robustness of Split Learning against Adversarial Attacks**|Mingyuan Fan et.al.|[2307.07916](http://arxiv.org/abs/2307.07916)|null|
