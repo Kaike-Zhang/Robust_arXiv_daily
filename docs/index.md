@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Investigating the Robustness of Sequential Recommender Systems Against Training Data Perturbations: an Empirical Study**|Filippo Betello et.al.|[2307.13165](http://arxiv.org/abs/2307.13165)|null|
 |**2023-07-17**|**Evaluating and Enhancing Robustness of Deep Recommendation Systems Against Hardware Errors**|Dongning Ma et.al.|[2307.10244](http://arxiv.org/abs/2307.10244)|**[link](https://github.com/vu-detail/pytei)**|
 |**2023-07-17**|**An Admissible Shift-Consistent Method for Recommender Systems**|Tung Nguyen et.al.|[2307.08857](http://arxiv.org/abs/2307.08857)|null|
 |**2023-07-17**|**Imposing Consistency Properties on Blackbox Systems with Applications to SVD-Based Recommender Systems**|Tung Nguyen et.al.|[2307.08760](http://arxiv.org/abs/2307.08760)|null|
@@ -37,6 +38,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-07-24**|**Adaptive Certified Training: Towards Better Accuracy-Robustness Tradeoffs**|Zhakshylyk Nurlanov et.al.|[2307.13078](http://arxiv.org/abs/2307.13078)|null|
 |**2023-07-24**|**Lost In Translation: Generating Adversarial Examples Robust to Round-Trip Translation**|Neel Bhandari et.al.|[2307.12520](http://arxiv.org/abs/2307.12520)|**[link](https://github.com/neelbhandari6/nmt_text_attack)**|
 |**2023-07-24**|**Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training**|Gege Qi et.al.|[2307.12498](http://arxiv.org/abs/2307.12498)|null|
 |**2023-07-21**|**Improving Viewpoint Robustness for Visual Recognition via Adversarial Training**|Shouwei Ruan et.al.|[2307.11528](http://arxiv.org/abs/2307.11528)|null|
