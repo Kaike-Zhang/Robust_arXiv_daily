@@ -45,6 +45,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-27**|**R-LPIPS: An Adversarially Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2307.15157](http://arxiv.org/abs/2307.15157)|**[link](https://github.com/saraghazanfari/r-lpips)**|
 |**2023-07-24**|**Adaptive Certified Training: Towards Better Accuracy-Robustness Tradeoffs**|Zhakshylyk Nurlanov et.al.|[2307.13078](http://arxiv.org/abs/2307.13078)|null|
 |**2023-07-24**|**Lost In Translation: Generating Adversarial Examples Robust to Round-Trip Translation**|Neel Bhandari et.al.|[2307.12520](http://arxiv.org/abs/2307.12520)|**[link](https://github.com/neelbhandari6/nmt_text_attack)**|
 |**2023-07-24**|**Robust Automatic Speech Recognition via WavAugment Guided Phoneme Adversarial Training**|Gege Qi et.al.|[2307.12498](http://arxiv.org/abs/2307.12498)|null|
