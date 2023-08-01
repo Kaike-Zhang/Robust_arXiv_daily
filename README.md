@@ -45,6 +45,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-07-31**|**Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks**|Xinyu Zhang et.al.|[2307.16630](http://arxiv.org/abs/2307.16630)|null|
+|**2023-07-31**|**Benchmarking and Analyzing Robust Point Cloud Recognition: Bag of Tricks for Defending Adversarial Examples**|Qiufan Ji et.al.|[2307.16361](http://arxiv.org/abs/2307.16361)|**[link](https://github.com/qiufan319/benchmark_pc_attack)**|
 |**2023-07-31**|**R-LPIPS: An Adversarially Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2307.15157](http://arxiv.org/abs/2307.15157)|**[link](https://github.com/saraghazanfari/r-lpips)**|
 |**2023-07-24**|**Adaptive Certified Training: Towards Better Accuracy-Robustness Tradeoffs**|Zhakshylyk Nurlanov et.al.|[2307.13078](http://arxiv.org/abs/2307.13078)|null|
 |**2023-07-24**|**Lost In Translation: Generating Adversarial Examples Robust to Round-Trip Translation**|Neel Bhandari et.al.|[2307.12520](http://arxiv.org/abs/2307.12520)|**[link](https://github.com/neelbhandari6/nmt_text_attack)**|
