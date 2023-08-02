@@ -45,6 +45,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-01**|**Dynamic ensemble selection based on Deep Neural Network Uncertainty Estimation for Adversarial Robustness**|Ruoxi Qin et.al.|[2308.00346](http://arxiv.org/abs/2308.00346)|null|
+|**2023-08-01**|**Doubly Robust Instance-Reweighted Adversarial Training**|Daouda Sow et.al.|[2308.00311](http://arxiv.org/abs/2308.00311)|null|
+|**2023-07-31**|**Adversarially Robust Neural Legal Judgement Systems**|Rohit Raj et.al.|[2308.00165](http://arxiv.org/abs/2308.00165)|null|
 |**2023-07-31**|**Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks**|Xinyu Zhang et.al.|[2307.16630](http://arxiv.org/abs/2307.16630)|null|
 |**2023-07-31**|**Benchmarking and Analyzing Robust Point Cloud Recognition: Bag of Tricks for Defending Adversarial Examples**|Qiufan Ji et.al.|[2307.16361](http://arxiv.org/abs/2307.16361)|**[link](https://github.com/qiufan319/benchmark_pc_attack)**|
 |**2023-07-31**|**R-LPIPS: An Adversarially Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2307.15157](http://arxiv.org/abs/2307.15157)|**[link](https://github.com/saraghazanfari/r-lpips)**|
