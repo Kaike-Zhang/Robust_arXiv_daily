@@ -45,6 +45,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-04**|**AdvFAS: A robust face anti-spoofing framework against adversarial examples**|Jiawei Chen et.al.|[2308.02116](http://arxiv.org/abs/2308.02116)|null|
 |**2023-08-03**|**Hard Adversarial Example Mining for Improving Robust Fairness**|Chenhao Lin et.al.|[2308.01823](http://arxiv.org/abs/2308.01823)|null|
 |**2023-08-01**|**Training on Foveated Images Improves Robustness to Adversarial Attacks**|Muhammad A. Shah et.al.|[2308.00854](http://arxiv.org/abs/2308.00854)|null|
 |**2023-08-01**|**Dynamic ensemble selection based on Deep Neural Network Uncertainty Estimation for Adversarial Robustness**|Ruoxi Qin et.al.|[2308.00346](http://arxiv.org/abs/2308.00346)|null|
