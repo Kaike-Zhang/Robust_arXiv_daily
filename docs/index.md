@@ -38,8 +38,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-08**|**Enhancing Adversarial Robustness in Low-Label Regime via Adaptively Weighted Regularization and Knowledge Distillation**|Dongyoon Yang et.al.|[2308.04061](http://arxiv.org/abs/2308.04061)|null|
+|**2023-08-07**|**Fixed Inter-Neuron Covariability Induces Adversarial Robustness**|Muhammad Ahmed Shah et.al.|[2308.03956](http://arxiv.org/abs/2308.03956)|null|
 |**2023-08-07**|**Exploring the Physical World Adversarial Robustness of Vehicle Detection**|Wei Jiang et.al.|[2308.03476](http://arxiv.org/abs/2308.03476)|null|
-|**2023-08-01**|**Improving Generalization of Adversarial Training via Robust Critical Fine-Tuning**|Kaijie Zhu et.al.|[2308.02533](http://arxiv.org/abs/2308.02533)|null|
+|**2023-08-01**|**Improving Generalization of Adversarial Training via Robust Critical Fine-Tuning**|Kaijie Zhu et.al.|[2308.02533](http://arxiv.org/abs/2308.02533)|**[link](https://github.com/microsoft/robustlearn)**|
 |**2023-08-04**|**AdvFAS: A robust face anti-spoofing framework against adversarial examples**|Jiawei Chen et.al.|[2308.02116](http://arxiv.org/abs/2308.02116)|null|
 |**2023-08-03**|**Hard Adversarial Example Mining for Improving Robust Fairness**|Chenhao Lin et.al.|[2308.01823](http://arxiv.org/abs/2308.01823)|null|
 |**2023-08-01**|**Training on Foveated Images Improves Robustness to Adversarial Attacks**|Muhammad A. Shah et.al.|[2308.00854](http://arxiv.org/abs/2308.00854)|null|
