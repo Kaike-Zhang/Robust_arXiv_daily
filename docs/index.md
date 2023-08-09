@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.08.08
+## Updated on 2023.08.09
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -55,7 +55,7 @@ layout: default
 |**2023-07-21**|**Improving Viewpoint Robustness for Visual Recognition via Adversarial Training**|Shouwei Ruan et.al.|[2307.11528](http://arxiv.org/abs/2307.11528)|null|
 |**2023-07-16**|**Byzantine-Robust Distributed Online Learning: Taming Adversarial Participants in An Adversarial Environment**|Xingrong Dong et.al.|[2307.07980](http://arxiv.org/abs/2307.07980)|**[link](https://github.com/wanger521/ogd)**|
 |**2023-07-18**|**On the Robustness of Split Learning against Adversarial Attacks**|Mingyuan Fan et.al.|[2307.07916](http://arxiv.org/abs/2307.07916)|null|
-|**2023-07-19**|**Why Does Little Robustness Help? Understanding Adversarial Transferability From Surrogate Training**|Yechao Zhang et.al.|[2307.07873](http://arxiv.org/abs/2307.07873)|null|
+|**2023-08-08**|**Why Does Little Robustness Help? Understanding Adversarial Transferability From Surrogate Training**|Yechao Zhang et.al.|[2307.07873](http://arxiv.org/abs/2307.07873)|null|
 |**2023-07-20**|**Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation**|Asif Hanif et.al.|[2307.07269](http://arxiv.org/abs/2307.07269)|**[link](https://github.com/asif-hanif/vafa)**|
 |**2023-07-14**|**Certified Robustness for Large Language Models with Self-Denoising**|Zhen Zhang et.al.|[2307.07171](http://arxiv.org/abs/2307.07171)|null|
 |**2023-07-10**|**Enhancing Adversarial Robustness via Score-Based Optimization**|Boya Zhang et.al.|[2307.04333](http://arxiv.org/abs/2307.04333)|null|
