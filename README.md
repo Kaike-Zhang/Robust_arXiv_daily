@@ -45,6 +45,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-09**|**Adversarial ModSecurity: Countering Adversarial SQL Injections with Robust Machine Learning**|Biagio Montaruli et.al.|[2308.04964](http://arxiv.org/abs/2308.04964)|null|
+|**2023-08-09**|**Representation Learning for Audio Privacy Preservation using Source Separation and Robust Adversarial Learning**|Diep Luong et.al.|[2308.04960](http://arxiv.org/abs/2308.04960)|null|
 |**2023-08-08**|**Enhancing Adversarial Robustness in Low-Label Regime via Adaptively Weighted Regularization and Knowledge Distillation**|Dongyoon Yang et.al.|[2308.04061](http://arxiv.org/abs/2308.04061)|null|
 |**2023-08-07**|**Fixed Inter-Neuron Covariability Induces Adversarial Robustness**|Muhammad Ahmed Shah et.al.|[2308.03956](http://arxiv.org/abs/2308.03956)|null|
 |**2023-08-07**|**Exploring the Physical World Adversarial Robustness of Vehicle Detection**|Wei Jiang et.al.|[2308.03476](http://arxiv.org/abs/2308.03476)|null|
