@@ -1,4 +1,4 @@
-## Updated on 2023.08.10
+## Updated on 2023.08.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -39,7 +39,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20230810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
 
 ## Robust ML
 
@@ -58,7 +58,7 @@
 |**2023-08-01**|**Doubly Robust Instance-Reweighted Adversarial Training**|Daouda Sow et.al.|[2308.00311](http://arxiv.org/abs/2308.00311)|null|
 |**2023-07-31**|**Adversarially Robust Neural Legal Judgement Systems**|Rohit Raj et.al.|[2308.00165](http://arxiv.org/abs/2308.00165)|null|
 |**2023-07-31**|**Text-CRS: A Generalized Certified Robustness Framework against Textual Adversarial Attacks**|Xinyu Zhang et.al.|[2307.16630](http://arxiv.org/abs/2307.16630)|null|
-|**2023-07-31**|**Benchmarking and Analyzing Robust Point Cloud Recognition: Bag of Tricks for Defending Adversarial Examples**|Qiufan Ji et.al.|[2307.16361](http://arxiv.org/abs/2307.16361)|**[link](https://github.com/qiufan319/benchmark_pc_attack)**|
+|**2023-08-10**|**Benchmarking and Analyzing Robust Point Cloud Recognition: Bag of Tricks for Defending Adversarial Examples**|Qiufan Ji et.al.|[2307.16361](http://arxiv.org/abs/2307.16361)|**[link](https://github.com/qiufan319/benchmark_pc_attack)**|
 |**2023-07-31**|**R-LPIPS: An Adversarially Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2307.15157](http://arxiv.org/abs/2307.15157)|**[link](https://github.com/saraghazanfari/r-lpips)**|
 |**2023-07-24**|**Adaptive Certified Training: Towards Better Accuracy-Robustness Tradeoffs**|Zhakshylyk Nurlanov et.al.|[2307.13078](http://arxiv.org/abs/2307.13078)|null|
 |**2023-07-24**|**Lost In Translation: Generating Adversarial Examples Robust to Round-Trip Translation**|Neel Bhandari et.al.|[2307.12520](http://arxiv.org/abs/2307.12520)|**[link](https://github.com/neelbhandari6/nmt_text_attack)**|
@@ -93,7 +93,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20230810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
 
 ## Security LLM
 
@@ -116,5 +116,5 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20230810>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230811>back to top</a>)</p>
 
