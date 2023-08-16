@@ -38,6 +38,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification**|Raza Imam et.al.|[2308.07874](http://arxiv.org/abs/2308.07874)|**[link](https://github.com/razaimam45/seda)**|
+|**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847](http://arxiv.org/abs/2308.07847)|null|
 |**2023-08-12**|**On the Interplay of Convolutional Padding and Adversarial Robustness**|Paul Gavrikov et.al.|[2308.06612](http://arxiv.org/abs/2308.06612)|null|
 |**2023-08-12**|**Not So Robust After All: Evaluating the Robustness of Deep Neural Networks to Unseen Adversarial Attacks**|Roman Garaev et.al.|[2308.06467](http://arxiv.org/abs/2308.06467)|null|
 |**2023-08-10**|**Critical Points ++: An Agile Point Cloud Importance Measure for Robust Classification, Adversarial Defense and Explainable AI**|Meir Yossef Levi et.al.|[2308.05525](http://arxiv.org/abs/2308.05525)|null|
@@ -93,6 +95,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847](http://arxiv.org/abs/2308.07847)|null|
 |**2023-07-17**|**Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models**|Huachuan Qiu et.al.|[2307.08487](http://arxiv.org/abs/2307.08487)|**[link](https://github.com/qiuhuachuan/latent-jailbreak)**|
 |**2023-07-15**|**Coupling Large Language Models with Logic Programming for Robust and General Reasoning from Text**|Zhun Yang et.al.|[2307.07696](http://arxiv.org/abs/2307.07696)|**[link](https://github.com/azreasoners/llm-asp)**|
 |**2023-07-14**|**Certified Robustness for Large Language Models with Self-Denoising**|Zhen Zhang et.al.|[2307.07171](http://arxiv.org/abs/2307.07171)|null|
