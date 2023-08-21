@@ -39,6 +39,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-17**|**Causal Adversarial Perturbations for Individual Fairness and Robustness in Heterogeneous Data Spaces**|Ahmad-Reza Ehyaei et.al.|[2308.08938](http://arxiv.org/abs/2308.08938)|null|
 |**2023-08-16**|**Expressivity of Graph Neural Networks Through the Lens of Adversarial Robustness**|Francesco Campi et.al.|[2308.08173](http://arxiv.org/abs/2308.08173)|**[link](https://github.com/francesco-campi/rob-subgraphs)**|
 |**2023-08-16**|**Benchmarking Adversarial Robustness of Compressed Deep Learning Models**|Brijesh Vora et.al.|[2308.08160](http://arxiv.org/abs/2308.08160)|null|
 |**2023-08-15**|**SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification**|Raza Imam et.al.|[2308.07874](http://arxiv.org/abs/2308.07874)|**[link](https://github.com/razaimam45/seda)**|
