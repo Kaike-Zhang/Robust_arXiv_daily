@@ -1,4 +1,4 @@
-## Updated on 2023.08.22
+## Updated on 2023.08.23
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -40,7 +40,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
 
 ## Robust ML
 
@@ -50,7 +50,7 @@
 |**2023-08-21**|**On the Adversarial Robustness of Multi-Modal Foundation Models**|Christian Schlarmann et.al.|[2308.10741](http://arxiv.org/abs/2308.10741)|null|
 |**2023-08-21**|**Measuring the Effect of Causal Disentanglement on the Adversarial Robustness of Neural Network Models**|Preben M. Ness et.al.|[2308.10708](http://arxiv.org/abs/2308.10708)|null|
 |**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|null|
-|**2023-08-20**|**Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting**|Qidong Huang et.al.|[2308.10315](http://arxiv.org/abs/2308.10315)|**[link](https://github.com/shikiw/robustmae)**|
+|**2023-08-22**|**Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting**|Qidong Huang et.al.|[2308.10315](http://arxiv.org/abs/2308.10315)|**[link](https://github.com/shikiw/robustmae)**|
 |**2023-08-17**|**Causal Adversarial Perturbations for Individual Fairness and Robustness in Heterogeneous Data Spaces**|Ahmad-Reza Ehyaei et.al.|[2308.08938](http://arxiv.org/abs/2308.08938)|null|
 |**2023-08-16**|**Expressivity of Graph Neural Networks Through the Lens of Adversarial Robustness**|Francesco Campi et.al.|[2308.08173](http://arxiv.org/abs/2308.08173)|**[link](https://github.com/francesco-campi/rob-subgraphs)**|
 |**2023-08-16**|**Benchmarking Adversarial Robustness of Compressed Deep Learning Models**|Brijesh Vora et.al.|[2308.08160](http://arxiv.org/abs/2308.08160)|null|
@@ -58,7 +58,7 @@
 |**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847](http://arxiv.org/abs/2308.07847)|null|
 |**2023-08-12**|**On the Interplay of Convolutional Padding and Adversarial Robustness**|Paul Gavrikov et.al.|[2308.06612](http://arxiv.org/abs/2308.06612)|null|
 |**2023-08-12**|**Not So Robust After All: Evaluating the Robustness of Deep Neural Networks to Unseen Adversarial Attacks**|Roman Garaev et.al.|[2308.06467](http://arxiv.org/abs/2308.06467)|null|
-|**2023-08-10**|**Critical Points ++: An Agile Point Cloud Importance Measure for Robust Classification, Adversarial Defense and Explainable AI**|Meir Yossef Levi et.al.|[2308.05525](http://arxiv.org/abs/2308.05525)|**[link](https://github.com/yossilevii100/critical_points2)**|
+|**2023-08-21**|**Critical Points ++: An Agile Point Cloud Importance Measure for Robust Classification, Adversarial Defense and Explainable AI**|Meir Yossef Levi et.al.|[2308.05525](http://arxiv.org/abs/2308.05525)|**[link](https://github.com/yossilevii100/critical_points2)**|
 |**2023-08-17**|**Adversarial ModSecurity: Countering Adversarial SQL Injections with Robust Machine Learning**|Biagio Montaruli et.al.|[2308.04964](http://arxiv.org/abs/2308.04964)|null|
 |**2023-08-09**|**Representation Learning for Audio Privacy Preservation using Source Separation and Robust Adversarial Learning**|Diep Luong et.al.|[2308.04960](http://arxiv.org/abs/2308.04960)|null|
 |**2023-08-08**|**Enhancing Adversarial Robustness in Low-Label Regime via Adaptively Weighted Regularization and Knowledge Distillation**|Dongyoon Yang et.al.|[2308.04061](http://arxiv.org/abs/2308.04061)|null|
@@ -107,7 +107,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
 
 ## Security LLM
 
@@ -134,5 +134,5 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
 
