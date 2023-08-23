@@ -46,6 +46,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-22**|**Robust Lagrangian and Adversarial Policy Gradient for Robust Constrained Markov Decision Processes**|David M. Bossens et.al.|[2308.11267](http://arxiv.org/abs/2308.11267)|null|
 |**2023-08-17**|**Do you really follow me? Adversarial Instructions for Evaluating the Robustness of Large Language Models**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|null|
 |**2023-08-21**|**On the Adversarial Robustness of Multi-Modal Foundation Models**|Christian Schlarmann et.al.|[2308.10741](http://arxiv.org/abs/2308.10741)|null|
 |**2023-08-21**|**Measuring the Effect of Causal Disentanglement on the Adversarial Robustness of Neural Network Models**|Preben M. Ness et.al.|[2308.10708](http://arxiv.org/abs/2308.10708)|null|
