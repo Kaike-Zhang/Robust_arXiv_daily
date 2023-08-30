@@ -47,6 +47,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**3D Adversarial Augmentations for Robust Out-of-Domain Predictions**|Alexander Lehner et.al.|[2308.15479](http://arxiv.org/abs/2308.15479)|null|
+|**2023-08-29**|**Advancing Adversarial Robustness Through Adversarial Logit Update**|Hao Xuan et.al.|[2308.15072](http://arxiv.org/abs/2308.15072)|null|
 |**2023-08-28**|**DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing**|Jiawei Zhang et.al.|[2308.14333](http://arxiv.org/abs/2308.14333)|**[link](https://github.com/javyduck/diffsmooth)**|
 |**2023-08-22**|**Robust Lagrangian and Adversarial Policy Gradient for Robust Constrained Markov Decision Processes**|David M. Bossens et.al.|[2308.11267](http://arxiv.org/abs/2308.11267)|null|
 |**2023-08-17**|**Do you really follow me? Adversarial Instructions for Evaluating the Robustness of Large Language Models**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|null|
@@ -133,7 +135,7 @@
 |**2023-05-23**|**Probing in Context: Toward Building Robust Classifiers via Probing Large Language Models**|Afra Amini et.al.|[2305.14171](http://arxiv.org/abs/2305.14171)|null|
 |**2023-05-23**|**Robust Instruction Optimization for Large Language Models with Distribution Shifts**|Moxin Li et.al.|[2305.13954](http://arxiv.org/abs/2305.13954)|null|
 |**2023-05-18**|**Writing your own book: A method for going from closed to open book QA to improve robustness and performance of smaller LLMs**|Giorgi Kokaia et.al.|[2305.11334](http://arxiv.org/abs/2305.11334)|null|
-|**2023-05-25**|**Assessing Hidden Risks of LLMs: An Empirical Study on Robustness, Consistency, and Credibility**|Wentao Ye et.al.|[2305.10235](http://arxiv.org/abs/2305.10235)|null|
+|**2023-05-25**|**Assessing Hidden Risks of LLMs: An Empirical Study on Robustness, Consistency, and Credibility**|Wentao Ye et.al.|[2305.10235](http://arxiv.org/abs/2305.10235)|**[link](https://github.com/yyy01/llmriskeval_rcc)**|
 |**2023-06-08**|**Sensitivity and Robustness of Large Language Models to Prompt Template in Japanese Text Classification Tasks**|Chengguang Gan et.al.|[2305.08714](http://arxiv.org/abs/2305.08714)|null|
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
