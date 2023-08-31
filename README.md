@@ -1,4 +1,4 @@
-## Updated on 2023.08.30
+## Updated on 2023.08.31
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -41,7 +41,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## Robust ML
 
@@ -112,13 +112,13 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
 ## Security LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-08-28**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306](http://arxiv.org/abs/2308.14306)|null|
+|**2023-08-29**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306](http://arxiv.org/abs/2308.14306)|null|
 |**2023-08-17**|**Do you really follow me? Adversarial Instructions for Evaluating the Robustness of Large Language Models**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|null|
 |**2023-08-27**|**A Study on Robustness and Reliability of Large Language Model Code Generation**|Li Zhong et.al.|[2308.10335](http://arxiv.org/abs/2308.10335)|null|
 |**2023-08-18**|**Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis**|Oscar J. Romero et.al.|[2308.09830](http://arxiv.org/abs/2308.09830)|null|
@@ -135,10 +135,10 @@
 |**2023-05-23**|**Probing in Context: Toward Building Robust Classifiers via Probing Large Language Models**|Afra Amini et.al.|[2305.14171](http://arxiv.org/abs/2305.14171)|null|
 |**2023-05-23**|**Robust Instruction Optimization for Large Language Models with Distribution Shifts**|Moxin Li et.al.|[2305.13954](http://arxiv.org/abs/2305.13954)|null|
 |**2023-05-18**|**Writing your own book: A method for going from closed to open book QA to improve robustness and performance of smaller LLMs**|Giorgi Kokaia et.al.|[2305.11334](http://arxiv.org/abs/2305.11334)|null|
-|**2023-05-25**|**Assessing Hidden Risks of LLMs: An Empirical Study on Robustness, Consistency, and Credibility**|Wentao Ye et.al.|[2305.10235](http://arxiv.org/abs/2305.10235)|**[link](https://github.com/yyy01/llmriskeval_rcc)**|
+|**2023-08-30**|**Assessing Hidden Risks of LLMs: An Empirical Study on Robustness, Consistency, and Credibility**|Wentao Ye et.al.|[2305.10235](http://arxiv.org/abs/2305.10235)|**[link](https://github.com/yyy01/llmriskeval_rcc)**|
 |**2023-06-08**|**Sensitivity and Robustness of Large Language Models to Prompt Template in Japanese Text Classification Tasks**|Chengguang Gan et.al.|[2305.08714](http://arxiv.org/abs/2305.08714)|null|
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20230830>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230831>back to top</a>)</p>
 
