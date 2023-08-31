@@ -47,6 +47,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-29**|**Adversarial Style Transfer for Robust Policy Optimization in Deep Reinforcement Learning**|Md Masudur Rahman et.al.|[2308.15550](http://arxiv.org/abs/2308.15550)|null|
 |**2023-08-29**|**3D Adversarial Augmentations for Robust Out-of-Domain Predictions**|Alexander Lehner et.al.|[2308.15479](http://arxiv.org/abs/2308.15479)|null|
 |**2023-08-29**|**Advancing Adversarial Robustness Through Adversarial Logit Update**|Hao Xuan et.al.|[2308.15072](http://arxiv.org/abs/2308.15072)|null|
 |**2023-08-28**|**DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing**|Jiawei Zhang et.al.|[2308.14333](http://arxiv.org/abs/2308.14333)|**[link](https://github.com/javyduck/diffsmooth)**|
