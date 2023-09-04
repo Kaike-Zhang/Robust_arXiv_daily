@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.03
+## Updated on 2023.09.04
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -41,7 +41,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-08-31**|**Adversarial Finetuning with Latent Representation Constraint to Mitigate Accuracy-Robustness Tradeoff**|Satoshi Suzuki et.al.|[2308.16454](http://arxiv.org/abs/2308.16454)|null|
-|**2023-08-30**|**Robust Principles: Architectural Design Principles for Adversarially Robust CNNs**|ShengYun Peng et.al.|[2308.16258](http://arxiv.org/abs/2308.16258)|**[link](https://github.com/poloclub/robust-principles)**|
+|**2023-09-01**|**Robust Principles: Architectural Design Principles for Adversarially Robust CNNs**|ShengYun Peng et.al.|[2308.16258](http://arxiv.org/abs/2308.16258)|**[link](https://github.com/poloclub/robust-principles)**|
 |**2023-08-29**|**Adversarial Style Transfer for Robust Policy Optimization in Deep Reinforcement Learning**|Md Masudur Rahman et.al.|[2308.15550](http://arxiv.org/abs/2308.15550)|null|
 |**2023-08-29**|**3D Adversarial Augmentations for Robust Out-of-Domain Predictions**|Alexander Lehner et.al.|[2308.15479](http://arxiv.org/abs/2308.15479)|null|
 |**2023-08-29**|**Advancing Adversarial Robustness Through Adversarial Logit Update**|Hao Xuan et.al.|[2308.15072](http://arxiv.org/abs/2308.15072)|null|
