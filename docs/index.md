@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-05**|**Robust Recommender System: A Survey and Future Directions**|Kaike Zhang et.al.|[2309.02057](http://arxiv.org/abs/2309.02057)|null|
 |**2023-08-20**|**Adversarial Collaborative Filtering for Free**|Huiyuan Chen et.al.|[2308.13541](http://arxiv.org/abs/2308.13541)|null|
 |**2023-08-16**|**A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems**|Keqin Bao et.al.|[2308.08434](http://arxiv.org/abs/2308.08434)|**[link](https://github.com/sai990323/grounding4rec)**|
 |**2023-07-24**|**Investigating the Robustness of Sequential Recommender Systems Against Training Data Perturbations: an Empirical Study**|Filippo Betello et.al.|[2307.13165](http://arxiv.org/abs/2307.13165)|null|
@@ -40,6 +41,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-03**|**AdvMono3D: Advanced Monocular 3D Object Detection with Depth-Aware Robust Adversarial Training**|Xingyuan Li et.al.|[2309.01106](http://arxiv.org/abs/2309.01106)|null|
+|**2023-09-03**|**Dual Adversarial Resilience for Collaborating Robust Underwater Image Enhancement and Perception**|Zengxi Zhang et.al.|[2309.01102](http://arxiv.org/abs/2309.01102)|null|
+|**2023-09-03**|**Enhancing Infrared Small Target Detection Robustness with Bi-Level Adversarial Framework**|Zhu Liu et.al.|[2309.01099](http://arxiv.org/abs/2309.01099)|null|
+|**2023-09-03**|**Robust Adversarial Defense by Tensor Factorization**|Manish Bhattarai et.al.|[2309.01077](http://arxiv.org/abs/2309.01077)|null|
+|**2023-09-02**|**Towards Certified Probabilistic Robustness with High Accuracy**|Ruihan Zhang et.al.|[2309.00879](http://arxiv.org/abs/2309.00879)|null|
 |**2023-08-31**|**Adversarial Finetuning with Latent Representation Constraint to Mitigate Accuracy-Robustness Tradeoff**|Satoshi Suzuki et.al.|[2308.16454](http://arxiv.org/abs/2308.16454)|null|
 |**2023-09-01**|**Robust Principles: Architectural Design Principles for Adversarially Robust CNNs**|ShengYun Peng et.al.|[2308.16258](http://arxiv.org/abs/2308.16258)|**[link](https://github.com/poloclub/robust-principles)**|
 |**2023-08-29**|**Adversarial Style Transfer for Robust Policy Optimization in Deep Reinforcement Learning**|Md Masudur Rahman et.al.|[2308.15550](http://arxiv.org/abs/2308.15550)|null|
@@ -116,7 +122,7 @@ layout: default
 |**2023-08-29**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306](http://arxiv.org/abs/2308.14306)|null|
 |**2023-08-17**|**Do you really follow me? Adversarial Instructions for Evaluating the Robustness of Large Language Models**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|null|
 |**2023-08-27**|**A Study on Robustness and Reliability of Large Language Model Code Generation**|Li Zhong et.al.|[2308.10335](http://arxiv.org/abs/2308.10335)|null|
-|**2023-08-18**|**Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis**|Oscar J. Romero et.al.|[2308.09830](http://arxiv.org/abs/2308.09830)|null|
+|**2023-09-05**|**Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis**|Oscar J. Romero et.al.|[2308.09830](http://arxiv.org/abs/2308.09830)|null|
 |**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847](http://arxiv.org/abs/2308.07847)|null|
 |**2023-08-28**|**Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models**|Huachuan Qiu et.al.|[2307.08487](http://arxiv.org/abs/2307.08487)|**[link](https://github.com/qiuhuachuan/latent-jailbreak)**|
 |**2023-07-15**|**Coupling Large Language Models with Logic Programming for Robust and General Reasoning from Text**|Zhun Yang et.al.|[2307.07696](http://arxiv.org/abs/2307.07696)|**[link](https://github.com/azreasoners/llm-asp)**|
