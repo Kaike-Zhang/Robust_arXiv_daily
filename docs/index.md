@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.10
+## Updated on 2023.09.11
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -121,7 +121,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-08-31**|**Simple LLM Prompting is State-of-the-Art for Robust and Multilingual Dialogue Evaluation**|John Mendonça et.al.|[2308.16797](http://arxiv.org/abs/2308.16797)|**[link](https://github.com/johndmendonca/dialevalml)**|
+|**2023-09-08**|**Simple LLM Prompting is State-of-the-Art for Robust and Multilingual Dialogue Evaluation**|John Mendonça et.al.|[2308.16797](http://arxiv.org/abs/2308.16797)|**[link](https://github.com/johndmendonca/dialevalml)**|
 |**2023-08-29**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306](http://arxiv.org/abs/2308.14306)|null|
 |**2023-08-17**|**Do you really follow me? Adversarial Instructions for Evaluating the Robustness of Large Language Models**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|null|
 |**2023-08-27**|**A Study on Robustness and Reliability of Large Language Model Code Generation**|Li Zhong et.al.|[2308.10335](http://arxiv.org/abs/2308.10335)|null|
