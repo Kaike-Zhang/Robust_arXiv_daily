@@ -41,6 +41,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-10**|**Outlier Robust Adversarial Training**|Shu Hu et.al.|[2309.05145](http://arxiv.org/abs/2309.05145)|**[link](https://github.com/discovershu/orat)**|
+|**2023-09-09**|**Exploring Robust Features for Improving Adversarial Robustness**|Hong Wang et.al.|[2309.04650](http://arxiv.org/abs/2309.04650)|null|
 |**2023-09-08**|**ARRTOC: Adversarially Robust Real-Time Optimization and Control**|Akhil Ahmed et.al.|[2309.04386](http://arxiv.org/abs/2309.04386)|null|
 |**2023-09-07**|**Adversarially Robust Deep Learning with Optimal-Transport-Regularized Divergences**|Jeremiah Birrell et.al.|[2309.03791](http://arxiv.org/abs/2309.03791)|null|
 |**2023-09-06**|**J-Guard: Journalism Guided Adversarially Robust Detection of AI-generated News**|Tharindu Kumarage et.al.|[2309.03164](http://arxiv.org/abs/2309.03164)|null|
