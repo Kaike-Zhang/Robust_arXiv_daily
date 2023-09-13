@@ -41,6 +41,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-12**|**Certified Robust Models with Slack Control and Large Lipschitz Constants**|Max Losch et.al.|[2309.06166](http://arxiv.org/abs/2309.06166)|**[link](https://github.com/mlosch/cll)**|
+|**2023-09-11**|**Diffusion-based Adversarial Purification for Robust Deep MRI Reconstruction**|Ismail Alkhouri et.al.|[2309.05794](http://arxiv.org/abs/2309.05794)|null|
 |**2023-09-10**|**Outlier Robust Adversarial Training**|Shu Hu et.al.|[2309.05145](http://arxiv.org/abs/2309.05145)|**[link](https://github.com/discovershu/orat)**|
 |**2023-09-09**|**Exploring Robust Features for Improving Adversarial Robustness**|Hong Wang et.al.|[2309.04650](http://arxiv.org/abs/2309.04650)|null|
 |**2023-09-08**|**ARRTOC: Adversarially Robust Real-Time Optimization and Control**|Akhil Ahmed et.al.|[2309.04386](http://arxiv.org/abs/2309.04386)|null|
@@ -124,6 +126,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-03**|**Generative Data Augmentation using LLMs improves Distributional Robustness in Question Answering**|Arijit Ghosh Chowdhury et.al.|[2309.06358](http://arxiv.org/abs/2309.06358)|null|
 |**2023-09-08**|**Simple LLM Prompting is State-of-the-Art for Robust and Multilingual Dialogue Evaluation**|John Mendonça et.al.|[2308.16797](http://arxiv.org/abs/2308.16797)|**[link](https://github.com/johndmendonca/dialevalml)**|
 |**2023-08-29**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306](http://arxiv.org/abs/2308.14306)|null|
 |**2023-08-17**|**Do you really follow me? Adversarial Instructions for Evaluating the Robustness of Large Language Models**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|null|
