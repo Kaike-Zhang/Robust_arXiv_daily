@@ -1,4 +1,4 @@
-## Updated on 2023.09.14
+## Updated on 2023.09.15
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -42,14 +42,14 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20230914>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230915>back to top</a>)</p>
 
 ## Robust ML
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-09-12**|**Certified Robust Models with Slack Control and Large Lipschitz Constants**|Max Losch et.al.|[2309.06166](http://arxiv.org/abs/2309.06166)|**[link](https://github.com/mlosch/cll)**|
-|**2023-09-11**|**Diffusion-based Adversarial Purification for Robust Deep MRI Reconstruction**|Ismail Alkhouri et.al.|[2309.05794](http://arxiv.org/abs/2309.05794)|null|
+|**2023-09-11**|**Diffusion-based Adversarial Purification for Robust Deep MRI Reconstruction**|Ismail Alkhouri et.al.|[2309.05794](http://arxiv.org/abs/2309.05794)|**[link](https://github.com/sjames40/adversarial-purification-for-mri)**|
 |**2023-09-10**|**Outlier Robust Adversarial Training**|Shu Hu et.al.|[2309.05145](http://arxiv.org/abs/2309.05145)|**[link](https://github.com/discovershu/orat)**|
 |**2023-09-09**|**Exploring Robust Features for Improving Adversarial Robustness**|Hong Wang et.al.|[2309.04650](http://arxiv.org/abs/2309.04650)|null|
 |**2023-09-08**|**ARRTOC: Adversarially Robust Real-Time Optimization and Control**|Akhil Ahmed et.al.|[2309.04386](http://arxiv.org/abs/2309.04386)|null|
@@ -129,7 +129,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20230914>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230915>back to top</a>)</p>
 
 ## Security LLM
 
@@ -151,7 +151,7 @@
 |**2023-08-24**|**PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts**|Kaijie Zhu et.al.|[2306.04528](http://arxiv.org/abs/2306.04528)|**[link](https://github.com/microsoft/promptbench)**|
 |**2023-05-23**|**Are Large Language Models Robust Zero-shot Coreference Resolvers?**|Nghia T. Le et.al.|[2305.14489](http://arxiv.org/abs/2305.14489)|null|
 |**2023-06-19**|**Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding**|Zheng Chen et.al.|[2305.14449](http://arxiv.org/abs/2305.14449)|null|
-|**2023-05-23**|**Probing in Context: Toward Building Robust Classifiers via Probing Large Language Models**|Afra Amini et.al.|[2305.14171](http://arxiv.org/abs/2305.14171)|null|
+|**2023-09-14**|**Probing in Context: Toward Building Robust Classifiers via Probing Large Language Models**|Afra Amini et.al.|[2305.14171](http://arxiv.org/abs/2305.14171)|null|
 |**2023-05-23**|**Robust Instruction Optimization for Large Language Models with Distribution Shifts**|Moxin Li et.al.|[2305.13954](http://arxiv.org/abs/2305.13954)|null|
 |**2023-05-18**|**Writing your own book: A method for going from closed to open book QA to improve robustness and performance of smaller LLMs**|Giorgi Kokaia et.al.|[2305.11334](http://arxiv.org/abs/2305.11334)|null|
 |**2023-08-30**|**Assessing Hidden Risks of LLMs: An Empirical Study on Robustness, Consistency, and Credibility**|Wentao Ye et.al.|[2305.10235](http://arxiv.org/abs/2305.10235)|**[link](https://github.com/yyy01/llmriskeval_rcc)**|
@@ -159,5 +159,5 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20230914>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230915>back to top</a>)</p>
 
