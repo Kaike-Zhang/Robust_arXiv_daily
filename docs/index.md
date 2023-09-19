@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-08-30**|**Multimodal Recommender Systems in the Prediction of Disease Comorbidity**|Aashish Cheruvu et.al.|[2309.08613](http://arxiv.org/abs/2309.08613)|null|
 |**2023-09-05**|**Robust Recommender System: A Survey and Future Directions**|Kaike Zhang et.al.|[2309.02057](http://arxiv.org/abs/2309.02057)|null|
 |**2023-08-20**|**Adversarial Collaborative Filtering for Free**|Huiyuan Chen et.al.|[2308.13541](http://arxiv.org/abs/2308.13541)|null|
 |**2023-08-16**|**A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems**|Keqin Bao et.al.|[2308.08434](http://arxiv.org/abs/2308.08434)|**[link](https://github.com/sai990323/grounding4rec)**|
@@ -41,6 +42,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-18**|**Evaluating Adversarial Robustness with Expected Viable Performance**|Ryan McCoppin et.al.|[2309.09928](http://arxiv.org/abs/2309.09928)|null|
+|**2023-09-18**|**Drastic Circuit Depth Reductions with Preserved Adversarial Robustness by Approximate Encoding for Quantum Machine Learning**|Maxwell T. West et.al.|[2309.09424](http://arxiv.org/abs/2309.09424)|null|
 |**2023-09-14**|**Learning Tube-Certified Control Using Robust Contraction Metrics**|Vivek Sharma et.al.|[2309.07443](http://arxiv.org/abs/2309.07443)|**[link](https://github.com/viveksharmaaa/nnrccm)**|
 |**2023-09-12**|**Certified Robust Models with Slack Control and Large Lipschitz Constants**|Max Losch et.al.|[2309.06166](http://arxiv.org/abs/2309.06166)|**[link](https://github.com/mlosch/cll)**|
 |**2023-09-11**|**Diffusion-based Adversarial Purification for Robust Deep MRI Reconstruction**|Ismail Alkhouri et.al.|[2309.05794](http://arxiv.org/abs/2309.05794)|**[link](https://github.com/sjames40/adversarial-purification-for-mri)**|
