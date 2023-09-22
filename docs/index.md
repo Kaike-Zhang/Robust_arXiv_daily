@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.21
+## Updated on 2023.09.22
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -22,7 +22,7 @@ layout: default
 |**2023-06-22**|**Recent Developments in Recommender Systems: A Survey**|Yang Li et.al.|[2306.12680](http://arxiv.org/abs/2306.12680)|null|
 |**2023-06-11**|**Securing Visually-Aware Recommender Systems: An Adversarial Image Reconstruction and Detection Framework**|Minglei Yin et.al.|[2306.07992](http://arxiv.org/abs/2306.07992)|null|
 |**2023-06-08**|**Safe Collaborative Filtering**|Riku Togashi et.al.|[2306.05292](http://arxiv.org/abs/2306.05292)|**[link](https://github.com/riktor/safer2-recommender)**|
-|**2023-05-30**|**Robust Reinforcement Learning Objectives for Sequential Recommender Systems**|Melissa Mozifian et.al.|[2305.18820](http://arxiv.org/abs/2305.18820)|**[link](https://github.com/melfm/sasrec-ccql)**|
+|**2023-05-30**|**Robust Reinforcement Learning Objectives for Sequential Recommender Systems**|Melissa Mozifian et.al.|[2305.18820](http://arxiv.org/abs/2305.18820)|null|
 |**2023-05-27**|**Choosing the Right Weights: Balancing Value, Strategy, and Noise in Recommender Systems**|Smitha Milli et.al.|[2305.17428](http://arxiv.org/abs/2305.17428)|null|
 |**2023-06-19**|**Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding**|Zheng Chen et.al.|[2305.14449](http://arxiv.org/abs/2305.14449)|null|
 |**2023-05-23**|**Curse of "Low" Dimensionality in Recommender Systems**|Naoto Ohsaka et.al.|[2305.13597](http://arxiv.org/abs/2305.13597)|null|
@@ -131,7 +131,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-09-20**|**Are Large Language Models Really Robust to Word-Level Perturbations?**|Haoyu Wang et.al.|[2309.11166](http://arxiv.org/abs/2309.11166)|null|
+|**2023-09-20**|**Are Large Language Models Really Robust to Word-Level Perturbations?**|Haoyu Wang et.al.|[2309.11166](http://arxiv.org/abs/2309.11166)|**[link](https://github.com/Harry-mic/TREval)**|
 |**2023-09-03**|**Generative Data Augmentation using LLMs improves Distributional Robustness in Question Answering**|Arijit Ghosh Chowdhury et.al.|[2309.06358](http://arxiv.org/abs/2309.06358)|null|
 |**2023-09-08**|**Simple LLM Prompting is State-of-the-Art for Robust and Multilingual Dialogue Evaluation**|John Mendonça et.al.|[2308.16797](http://arxiv.org/abs/2308.16797)|**[link](https://github.com/johndmendonca/dialevalml)**|
 |**2023-08-29**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306](http://arxiv.org/abs/2308.14306)|null|
