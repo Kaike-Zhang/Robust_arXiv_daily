@@ -42,6 +42,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-21**|**How Robust is Google's Bard to Adversarial Image Attacks?**|Yinpeng Dong et.al.|[2309.11751](http://arxiv.org/abs/2309.11751)|**[link](https://github.com/thu-ml/attack-bard)**|
+|**2023-09-20**|**Robust fake-post detection against real-coloring adversaries**|Khushboo Agarwal et.al.|[2309.11530](http://arxiv.org/abs/2309.11530)|null|
 |**2023-09-20**|**It's Simplex! Disaggregating Measures to Improve Certified Robustness**|Andrew C. Cullen et.al.|[2309.11005](http://arxiv.org/abs/2309.11005)|null|
 |**2023-09-18**|**Evaluating Adversarial Robustness with Expected Viable Performance**|Ryan McCoppin et.al.|[2309.09928](http://arxiv.org/abs/2309.09928)|null|
 |**2023-09-18**|**Drastic Circuit Depth Reductions with Preserved Adversarial Robustness by Approximate Encoding for Quantum Machine Learning**|Maxwell T. West et.al.|[2309.09424](http://arxiv.org/abs/2309.09424)|null|
