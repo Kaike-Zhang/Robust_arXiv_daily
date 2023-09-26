@@ -1,4 +1,4 @@
-## Updated on 2023.09.25
+## Updated on 2023.09.26
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -12,7 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-09-22**|**KuaiSim: A Comprehensive Simulator for Recommender Systems**|Kesen Zhao et.al.|[2309.12645](http://arxiv.org/abs/2309.12645)|null|
+|**2023-09-22**|**KuaiSim: A Comprehensive Simulator for Recommender Systems**|Kesen Zhao et.al.|[2309.12645](http://arxiv.org/abs/2309.12645)|**[link](https://github.com/charliemat/krlbenchmark)**|
 |**2023-08-30**|**Multimodal Recommender Systems in the Prediction of Disease Comorbidity**|Aashish Cheruvu et.al.|[2309.08613](http://arxiv.org/abs/2309.08613)|null|
 |**2023-09-05**|**Robust Recommender System: A Survey and Future Directions**|Kaike Zhang et.al.|[2309.02057](http://arxiv.org/abs/2309.02057)|null|
 |**2023-08-20**|**Adversarial Collaborative Filtering for Free**|Huiyuan Chen et.al.|[2308.13541](http://arxiv.org/abs/2308.13541)|null|
@@ -44,7 +44,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
 
 ## Robust ML
 
@@ -139,7 +139,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
 
 ## Security LLM
 
@@ -170,5 +170,5 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20230925>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230926>back to top</a>)</p>
 
