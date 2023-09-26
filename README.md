@@ -50,6 +50,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-25**|**Projected Randomized Smoothing for Certified Adversarial Robustness**|Samuel Pfrommer et.al.|[2309.13794](http://arxiv.org/abs/2309.13794)|**[link](https://github.com/spfrommer/projected_randomized_smoothing)**|
+|**2023-09-23**|**RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias**|Hao Cheng et.al.|[2309.13245](http://arxiv.org/abs/2309.13245)|null|
+|**2023-09-22**|**Spatial-frequency channels, shape bias, and adversarial robustness**|Ajay Subramanian et.al.|[2309.13190](http://arxiv.org/abs/2309.13190)|null|
+|**2023-09-22**|**Pixel-wise Smoothing for Certified Robustness against Camera Motion Perturbations**|Hanjiang Hu et.al.|[2309.13150](http://arxiv.org/abs/2309.13150)|null|
 |**2023-09-22**|**VIC-KD: Variance-Invariance-Covariance Knowledge Distillation to Make Keyword Spotting More Robust Against Adversarial Attacks**|Heitor R. Guimarães et.al.|[2309.12914](http://arxiv.org/abs/2309.12914)|null|
 |**2023-09-22**|**Improving Machine Learning Robustness via Adversarial Training**|Long Dang et.al.|[2309.12593](http://arxiv.org/abs/2309.12593)|null|
 |**2023-09-21**|**How Robust is Google's Bard to Adversarial Image Attacks?**|Yinpeng Dong et.al.|[2309.11751](http://arxiv.org/abs/2309.11751)|**[link](https://github.com/thu-ml/attack-bard)**|
