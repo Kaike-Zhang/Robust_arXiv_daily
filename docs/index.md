@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-25**|**Algorithmic Collusion or Competition: the Role of Platforms' Recommender Systems**|Xingchen Xu et.al.|[2309.14548](http://arxiv.org/abs/2309.14548)|null|
 |**2023-09-22**|**KuaiSim: A Comprehensive Simulator for Recommender Systems**|Kesen Zhao et.al.|[2309.12645](http://arxiv.org/abs/2309.12645)|**[link](https://github.com/charliemat/krlbenchmark)**|
 |**2023-08-30**|**Multimodal Recommender Systems in the Prediction of Disease Comorbidity**|Aashish Cheruvu et.al.|[2309.08613](http://arxiv.org/abs/2309.08613)|null|
 |**2023-09-05**|**Robust Recommender System: A Survey and Future Directions**|Kaike Zhang et.al.|[2309.02057](http://arxiv.org/abs/2309.02057)|null|
