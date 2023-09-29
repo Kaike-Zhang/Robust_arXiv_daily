@@ -44,6 +44,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-09-28**|**Robust Offline Reinforcement Learning -- Certify the Confidence Interval**|Jiarui Yao et.al.|[2309.16631](http://arxiv.org/abs/2309.16631)|null|
+|**2023-09-28**|**On the Trade-offs between Adversarial Robustness and Actionable Explanations**|Satyapriya Krishna et.al.|[2309.16452](http://arxiv.org/abs/2309.16452)|null|
+|**2023-09-28**|**Parameter-Saving Adversarial Training: Reinforcing Multi-Perturbation Robustness via Hypernetworks**|Huihui Gong et.al.|[2309.16207](http://arxiv.org/abs/2309.16207)|null|
+|**2023-09-28**|**Adversarial Examples Might be Avoidable: The Role of Data Concentration in Adversarial Robustness**|Ambar Pal et.al.|[2309.16096](http://arxiv.org/abs/2309.16096)|null|
 |**2023-09-25**|**Projected Randomized Smoothing for Certified Adversarial Robustness**|Samuel Pfrommer et.al.|[2309.13794](http://arxiv.org/abs/2309.13794)|**[link](https://github.com/spfrommer/projected_randomized_smoothing)**|
 |**2023-09-23**|**RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias**|Hao Cheng et.al.|[2309.13245](http://arxiv.org/abs/2309.13245)|null|
 |**2023-09-22**|**Spatial-frequency channels, shape bias, and adversarial robustness**|Ajay Subramanian et.al.|[2309.13190](http://arxiv.org/abs/2309.13190)|null|
