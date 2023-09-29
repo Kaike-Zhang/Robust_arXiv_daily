@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.09.28
+## Updated on 2023.09.29
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -147,7 +147,7 @@ layout: default
 |**2023-08-29**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306](http://arxiv.org/abs/2308.14306)|null|
 |**2023-08-17**|**Do you really follow me? Adversarial Instructions for Evaluating the Robustness of Large Language Models**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|null|
 |**2023-08-27**|**A Study on Robustness and Reliability of Large Language Model Code Generation**|Li Zhong et.al.|[2308.10335](http://arxiv.org/abs/2308.10335)|null|
-|**2023-09-05**|**Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis**|Oscar J. Romero et.al.|[2308.09830](http://arxiv.org/abs/2308.09830)|null|
+|**2023-09-28**|**Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis**|Oscar J. Romero et.al.|[2308.09830](http://arxiv.org/abs/2308.09830)|null|
 |**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847](http://arxiv.org/abs/2308.07847)|null|
 |**2023-08-28**|**Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models**|Huachuan Qiu et.al.|[2307.08487](http://arxiv.org/abs/2307.08487)|**[link](https://github.com/qiuhuachuan/latent-jailbreak)**|
 |**2023-07-15**|**Coupling Large Language Models with Logic Programming for Robust and General Reasoning from Text**|Zhun Yang et.al.|[2307.07696](http://arxiv.org/abs/2307.07696)|**[link](https://github.com/azreasoners/llm-asp)**|
