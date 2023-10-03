@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.02
+## Updated on 2023.10.03
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -150,7 +150,7 @@ layout: default
 |**2023-09-03**|**Generative Data Augmentation using LLMs improves Distributional Robustness in Question Answering**|Arijit Ghosh Chowdhury et.al.|[2309.06358](http://arxiv.org/abs/2309.06358)|null|
 |**2023-09-08**|**Simple LLM Prompting is State-of-the-Art for Robust and Multilingual Dialogue Evaluation**|John Mendonça et.al.|[2308.16797](http://arxiv.org/abs/2308.16797)|**[link](https://github.com/johndmendonca/dialevalml)**|
 |**2023-08-29**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306](http://arxiv.org/abs/2308.14306)|null|
-|**2023-08-17**|**Do you really follow me? Adversarial Instructions for Evaluating the Robustness of Large Language Models**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|null|
+|**2023-09-30**|**Evaluating the Instruction-Following Robustness of Large Language Models to Prompt Injection**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|null|
 |**2023-08-27**|**A Study on Robustness and Reliability of Large Language Model Code Generation**|Li Zhong et.al.|[2308.10335](http://arxiv.org/abs/2308.10335)|null|
 |**2023-09-28**|**Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis**|Oscar J. Romero et.al.|[2308.09830](http://arxiv.org/abs/2308.09830)|null|
 |**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847](http://arxiv.org/abs/2308.07847)|null|
