@@ -51,6 +51,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-01**|**Counterfactual Image Generation for adversarially robust and interpretable Classifiers**|Rafael Bischof et.al.|[2310.00761](http://arxiv.org/abs/2310.00761)|null|
+|**2023-10-01**|**A Survey of Robustness and Safety of 2D and 3D Deep Learning Models Against Adversarial Attacks**|Yanjie Li et.al.|[2310.00633](http://arxiv.org/abs/2310.00633)|null|
+|**2023-10-01**|**On the Onset of Robust Overfitting in Adversarial Training**|Chaojian Yu et.al.|[2310.00607](http://arxiv.org/abs/2310.00607)|null|
+|**2023-10-01**|**Understanding the Robustness of Randomized Feature Defense Against Query-Based Adversarial Attacks**|Quang H. Nguyen et.al.|[2310.00567](http://arxiv.org/abs/2310.00567)|null|
+|**2023-09-29**|**Certified Robustness via Dynamic Margin Maximization and Improved Lipschitz Regularization**|Mahyar Fazlyab et.al.|[2310.00116](http://arxiv.org/abs/2310.00116)|null|
 |**2023-10-03**|**Robust Offline Reinforcement Learning -- Certify the Confidence Interval**|Jiarui Yao et.al.|[2309.16631](http://arxiv.org/abs/2309.16631)|null|
 |**2023-09-28**|**On the Trade-offs between Adversarial Robustness and Actionable Explanations**|Satyapriya Krishna et.al.|[2309.16452](http://arxiv.org/abs/2309.16452)|null|
 |**2023-09-28**|**Parameter-Saving Adversarial Training: Reinforcing Multi-Perturbation Robustness via Hypernetworks**|Huihui Gong et.al.|[2309.16207](http://arxiv.org/abs/2309.16207)|null|
