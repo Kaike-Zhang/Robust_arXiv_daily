@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-03**|**Beyond-Accuracy: A Review on Diversity, Serendipity and Fairness in Recommender Systems Based on Graph Neural Networks**|Tomislav Duricic et.al.|[2310.02294](http://arxiv.org/abs/2310.02294)|null|
 |**2023-09-25**|**Algorithmic Collusion or Competition: the Role of Platforms' Recommender Systems**|Xingchen Xu et.al.|[2309.14548](http://arxiv.org/abs/2309.14548)|null|
 |**2023-09-22**|**KuaiSim: A Comprehensive Simulator for Recommender Systems**|Kesen Zhao et.al.|[2309.12645](http://arxiv.org/abs/2309.12645)|**[link](https://github.com/charliemat/krlbenchmark)**|
 |**2023-08-30**|**Multimodal Recommender Systems in the Prediction of Disease Comorbidity**|Aashish Cheruvu et.al.|[2309.08613](http://arxiv.org/abs/2309.08613)|null|
@@ -44,6 +45,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-04**|**A Recipe for Improved Certifiable Robustness: Capacity and Data**|Kai Hu et.al.|[2310.02513](http://arxiv.org/abs/2310.02513)|**[link](https://github.com/hukkai/liresnet)**|
 |**2023-10-01**|**Counterfactual Image Generation for adversarially robust and interpretable Classifiers**|Rafael Bischof et.al.|[2310.00761](http://arxiv.org/abs/2310.00761)|null|
 |**2023-10-01**|**A Survey of Robustness and Safety of 2D and 3D Deep Learning Models Against Adversarial Attacks**|Yanjie Li et.al.|[2310.00633](http://arxiv.org/abs/2310.00633)|null|
 |**2023-10-01**|**On the Onset of Robust Overfitting in Adversarial Training**|Chaojian Yu et.al.|[2310.00607](http://arxiv.org/abs/2310.00607)|null|
