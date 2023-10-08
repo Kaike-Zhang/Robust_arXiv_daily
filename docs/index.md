@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.07
+## Updated on 2023.10.08
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -47,7 +47,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-10-05**|**When a random tape is not enough: lower bounds for a problem in adversarially robust streaming**|Amit Chakrabarti et.al.|[2310.03634](http://arxiv.org/abs/2310.03634)|null|
 |**2023-10-05**|**An Integrated Algorithm for Robust and Imperceptible Audio Adversarial Examples**|Armin Ettenhofer et.al.|[2310.03349](http://arxiv.org/abs/2310.03349)|null|
-|**2023-10-05**|**Certifiably Robust Graph Contrastive Learning**|Minhua Lin et.al.|[2310.03312](http://arxiv.org/abs/2310.03312)|null|
+|**2023-10-05**|**Certifiably Robust Graph Contrastive Learning**|Minhua Lin et.al.|[2310.03312](http://arxiv.org/abs/2310.03312)|**[link](https://github.com/ventr1c/res-gcl)**|
 |**2023-10-05**|**Burning the Adversarial Bridges: Robust Windows Malware Detection Against Binary-level Mutations**|Ahmed Abusnaina et.al.|[2310.03285](http://arxiv.org/abs/2310.03285)|null|
 |**2023-10-04**|**A Recipe for Improved Certifiable Robustness: Capacity and Data**|Kai Hu et.al.|[2310.02513](http://arxiv.org/abs/2310.02513)|**[link](https://github.com/hukkai/liresnet)**|
 |**2023-10-01**|**Counterfactual Image Generation for adversarially robust and interpretable Classifiers**|Rafael Bischof et.al.|[2310.00761](http://arxiv.org/abs/2310.00761)|null|
