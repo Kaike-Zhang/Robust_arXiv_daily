@@ -52,6 +52,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-06**|**Assessing Robustness via Score-Based Adversarial Image Generation**|Marcel Kollovieh et.al.|[2310.04285](http://arxiv.org/abs/2310.04285)|null|
 |**2023-10-05**|**When a random tape is not enough: lower bounds for a problem in adversarially robust streaming**|Amit Chakrabarti et.al.|[2310.03634](http://arxiv.org/abs/2310.03634)|null|
 |**2023-10-05**|**An Integrated Algorithm for Robust and Imperceptible Audio Adversarial Examples**|Armin Ettenhofer et.al.|[2310.03349](http://arxiv.org/abs/2310.03349)|null|
 |**2023-10-05**|**Certifiably Robust Graph Contrastive Learning**|Minhua Lin et.al.|[2310.03312](http://arxiv.org/abs/2310.03312)|**[link](https://github.com/ventr1c/res-gcl)**|
@@ -169,6 +170,7 @@
 |**2023-10-03**|**Intuitive or Dependent? Investigating LLMs' Robustness to Conflicting Prompts**|Jiahao Ying et.al.|[2309.17415](http://arxiv.org/abs/2309.17415)|null|
 |**2023-09-27**|**Are Large Language Models Really Robust to Word-Level Perturbations?**|Haoyu Wang et.al.|[2309.11166](http://arxiv.org/abs/2309.11166)|**[link](https://github.com/harry-mic/treval)**|
 |**2023-09-03**|**Generative Data Augmentation using LLMs improves Distributional Robustness in Question Answering**|Arijit Ghosh Chowdhury et.al.|[2309.06358](http://arxiv.org/abs/2309.06358)|null|
+|**2023-10-06**|**Large Language Models Are Not Robust Multiple Choice Selectors**|Chujie Zheng et.al.|[2309.03882](http://arxiv.org/abs/2309.03882)|null|
 |**2023-09-08**|**Simple LLM Prompting is State-of-the-Art for Robust and Multilingual Dialogue Evaluation**|John Mendonça et.al.|[2308.16797](http://arxiv.org/abs/2308.16797)|**[link](https://github.com/johndmendonca/dialevalml)**|
 |**2023-08-29**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306](http://arxiv.org/abs/2308.14306)|null|
 |**2023-09-30**|**Evaluating the Instruction-Following Robustness of Large Language Models to Prompt Injection**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|**[link](https://github.com/leezekun/adv-instruct-eval)**|
