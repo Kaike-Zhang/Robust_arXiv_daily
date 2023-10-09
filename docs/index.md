@@ -91,7 +91,7 @@ layout: default
 |**2023-08-29**|**Advancing Adversarial Robustness Through Adversarial Logit Update**|Hao Xuan et.al.|[2308.15072](http://arxiv.org/abs/2308.15072)|null|
 |**2023-08-28**|**DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing**|Jiawei Zhang et.al.|[2308.14333](http://arxiv.org/abs/2308.14333)|**[link](https://github.com/javyduck/diffsmooth)**|
 |**2023-08-22**|**Robust Lagrangian and Adversarial Policy Gradient for Robust Constrained Markov Decision Processes**|David M. Bossens et.al.|[2308.11267](http://arxiv.org/abs/2308.11267)|null|
-|**2023-08-17**|**Do you really follow me? Adversarial Instructions for Evaluating the Robustness of Large Language Models**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|null|
+|**2023-08-17**|**Do you really follow me? Adversarial Instructions for Evaluating the Robustness of Large Language Models**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|**[link](https://github.com/leezekun/adv-instruct-eval)**|
 |**2023-08-21**|**On the Adversarial Robustness of Multi-Modal Foundation Models**|Christian Schlarmann et.al.|[2308.10741](http://arxiv.org/abs/2308.10741)|null|
 |**2023-08-21**|**Measuring the Effect of Causal Disentanglement on the Adversarial Robustness of Neural Network Models**|Preben M. Ness et.al.|[2308.10708](http://arxiv.org/abs/2308.10708)|null|
 |**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|null|
@@ -101,7 +101,7 @@ layout: default
 |**2023-08-16**|**Benchmarking Adversarial Robustness of Compressed Deep Learning Models**|Brijesh Vora et.al.|[2308.08160](http://arxiv.org/abs/2308.08160)|null|
 |**2023-08-15**|**SEDA: Self-Ensembling ViT with Defensive Distillation and Adversarial Training for robust Chest X-rays Classification**|Raza Imam et.al.|[2308.07874](http://arxiv.org/abs/2308.07874)|**[link](https://github.com/razaimam45/seda)**|
 |**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847](http://arxiv.org/abs/2308.07847)|null|
-|**2023-08-12**|**On the Interplay of Convolutional Padding and Adversarial Robustness**|Paul Gavrikov et.al.|[2308.06612](http://arxiv.org/abs/2308.06612)|null|
+|**2023-08-12**|**On the Interplay of Convolutional Padding and Adversarial Robustness**|Paul Gavrikov et.al.|[2308.06612](http://arxiv.org/abs/2308.06612)|**[link](https://github.com/paulgavrikov/padding_robustness)**|
 |**2023-08-12**|**Not So Robust After All: Evaluating the Robustness of Deep Neural Networks to Unseen Adversarial Attacks**|Roman Garaev et.al.|[2308.06467](http://arxiv.org/abs/2308.06467)|null|
 |**2023-08-21**|**Critical Points ++: An Agile Point Cloud Importance Measure for Robust Classification, Adversarial Defense and Explainable AI**|Meir Yossef Levi et.al.|[2308.05525](http://arxiv.org/abs/2308.05525)|**[link](https://github.com/yossilevii100/critical_points2)**|
 |**2023-08-17**|**Adversarial ModSecurity: Countering Adversarial SQL Injections with Robust Machine Learning**|Biagio Montaruli et.al.|[2308.04964](http://arxiv.org/abs/2308.04964)|null|
@@ -128,7 +128,7 @@ layout: default
 |**2023-08-08**|**Why Does Little Robustness Help? Understanding Adversarial Transferability From Surrogate Training**|Yechao Zhang et.al.|[2307.07873](http://arxiv.org/abs/2307.07873)|null|
 |**2023-07-20**|**Frequency Domain Adversarial Training for Robust Volumetric Medical Segmentation**|Asif Hanif et.al.|[2307.07269](http://arxiv.org/abs/2307.07269)|**[link](https://github.com/asif-hanif/vafa)**|
 |**2023-07-14**|**Certified Robustness for Large Language Models with Self-Denoising**|Zhen Zhang et.al.|[2307.07171](http://arxiv.org/abs/2307.07171)|null|
-|**2023-07-10**|**Enhancing Adversarial Robustness via Score-Based Optimization**|Boya Zhang et.al.|[2307.04333](http://arxiv.org/abs/2307.04333)|null|
+|**2023-07-10**|**Enhancing Adversarial Robustness via Score-Based Optimization**|Boya Zhang et.al.|[2307.04333](http://arxiv.org/abs/2307.04333)|**[link](https://github.com/zzzhangboya/scoreopt)**|
 |**2023-07-07**|**RADAR: Robust AI-Text Detection via Adversarial Learning**|Xiaomeng Hu et.al.|[2307.03838](http://arxiv.org/abs/2307.03838)|null|
 |**2023-07-07**|**A Theoretical Perspective on Subnetwork Contributions to Adversarial Robustness**|Jovon Craig et.al.|[2307.03803](http://arxiv.org/abs/2307.03803)|null|
 |**2023-07-04**|**Interpretable Computer Vision Models through Adversarial Training: Unveiling the Robustness-Interpretability Connection**|Delyan Boychev et.al.|[2307.02500](http://arxiv.org/abs/2307.02500)|**[link](https://github.com/delyan-boychev/pytorch_trainers_interpretability)**|
