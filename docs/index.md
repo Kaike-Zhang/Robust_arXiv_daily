@@ -45,6 +45,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-07**|**Tight Certified Robustness via Min-Max Representations of ReLU Neural Networks**|Brendon G. Anderson et.al.|[2310.04916](http://arxiv.org/abs/2310.04916)|null|
+|**2023-10-07**|**Robustness-enhanced Uplift Modeling with Adversarial Feature Desensitization**|Zexu Sun et.al.|[2310.04693](http://arxiv.org/abs/2310.04693)|null|
+|**2023-10-06**|**Generating Less Certain Adversarial Examples Improves Robust Generalization**|Minxing Zhang et.al.|[2310.04539](http://arxiv.org/abs/2310.04539)|null|
 |**2023-10-06**|**Assessing Robustness via Score-Based Adversarial Image Generation**|Marcel Kollovieh et.al.|[2310.04285](http://arxiv.org/abs/2310.04285)|null|
 |**2023-10-05**|**When a random tape is not enough: lower bounds for a problem in adversarially robust streaming**|Amit Chakrabarti et.al.|[2310.03634](http://arxiv.org/abs/2310.03634)|null|
 |**2023-10-05**|**An Integrated Algorithm for Robust and Imperceptible Audio Adversarial Examples**|Armin Ettenhofer et.al.|[2310.03349](http://arxiv.org/abs/2310.03349)|null|
