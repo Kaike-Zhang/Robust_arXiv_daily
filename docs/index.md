@@ -45,9 +45,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**A Geometrical Approach to Evaluate the Adversarial Robustness of Deep Neural Networks**|Yang Wang et.al.|[2310.06468](http://arxiv.org/abs/2310.06468)|null|
+|**2023-10-10**|**Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach**|Kai Zhao et.al.|[2310.06396](http://arxiv.org/abs/2310.06396)|**[link](https://github.com/zknus/neurips-2023-hang-robustness)**|
+|**2023-10-10**|**Adversarial Masked Image Inpainting for Robust Detection of Mpox and Non-Mpox**|Yubiao Yue et.al.|[2310.06318](http://arxiv.org/abs/2310.06318)|null|
+|**2023-10-09**|**PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust Generalization**|Jiancong Xiao et.al.|[2310.06182](http://arxiv.org/abs/2310.06182)|null|
 |**2023-10-07**|**Tight Certified Robustness via Min-Max Representations of ReLU Neural Networks**|Brendon G. Anderson et.al.|[2310.04916](http://arxiv.org/abs/2310.04916)|null|
 |**2023-10-10**|**Robustness-enhanced Uplift Modeling with Adversarial Feature Desensitization**|Zexu Sun et.al.|[2310.04693](http://arxiv.org/abs/2310.04693)|null|
-|**2023-10-06**|**Generating Less Certain Adversarial Examples Improves Robust Generalization**|Minxing Zhang et.al.|[2310.04539](http://arxiv.org/abs/2310.04539)|null|
+|**2023-10-06**|**Generating Less Certain Adversarial Examples Improves Robust Generalization**|Minxing Zhang et.al.|[2310.04539](http://arxiv.org/abs/2310.04539)|**[link](https://github.com/trustmlrg/edac)**|
 |**2023-10-06**|**Assessing Robustness via Score-Based Adversarial Image Generation**|Marcel Kollovieh et.al.|[2310.04285](http://arxiv.org/abs/2310.04285)|null|
 |**2023-10-05**|**When a random tape is not enough: lower bounds for a problem in adversarially robust streaming**|Amit Chakrabarti et.al.|[2310.03634](http://arxiv.org/abs/2310.03634)|null|
 |**2023-10-05**|**An Integrated Algorithm for Robust and Imperceptible Audio Adversarial Examples**|Armin Ettenhofer et.al.|[2310.03349](http://arxiv.org/abs/2310.03349)|null|
@@ -160,6 +164,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-10**|**Revisit Input Perturbation Problems for LLMs: A Unified Robustness Evaluation Framework for Noisy Slot Filling Task**|Guanting Dong et.al.|[2310.06504](http://arxiv.org/abs/2310.06504)|**[link](https://github.com/dongguanting/noise-slot-filling-llm)**|
+|**2023-10-10**|**A Semantic Invariant Robust Watermark for Large Language Models**|Aiwei Liu et.al.|[2310.06356](http://arxiv.org/abs/2310.06356)|null|
 |**2023-10-05**|**A Formalism and Approach for Improving Robustness of Large Language Models Using Risk-Adjusted Confidence Scores**|Ke Shen et.al.|[2310.03283](http://arxiv.org/abs/2310.03283)|null|
 |**2023-10-03**|**Intuitive or Dependent? Investigating LLMs' Robustness to Conflicting Prompts**|Jiahao Ying et.al.|[2309.17415](http://arxiv.org/abs/2309.17415)|null|
 |**2023-09-27**|**Are Large Language Models Really Robust to Word-Level Perturbations?**|Haoyu Wang et.al.|[2309.11166](http://arxiv.org/abs/2309.11166)|**[link](https://github.com/harry-mic/treval)**|
