@@ -1,4 +1,4 @@
-## Updated on 2023.10.10
+## Updated on 2023.10.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -46,14 +46,14 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
 ## Robust ML
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2023-10-07**|**Tight Certified Robustness via Min-Max Representations of ReLU Neural Networks**|Brendon G. Anderson et.al.|[2310.04916](http://arxiv.org/abs/2310.04916)|null|
-|**2023-10-07**|**Robustness-enhanced Uplift Modeling with Adversarial Feature Desensitization**|Zexu Sun et.al.|[2310.04693](http://arxiv.org/abs/2310.04693)|null|
+|**2023-10-10**|**Robustness-enhanced Uplift Modeling with Adversarial Feature Desensitization**|Zexu Sun et.al.|[2310.04693](http://arxiv.org/abs/2310.04693)|null|
 |**2023-10-06**|**Generating Less Certain Adversarial Examples Improves Robust Generalization**|Minxing Zhang et.al.|[2310.04539](http://arxiv.org/abs/2310.04539)|null|
 |**2023-10-06**|**Assessing Robustness via Score-Based Adversarial Image Generation**|Marcel Kollovieh et.al.|[2310.04285](http://arxiv.org/abs/2310.04285)|null|
 |**2023-10-05**|**When a random tape is not enough: lower bounds for a problem in adversarially robust streaming**|Amit Chakrabarti et.al.|[2310.03634](http://arxiv.org/abs/2310.03634)|null|
@@ -163,7 +163,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
 ## Security LLM
 
@@ -182,7 +182,7 @@
 |**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847](http://arxiv.org/abs/2308.07847)|null|
 |**2023-08-28**|**Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models**|Huachuan Qiu et.al.|[2307.08487](http://arxiv.org/abs/2307.08487)|**[link](https://github.com/qiuhuachuan/latent-jailbreak)**|
 |**2023-07-15**|**Coupling Large Language Models with Logic Programming for Robust and General Reasoning from Text**|Zhun Yang et.al.|[2307.07696](http://arxiv.org/abs/2307.07696)|**[link](https://github.com/azreasoners/llm-asp)**|
-|**2023-07-14**|**Certified Robustness for Large Language Models with Self-Denoising**|Zhen Zhang et.al.|[2307.07171](http://arxiv.org/abs/2307.07171)|null|
+|**2023-07-14**|**Certified Robustness for Large Language Models with Self-Denoising**|Zhen Zhang et.al.|[2307.07171](http://arxiv.org/abs/2307.07171)|**[link](https://github.com/ucsb-nlp-chang/selfdenoise)**|
 |**2023-06-26**|**Exploring the Robustness of Large Language Models for Solving Programming Problems**|Atsushi Shirafuji et.al.|[2306.14583](http://arxiv.org/abs/2306.14583)|null|
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-07**|**Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations**|Lifan Yuan et.al.|[2306.04618](http://arxiv.org/abs/2306.04618)|**[link](https://github.com/lifan-yuan/ood_nlp)**|
@@ -197,5 +197,5 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20231010>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231011>back to top</a>)</p>
 
