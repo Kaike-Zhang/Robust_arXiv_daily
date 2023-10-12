@@ -45,6 +45,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-11**|**Robust Safe Reinforcement Learning under Adversarial Disturbances**|Zeyang Li et.al.|[2310.07207](http://arxiv.org/abs/2310.07207)|null|
+|**2023-10-10**|**Investigating the Adversarial Robustness of Density Estimation Using the Probability Flow ODE**|Marius Arvinte et.al.|[2310.07084](http://arxiv.org/abs/2310.07084)|null|
+|**2023-10-10**|**Comparing the robustness of modern no-reference image- and video-quality metrics to adversarial attacks**|Anastasia Antsiferova et.al.|[2310.06958](http://arxiv.org/abs/2310.06958)|**[link](https://github.com/msu-video-group/msu_metrics_robustness_benchmark)**|
 |**2023-10-10**|**A Geometrical Approach to Evaluate the Adversarial Robustness of Deep Neural Networks**|Yang Wang et.al.|[2310.06468](http://arxiv.org/abs/2310.06468)|null|
 |**2023-10-10**|**Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach**|Kai Zhao et.al.|[2310.06396](http://arxiv.org/abs/2310.06396)|**[link](https://github.com/zknus/neurips-2023-hang-robustness)**|
 |**2023-10-10**|**Adversarial Masked Image Inpainting for Robust Detection of Mpox and Non-Mpox**|Yubiao Yue et.al.|[2310.06318](http://arxiv.org/abs/2310.06318)|null|
