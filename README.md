@@ -52,6 +52,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Quantifying Assistive Robustness Via the Natural-Adversarial Frontier**|Jerry Zhi-Yang He et.al.|[2310.10610](http://arxiv.org/abs/2310.10610)|null|
+|**2023-10-15**|**Towards Deep Learning Models Resistant to Transfer-based Adversarial Attacks via Data-centric Robust Learning**|Yulong Yang et.al.|[2310.09891](http://arxiv.org/abs/2310.09891)|null|
+|**2023-10-13**|**Is Certifying $\ell_p$ Robustness Still Worthwhile?**|Ravi Mangal et.al.|[2310.09361](http://arxiv.org/abs/2310.09361)|null|
 |**2023-10-11**|**Robust Safe Reinforcement Learning under Adversarial Disturbances**|Zeyang Li et.al.|[2310.07207](http://arxiv.org/abs/2310.07207)|null|
 |**2023-10-10**|**Investigating the Adversarial Robustness of Density Estimation Using the Probability Flow ODE**|Marius Arvinte et.al.|[2310.07084](http://arxiv.org/abs/2310.07084)|null|
 |**2023-10-10**|**Comparing the robustness of modern no-reference image- and video-quality metrics to adversarial attacks**|Anastasia Antsiferova et.al.|[2310.06958](http://arxiv.org/abs/2310.06958)|**[link](https://github.com/msu-video-group/msu_metrics_robustness_benchmark)**|
@@ -176,6 +179,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-14**|**ASSERT: Automated Safety Scenario Red Teaming for Evaluating the Robustness of Large Language Models**|Alex Mei et.al.|[2310.09624](http://arxiv.org/abs/2310.09624)|**[link](https://github.com/alexmeigz/assert)**|
 |**2023-10-10**|**Revisit Input Perturbation Problems for LLMs: A Unified Robustness Evaluation Framework for Noisy Slot Filling Task**|Guanting Dong et.al.|[2310.06504](http://arxiv.org/abs/2310.06504)|**[link](https://github.com/dongguanting/noise-slot-filling-llm)**|
 |**2023-10-10**|**A Semantic Invariant Robust Watermark for Large Language Models**|Aiwei Liu et.al.|[2310.06356](http://arxiv.org/abs/2310.06356)|null|
 |**2023-10-05**|**A Formalism and Approach for Improving Robustness of Large Language Models Using Risk-Adjusted Confidence Scores**|Ke Shen et.al.|[2310.03283](http://arxiv.org/abs/2310.03283)|null|
