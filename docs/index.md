@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.16
+## Updated on 2023.10.17
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -177,7 +177,7 @@ layout: default
 |**2023-09-08**|**Simple LLM Prompting is State-of-the-Art for Robust and Multilingual Dialogue Evaluation**|John Mendonça et.al.|[2308.16797](http://arxiv.org/abs/2308.16797)|**[link](https://github.com/johndmendonca/dialevalml)**|
 |**2023-08-29**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306](http://arxiv.org/abs/2308.14306)|null|
 |**2023-09-30**|**Evaluating the Instruction-Following Robustness of Large Language Models to Prompt Injection**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|**[link](https://github.com/leezekun/adv-instruct-eval)**|
-|**2023-08-27**|**A Study on Robustness and Reliability of Large Language Model Code Generation**|Li Zhong et.al.|[2308.10335](http://arxiv.org/abs/2308.10335)|null|
+|**2023-10-15**|**A Study on Robustness and Reliability of Large Language Model Code Generation**|Li Zhong et.al.|[2308.10335](http://arxiv.org/abs/2308.10335)|null|
 |**2023-09-28**|**Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis**|Oscar J. Romero et.al.|[2308.09830](http://arxiv.org/abs/2308.09830)|null|
 |**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847](http://arxiv.org/abs/2308.07847)|null|
 |**2023-08-28**|**Latent Jailbreak: A Benchmark for Evaluating Text Safety and Output Robustness of Large Language Models**|Huachuan Qiu et.al.|[2307.08487](http://arxiv.org/abs/2307.08487)|**[link](https://github.com/qiuhuachuan/latent-jailbreak)**|
