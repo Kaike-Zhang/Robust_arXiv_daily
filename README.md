@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Robust Collaborative Filtering to Popularity Distribution Shift**|An Zhang et.al.|[2310.10696](http://arxiv.org/abs/2310.10696)|**[link](https://github.com/anzhang314/popgo)**|
 |**2023-10-03**|**Beyond-Accuracy: A Review on Diversity, Serendipity and Fairness in Recommender Systems Based on Graph Neural Networks**|Tomislav Duricic et.al.|[2310.02294](http://arxiv.org/abs/2310.02294)|null|
 |**2023-09-25**|**Algorithmic Collusion or Competition: the Role of Platforms' Recommender Systems**|Xingchen Xu et.al.|[2309.14548](http://arxiv.org/abs/2309.14548)|null|
 |**2023-09-22**|**KuaiSim: A Comprehensive Simulator for Recommender Systems**|Kesen Zhao et.al.|[2309.12645](http://arxiv.org/abs/2309.12645)|**[link](https://github.com/charliemat/krlbenchmark)**|
@@ -52,6 +53,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Robust Multi-Agent Reinforcement Learning via Adversarial Regularization: Theoretical Foundation and Stable Algorithms**|Alexander Bukharin et.al.|[2310.10810](http://arxiv.org/abs/2310.10810)|**[link](https://github.com/abukharin3/ernie)**|
 |**2023-10-16**|**Quantifying Assistive Robustness Via the Natural-Adversarial Frontier**|Jerry Zhi-Yang He et.al.|[2310.10610](http://arxiv.org/abs/2310.10610)|null|
 |**2023-10-15**|**Towards Deep Learning Models Resistant to Transfer-based Adversarial Attacks via Data-centric Robust Learning**|Yulong Yang et.al.|[2310.09891](http://arxiv.org/abs/2310.09891)|null|
 |**2023-10-13**|**Is Certifying $\ell_p$ Robustness Still Worthwhile?**|Ravi Mangal et.al.|[2310.09361](http://arxiv.org/abs/2310.09361)|null|
@@ -179,6 +181,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-16**|**Fake News in Sheep's Clothing: Robust Fake News Detection Against LLM-Empowered Style Attacks**|Jiaying Wu et.al.|[2310.10830](http://arxiv.org/abs/2310.10830)|null|
 |**2023-10-14**|**ASSERT: Automated Safety Scenario Red Teaming for Evaluating the Robustness of Large Language Models**|Alex Mei et.al.|[2310.09624](http://arxiv.org/abs/2310.09624)|**[link](https://github.com/alexmeigz/assert)**|
 |**2023-10-10**|**Revisit Input Perturbation Problems for LLMs: A Unified Robustness Evaluation Framework for Noisy Slot Filling Task**|Guanting Dong et.al.|[2310.06504](http://arxiv.org/abs/2310.06504)|**[link](https://github.com/dongguanting/noise-slot-filling-llm)**|
 |**2023-10-10**|**A Semantic Invariant Robust Watermark for Large Language Models**|Aiwei Liu et.al.|[2310.06356](http://arxiv.org/abs/2310.06356)|null|
