@@ -53,6 +53,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**Adversarial Robustness Unhardening via Backdoor Attacks in Federated Learning**|Taejin Kim et.al.|[2310.11594](http://arxiv.org/abs/2310.11594)|null|
 |**2023-10-16**|**Robust Multi-Agent Reinforcement Learning via Adversarial Regularization: Theoretical Foundation and Stable Algorithms**|Alexander Bukharin et.al.|[2310.10810](http://arxiv.org/abs/2310.10810)|**[link](https://github.com/abukharin3/ernie)**|
 |**2023-10-16**|**Quantifying Assistive Robustness Via the Natural-Adversarial Frontier**|Jerry Zhi-Yang He et.al.|[2310.10610](http://arxiv.org/abs/2310.10610)|null|
 |**2023-10-15**|**Towards Deep Learning Models Resistant to Transfer-based Adversarial Attacks via Data-centric Robust Learning**|Yulong Yang et.al.|[2310.09891](http://arxiv.org/abs/2310.09891)|null|
