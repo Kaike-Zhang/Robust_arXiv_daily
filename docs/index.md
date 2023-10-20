@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.19
+## Updated on 2023.10.20
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,7 +10,7 @@ layout: default
 |**2023-10-16**|**Robust Collaborative Filtering to Popularity Distribution Shift**|An Zhang et.al.|[2310.10696](http://arxiv.org/abs/2310.10696)|**[link](https://github.com/anzhang314/popgo)**|
 |**2023-10-03**|**Beyond-Accuracy: A Review on Diversity, Serendipity and Fairness in Recommender Systems Based on Graph Neural Networks**|Tomislav Duricic et.al.|[2310.02294](http://arxiv.org/abs/2310.02294)|null|
 |**2023-09-25**|**Algorithmic Collusion or Competition: the Role of Platforms' Recommender Systems**|Xingchen Xu et.al.|[2309.14548](http://arxiv.org/abs/2309.14548)|null|
-|**2023-09-22**|**KuaiSim: A Comprehensive Simulator for Recommender Systems**|Kesen Zhao et.al.|[2309.12645](http://arxiv.org/abs/2309.12645)|**[link](https://github.com/charliemat/krlbenchmark)**|
+|**2023-10-19**|**KuaiSim: A Comprehensive Simulator for Recommender Systems**|Kesen Zhao et.al.|[2309.12645](http://arxiv.org/abs/2309.12645)|**[link](https://github.com/charliemat/krlbenchmark)**|
 |**2023-08-30**|**Multimodal Recommender Systems in the Prediction of Disease Comorbidity**|Aashish Cheruvu et.al.|[2309.08613](http://arxiv.org/abs/2309.08613)|null|
 |**2023-09-05**|**Robust Recommender System: A Survey and Future Directions**|Kaike Zhang et.al.|[2309.02057](http://arxiv.org/abs/2309.02057)|null|
 |**2023-08-20**|**Adversarial Collaborative Filtering for Free**|Huiyuan Chen et.al.|[2308.13541](http://arxiv.org/abs/2308.13541)|null|
