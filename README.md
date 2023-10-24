@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-22**|**Offline Metrics for Evaluating Explanation Goals in Recommender Systems**|André Levi Zanon et.al.|[2310.14379](http://arxiv.org/abs/2310.14379)|null|
 |**2023-10-16**|**Robust Collaborative Filtering to Popularity Distribution Shift**|An Zhang et.al.|[2310.10696](http://arxiv.org/abs/2310.10696)|**[link](https://github.com/anzhang314/popgo)**|
 |**2023-10-03**|**Beyond-Accuracy: A Review on Diversity, Serendipity and Fairness in Recommender Systems Based on Graph Neural Networks**|Tomislav Duricic et.al.|[2310.02294](http://arxiv.org/abs/2310.02294)|null|
 |**2023-09-25**|**Algorithmic Collusion or Competition: the Role of Platforms' Recommender Systems**|Xingchen Xu et.al.|[2309.14548](http://arxiv.org/abs/2309.14548)|null|
@@ -53,6 +54,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-19**|**On existence, uniqueness and scalability of adversarial robustness measures for AI classifiers**|Illia Horenko et.al.|[2310.14421](http://arxiv.org/abs/2310.14421)|null|
 |**2023-10-19**|**PatchCURE: Improving Certifiable Robustness, Model Utility, and Computation Efficiency of Adversarial Patch Defenses**|Chong Xiang et.al.|[2310.13076](http://arxiv.org/abs/2310.13076)|null|
 |**2023-10-19**|**OODRobustBench: benchmarking and analyzing adversarial robustness under distribution shift**|Lin Li et.al.|[2310.12793](http://arxiv.org/abs/2310.12793)|null|
 |**2023-10-19**|**Learn from the Past: A Proxy based Adversarial Defense Framework to Boost Robustness**|Yaohua Liu et.al.|[2310.12713](http://arxiv.org/abs/2310.12713)|null|
