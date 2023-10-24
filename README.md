@@ -1,4 +1,4 @@
-## Updated on 2023.10.23
+## Updated on 2023.10.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -47,7 +47,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
 
 ## Robust ML
 
@@ -57,7 +57,7 @@
 |**2023-10-19**|**OODRobustBench: benchmarking and analyzing adversarial robustness under distribution shift**|Lin Li et.al.|[2310.12793](http://arxiv.org/abs/2310.12793)|null|
 |**2023-10-19**|**Learn from the Past: A Proxy based Adversarial Defense Framework to Boost Robustness**|Yaohua Liu et.al.|[2310.12713](http://arxiv.org/abs/2310.12713)|null|
 |**2023-10-19**|**Generating Robust Adversarial Examples against Online Social Networks (OSNs)**|Jun Liu et.al.|[2310.12708](http://arxiv.org/abs/2310.12708)|**[link](https://github.com/csjunjun/robustosnattack)**|
-|**2023-10-17**|**Adversarial Robustness Unhardening via Backdoor Attacks in Federated Learning**|Taejin Kim et.al.|[2310.11594](http://arxiv.org/abs/2310.11594)|null|
+|**2023-10-21**|**Adversarial Robustness Unhardening via Backdoor Attacks in Federated Learning**|Taejin Kim et.al.|[2310.11594](http://arxiv.org/abs/2310.11594)|null|
 |**2023-10-16**|**Robust Multi-Agent Reinforcement Learning via Adversarial Regularization: Theoretical Foundation and Stable Algorithms**|Alexander Bukharin et.al.|[2310.10810](http://arxiv.org/abs/2310.10810)|**[link](https://github.com/abukharin3/ernie)**|
 |**2023-10-16**|**Quantifying Assistive Robustness Via the Natural-Adversarial Frontier**|Jerry Zhi-Yang He et.al.|[2310.10610](http://arxiv.org/abs/2310.10610)|null|
 |**2023-10-15**|**Towards Deep Learning Models Resistant to Transfer-based Adversarial Attacks via Data-centric Robust Learning**|Yulong Yang et.al.|[2310.09891](http://arxiv.org/abs/2310.09891)|null|
@@ -180,7 +180,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
 
 ## Security LLM
 
@@ -219,5 +219,5 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20231023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231024>back to top</a>)</p>
 

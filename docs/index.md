@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.23
+## Updated on 2023.10.24
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -50,7 +50,7 @@ layout: default
 |**2023-10-19**|**OODRobustBench: benchmarking and analyzing adversarial robustness under distribution shift**|Lin Li et.al.|[2310.12793](http://arxiv.org/abs/2310.12793)|null|
 |**2023-10-19**|**Learn from the Past: A Proxy based Adversarial Defense Framework to Boost Robustness**|Yaohua Liu et.al.|[2310.12713](http://arxiv.org/abs/2310.12713)|null|
 |**2023-10-19**|**Generating Robust Adversarial Examples against Online Social Networks (OSNs)**|Jun Liu et.al.|[2310.12708](http://arxiv.org/abs/2310.12708)|**[link](https://github.com/csjunjun/robustosnattack)**|
-|**2023-10-17**|**Adversarial Robustness Unhardening via Backdoor Attacks in Federated Learning**|Taejin Kim et.al.|[2310.11594](http://arxiv.org/abs/2310.11594)|null|
+|**2023-10-21**|**Adversarial Robustness Unhardening via Backdoor Attacks in Federated Learning**|Taejin Kim et.al.|[2310.11594](http://arxiv.org/abs/2310.11594)|null|
 |**2023-10-16**|**Robust Multi-Agent Reinforcement Learning via Adversarial Regularization: Theoretical Foundation and Stable Algorithms**|Alexander Bukharin et.al.|[2310.10810](http://arxiv.org/abs/2310.10810)|**[link](https://github.com/abukharin3/ernie)**|
 |**2023-10-16**|**Quantifying Assistive Robustness Via the Natural-Adversarial Frontier**|Jerry Zhi-Yang He et.al.|[2310.10610](http://arxiv.org/abs/2310.10610)|null|
 |**2023-10-15**|**Towards Deep Learning Models Resistant to Transfer-based Adversarial Attacks via Data-centric Robust Learning**|Yulong Yang et.al.|[2310.09891](http://arxiv.org/abs/2310.09891)|null|
