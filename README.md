@@ -1,4 +1,4 @@
-## Updated on 2023.10.30
+## Updated on 2023.10.31
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -49,7 +49,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20231030>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231031>back to top</a>)</p>
 
 ## Robust ML
 
@@ -73,7 +73,7 @@
 |**2023-10-10**|**A Geometrical Approach to Evaluate the Adversarial Robustness of Deep Neural Networks**|Yang Wang et.al.|[2310.06468](http://arxiv.org/abs/2310.06468)|null|
 |**2023-10-10**|**Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach**|Kai Zhao et.al.|[2310.06396](http://arxiv.org/abs/2310.06396)|**[link](https://github.com/zknus/neurips-2023-hang-robustness)**|
 |**2023-10-10**|**Adversarial Masked Image Inpainting for Robust Detection of Mpox and Non-Mpox**|Yubiao Yue et.al.|[2310.06318](http://arxiv.org/abs/2310.06318)|null|
-|**2023-10-09**|**PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust Generalization**|Jiancong Xiao et.al.|[2310.06182](http://arxiv.org/abs/2310.06182)|null|
+|**2023-10-28**|**PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust Generalization**|Jiancong Xiao et.al.|[2310.06182](http://arxiv.org/abs/2310.06182)|null|
 |**2023-10-07**|**Tight Certified Robustness via Min-Max Representations of ReLU Neural Networks**|Brendon G. Anderson et.al.|[2310.04916](http://arxiv.org/abs/2310.04916)|null|
 |**2023-10-10**|**Robustness-enhanced Uplift Modeling with Adversarial Feature Desensitization**|Zexu Sun et.al.|[2310.04693](http://arxiv.org/abs/2310.04693)|null|
 |**2023-10-06**|**Generating Less Certain Adversarial Examples Improves Robust Generalization**|Minxing Zhang et.al.|[2310.04539](http://arxiv.org/abs/2310.04539)|**[link](https://github.com/trustmlrg/edac)**|
@@ -185,7 +185,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20231030>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231031>back to top</a>)</p>
 
 ## Security LLM
 
@@ -224,5 +224,5 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20231030>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231031>back to top</a>)</p>
 

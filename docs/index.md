@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.30
+## Updated on 2023.10.31
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -66,7 +66,7 @@ layout: default
 |**2023-10-10**|**A Geometrical Approach to Evaluate the Adversarial Robustness of Deep Neural Networks**|Yang Wang et.al.|[2310.06468](http://arxiv.org/abs/2310.06468)|null|
 |**2023-10-10**|**Adversarial Robustness in Graph Neural Networks: A Hamiltonian Approach**|Kai Zhao et.al.|[2310.06396](http://arxiv.org/abs/2310.06396)|**[link](https://github.com/zknus/neurips-2023-hang-robustness)**|
 |**2023-10-10**|**Adversarial Masked Image Inpainting for Robust Detection of Mpox and Non-Mpox**|Yubiao Yue et.al.|[2310.06318](http://arxiv.org/abs/2310.06318)|null|
-|**2023-10-09**|**PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust Generalization**|Jiancong Xiao et.al.|[2310.06182](http://arxiv.org/abs/2310.06182)|null|
+|**2023-10-28**|**PAC-Bayesian Spectrally-Normalized Bounds for Adversarially Robust Generalization**|Jiancong Xiao et.al.|[2310.06182](http://arxiv.org/abs/2310.06182)|null|
 |**2023-10-07**|**Tight Certified Robustness via Min-Max Representations of ReLU Neural Networks**|Brendon G. Anderson et.al.|[2310.04916](http://arxiv.org/abs/2310.04916)|null|
 |**2023-10-10**|**Robustness-enhanced Uplift Modeling with Adversarial Feature Desensitization**|Zexu Sun et.al.|[2310.04693](http://arxiv.org/abs/2310.04693)|null|
 |**2023-10-06**|**Generating Less Certain Adversarial Examples Improves Robust Generalization**|Minxing Zhang et.al.|[2310.04539](http://arxiv.org/abs/2310.04539)|**[link](https://github.com/trustmlrg/edac)**|
