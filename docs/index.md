@@ -48,6 +48,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-30**|**Causal Fair Metric: Bridging Causality, Individual Fairness, and Adversarial Robustness**|Ahmad-Reza Ehyaei et.al.|[2310.19391](http://arxiv.org/abs/2310.19391)|null|
 |**2023-10-31**|**BERT Lost Patience Won't Be Robust to Adversarial Slowdown**|Zachary Coalson et.al.|[2310.19152](http://arxiv.org/abs/2310.19152)|**[link](https://github.com/ztcoalson/waffle)**|
 |**2023-10-28**|**Assessing and Improving Syntactic Adversarial Robustness of Pre-trained Models for Code Translation**|Guang Yang et.al.|[2310.18587](http://arxiv.org/abs/2310.18587)|null|
 |**2023-10-27**|**On the Fairness ROAD: Robust Optimization for Adversarial Debiasing**|Vincent Grari et.al.|[2310.18413](http://arxiv.org/abs/2310.18413)|**[link](https://github.com/fairmlresearch/road)**|
