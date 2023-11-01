@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.10.31
+## Updated on 2023.11.01
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -48,7 +48,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-29**|**BERT Lost Patience Won't Be Robust to Adversarial Slowdown**|Zachary Coalson et.al.|[2310.19152](http://arxiv.org/abs/2310.19152)|**[link](https://github.com/ztcoalson/waffle)**|
+|**2023-10-31**|**BERT Lost Patience Won't Be Robust to Adversarial Slowdown**|Zachary Coalson et.al.|[2310.19152](http://arxiv.org/abs/2310.19152)|**[link](https://github.com/ztcoalson/waffle)**|
 |**2023-10-28**|**Assessing and Improving Syntactic Adversarial Robustness of Pre-trained Models for Code Translation**|Guang Yang et.al.|[2310.18587](http://arxiv.org/abs/2310.18587)|null|
 |**2023-10-27**|**On the Fairness ROAD: Robust Optimization for Adversarial Debiasing**|Vincent Grari et.al.|[2310.18413](http://arxiv.org/abs/2310.18413)|**[link](https://github.com/fairmlresearch/road)**|
 |**2023-10-25**|**Dual Defense: Adversarial, Traceable, and Invisible Robust Watermarking against Face Swapping**|Yunming Zhang et.al.|[2310.16540](http://arxiv.org/abs/2310.16540)|null|
