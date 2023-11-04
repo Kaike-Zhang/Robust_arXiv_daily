@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2023.11.03
+## Updated on 2023.11.04
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-25**|**Defense Against Model Extraction Attacks on Recommender Systems**|Sixiao Zhang et.al.|[2310.16335](http://arxiv.org/abs/2310.16335)|null|
+|**2023-10-25**|**Defense Against Model Extraction Attacks on Recommender Systems**|Sixiao Zhang et.al.|[2310.16335](http://arxiv.org/abs/2310.16335)|**[link](https://github.com/rinnesz/gro-gradient-based-ranking-optimization)**|
 |**2023-10-22**|**Offline Metrics for Evaluating Explanation Goals in Recommender Systems**|André Levi Zanon et.al.|[2310.14379](http://arxiv.org/abs/2310.14379)|null|
 |**2023-10-16**|**Robust Collaborative Filtering to Popularity Distribution Shift**|An Zhang et.al.|[2310.10696](http://arxiv.org/abs/2310.10696)|**[link](https://github.com/anzhang314/popgo)**|
 |**2023-10-03**|**Beyond-Accuracy: A Review on Diversity, Serendipity and Fairness in Recommender Systems Based on Graph Neural Networks**|Tomislav Duricic et.al.|[2310.02294](http://arxiv.org/abs/2310.02294)|null|
@@ -54,7 +54,7 @@ layout: default
 |**2023-10-31**|**Robust Safety Classifier for Large Language Models: Adversarial Prompt Shield**|Jinhwa Kim et.al.|[2311.00172](http://arxiv.org/abs/2311.00172)|null|
 |**2023-10-30**|**Causal Fair Metric: Bridging Causality, Individual Fairness, and Adversarial Robustness**|Ahmad-Reza Ehyaei et.al.|[2310.19391](http://arxiv.org/abs/2310.19391)|null|
 |**2023-10-31**|**BERT Lost Patience Won't Be Robust to Adversarial Slowdown**|Zachary Coalson et.al.|[2310.19152](http://arxiv.org/abs/2310.19152)|**[link](https://github.com/ztcoalson/waffle)**|
-|**2023-10-28**|**Assessing and Improving Syntactic Adversarial Robustness of Pre-trained Models for Code Translation**|Guang Yang et.al.|[2310.18587](http://arxiv.org/abs/2310.18587)|null|
+|**2023-10-28**|**Assessing and Improving Syntactic Adversarial Robustness of Pre-trained Models for Code Translation**|Guang Yang et.al.|[2310.18587](http://arxiv.org/abs/2310.18587)|**[link](https://github.com/ntdxyg/cotr)**|
 |**2023-10-27**|**On the Fairness ROAD: Robust Optimization for Adversarial Debiasing**|Vincent Grari et.al.|[2310.18413](http://arxiv.org/abs/2310.18413)|**[link](https://github.com/fairmlresearch/road)**|
 |**2023-10-25**|**Dual Defense: Adversarial, Traceable, and Invisible Robust Watermarking against Face Swapping**|Yunming Zhang et.al.|[2310.16540](http://arxiv.org/abs/2310.16540)|null|
 |**2023-10-23**|**Unsupervised Federated Learning: A Federated Gradient EM Algorithm for Heterogeneous Mixture Models with Robustness against Adversarial Attacks**|Ye Tian et.al.|[2310.15330](http://arxiv.org/abs/2310.15330)|null|
