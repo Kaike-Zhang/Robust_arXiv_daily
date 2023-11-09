@@ -55,6 +55,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-08**|**Constrained Adaptive Attacks: Realistic Evaluation of Adversarial Examples and Robust Training of Deep Neural Networks for Tabular Data**|Thibault Simonetto et.al.|[2311.04503](http://arxiv.org/abs/2311.04503)|null|
 |**2023-11-03**|**Robust Adversarial Reinforcement Learning via Bounded Rationality Curricula**|Aryaman Reddi et.al.|[2311.01642](http://arxiv.org/abs/2311.01642)|null|
 |**2023-11-01**|**Robustness Tests for Automatic Machine Translation Metrics with Adversarial Attacks**|Yichen Huang et.al.|[2311.00508](http://arxiv.org/abs/2311.00508)|**[link](https://github.com/i-need-sleep/eval_attack)**|
 |**2023-11-01**|**NEO-KD: Knowledge-Distillation-Based Adversarial Training for Robust Multi-Exit Neural Networks**|Seokil Ham et.al.|[2311.00428](http://arxiv.org/abs/2311.00428)|null|
