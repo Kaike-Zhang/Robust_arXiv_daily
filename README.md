@@ -33,7 +33,7 @@
 |**2023-06-22**|**Recent Developments in Recommender Systems: A Survey**|Yang Li et.al.|[2306.12680](http://arxiv.org/abs/2306.12680)|null|
 |**2023-06-11**|**Securing Visually-Aware Recommender Systems: An Adversarial Image Reconstruction and Detection Framework**|Minglei Yin et.al.|[2306.07992](http://arxiv.org/abs/2306.07992)|null|
 |**2023-06-08**|**Safe Collaborative Filtering**|Riku Togashi et.al.|[2306.05292](http://arxiv.org/abs/2306.05292)|**[link](https://github.com/riktor/safer2-recommender)**|
-|**2023-05-30**|**Robust Reinforcement Learning Objectives for Sequential Recommender Systems**|Melissa Mozifian et.al.|[2305.18820](http://arxiv.org/abs/2305.18820)|null|
+|**2023-05-30**|**Robust Reinforcement Learning Objectives for Sequential Recommender Systems**|Melissa Mozifian et.al.|[2305.18820](http://arxiv.org/abs/2305.18820)|**[link](https://github.com/melfm/sasrec-ccql)**|
 |**2023-05-27**|**Choosing the Right Weights: Balancing Value, Strategy, and Noise in Recommender Systems**|Smitha Milli et.al.|[2305.17428](http://arxiv.org/abs/2305.17428)|null|
 |**2023-06-19**|**Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding**|Zheng Chen et.al.|[2305.14449](http://arxiv.org/abs/2305.14449)|null|
 |**2023-05-23**|**Curse of "Low" Dimensionality in Recommender Systems**|Naoto Ohsaka et.al.|[2305.13597](http://arxiv.org/abs/2305.13597)|null|
@@ -104,7 +104,7 @@
 |**2023-09-28**|**Adversarial Examples Might be Avoidable: The Role of Data Concentration in Adversarial Robustness**|Ambar Pal et.al.|[2309.16096](http://arxiv.org/abs/2309.16096)|null|
 |**2023-09-25**|**Projected Randomized Smoothing for Certified Adversarial Robustness**|Samuel Pfrommer et.al.|[2309.13794](http://arxiv.org/abs/2309.13794)|**[link](https://github.com/spfrommer/projected_randomized_smoothing)**|
 |**2023-09-23**|**RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias**|Hao Cheng et.al.|[2309.13245](http://arxiv.org/abs/2309.13245)|null|
-|**2023-09-22**|**Spatial-frequency channels, shape bias, and adversarial robustness**|Ajay Subramanian et.al.|[2309.13190](http://arxiv.org/abs/2309.13190)|null|
+|**2023-09-22**|**Spatial-frequency channels, shape bias, and adversarial robustness**|Ajay Subramanian et.al.|[2309.13190](http://arxiv.org/abs/2309.13190)|**[link](https://github.com/ajaysub110/critical-band-masking)**|
 |**2023-09-22**|**Pixel-wise Smoothing for Certified Robustness against Camera Motion Perturbations**|Hanjiang Hu et.al.|[2309.13150](http://arxiv.org/abs/2309.13150)|null|
 |**2023-09-22**|**VIC-KD: Variance-Invariance-Covariance Knowledge Distillation to Make Keyword Spotting More Robust Against Adversarial Attacks**|Heitor R. Guimarães et.al.|[2309.12914](http://arxiv.org/abs/2309.12914)|null|
 |**2023-09-22**|**Improving Machine Learning Robustness via Adversarial Training**|Long Dang et.al.|[2309.12593](http://arxiv.org/abs/2309.12593)|null|
