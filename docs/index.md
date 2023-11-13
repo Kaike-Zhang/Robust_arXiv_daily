@@ -48,6 +48,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**Robust Adversarial Attacks Detection for Deep Learning based Relative Pose Estimation for Space Rendezvous**|Ziwei Wang et.al.|[2311.05992](http://arxiv.org/abs/2311.05992)|null|
 |**2023-11-08**|**Constrained Adaptive Attacks: Realistic Evaluation of Adversarial Examples and Robust Training of Deep Neural Networks for Tabular Data**|Thibault Simonetto et.al.|[2311.04503](http://arxiv.org/abs/2311.04503)|null|
 |**2023-11-03**|**Robust Adversarial Reinforcement Learning via Bounded Rationality Curricula**|Aryaman Reddi et.al.|[2311.01642](http://arxiv.org/abs/2311.01642)|null|
 |**2023-11-01**|**Robustness Tests for Automatic Machine Translation Metrics with Adversarial Attacks**|Yichen Huang et.al.|[2311.00508](http://arxiv.org/abs/2311.00508)|**[link](https://github.com/i-need-sleep/eval_attack)**|
