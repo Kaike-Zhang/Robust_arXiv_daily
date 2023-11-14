@@ -48,6 +48,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-10**|**CALLOC: Curriculum Adversarial Learning for Secure and Robust Indoor Localization**|Danish Gufran et.al.|[2311.06361](http://arxiv.org/abs/2311.06361)|null|
 |**2023-11-10**|**Robust Adversarial Attacks Detection for Deep Learning based Relative Pose Estimation for Space Rendezvous**|Ziwei Wang et.al.|[2311.05992](http://arxiv.org/abs/2311.05992)|null|
 |**2023-11-08**|**Constrained Adaptive Attacks: Realistic Evaluation of Adversarial Examples and Robust Training of Deep Neural Networks for Tabular Data**|Thibault Simonetto et.al.|[2311.04503](http://arxiv.org/abs/2311.04503)|null|
 |**2023-11-03**|**Robust Adversarial Reinforcement Learning via Bounded Rationality Curricula**|Aryaman Reddi et.al.|[2311.01642](http://arxiv.org/abs/2311.01642)|null|
@@ -197,7 +198,7 @@ layout: default
 |**2023-10-31**|**Robust Safety Classifier for Large Language Models: Adversarial Prompt Shield**|Jinhwa Kim et.al.|[2311.00172](http://arxiv.org/abs/2311.00172)|null|
 |**2023-10-18**|**REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models**|Ruisi Zhang et.al.|[2310.12362](http://arxiv.org/abs/2310.12362)|null|
 |**2023-10-16**|**Fake News in Sheep's Clothing: Robust Fake News Detection Against LLM-Empowered Style Attacks**|Jiaying Wu et.al.|[2310.10830](http://arxiv.org/abs/2310.10830)|null|
-|**2023-10-14**|**ASSERT: Automated Safety Scenario Red Teaming for Evaluating the Robustness of Large Language Models**|Alex Mei et.al.|[2310.09624](http://arxiv.org/abs/2310.09624)|**[link](https://github.com/alexmeigz/assert)**|
+|**2023-11-11**|**ASSERT: Automated Safety Scenario Red Teaming for Evaluating the Robustness of Large Language Models**|Alex Mei et.al.|[2310.09624](http://arxiv.org/abs/2310.09624)|**[link](https://github.com/alexmeigz/assert)**|
 |**2023-10-10**|**Revisit Input Perturbation Problems for LLMs: A Unified Robustness Evaluation Framework for Noisy Slot Filling Task**|Guanting Dong et.al.|[2310.06504](http://arxiv.org/abs/2310.06504)|**[link](https://github.com/dongguanting/noise-slot-filling-llm)**|
 |**2023-10-10**|**A Semantic Invariant Robust Watermark for Large Language Models**|Aiwei Liu et.al.|[2310.06356](http://arxiv.org/abs/2310.06356)|null|
 |**2023-10-05**|**A Formalism and Approach for Improving Robustness of Large Language Models Using Risk-Adjusted Confidence Scores**|Ke Shen et.al.|[2310.03283](http://arxiv.org/abs/2310.03283)|null|
