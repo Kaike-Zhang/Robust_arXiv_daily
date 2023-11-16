@@ -196,6 +196,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-15**|**A Robust Semantics-based Watermark for Large Language Model against Paraphrasing**|Jie Ren et.al.|[2311.08721](http://arxiv.org/abs/2311.08721)|null|
 |**2023-11-14**|**RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge**|Yi Liu et.al.|[2311.08147](http://arxiv.org/abs/2311.08147)|null|
 |**2023-11-01**|**Noisy Exemplars Make Large Language Models More Robust: A Domain-Agnostic Behavioral Analysis**|Hongyi Zheng et.al.|[2311.00258](http://arxiv.org/abs/2311.00258)|**[link](https://github.com/hiroki39/noisy-exemplars-make-large-language-models-more-robust)**|
 |**2023-10-31**|**Robust Safety Classifier for Large Language Models: Adversarial Prompt Shield**|Jinhwa Kim et.al.|[2311.00172](http://arxiv.org/abs/2311.00172)|null|
