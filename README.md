@@ -55,8 +55,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Adversarially Robust Spiking Neural Networks Through Conversion**|Ozan Özdenizci et.al.|[2311.09266](http://arxiv.org/abs/2311.09266)|null|
 |**2023-11-14**|**Towards Improving Robustness Against Common Corruptions in Object Detectors Using Adversarial Contrastive Learning**|Shashank Kotyan et.al.|[2311.07928](http://arxiv.org/abs/2311.07928)|null|
-|**2023-11-08**|**Frontier Language Models are not Robust to Adversarial Arithmetic, or "What do I need to say so you agree 2+2=5?**|C. Daniel Freeman et.al.|[2311.07587](http://arxiv.org/abs/2311.07587)|null|
+|**2023-11-15**|**Frontier Language Models are not Robust to Adversarial Arithmetic, or "What do I need to say so you agree 2+2=5?**|C. Daniel Freeman et.al.|[2311.07587](http://arxiv.org/abs/2311.07587)|null|
 |**2023-11-10**|**CALLOC: Curriculum Adversarial Learning for Secure and Robust Indoor Localization**|Danish Gufran et.al.|[2311.06361](http://arxiv.org/abs/2311.06361)|null|
 |**2023-11-10**|**Robust Adversarial Attacks Detection for Deep Learning based Relative Pose Estimation for Space Rendezvous**|Ziwei Wang et.al.|[2311.05992](http://arxiv.org/abs/2311.05992)|null|
 |**2023-11-08**|**Constrained Adaptive Attacks: Realistic Evaluation of Adversarial Examples and Robust Training of Deep Neural Networks for Tabular Data**|Thibault Simonetto et.al.|[2311.04503](http://arxiv.org/abs/2311.04503)|null|
@@ -205,6 +206,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-16**|**Towards Robust Temporal Reasoning of Large Language Models via a Multi-Hop QA Dataset and Pseudo-Instruction Tuning**|Qingyu Tan et.al.|[2311.09821](http://arxiv.org/abs/2311.09821)|null|
 |**2023-11-15**|**A Robust Semantics-based Watermark for Large Language Model against Paraphrasing**|Jie Ren et.al.|[2311.08721](http://arxiv.org/abs/2311.08721)|null|
 |**2023-11-14**|**RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge**|Yi Liu et.al.|[2311.08147](http://arxiv.org/abs/2311.08147)|null|
 |**2023-11-01**|**Noisy Exemplars Make Large Language Models More Robust: A Domain-Agnostic Behavioral Analysis**|Hongyi Zheng et.al.|[2311.00258](http://arxiv.org/abs/2311.00258)|**[link](https://github.com/hiroki39/noisy-exemplars-make-large-language-models-more-robust)**|
