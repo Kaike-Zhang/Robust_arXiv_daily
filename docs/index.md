@@ -48,6 +48,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-19**|**Robust Network Slicing: Multi-Agent Policies, Adversarial Attacks, and Defensive Strategies**|Feng Wang et.al.|[2311.11206](http://arxiv.org/abs/2311.11206)|null|
 |**2023-11-15**|**Adversarially Robust Spiking Neural Networks Through Conversion**|Ozan Özdenizci et.al.|[2311.09266](http://arxiv.org/abs/2311.09266)|**[link](https://github.com/igitugraz/robustsnnconversion)**|
 |**2023-11-14**|**Towards Improving Robustness Against Common Corruptions in Object Detectors Using Adversarial Contrastive Learning**|Shashank Kotyan et.al.|[2311.07928](http://arxiv.org/abs/2311.07928)|null|
 |**2023-11-15**|**Frontier Language Models are not Robust to Adversarial Arithmetic, or "What do I need to say so you agree 2+2=5?**|C. Daniel Freeman et.al.|[2311.07587](http://arxiv.org/abs/2311.07587)|null|
