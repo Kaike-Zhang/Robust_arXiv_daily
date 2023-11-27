@@ -49,6 +49,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-23**|**Robust and Interpretable COVID-19 Diagnosis on Chest X-ray Images using Adversarial Training**|Karina Yang et.al.|[2311.14227](http://arxiv.org/abs/2311.14227)|null|
 |**2023-11-22**|**Robust Outlier Bound Condition to Phase Retrieval with Adversarial Sparse Outliers**|Gao Huang et.al.|[2311.13219](http://arxiv.org/abs/2311.13219)|null|
 |**2023-11-19**|**Robust Network Slicing: Multi-Agent Policies, Adversarial Attacks, and Defensive Strategies**|Feng Wang et.al.|[2311.11206](http://arxiv.org/abs/2311.11206)|null|
 |**2023-11-15**|**Adversarially Robust Spiking Neural Networks Through Conversion**|Ozan Özdenizci et.al.|[2311.09266](http://arxiv.org/abs/2311.09266)|**[link](https://github.com/igitugraz/robustsnnconversion)**|
