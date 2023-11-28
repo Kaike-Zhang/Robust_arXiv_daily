@@ -56,6 +56,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Relationship between Model Compression and Adversarial Robustness: A Review of Current Evidence**|Svetlana Pavlitska et.al.|[2311.15782](http://arxiv.org/abs/2311.15782)|null|
 |**2023-11-23**|**Robust and Interpretable COVID-19 Diagnosis on Chest X-ray Images using Adversarial Training**|Karina Yang et.al.|[2311.14227](http://arxiv.org/abs/2311.14227)|null|
 |**2023-11-22**|**Robust Outlier Bound Condition to Phase Retrieval with Adversarial Sparse Outliers**|Gao Huang et.al.|[2311.13219](http://arxiv.org/abs/2311.13219)|null|
 |**2023-11-19**|**Robust Network Slicing: Multi-Agent Policies, Adversarial Attacks, and Defensive Strategies**|Feng Wang et.al.|[2311.11206](http://arxiv.org/abs/2311.11206)|null|
@@ -226,8 +227,8 @@
 |**2023-09-03**|**Generative Data Augmentation using LLMs improves Distributional Robustness in Question Answering**|Arijit Ghosh Chowdhury et.al.|[2309.06358](http://arxiv.org/abs/2309.06358)|null|
 |**2023-10-06**|**Large Language Models Are Not Robust Multiple Choice Selectors**|Chujie Zheng et.al.|[2309.03882](http://arxiv.org/abs/2309.03882)|null|
 |**2023-09-08**|**Simple LLM Prompting is State-of-the-Art for Robust and Multilingual Dialogue Evaluation**|John Mendonça et.al.|[2308.16797](http://arxiv.org/abs/2308.16797)|**[link](https://github.com/johndmendonca/dialevalml)**|
-|**2023-08-29**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306](http://arxiv.org/abs/2308.14306)|null|
-|**2023-09-30**|**Evaluating the Instruction-Following Robustness of Large Language Models to Prompt Injection**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|**[link](https://github.com/leezekun/adv-instruct-eval)**|
+|**2023-11-27**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306](http://arxiv.org/abs/2308.14306)|null|
+|**2023-11-25**|**Evaluating the Instruction-Following Robustness of Large Language Models to Prompt Injection**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|**[link](https://github.com/leezekun/instruction-following-robustness-eval)**|
 |**2023-10-17**|**Can ChatGPT replace StackOverflow? A Study on Robustness and Reliability of Large Language Model Code Generation**|Li Zhong et.al.|[2308.10335](http://arxiv.org/abs/2308.10335)|null|
 |**2023-09-28**|**Synergistic Integration of Large Language Models and Cognitive Architectures for Robust AI: An Exploratory Analysis**|Oscar J. Romero et.al.|[2308.09830](http://arxiv.org/abs/2308.09830)|null|
 |**2023-08-15**|**Robustness Over Time: Understanding Adversarial Examples' Effectiveness on Longitudinal Versions of Large Language Models**|Yugeng Liu et.al.|[2308.07847](http://arxiv.org/abs/2308.07847)|null|
