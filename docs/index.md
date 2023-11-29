@@ -49,6 +49,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-28**|**1-Lipschitz Layers Compared: Memory, Speed, and Certifiable Robustness**|Bernd Prach et.al.|[2311.16833](http://arxiv.org/abs/2311.16833)|**[link](https://github.com/berndprach/1lipschitzlayerscompared)**|
+|**2023-11-28**|**On robust overfitting: adversarial training induced distribution matters**|Runzhi Tian et.al.|[2311.16526](http://arxiv.org/abs/2311.16526)|null|
 |**2023-11-27**|**Relationship between Model Compression and Adversarial Robustness: A Review of Current Evidence**|Svetlana Pavlitska et.al.|[2311.15782](http://arxiv.org/abs/2311.15782)|null|
 |**2023-11-23**|**Robust and Interpretable COVID-19 Diagnosis on Chest X-ray Images using Adversarial Training**|Karina Yang et.al.|[2311.14227](http://arxiv.org/abs/2311.14227)|null|
 |**2023-11-22**|**Robust Outlier Bound Condition to Phase Retrieval with Adversarial Sparse Outliers**|Gao Huang et.al.|[2311.13219](http://arxiv.org/abs/2311.13219)|null|
