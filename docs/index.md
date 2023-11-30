@@ -49,6 +49,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**On the Adversarial Robustness of Graph Contrastive Learning Methods**|Filippo Guerranti et.al.|[2311.17853](http://arxiv.org/abs/2311.17853)|null|
+|**2023-11-29**|**Adversarial Robust Memory-Based Continual Learner**|Xiaoyue Mi et.al.|[2311.17608](http://arxiv.org/abs/2311.17608)|null|
+|**2023-11-29**|**RADAP: A Robust and Adaptive Defense Against Diverse Adversarial Patches on Face Recognition**|Xiaoliang Liu et.al.|[2311.17339](http://arxiv.org/abs/2311.17339)|null|
 |**2023-11-28**|**1-Lipschitz Layers Compared: Memory, Speed, and Certifiable Robustness**|Bernd Prach et.al.|[2311.16833](http://arxiv.org/abs/2311.16833)|**[link](https://github.com/berndprach/1lipschitzlayerscompared)**|
 |**2023-11-28**|**On robust overfitting: adversarial training induced distribution matters**|Runzhi Tian et.al.|[2311.16526](http://arxiv.org/abs/2311.16526)|null|
 |**2023-11-27**|**Relationship between Model Compression and Adversarial Robustness: A Review of Current Evidence**|Svetlana Pavlitska et.al.|[2311.15782](http://arxiv.org/abs/2311.15782)|null|
@@ -204,6 +207,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-29**|**Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention**|Lujia Shen et.al.|[2311.17400](http://arxiv.org/abs/2311.17400)|null|
 |**2023-11-16**|**Towards Robust Temporal Reasoning of Large Language Models via a Multi-Hop QA Dataset and Pseudo-Instruction Tuning**|Qingyu Tan et.al.|[2311.09821](http://arxiv.org/abs/2311.09821)|null|
 |**2023-11-15**|**A Robust Semantics-based Watermark for Large Language Model against Paraphrasing**|Jie Ren et.al.|[2311.08721](http://arxiv.org/abs/2311.08721)|null|
 |**2023-11-14**|**RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge**|Yi Liu et.al.|[2311.08147](http://arxiv.org/abs/2311.08147)|null|
