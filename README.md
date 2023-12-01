@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**Poisoning Attacks Against Contrastive Recommender Systems**|Zongwei Wang et.al.|[2311.18244](http://arxiv.org/abs/2311.18244)|null|
 |**2023-11-22**|**Hierarchical Matrix Factorization for Interpretable Collaborative Filtering**|Kai Sugahara et.al.|[2311.13277](http://arxiv.org/abs/2311.13277)|null|
 |**2023-10-25**|**Defense Against Model Extraction Attacks on Recommender Systems**|Sixiao Zhang et.al.|[2310.16335](http://arxiv.org/abs/2310.16335)|**[link](https://github.com/rinnesz/gro-gradient-based-ranking-optimization)**|
 |**2023-10-22**|**Offline Metrics for Evaluating Explanation Goals in Recommender Systems**|André Levi Zanon et.al.|[2310.14379](http://arxiv.org/abs/2310.14379)|null|
@@ -216,7 +217,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-29**|**Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention**|Lujia Shen et.al.|[2311.17400](http://arxiv.org/abs/2311.17400)|null|
+|**2023-11-30**|**Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention**|Lujia Shen et.al.|[2311.17400](http://arxiv.org/abs/2311.17400)|null|
 |**2023-11-16**|**Towards Robust Temporal Reasoning of Large Language Models via a Multi-Hop QA Dataset and Pseudo-Instruction Tuning**|Qingyu Tan et.al.|[2311.09821](http://arxiv.org/abs/2311.09821)|null|
 |**2023-11-15**|**A Robust Semantics-based Watermark for Large Language Model against Paraphrasing**|Jie Ren et.al.|[2311.08721](http://arxiv.org/abs/2311.08721)|null|
 |**2023-11-14**|**RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge**|Yi Liu et.al.|[2311.08147](http://arxiv.org/abs/2311.08147)|null|
