@@ -57,7 +57,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-29**|**On the Adversarial Robustness of Graph Contrastive Learning Methods**|Filippo Guerranti et.al.|[2311.17853](http://arxiv.org/abs/2311.17853)|null|
+|**2023-11-30**|**On the Adversarial Robustness of Graph Contrastive Learning Methods**|Filippo Guerranti et.al.|[2311.17853](http://arxiv.org/abs/2311.17853)|null|
 |**2023-11-29**|**Adversarial Robust Memory-Based Continual Learner**|Xiaoyue Mi et.al.|[2311.17608](http://arxiv.org/abs/2311.17608)|null|
 |**2023-11-29**|**RADAP: A Robust and Adaptive Defense Against Diverse Adversarial Patches on Face Recognition**|Xiaoliang Liu et.al.|[2311.17339](http://arxiv.org/abs/2311.17339)|null|
 |**2023-11-28**|**1-Lipschitz Layers Compared: Memory, Speed, and Certifiable Robustness**|Bernd Prach et.al.|[2311.16833](http://arxiv.org/abs/2311.16833)|**[link](https://github.com/berndprach/1lipschitzlayerscompared)**|
