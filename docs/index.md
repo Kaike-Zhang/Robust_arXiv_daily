@@ -50,6 +50,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-03**|**Exploring Adversarial Robustness of LiDAR-Camera Fusion Model in Autonomous Driving**|Bo Yang et.al.|[2312.01468](http://arxiv.org/abs/2312.01468)|null|
 |**2023-11-30**|**On the Adversarial Robustness of Graph Contrastive Learning Methods**|Filippo Guerranti et.al.|[2311.17853](http://arxiv.org/abs/2311.17853)|null|
 |**2023-11-29**|**Adversarial Robust Memory-Based Continual Learner**|Xiaoyue Mi et.al.|[2311.17608](http://arxiv.org/abs/2311.17608)|null|
 |**2023-11-29**|**RADAP: A Robust and Adaptive Defense Against Diverse Adversarial Patches on Face Recognition**|Xiaoliang Liu et.al.|[2311.17339](http://arxiv.org/abs/2311.17339)|null|
@@ -208,6 +209,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Exploring the Robustness of Decentralized Training for Large Language Models**|Lin Lu et.al.|[2312.00843](http://arxiv.org/abs/2312.00843)|null|
 |**2023-11-30**|**Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention**|Lujia Shen et.al.|[2311.17400](http://arxiv.org/abs/2311.17400)|null|
 |**2023-11-16**|**Towards Robust Temporal Reasoning of Large Language Models via a Multi-Hop QA Dataset and Pseudo-Instruction Tuning**|Qingyu Tan et.al.|[2311.09821](http://arxiv.org/abs/2311.09821)|null|
 |**2023-11-15**|**A Robust Semantics-based Watermark for Large Language Model against Paraphrasing**|Jie Ren et.al.|[2311.08721](http://arxiv.org/abs/2311.08721)|null|
