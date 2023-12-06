@@ -57,6 +57,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**(Provable) Adversarial Robustness for Group Equivariant Tasks: Graphs, Point Clouds, Molecules, and More**|Jan Schuchardt et.al.|[2312.02708](http://arxiv.org/abs/2312.02708)|null|
+|**2023-12-04**|**Singular Regularization with Information Bottleneck Improves Model's Adversarial Robustness**|Guanlin Li et.al.|[2312.02237](http://arxiv.org/abs/2312.02237)|null|
 |**2023-12-03**|**Exploring Adversarial Robustness of LiDAR-Camera Fusion Model in Autonomous Driving**|Bo Yang et.al.|[2312.01468](http://arxiv.org/abs/2312.01468)|null|
 |**2023-11-30**|**On the Adversarial Robustness of Graph Contrastive Learning Methods**|Filippo Guerranti et.al.|[2311.17853](http://arxiv.org/abs/2311.17853)|null|
 |**2023-11-29**|**Adversarial Robust Memory-Based Continual Learner**|Xiaoyue Mi et.al.|[2311.17608](http://arxiv.org/abs/2311.17608)|null|
@@ -218,6 +220,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-05**|**Machine Vision Therapy: Multimodal Large Language Models Can Enhance Visual Robustness via Denoising In-Context Learning**|Zhuo Huang et.al.|[2312.02546](http://arxiv.org/abs/2312.02546)|**[link](https://github.com/tmllab/machine_vision_therapy)**|
 |**2023-12-01**|**Exploring the Robustness of Decentralized Training for Large Language Models**|Lin Lu et.al.|[2312.00843](http://arxiv.org/abs/2312.00843)|null|
 |**2023-11-30**|**Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention**|Lujia Shen et.al.|[2311.17400](http://arxiv.org/abs/2311.17400)|null|
 |**2023-11-16**|**Towards Robust Temporal Reasoning of Large Language Models via a Multi-Hop QA Dataset and Pseudo-Instruction Tuning**|Qingyu Tan et.al.|[2311.09821](http://arxiv.org/abs/2311.09821)|null|
