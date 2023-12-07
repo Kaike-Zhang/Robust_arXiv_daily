@@ -57,6 +57,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-06**|**Class Incremental Learning for Adversarial Robustness**|Seungju Cho et.al.|[2312.03289](http://arxiv.org/abs/2312.03289)|null|
+|**2023-12-06**|**Indirect Gradient Matching for Adversarial Robust Distillation**|Hongsin Lee et.al.|[2312.03286](http://arxiv.org/abs/2312.03286)|null|
+|**2023-12-06**|**A Simple Framework to Enhance the Adversarial Robustness of Deep Learning-based Intrusion Detection System**|Xinwei Yuan et.al.|[2312.03245](http://arxiv.org/abs/2312.03245)|null|
+|**2023-12-05**|**ScAR: Scaling Adversarial Robustness for LiDAR Object Detection**|Xiaohu Lu et.al.|[2312.03085](http://arxiv.org/abs/2312.03085)|null|
+|**2023-12-04**|**Few-Shot Anomaly Detection with Adversarial Loss for Robust Feature Representations**|Jae Young Lee et.al.|[2312.03005](http://arxiv.org/abs/2312.03005)|null|
 |**2023-12-05**|**(Provable) Adversarial Robustness for Group Equivariant Tasks: Graphs, Point Clouds, Molecules, and More**|Jan Schuchardt et.al.|[2312.02708](http://arxiv.org/abs/2312.02708)|null|
 |**2023-12-04**|**Singular Regularization with Information Bottleneck Improves Model's Adversarial Robustness**|Guanlin Li et.al.|[2312.02237](http://arxiv.org/abs/2312.02237)|null|
 |**2023-12-03**|**Exploring Adversarial Robustness of LiDAR-Camera Fusion Model in Autonomous Driving**|Bo Yang et.al.|[2312.01468](http://arxiv.org/abs/2312.01468)|null|
