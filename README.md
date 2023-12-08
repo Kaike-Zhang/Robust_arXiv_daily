@@ -57,7 +57,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-12-06**|**Class Incremental Learning for Adversarial Robustness**|Seungju Cho et.al.|[2312.03289](http://arxiv.org/abs/2312.03289)|null|
+|**2023-12-07**|**Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks**|Yuni Lai et.al.|[2312.03979](http://arxiv.org/abs/2312.03979)|null|
+|**2023-12-06**|**On the Robustness of Large Multimodal Models Against Image Adversarial Attacks**|Xuanimng Cui et.al.|[2312.03777](http://arxiv.org/abs/2312.03777)|null|
+|**2023-12-07**|**Class Incremental Learning for Adversarial Robustness**|Seungju Cho et.al.|[2312.03289](http://arxiv.org/abs/2312.03289)|null|
 |**2023-12-06**|**Indirect Gradient Matching for Adversarial Robust Distillation**|Hongsin Lee et.al.|[2312.03286](http://arxiv.org/abs/2312.03286)|null|
 |**2023-12-06**|**A Simple Framework to Enhance the Adversarial Robustness of Deep Learning-based Intrusion Detection System**|Xinwei Yuan et.al.|[2312.03245](http://arxiv.org/abs/2312.03245)|null|
 |**2023-12-05**|**ScAR: Scaling Adversarial Robustness for LiDAR Object Detection**|Xiaohu Lu et.al.|[2312.03085](http://arxiv.org/abs/2312.03085)|null|
