@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.11
+## Updated on 2023.12.12
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -50,14 +50,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-12-08**|**MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness**|Xiaoyun Xu et.al.|[2312.04960](http://arxiv.org/abs/2312.04960)|null|
+|**2023-12-08**|**MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness**|Xiaoyun Xu et.al.|[2312.04960](http://arxiv.org/abs/2312.04960)|**[link](https://github.com/xiaoyunxxy/mimir)**|
 |**2023-12-08**|**HC-Ref: Hierarchical Constrained Refinement for Robust Adversarial Training of GNNs**|Xiaobing Pei et.al.|[2312.04879](http://arxiv.org/abs/2312.04879)|null|
 |**2023-12-07**|**Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks**|Yuni Lai et.al.|[2312.03979](http://arxiv.org/abs/2312.03979)|null|
 |**2023-12-08**|**On the Robustness of Large Multimodal Models Against Image Adversarial Attacks**|Xuanming Cui et.al.|[2312.03777](http://arxiv.org/abs/2312.03777)|null|
 |**2023-12-07**|**Class Incremental Learning for Adversarial Robustness**|Seungju Cho et.al.|[2312.03289](http://arxiv.org/abs/2312.03289)|null|
 |**2023-12-06**|**Indirect Gradient Matching for Adversarial Robust Distillation**|Hongsin Lee et.al.|[2312.03286](http://arxiv.org/abs/2312.03286)|null|
 |**2023-12-06**|**A Simple Framework to Enhance the Adversarial Robustness of Deep Learning-based Intrusion Detection System**|Xinwei Yuan et.al.|[2312.03245](http://arxiv.org/abs/2312.03245)|null|
-|**2023-12-05**|**ScAR: Scaling Adversarial Robustness for LiDAR Object Detection**|Xiaohu Lu et.al.|[2312.03085](http://arxiv.org/abs/2312.03085)|null|
+|**2023-12-05**|**ScAR: Scaling Adversarial Robustness for LiDAR Object Detection**|Xiaohu Lu et.al.|[2312.03085](http://arxiv.org/abs/2312.03085)|**[link](https://github.com/xiaohulugo/ScAR-Scaling-Adversarial-Robustness-for-LiDAR-Object-Detection)**|
 |**2023-12-04**|**Few-Shot Anomaly Detection with Adversarial Loss for Robust Feature Representations**|Jae Young Lee et.al.|[2312.03005](http://arxiv.org/abs/2312.03005)|null|
 |**2023-12-05**|**(Provable) Adversarial Robustness for Group Equivariant Tasks: Graphs, Point Clouds, Molecules, and More**|Jan Schuchardt et.al.|[2312.02708](http://arxiv.org/abs/2312.02708)|null|
 |**2023-12-04**|**Singular Regularization with Information Bottleneck Improves Model's Adversarial Robustness**|Guanlin Li et.al.|[2312.02237](http://arxiv.org/abs/2312.02237)|null|
