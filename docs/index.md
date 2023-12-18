@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Multi-Modality is All You Need for Transferable Recommender Systems**|Youhua Li et.al.|[2312.09602](http://arxiv.org/abs/2312.09602)|**[link](https://github.com/icde24/pmmrec)**|
 |**2023-11-30**|**Poisoning Attacks Against Contrastive Recommender Systems**|Zongwei Wang et.al.|[2311.18244](http://arxiv.org/abs/2311.18244)|null|
 |**2023-11-22**|**Hierarchical Matrix Factorization for Interpretable Collaborative Filtering**|Kai Sugahara et.al.|[2311.13277](http://arxiv.org/abs/2311.13277)|null|
 |**2023-10-25**|**Defense Against Model Extraction Attacks on Recommender Systems**|Sixiao Zhang et.al.|[2310.16335](http://arxiv.org/abs/2310.16335)|**[link](https://github.com/rinnesz/gro-gradient-based-ranking-optimization)**|
@@ -50,6 +51,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Embodied Adversarial Attack: A Dynamic Robust Physical Attack in Autonomous Driving**|Yitong Sun et.al.|[2312.09554](http://arxiv.org/abs/2312.09554)|null|
+|**2023-12-15**|**Adversarial Robustness on Image Classification with $k$ -means**|Rollin Omari et.al.|[2312.09533](http://arxiv.org/abs/2312.09533)|null|
 |**2023-12-14**|**Towards Inductive Robustness: Distilling and Fostering Wave-induced Resonance in Transductive GCNs Against Graph Adversarial Attacks**|Ao Liu et.al.|[2312.08651](http://arxiv.org/abs/2312.08651)|null|
 |**2023-12-13**|**Universal Adversarial Framework to Improve Adversarial Robustness for Diabetic Retinopathy Detection**|Samrat Mukherjee et.al.|[2312.08193](http://arxiv.org/abs/2312.08193)|null|
 |**2023-12-13**|**Radio Signal Classification by Adversarially Robust Quantum Machine Learning**|Yanqiu Wu et.al.|[2312.07821](http://arxiv.org/abs/2312.07821)|null|
