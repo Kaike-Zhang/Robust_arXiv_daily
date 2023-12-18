@@ -259,7 +259,7 @@ layout: default
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-07**|**Revisiting Out-of-distribution Robustness in NLP: Benchmark, Analysis, and LLMs Evaluations**|Lifan Yuan et.al.|[2306.04618](http://arxiv.org/abs/2306.04618)|**[link](https://github.com/lifan-yuan/ood_nlp)**|
 |**2023-08-24**|**PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts**|Kaijie Zhu et.al.|[2306.04528](http://arxiv.org/abs/2306.04528)|**[link](https://github.com/microsoft/promptbench)**|
-|**2023-05-23**|**Are Large Language Models Robust Zero-shot Coreference Resolvers?**|Nghia T. Le et.al.|[2305.14489](http://arxiv.org/abs/2305.14489)|null|
+|**2023-05-23**|**Are Large Language Models Robust Zero-shot Coreference Resolvers?**|Nghia T. Le et.al.|[2305.14489](http://arxiv.org/abs/2305.14489)|**[link](https://github.com/nle18/coref-llms)**|
 |**2023-06-19**|**Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding**|Zheng Chen et.al.|[2305.14449](http://arxiv.org/abs/2305.14449)|null|
 |**2023-09-14**|**Probing in Context: Toward Building Robust Classifiers via Probing Large Language Models**|Afra Amini et.al.|[2305.14171](http://arxiv.org/abs/2305.14171)|null|
 |**2023-05-23**|**Robust Instruction Optimization for Large Language Models with Distribution Shifts**|Moxin Li et.al.|[2305.13954](http://arxiv.org/abs/2305.13954)|null|
