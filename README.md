@@ -59,6 +59,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-20**|**Scaling Compute Is Not All You Need for Adversarial Robustness**|Edoardo Debenedetti et.al.|[2312.13131](http://arxiv.org/abs/2312.13131)|null|
+|**2023-12-18**|**The Pros and Cons of Adversarial Robustness**|Yacine Izza et.al.|[2312.10911](http://arxiv.org/abs/2312.10911)|null|
 |**2023-12-16**|**Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off**|Yu-An Liu et.al.|[2312.10329](http://arxiv.org/abs/2312.10329)|null|
 |**2023-12-15**|**Embodied Adversarial Attack: A Dynamic Robust Physical Attack in Autonomous Driving**|Yitong Sun et.al.|[2312.09554](http://arxiv.org/abs/2312.09554)|null|
 |**2023-12-15**|**Adversarial Robustness on Image Classification with $k$ -means**|Rollin Omari et.al.|[2312.09533](http://arxiv.org/abs/2312.09533)|null|
