@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2023.12.22
+## Updated on 2023.12.23
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -52,6 +52,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-21**|**ARBiBench: Benchmarking Adversarial Robustness of Binarized Neural Networks**|Peng Zhao et.al.|[2312.13575](http://arxiv.org/abs/2312.13575)|null|
 |**2023-12-20**|**Scaling Compute Is Not All You Need for Adversarial Robustness**|Edoardo Debenedetti et.al.|[2312.13131](http://arxiv.org/abs/2312.13131)|null|
 |**2023-12-18**|**The Pros and Cons of Adversarial Robustness**|Yacine Izza et.al.|[2312.10911](http://arxiv.org/abs/2312.10911)|null|
 |**2023-12-16**|**Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off**|Yu-An Liu et.al.|[2312.10329](http://arxiv.org/abs/2312.10329)|null|
