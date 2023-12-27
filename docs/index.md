@@ -52,6 +52,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-26**|**Robust Survival Analysis with Adversarial Regularization**|Michael Potter et.al.|[2312.16019](http://arxiv.org/abs/2312.16019)|**[link](https://github.com/mlpotter/sawar)**|
 |**2023-12-21**|**ARBiBench: Benchmarking Adversarial Robustness of Binarized Neural Networks**|Peng Zhao et.al.|[2312.13575](http://arxiv.org/abs/2312.13575)|null|
 |**2023-12-20**|**Scaling Compute Is Not All You Need for Adversarial Robustness**|Edoardo Debenedetti et.al.|[2312.13131](http://arxiv.org/abs/2312.13131)|null|
 |**2023-12-18**|**The Pros and Cons of Adversarial Robustness**|Yacine Izza et.al.|[2312.10911](http://arxiv.org/abs/2312.10911)|null|
@@ -236,6 +237,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-24**|**Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**|Xiaopeng Li et.al.|[2312.15450](http://arxiv.org/abs/2312.15450)|null|
 |**2023-12-22**|**Robust Knowledge Extraction from Large Language Models using Social Choice Theory**|Nico Potyka et.al.|[2312.14877](http://arxiv.org/abs/2312.14877)|null|
 |**2023-12-05**|**Machine Vision Therapy: Multimodal Large Language Models Can Enhance Visual Robustness via Denoising In-Context Learning**|Zhuo Huang et.al.|[2312.02546](http://arxiv.org/abs/2312.02546)|**[link](https://github.com/tmllab/machine_vision_therapy)**|
 |**2023-12-01**|**Exploring the Robustness of Decentralized Training for Large Language Models**|Lin Lu et.al.|[2312.00843](http://arxiv.org/abs/2312.00843)|null|
