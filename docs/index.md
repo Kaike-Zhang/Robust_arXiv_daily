@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.02
+## Updated on 2024.01.03
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -20,7 +20,7 @@ layout: default
 |**2023-08-30**|**Multimodal Recommender Systems in the Prediction of Disease Comorbidity**|Aashish Cheruvu et.al.|[2309.08613](http://arxiv.org/abs/2309.08613)|null|
 |**2023-09-05**|**Robust Recommender System: A Survey and Future Directions**|Kaike Zhang et.al.|[2309.02057](http://arxiv.org/abs/2309.02057)|null|
 |**2023-08-20**|**Adversarial Collaborative Filtering for Free**|Huiyuan Chen et.al.|[2308.13541](http://arxiv.org/abs/2308.13541)|null|
-|**2023-08-16**|**A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems**|Keqin Bao et.al.|[2308.08434](http://arxiv.org/abs/2308.08434)|**[link](https://github.com/sai990323/grounding4rec)**|
+|**2023-12-31**|**A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems**|Keqin Bao et.al.|[2308.08434](http://arxiv.org/abs/2308.08434)|**[link](https://github.com/sai990323/grounding4rec)**|
 |**2023-12-27**|**Investigating the Robustness of Sequential Recommender Systems Against Training Data Perturbations**|Filippo Betello et.al.|[2307.13165](http://arxiv.org/abs/2307.13165)|null|
 |**2023-07-17**|**Evaluating and Enhancing Robustness of Deep Recommendation Systems Against Hardware Errors**|Dongning Ma et.al.|[2307.10244](http://arxiv.org/abs/2307.10244)|null|
 |**2023-07-17**|**An Admissible Shift-Consistent Method for Recommender Systems**|Tung Nguyen et.al.|[2307.08857](http://arxiv.org/abs/2307.08857)|null|
