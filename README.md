@@ -246,6 +246,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-04**|**Are LLMs Robust for Spoken Dialogues?**|Seyed Mahed Mousavi et.al.|[2401.02297](http://arxiv.org/abs/2401.02297)|null|
 |**2023-12-27**|**How Robust are LLMs to In-Context Majority Label Bias?**|Karan Gupta et.al.|[2312.16549](http://arxiv.org/abs/2312.16549)|null|
 |**2023-12-24**|**Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**|Xiaopeng Li et.al.|[2312.15450](http://arxiv.org/abs/2312.15450)|null|
 |**2023-12-22**|**Robust Knowledge Extraction from Large Language Models using Social Choice Theory**|Nico Potyka et.al.|[2312.14877](http://arxiv.org/abs/2312.14877)|null|
