@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-08**|**Towards Efficient Communication Federated Recommendation System via Low-rank Training**|Ngoc-Hieu Nguyen et.al.|[2401.03748](http://arxiv.org/abs/2401.03748)|null|
 |**2023-12-08**|**Data Scarcity in Recommendation Systems: A Survey**|Zefeng Chen et.al.|[2312.10073](http://arxiv.org/abs/2312.10073)|null|
 |**2023-12-18**|**Multi-Modality is All You Need for Transferable Recommender Systems**|Youhua Li et.al.|[2312.09602](http://arxiv.org/abs/2312.09602)|**[link](https://github.com/icde24/pmmrec)**|
 |**2023-11-30**|**Poisoning Attacks Against Contrastive Recommender Systems**|Zongwei Wang et.al.|[2311.18244](http://arxiv.org/abs/2311.18244)|null|
