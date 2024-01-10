@@ -60,6 +60,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-09**|**Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness**|Sibo Wang et.al.|[2401.04350](http://arxiv.org/abs/2401.04350)|null|
 |**2024-01-05**|**A Random Ensemble of Encrypted models for Enhancing Robustness against Adversarial Examples**|Ryota Iijima et.al.|[2401.02633](http://arxiv.org/abs/2401.02633)|null|
 |**2023-12-26**|**Robust Survival Analysis with Adversarial Regularization**|Michael Potter et.al.|[2312.16019](http://arxiv.org/abs/2312.16019)|**[link](https://github.com/mlpotter/sawar)**|
 |**2023-12-21**|**ARBiBench: Benchmarking Adversarial Robustness of Binarized Neural Networks**|Peng Zhao et.al.|[2312.13575](http://arxiv.org/abs/2312.13575)|null|
