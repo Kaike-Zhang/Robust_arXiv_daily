@@ -60,6 +60,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**Efficient and Mathematically Robust Operations for Certified Neural Networks Inference**|Fabien Geyer et.al.|[2401.08225](http://arxiv.org/abs/2401.08225)|null|
+|**2024-01-15**|**Robustness Against Adversarial Attacks via Learning Confined Adversarial Polytopes**|Shayan Mohajer Hamidi et.al.|[2401.07991](http://arxiv.org/abs/2401.07991)|null|
 |**2024-01-09**|**Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness**|Sibo Wang et.al.|[2401.04350](http://arxiv.org/abs/2401.04350)|null|
 |**2024-01-05**|**A Random Ensemble of Encrypted models for Enhancing Robustness against Adversarial Examples**|Ryota Iijima et.al.|[2401.02633](http://arxiv.org/abs/2401.02633)|null|
 |**2023-12-26**|**Robust Survival Analysis with Adversarial Regularization**|Michael Potter et.al.|[2312.16019](http://arxiv.org/abs/2312.16019)|**[link](https://github.com/mlpotter/sawar)**|
@@ -249,6 +251,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-16**|**RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning**|Junjie Ye et.al.|[2401.08326](http://arxiv.org/abs/2401.08326)|null|
+|**2024-01-16**|**Enhancing Robustness of LLM-Synthetic Text Detectors for Academic Writing: A Comprehensive Analysis**|Zhicheng Dou et.al.|[2401.08046](http://arxiv.org/abs/2401.08046)|null|
 |**2024-01-04**|**Are LLMs Robust for Spoken Dialogues?**|Seyed Mahed Mousavi et.al.|[2401.02297](http://arxiv.org/abs/2401.02297)|null|
 |**2023-12-27**|**How Robust are LLMs to In-Context Majority Label Bias?**|Karan Gupta et.al.|[2312.16549](http://arxiv.org/abs/2312.16549)|null|
 |**2023-12-24**|**Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**|Xiaopeng Li et.al.|[2312.15450](http://arxiv.org/abs/2312.15450)|null|
