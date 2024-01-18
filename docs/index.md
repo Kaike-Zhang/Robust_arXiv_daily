@@ -72,7 +72,7 @@ layout: default
 |**2023-12-11**|**Adversarial Camera Patch: An Effective and Robust Physical-World Attack on Object Detectors**|Kalibinuer Tiliwalidi et.al.|[2312.06163](http://arxiv.org/abs/2312.06163)|null|
 |**2023-12-09**|**Improving Adversarial Robust Fairness via Anti-Bias Soft Label Distillation**|Shiji Zhao et.al.|[2312.05508](http://arxiv.org/abs/2312.05508)|null|
 |**2023-12-09**|**Poisoning $\times$ Evasion: Symbiotic Adversarial Robustness for Graph Neural Networks**|Ege Erdogan et.al.|[2312.05502](http://arxiv.org/abs/2312.05502)|null|
-|**2023-12-08**|**MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness**|Xiaoyun Xu et.al.|[2312.04960](http://arxiv.org/abs/2312.04960)|**[link](https://github.com/xiaoyunxxy/mimir)**|
+|**2024-01-17**|**MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness**|Xiaoyun Xu et.al.|[2312.04960](http://arxiv.org/abs/2312.04960)|**[link](https://github.com/xiaoyunxxy/mimir)**|
 |**2023-12-08**|**HC-Ref: Hierarchical Constrained Refinement for Robust Adversarial Training of GNNs**|Xiaobing Pei et.al.|[2312.04879](http://arxiv.org/abs/2312.04879)|null|
 |**2023-12-07**|**Node-aware Bi-smoothing: Certified Robustness against Graph Injection Attacks**|Yuni Lai et.al.|[2312.03979](http://arxiv.org/abs/2312.03979)|null|
 |**2023-12-08**|**On the Robustness of Large Multimodal Models Against Image Adversarial Attacks**|Xuanming Cui et.al.|[2312.03777](http://arxiv.org/abs/2312.03777)|null|
