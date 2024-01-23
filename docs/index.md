@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-21**|**What Are We Optimizing For? A Human-centric Evaluation Of Deep Learning-based Recommender Systems**|Ruixuan Sun et.al.|[2401.11632](http://arxiv.org/abs/2401.11632)|null|
 |**2024-01-08**|**Towards Efficient Communication Federated Recommendation System via Low-rank Training**|Ngoc-Hieu Nguyen et.al.|[2401.03748](http://arxiv.org/abs/2401.03748)|null|
 |**2023-12-08**|**Data Scarcity in Recommendation Systems: A Survey**|Zefeng Chen et.al.|[2312.10073](http://arxiv.org/abs/2312.10073)|null|
 |**2023-12-18**|**Multi-Modality is All You Need for Transferable Recommender Systems**|Youhua Li et.al.|[2312.09602](http://arxiv.org/abs/2312.09602)|**[link](https://github.com/icde24/pmmrec)**|
@@ -53,13 +54,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-21**|**Adversarial Augmentation Training Makes Action Recognition Models More Robust to Realistic Video Distribution Shifts**|Kiyoon Kim et.al.|[2401.11406](http://arxiv.org/abs/2401.11406)|null|
+|**2024-01-20**|**CARE: Ensemble Adversarial Robustness Evaluation Against Adaptive Attackers for Security Applications**|Hangsheng Zhang et.al.|[2401.11126](http://arxiv.org/abs/2401.11126)|null|
 |**2024-01-19**|**FIMBA: Evaluating the Robustness of AI in Genomics via Feature Importance Adversarial Attacks**|Heorhii Skovorodnikov et.al.|[2401.10657](http://arxiv.org/abs/2401.10657)|null|
 |**2024-01-19**|**Adversarially Robust Signed Graph Contrastive Learning from Balance Augmentation**|Jialong Zhou et.al.|[2401.10590](http://arxiv.org/abs/2401.10590)|null|
 |**2024-01-18**|**Differentially Private and Adversarially Robust Machine Learning: An Empirical Evaluation**|Janvi Thakkar et.al.|[2401.10405](http://arxiv.org/abs/2401.10405)|null|
 |**2024-01-18**|**Marrying Adapters and Mixup to Efficiently Enhance the Adversarial Robustness of Pre-Trained Language Models for Text Classification**|Tuc Nguyen et.al.|[2401.10111](http://arxiv.org/abs/2401.10111)|null|
 |**2024-01-18**|**Power in Numbers: Robust reading comprehension by finetuning with four adversarial sentences per example**|Ariel Marcus et.al.|[2401.10091](http://arxiv.org/abs/2401.10091)|null|
 |**2024-01-16**|**Efficient and Mathematically Robust Operations for Certified Neural Networks Inference**|Fabien Geyer et.al.|[2401.08225](http://arxiv.org/abs/2401.08225)|null|
-|**2024-01-15**|**Robustness Against Adversarial Attacks via Learning Confined Adversarial Polytopes**|Shayan Mohajer Hamidi et.al.|[2401.07991](http://arxiv.org/abs/2401.07991)|null|
+|**2024-01-20**|**Robustness Against Adversarial Attacks via Learning Confined Adversarial Polytopes**|Shayan Mohajer Hamidi et.al.|[2401.07991](http://arxiv.org/abs/2401.07991)|null|
 |**2024-01-09**|**Pre-trained Model Guided Fine-Tuning for Zero-Shot Adversarial Robustness**|Sibo Wang et.al.|[2401.04350](http://arxiv.org/abs/2401.04350)|null|
 |**2024-01-05**|**A Random Ensemble of Encrypted models for Enhancing Robustness against Adversarial Examples**|Ryota Iijima et.al.|[2401.02633](http://arxiv.org/abs/2401.02633)|null|
 |**2023-12-26**|**Robust Survival Analysis with Adversarial Regularization**|Michael Potter et.al.|[2312.16019](http://arxiv.org/abs/2312.16019)|**[link](https://github.com/mlpotter/sawar)**|
