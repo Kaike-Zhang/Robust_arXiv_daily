@@ -12,6 +12,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-23**|**Securing Recommender System via Cooperative Training**|Qingyang Wang et.al.|[2401.12700](http://arxiv.org/abs/2401.12700)|null|
 |**2024-01-21**|**What Are We Optimizing For? A Human-centric Evaluation Of Deep Learning-based Recommender Systems**|Ruixuan Sun et.al.|[2401.11632](http://arxiv.org/abs/2401.11632)|null|
 |**2024-01-08**|**Towards Efficient Communication Federated Recommendation System via Low-rank Training**|Ngoc-Hieu Nguyen et.al.|[2401.03748](http://arxiv.org/abs/2401.03748)|null|
 |**2023-12-08**|**Data Scarcity in Recommendation Systems: A Survey**|Zefeng Chen et.al.|[2312.10073](http://arxiv.org/abs/2312.10073)|null|
@@ -61,6 +62,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-19**|**The Surprising Harmfulness of Benign Overfitting for Adversarial Robustness**|Yifan Hao et.al.|[2401.12236](http://arxiv.org/abs/2401.12236)|null|
 |**2024-01-21**|**Adversarial Augmentation Training Makes Action Recognition Models More Robust to Realistic Video Distribution Shifts**|Kiyoon Kim et.al.|[2401.11406](http://arxiv.org/abs/2401.11406)|null|
 |**2024-01-20**|**CARE: Ensemble Adversarial Robustness Evaluation Against Adaptive Attackers for Security Applications**|Hangsheng Zhang et.al.|[2401.11126](http://arxiv.org/abs/2401.11126)|null|
 |**2024-01-19**|**FIMBA: Evaluating the Robustness of AI in Genomics via Feature Importance Adversarial Attacks**|Heorhii Skovorodnikov et.al.|[2401.10657](http://arxiv.org/abs/2401.10657)|**[link](https://github.com/heorhiis/fimba-attack)**|
@@ -259,6 +261,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-23**|**Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network**|Hanchen Li et.al.|[2401.12961](http://arxiv.org/abs/2401.12961)|null|
 |**2024-01-19**|**Large Language Models are Efficient Learners of Noise-Robust Speech Recognition**|Yuchen Hu et.al.|[2401.10446](http://arxiv.org/abs/2401.10446)|**[link](https://github.com/yuchen005/robustger)**|
 |**2024-01-19**|**RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning**|Junjie Ye et.al.|[2401.08326](http://arxiv.org/abs/2401.08326)|**[link](https://github.com/junjie-ye/rotbench)**|
 |**2024-01-16**|**Enhancing Robustness of LLM-Synthetic Text Detectors for Academic Writing: A Comprehensive Analysis**|Zhicheng Dou et.al.|[2401.08046](http://arxiv.org/abs/2401.08046)|null|
