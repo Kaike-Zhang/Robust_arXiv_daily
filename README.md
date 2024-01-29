@@ -281,7 +281,7 @@
 |**2023-10-16**|**Fake News in Sheep's Clothing: Robust Fake News Detection Against LLM-Empowered Style Attacks**|Jiaying Wu et.al.|[2310.10830](http://arxiv.org/abs/2310.10830)|null|
 |**2023-11-11**|**ASSERT: Automated Safety Scenario Red Teaming for Evaluating the Robustness of Large Language Models**|Alex Mei et.al.|[2310.09624](http://arxiv.org/abs/2310.09624)|**[link](https://github.com/alexmeigz/assert)**|
 |**2023-10-10**|**Revisit Input Perturbation Problems for LLMs: A Unified Robustness Evaluation Framework for Noisy Slot Filling Task**|Guanting Dong et.al.|[2310.06504](http://arxiv.org/abs/2310.06504)|**[link](https://github.com/dongguanting/noise-slot-filling-llm)**|
-|**2023-10-10**|**A Semantic Invariant Robust Watermark for Large Language Models**|Aiwei Liu et.al.|[2310.06356](http://arxiv.org/abs/2310.06356)|null|
+|**2023-10-10**|**A Semantic Invariant Robust Watermark for Large Language Models**|Aiwei Liu et.al.|[2310.06356](http://arxiv.org/abs/2310.06356)|**[link](https://github.com/thu-bpm/robust_watermark)**|
 |**2023-10-05**|**A Formalism and Approach for Improving Robustness of Large Language Models Using Risk-Adjusted Confidence Scores**|Ke Shen et.al.|[2310.03283](http://arxiv.org/abs/2310.03283)|null|
 |**2023-10-03**|**Intuitive or Dependent? Investigating LLMs' Robustness to Conflicting Prompts**|Jiahao Ying et.al.|[2309.17415](http://arxiv.org/abs/2309.17415)|null|
 |**2023-09-27**|**Are Large Language Models Really Robust to Word-Level Perturbations?**|Haoyu Wang et.al.|[2309.11166](http://arxiv.org/abs/2309.11166)|**[link](https://github.com/harry-mic/treval)**|
