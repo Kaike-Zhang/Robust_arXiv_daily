@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.01.30
+## Updated on 2024.01.31
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -58,7 +58,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-29**|**Adversarial Training on Purification (AToP): Advancing Both Robustness and Generalization**|Guang Lin et.al.|[2401.16352](http://arxiv.org/abs/2401.16352)|null|
 |**2024-01-27**|**Music Auto-Tagging with Robust Music Representation Learned via Domain Adversarial Training**|Haesun Joung et.al.|[2401.15323](http://arxiv.org/abs/2401.15323)|null|
-|**2024-01-26**|**Conserve-Update-Revise to Cure Generalization and Robustness Trade-off in Adversarial Training**|Shruthi Gowda et.al.|[2401.14948](http://arxiv.org/abs/2401.14948)|null|
+|**2024-01-26**|**Conserve-Update-Revise to Cure Generalization and Robustness Trade-off in Adversarial Training**|Shruthi Gowda et.al.|[2401.14948](http://arxiv.org/abs/2401.14948)|**[link](https://github.com/neurai-lab/cure)**|
 |**2024-01-26**|**Mitigating Feature Gap for Adversarial Robustness by Feature Disentanglement**|Nuoyan Zhou et.al.|[2401.14707](http://arxiv.org/abs/2401.14707)|null|
 |**2024-01-25**|**The Surprising Harmfulness of Benign Overfitting for Adversarial Robustness**|Yifan Hao et.al.|[2401.12236](http://arxiv.org/abs/2401.12236)|null|
 |**2024-01-21**|**Adversarial Augmentation Training Makes Action Recognition Models More Robust to Realistic Video Distribution Shifts**|Kiyoon Kim et.al.|[2401.11406](http://arxiv.org/abs/2401.11406)|null|

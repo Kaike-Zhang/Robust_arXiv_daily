@@ -1,4 +1,4 @@
-## Updated on 2024.01.30
+## Updated on 2024.01.31
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -57,7 +57,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240131>back to top</a>)</p>
 
 ## Robust ML
 
@@ -65,7 +65,7 @@
 |---|---|---|---|---|
 |**2024-01-29**|**Adversarial Training on Purification (AToP): Advancing Both Robustness and Generalization**|Guang Lin et.al.|[2401.16352](http://arxiv.org/abs/2401.16352)|null|
 |**2024-01-27**|**Music Auto-Tagging with Robust Music Representation Learned via Domain Adversarial Training**|Haesun Joung et.al.|[2401.15323](http://arxiv.org/abs/2401.15323)|null|
-|**2024-01-26**|**Conserve-Update-Revise to Cure Generalization and Robustness Trade-off in Adversarial Training**|Shruthi Gowda et.al.|[2401.14948](http://arxiv.org/abs/2401.14948)|null|
+|**2024-01-26**|**Conserve-Update-Revise to Cure Generalization and Robustness Trade-off in Adversarial Training**|Shruthi Gowda et.al.|[2401.14948](http://arxiv.org/abs/2401.14948)|**[link](https://github.com/neurai-lab/cure)**|
 |**2024-01-26**|**Mitigating Feature Gap for Adversarial Robustness by Feature Disentanglement**|Nuoyan Zhou et.al.|[2401.14707](http://arxiv.org/abs/2401.14707)|null|
 |**2024-01-25**|**The Surprising Harmfulness of Benign Overfitting for Adversarial Robustness**|Yifan Hao et.al.|[2401.12236](http://arxiv.org/abs/2401.12236)|null|
 |**2024-01-21**|**Adversarial Augmentation Training Makes Action Recognition Models More Robust to Realistic Video Distribution Shifts**|Kiyoon Kim et.al.|[2401.11406](http://arxiv.org/abs/2401.11406)|null|
@@ -260,7 +260,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240131>back to top</a>)</p>
 
 ## Security LLM
 
@@ -315,5 +315,5 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20240130>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240131>back to top</a>)</p>
 
