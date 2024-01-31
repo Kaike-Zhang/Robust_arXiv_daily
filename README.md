@@ -63,6 +63,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Quantum Transfer Learning with Adversarial Robustness for Classification of High-Resolution Image Datasets**|Amena Khatun et.al.|[2401.17009](http://arxiv.org/abs/2401.17009)|null|
 |**2024-01-29**|**Adversarial Training on Purification (AToP): Advancing Both Robustness and Generalization**|Guang Lin et.al.|[2401.16352](http://arxiv.org/abs/2401.16352)|null|
 |**2024-01-27**|**Music Auto-Tagging with Robust Music Representation Learned via Domain Adversarial Training**|Haesun Joung et.al.|[2401.15323](http://arxiv.org/abs/2401.15323)|null|
 |**2024-01-26**|**Conserve-Update-Revise to Cure Generalization and Robustness Trade-off in Adversarial Training**|Shruthi Gowda et.al.|[2401.14948](http://arxiv.org/abs/2401.14948)|**[link](https://github.com/neurai-lab/cure)**|
@@ -266,6 +267,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-30**|**Enhancing Compiler Transformation Robustness with Large Language Models**|Yanzhao Wang et.al.|[2401.16797](http://arxiv.org/abs/2401.16797)|null|
 |**2024-01-23**|**Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network**|Hanchen Li et.al.|[2401.12961](http://arxiv.org/abs/2401.12961)|null|
 |**2024-01-19**|**Large Language Models are Efficient Learners of Noise-Robust Speech Recognition**|Yuchen Hu et.al.|[2401.10446](http://arxiv.org/abs/2401.10446)|**[link](https://github.com/yuchen005/robustger)**|
 |**2024-01-19**|**RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning**|Junjie Ye et.al.|[2401.08326](http://arxiv.org/abs/2401.08326)|**[link](https://github.com/junjie-ye/rotbench)**|
