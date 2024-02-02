@@ -7,12 +7,26 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**Proton Pencil-Beam Scanning Stereotactic Body Radiation Therapy and Hypofractionated Radiation Therapy for Thoracic Malignancies: Patterns of Practice Survey and Recommendations for Future Development from NRG Oncology and PTCOG**|Wei Liu et.al.|[2402.00489](http://arxiv.org/abs/2402.00489)|null|
+|**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
+|**2024-01-26**|**Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation**|Jing Long et.al.|[2401.14583](http://arxiv.org/abs/2401.14583)|null|
+|**2024-01-25**|**The CIPM list "Recommended values of standard frequencies": 2021 update**|H S Margolis et.al.|[2401.14537](http://arxiv.org/abs/2401.14537)|null|
+|**2024-01-26**|**Robustness in Fairness against Edge-level Perturbations in GNN-based Recommendation**|Ludovico Boratto et.al.|[2401.13823](http://arxiv.org/abs/2401.13823)|**[link](https://github.com/jackmedda/cpfairrobust)**|
 |**2024-01-23**|**Securing Recommender System via Cooperative Training**|Qingyang Wang et.al.|[2401.12700](http://arxiv.org/abs/2401.12700)|**[link](https://github.com/greensun0830/cotraining-attack)**|
 |**2024-01-21**|**What Are We Optimizing For? A Human-centric Evaluation Of Deep Learning-based Recommender Systems**|Ruixuan Sun et.al.|[2401.11632](http://arxiv.org/abs/2401.11632)|null|
+|**2024-01-18**|**Improving One-class Recommendation with Multi-tasking on Various Preference Intensities**|Chu-Jen Shao et.al.|[2401.10316](http://arxiv.org/abs/2401.10316)|null|
 |**2024-01-29**|**Plug-In Diffusion Model for Embedding Denoising in Recommendation System**|Jujia Zhao et.al.|[2401.06982](http://arxiv.org/abs/2401.06982)|null|
 |**2024-01-08**|**Towards Efficient Communication Federated Recommendation System via Low-rank Training**|Ngoc-Hieu Nguyen et.al.|[2401.03748](http://arxiv.org/abs/2401.03748)|**[link](https://github.com/nnhieu/colr-fedrec)**|
+|**2023-12-28**|**DiffKG: Knowledge Graph Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2312.16890](http://arxiv.org/abs/2312.16890)|**[link](https://github.com/hkuds/diffkg)**|
+|**2023-12-27**|**LGMRec: Local and Global Graph Learning for Multimodal Recommendation**|Zhiqiang Guo et.al.|[2312.16400](http://arxiv.org/abs/2312.16400)|**[link](https://github.com/georgeguo-cn/lgmrec)**|
+|**2023-12-26**|**An Incremental Update Framework for Online Recommenders with Data-Driven Prior**|Chen Yang et.al.|[2312.15903](http://arxiv.org/abs/2312.15903)|null|
+|**2023-12-22**|**Attribute-driven Disentangled Representation Learning for Multimodal Recommendation**|Zhenyang Li et.al.|[2312.14433](http://arxiv.org/abs/2312.14433)|null|
+|**2023-12-20**|**BSL: Understanding and Improving Softmax Loss for Recommendation**|Junkang Wu et.al.|[2312.12882](http://arxiv.org/abs/2312.12882)|**[link](https://github.com/junkangwu/bsl)**|
 |**2023-12-08**|**Data Scarcity in Recommendation Systems: A Survey**|Zefeng Chen et.al.|[2312.10073](http://arxiv.org/abs/2312.10073)|null|
+|**2023-12-22**|**Temporally and Distributionally Robust Optimization for Cold-start Recommendation**|Xinyu Lin et.al.|[2312.09901](http://arxiv.org/abs/2312.09901)|**[link](https://github.com/linxyhaha/tdro)**|
 |**2023-12-18**|**Multi-Modality is All You Need for Transferable Recommender Systems**|Youhua Li et.al.|[2312.09602](http://arxiv.org/abs/2312.09602)|**[link](https://github.com/icde24/pmmrec)**|
+|**2023-12-12**|**Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure**|Jiyuan Yang et.al.|[2312.07036](http://arxiv.org/abs/2312.07036)|**[link](https://github.com/nancheng58/debiasedsr_dro)**|
+|**2023-12-05**|**An empirical study of next-basket recommendations**|Zhufeng Shao et.al.|[2312.02550](http://arxiv.org/abs/2312.02550)|null|
 |**2023-11-30**|**Poisoning Attacks Against Contrastive Recommender Systems**|Zongwei Wang et.al.|[2311.18244](http://arxiv.org/abs/2311.18244)|null|
 |**2023-11-22**|**Hierarchical Matrix Factorization for Interpretable Collaborative Filtering**|Kai Sugahara et.al.|[2311.13277](http://arxiv.org/abs/2311.13277)|null|
 |**2023-10-25**|**Defense Against Model Extraction Attacks on Recommender Systems**|Sixiao Zhang et.al.|[2310.16335](http://arxiv.org/abs/2310.16335)|**[link](https://github.com/rinnesz/gro-gradient-based-ranking-optimization)**|
@@ -310,4 +324,29 @@ layout: default
 |**2023-06-08**|**Sensitivity and Robustness of Large Language Models to Prompt Template in Japanese Text Classification Tasks**|Chengguang Gan et.al.|[2305.08714](http://arxiv.org/abs/2305.08714)|null|
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
+
+## LLM4Rec
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-01**|**From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models**|Jung-Mei Chu et.al.|[2402.00421](http://arxiv.org/abs/2402.00421)|null|
+|**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
+|**2024-01-30**|**Data-efficient Fine-tuning for LLM-based Recommendation**|Xinyu Lin et.al.|[2401.17197](http://arxiv.org/abs/2401.17197)|null|
+|**2024-01-29**|**APIGen: Generative API Method Recommendation**|Yujia Chen et.al.|[2401.15843](http://arxiv.org/abs/2401.15843)|**[link](https://github.com/hitcoderr/apigen)**|
+|**2024-01-25**|**Integrating Large Language Models into Recommendation via Mutual Augmentation and Adaptive Aggregation**|Sichun Luo et.al.|[2401.13870](http://arxiv.org/abs/2401.13870)|null|
+|**2024-01-21**|**Enhancing Recommendation Diversity by Re-ranking with Large Language Models**|Diego Carraro et.al.|[2401.11506](http://arxiv.org/abs/2401.11506)|null|
+|**2024-01-30**|**Understanding Biases in ChatGPT-based Recommender Systems: Provider Fairness, Temporal Stability, and Recency**|Yashar Deldjoo et.al.|[2401.10545](http://arxiv.org/abs/2401.10545)|null|
+|**2024-01-24**|**Supporting Student Decisions on Learning Recommendations: An LLM-Based Chatbot with Knowledge Graph Contextualization for Conversational Explainability and Mentoring**|Hasan Abu-Rasheed et.al.|[2401.08517](http://arxiv.org/abs/2401.08517)|null|
+|**2024-01-16**|**LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable Recommendation**|Zhixuan Chu et.al.|[2401.08217](http://arxiv.org/abs/2401.08217)|null|
+|**2024-01-14**|**Lightweight Modality Adaptation to Sequential Recommendation via Correlation Supervision**|Hengchang Hu et.al.|[2401.07257](http://arxiv.org/abs/2401.07257)|null|
+|**2024-01-12**|**LLMRS: Unlocking Potentials of LLM-Based Recommender Systems for Software Purchase**|Angela John et.al.|[2401.06676](http://arxiv.org/abs/2401.06676)|null|
+|**2024-01-10**|**Prompting Large Language Models for Recommender Systems: A Comprehensive Framework and Empirical Analysis**|Lanling Xu et.al.|[2401.04997](http://arxiv.org/abs/2401.04997)|null|
+|**2024-01-04**|**A case study of Generative AI in MSX Sales Copilot: Improving seller productivity with a real-time question-answering system for content recommendation**|Manpreet Singh et.al.|[2401.04732](http://arxiv.org/abs/2401.04732)|null|
+|**2024-01-08**|**Unveiling Bias in Fairness Evaluations of Large Language Models: A Critical Literature Review of Music and Movie Recommendation Systems**|Chandan Kumar Sah et.al.|[2401.04057](http://arxiv.org/abs/2401.04057)|null|
+|**2024-01-07**|**ChatGPT for Conversational Recommendation: Refining Recommendations by Reprompting with Feedback**|Kyle Dylan Spurlock et.al.|[2401.03605](http://arxiv.org/abs/2401.03605)|null|
+|**2024-01-05**|**Detection and Classification of Diabetic Retinopathy using Deep Learning Algorithms for Segmentation to Facilitate Referral Recommendation for Test and Treatment Prediction**|Manoj S H et.al.|[2401.02759](http://arxiv.org/abs/2401.02759)|**[link](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System)**|
+|**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275](http://arxiv.org/abs/2312.16275)|null|
+|**2024-01-15**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018](http://arxiv.org/abs/2312.16018)|null|
+|**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
+|**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
