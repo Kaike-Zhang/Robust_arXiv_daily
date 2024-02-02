@@ -23,7 +23,9 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "RobustnessRS": 
-        filters: ['("Robust" OR "Robustness" OR "Defense") AND (ti:"Recommender System" OR ti:"Collaborative Filtering")']
+        filters: ['("Robust" OR "Robustness" OR "Defense") AND (ti:"Recommender System" OR ti:"Collaborative Filtering" OR ti:"Recommendation")']
+    "LLM4Rec": 
+        filters: ['("LLM" OR "LLMs" OR "Large Language Model" OR "GPT") AND (ti:"Recommender System" OR ti:"Recommendation")']
     "Robust ML":
         filters: ['(ti:"Robust" OR ti:"Robustness") AND (ti:"Adversarial" OR ti:"Certifiable") OR ti:"Machine Learning"']
     "Security LLM":
