@@ -29,7 +29,7 @@
 |**2023-12-22**|**Attribute-driven Disentangled Representation Learning for Multimodal Recommendation**|Zhenyang Li et.al.|[2312.14433](http://arxiv.org/abs/2312.14433)|null|
 |**2023-12-20**|**BSL: Understanding and Improving Softmax Loss for Recommendation**|Junkang Wu et.al.|[2312.12882](http://arxiv.org/abs/2312.12882)|**[link](https://github.com/junkangwu/bsl)**|
 |**2023-12-08**|**Data Scarcity in Recommendation Systems: A Survey**|Zefeng Chen et.al.|[2312.10073](http://arxiv.org/abs/2312.10073)|null|
-|**2023-12-22**|**Temporally and Distributionally Robust Optimization for Cold-start Recommendation**|Xinyu Lin et.al.|[2312.09901](http://arxiv.org/abs/2312.09901)|**[link](https://github.com/linxyhaha/tdro)**|
+|**2024-02-02**|**Temporally and Distributionally Robust Optimization for Cold-Start Recommendation**|Xinyu Lin et.al.|[2312.09901](http://arxiv.org/abs/2312.09901)|**[link](https://github.com/linxyhaha/tdro)**|
 |**2023-12-18**|**Multi-Modality is All You Need for Transferable Recommender Systems**|Youhua Li et.al.|[2312.09602](http://arxiv.org/abs/2312.09602)|**[link](https://github.com/icde24/pmmrec)**|
 |**2023-12-12**|**Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure**|Jiyuan Yang et.al.|[2312.07036](http://arxiv.org/abs/2312.07036)|**[link](https://github.com/nancheng58/debiasedsr_dro)**|
 |**2023-12-05**|**An empirical study of next-basket recommendations**|Zhufeng Shao et.al.|[2312.02550](http://arxiv.org/abs/2312.02550)|null|
@@ -341,6 +341,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-02**|**Improving Sequential Recommendations with LLMs**|Artun Boz et.al.|[2402.01339](http://arxiv.org/abs/2402.01339)|null|
+|**2024-02-02**|**A Multi-Agent Conversational Recommender System**|Jiabao Fang et.al.|[2402.01135](http://arxiv.org/abs/2402.01135)|null|
 |**2024-02-01**|**From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models**|Jung-Mei Chu et.al.|[2402.00421](http://arxiv.org/abs/2402.00421)|null|
 |**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
 |**2024-01-30**|**Data-efficient Fine-tuning for LLM-based Recommendation**|Xinyu Lin et.al.|[2401.17197](http://arxiv.org/abs/2401.17197)|null|
