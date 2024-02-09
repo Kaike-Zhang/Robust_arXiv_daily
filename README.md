@@ -290,6 +290,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**Permute-and-Flip: An optimally robust and watermarkable decoder for LLMs**|Xuandong Zhao et.al.|[2402.05864](http://arxiv.org/abs/2402.05864)|**[link](https://github.com/xuandongzhao/pf-decoding)**|
 |**2024-01-27**|**An Empirical Study on Large Language Models in Accuracy and Robustness under Chinese Industrial Scenarios**|Zongjie Li et.al.|[2402.01723](http://arxiv.org/abs/2402.01723)|null|
 |**2024-02-04**|**Evaluating Large Language Models for Generalization and Robustness via Data Compression**|Yucheng Li et.al.|[2402.00861](http://arxiv.org/abs/2402.00861)|**[link](https://github.com/liyucheng09/llm-compressive)**|
 |**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
@@ -301,7 +302,7 @@
 |**2024-01-04**|**Are LLMs Robust for Spoken Dialogues?**|Seyed Mahed Mousavi et.al.|[2401.02297](http://arxiv.org/abs/2401.02297)|null|
 |**2023-12-27**|**How Robust are LLMs to In-Context Majority Label Bias?**|Karan Gupta et.al.|[2312.16549](http://arxiv.org/abs/2312.16549)|null|
 |**2023-12-24**|**Agent4Ranking: Semantic Robust Ranking via Personalized Query Rewriting Using Multi-agent LLM**|Xiaopeng Li et.al.|[2312.15450](http://arxiv.org/abs/2312.15450)|null|
-|**2023-12-22**|**Robust Knowledge Extraction from Large Language Models using Social Choice Theory**|Nico Potyka et.al.|[2312.14877](http://arxiv.org/abs/2312.14877)|null|
+|**2024-02-08**|**Robust Knowledge Extraction from Large Language Models using Social Choice Theory**|Nico Potyka et.al.|[2312.14877](http://arxiv.org/abs/2312.14877)|**[link](https://github.com/boschresearch/robustllm)**|
 |**2023-12-05**|**Machine Vision Therapy: Multimodal Large Language Models Can Enhance Visual Robustness via Denoising In-Context Learning**|Zhuo Huang et.al.|[2312.02546](http://arxiv.org/abs/2312.02546)|**[link](https://github.com/tmllab/machine_vision_therapy)**|
 |**2023-12-01**|**Exploring the Robustness of Decentralized Training for Large Language Models**|Lin Lu et.al.|[2312.00843](http://arxiv.org/abs/2312.00843)|null|
 |**2023-11-30**|**Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention**|Lujia Shen et.al.|[2311.17400](http://arxiv.org/abs/2311.17400)|null|
