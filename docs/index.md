@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-11**|**Towards Robust Car Following Dynamics Modeling via Blackbox Models: Methodology, Analysis, and Recommendations**|Muhammad Bilal Shahid et.al.|[2402.07139](http://arxiv.org/abs/2402.07139)|null|
 |**2024-02-01**|**Proton Pencil-Beam Scanning Stereotactic Body Radiation Therapy and Hypofractionated Radiation Therapy for Thoracic Malignancies: Patterns of Practice Survey and Recommendations for Future Development from NRG Oncology and PTCOG**|Wei Liu et.al.|[2402.00489](http://arxiv.org/abs/2402.00489)|null|
 |**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
 |**2024-01-26**|**Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation**|Jing Long et.al.|[2401.14583](http://arxiv.org/abs/2401.14583)|null|
@@ -70,6 +71,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-11**|**A Random Ensemble of Encrypted Vision Transformers for Adversarially Robust Defense**|Ryota Iijima et.al.|[2402.07183](http://arxiv.org/abs/2402.07183)|null|
+|**2024-02-09**|**RAMP: Boosting Adversarial Robustness Against Multiple $l_p$ Perturbations**|Enyi Jiang et.al.|[2402.06827](http://arxiv.org/abs/2402.06827)|**[link](https://github.com/uiuc-focal-lab/ramp)**|
 |**2024-02-07**|**Adversarial Robustness Through Artifact Design**|Tsufit Shua et.al.|[2402.04660](http://arxiv.org/abs/2402.04660)|null|
 |**2024-02-06**|**Enhance DNN Adversarial Robustness and Efficiency via Injecting Noise to Non-Essential Neurons**|Zhenyu Liu et.al.|[2402.04325](http://arxiv.org/abs/2402.04325)|null|
 |**2024-02-06**|**PAC-Bayesian Adversarially Robust Generalization Bounds for Graph Neural Network**|Tan Sun et.al.|[2402.04038](http://arxiv.org/abs/2402.04038)|null|
@@ -338,6 +341,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**Food Recommendation as Language Processing (F-RLP): A Personalized and Contextual Paradigm**|Ali Rostami et.al.|[2402.07477](http://arxiv.org/abs/2402.07477)|null|
 |**2024-02-09**|**Fairly Evaluating Large Language Model-based Recommendation Needs Revisit the Cross-Entropy Loss**|Cong Xu et.al.|[2402.06216](http://arxiv.org/abs/2402.06216)|null|
 |**2024-02-07**|**RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation**|Xiaohan Yu et.al.|[2402.04527](http://arxiv.org/abs/2402.04527)|null|
 |**2024-02-07**|**SumRec: A Framework for Recommendation using Open-Domain Dialogue**|Ryutaro Asahara et.al.|[2402.04523](http://arxiv.org/abs/2402.04523)|**[link](https://github.com/ryutaro-a/sumrec)**|
