@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Causal Learning for Trustworthy Recommender Systems: A Survey**|Jin Li et.al.|[2402.08241](http://arxiv.org/abs/2402.08241)|null|
 |**2024-02-11**|**Towards Robust Car Following Dynamics Modeling via Blackbox Models: Methodology, Analysis, and Recommendations**|Muhammad Bilal Shahid et.al.|[2402.07139](http://arxiv.org/abs/2402.07139)|null|
 |**2024-02-01**|**Proton Pencil-Beam Scanning Stereotactic Body Radiation Therapy and Hypofractionated Radiation Therapy for Thoracic Malignancies: Patterns of Practice Survey and Recommendations for Future Development from NRG Oncology and PTCOG**|Wei Liu et.al.|[2402.00489](http://arxiv.org/abs/2402.00489)|null|
 |**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
@@ -71,13 +72,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Exploration by Optimization with Hybrid Regularizers: Logarithmic Regret with Adversarial Robustness in Partial Monitoring**|Taira Tsuchiya et.al.|[2402.08321](http://arxiv.org/abs/2402.08321)|null|
 |**2024-02-11**|**A Random Ensemble of Encrypted Vision Transformers for Adversarially Robust Defense**|Ryota Iijima et.al.|[2402.07183](http://arxiv.org/abs/2402.07183)|null|
 |**2024-02-09**|**RAMP: Boosting Adversarial Robustness Against Multiple $l_p$ Perturbations**|Enyi Jiang et.al.|[2402.06827](http://arxiv.org/abs/2402.06827)|**[link](https://github.com/uiuc-focal-lab/ramp)**|
 |**2024-02-07**|**Adversarial Robustness Through Artifact Design**|Tsufit Shua et.al.|[2402.04660](http://arxiv.org/abs/2402.04660)|null|
 |**2024-02-06**|**Enhance DNN Adversarial Robustness and Efficiency via Injecting Noise to Non-Essential Neurons**|Zhenyu Liu et.al.|[2402.04325](http://arxiv.org/abs/2402.04325)|null|
 |**2024-02-06**|**PAC-Bayesian Adversarially Robust Generalization Bounds for Graph Neural Network**|Tan Sun et.al.|[2402.04038](http://arxiv.org/abs/2402.04038)|null|
 |**2024-02-05**|**Adversarial Data Augmentation for Robust Speaker Verification**|Zhenyu Zhou et.al.|[2402.02699](http://arxiv.org/abs/2402.02699)|null|
-|**2024-02-04**|**Your Diffusion Model is Secretly a Certifiably Robust Classifier**|Huanran Chen et.al.|[2402.02316](http://arxiv.org/abs/2402.02316)|**[link](https://github.com/huanranchen/NoisedDiffusionClassifiers)**|
+|**2024-02-13**|**Your Diffusion Model is Secretly a Certifiably Robust Classifier**|Huanran Chen et.al.|[2402.02316](http://arxiv.org/abs/2402.02316)|**[link](https://github.com/huanranchen/NoisedDiffusionClassifiers)**|
 |**2024-02-03**|**Towards Optimal Adversarial Robust Q-learning with Bellman Infinity-error**|Haoran Li et.al.|[2402.02165](http://arxiv.org/abs/2402.02165)|null|
 |**2024-02-03**|**Evaluating the Robustness of Off-Road Autonomous Driving Segmentation against Adversarial Attacks: A Dataset-Centric analysis**|Pankaj Deoli et.al.|[2402.02154](http://arxiv.org/abs/2402.02154)|**[link](https://github.com/rohtkumar/adversarial_attacks_on_segmentation)**|
 |**2024-02-01**|**Tropical Decision Boundaries for Neural Networks Are Robust Against Adversarial Attacks**|Kurt Pasque et.al.|[2402.00576](http://arxiv.org/abs/2402.00576)|null|
@@ -283,6 +285,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Towards Faithful and Robust LLM Specialists for Evidence-Based Question-Answering**|Tobias Schimanski et.al.|[2402.08277](http://arxiv.org/abs/2402.08277)|null|
 |**2024-02-08**|**Permute-and-Flip: An optimally robust and watermarkable decoder for LLMs**|Xuandong Zhao et.al.|[2402.05864](http://arxiv.org/abs/2402.05864)|**[link](https://github.com/xuandongzhao/pf-decoding)**|
 |**2024-01-27**|**An Empirical Study on Large Language Models in Accuracy and Robustness under Chinese Industrial Scenarios**|Zongjie Li et.al.|[2402.01723](http://arxiv.org/abs/2402.01723)|null|
 |**2024-02-04**|**Evaluating Large Language Models for Generalization and Robustness via Data Compression**|Yucheng Li et.al.|[2402.00861](http://arxiv.org/abs/2402.00861)|**[link](https://github.com/liyucheng09/llm-compressive)**|
@@ -341,6 +344,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Experimental Interface for Multimodal and Large Language Model Based Explanations of Educational Recommender Systems**|Hasan Abu-Rasheed et.al.|[2402.07910](http://arxiv.org/abs/2402.07910)|null|
 |**2024-02-12**|**Food Recommendation as Language Processing (F-RLP): A Personalized and Contextual Paradigm**|Ali Rostami et.al.|[2402.07477](http://arxiv.org/abs/2402.07477)|null|
 |**2024-02-09**|**Fairly Evaluating Large Language Model-based Recommendation Needs Revisit the Cross-Entropy Loss**|Cong Xu et.al.|[2402.06216](http://arxiv.org/abs/2402.06216)|null|
 |**2024-02-07**|**RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation**|Xiaohan Yu et.al.|[2402.04527](http://arxiv.org/abs/2402.04527)|null|
