@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems**|Shiyi Yang et.al.|[2402.09023](http://arxiv.org/abs/2402.09023)|null|
 |**2024-02-13**|**Causal Learning for Trustworthy Recommender Systems: A Survey**|Jin Li et.al.|[2402.08241](http://arxiv.org/abs/2402.08241)|null|
 |**2024-02-11**|**Towards Robust Car Following Dynamics Modeling via Blackbox Models: Methodology, Analysis, and Recommendations**|Muhammad Bilal Shahid et.al.|[2402.07139](http://arxiv.org/abs/2402.07139)|null|
 |**2024-02-01**|**Proton Pencil-Beam Scanning Stereotactic Body Radiation Therapy and Hypofractionated Radiation Therapy for Thoracic Malignancies: Patterns of Practice Survey and Recommendations for Future Development from NRG Oncology and PTCOG**|Wei Liu et.al.|[2402.00489](http://arxiv.org/abs/2402.00489)|null|
@@ -72,6 +73,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Towards Robust Model-Based Reinforcement Learning Against Adversarial Corruption**|Chenlu Ye et.al.|[2402.08991](http://arxiv.org/abs/2402.08991)|null|
+|**2024-02-13**|**Adversarially Robust Feature Learning for Breast Cancer Diagnosis**|Degan Hao et.al.|[2402.08768](http://arxiv.org/abs/2402.08768)|null|
+|**2024-02-13**|**Enhancing Robustness of Indoor Robotic Navigation with Free-Space Segmentation Models Against Adversarial Attacks**|Qiyuan An et.al.|[2402.08763](http://arxiv.org/abs/2402.08763)|null|
 |**2024-02-13**|**Exploration by Optimization with Hybrid Regularizers: Logarithmic Regret with Adversarial Robustness in Partial Monitoring**|Taira Tsuchiya et.al.|[2402.08321](http://arxiv.org/abs/2402.08321)|null|
 |**2024-02-11**|**A Random Ensemble of Encrypted Vision Transformers for Adversarially Robust Defense**|Ryota Iijima et.al.|[2402.07183](http://arxiv.org/abs/2402.07183)|null|
 |**2024-02-09**|**RAMP: Boosting Adversarial Robustness Against Multiple $l_p$ Perturbations**|Enyi Jiang et.al.|[2402.06827](http://arxiv.org/abs/2402.06827)|**[link](https://github.com/uiuc-focal-lab/ramp)**|
@@ -344,8 +348,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-14**|**Large Language Model Interaction Simulator for Cold-Start Item Recommendation**|Feiran Huang et.al.|[2402.09176](http://arxiv.org/abs/2402.09176)|null|
+|**2024-02-14**|**Large Language Model with Graph Convolution for Recommendation**|Yingpeng Du et.al.|[2402.08859](http://arxiv.org/abs/2402.08859)|null|
 |**2024-01-29**|**Experimental Interface for Multimodal and Large Language Model Based Explanations of Educational Recommender Systems**|Hasan Abu-Rasheed et.al.|[2402.07910](http://arxiv.org/abs/2402.07910)|null|
-|**2024-02-12**|**Food Recommendation as Language Processing (F-RLP): A Personalized and Contextual Paradigm**|Ali Rostami et.al.|[2402.07477](http://arxiv.org/abs/2402.07477)|null|
+|**2024-02-14**|**Food Recommendation as Language Processing (F-RLP): A Personalized and Contextual Paradigm**|Ali Rostami et.al.|[2402.07477](http://arxiv.org/abs/2402.07477)|null|
 |**2024-02-09**|**Fairly Evaluating Large Language Model-based Recommendation Needs Revisit the Cross-Entropy Loss**|Cong Xu et.al.|[2402.06216](http://arxiv.org/abs/2402.06216)|null|
 |**2024-02-07**|**RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation**|Xiaohan Yu et.al.|[2402.04527](http://arxiv.org/abs/2402.04527)|null|
 |**2024-02-07**|**SumRec: A Framework for Recommendation using Open-Domain Dialogue**|Ryutaro Asahara et.al.|[2402.04523](http://arxiv.org/abs/2402.04523)|**[link](https://github.com/ryutaro-a/sumrec)**|
