@@ -73,7 +73,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-02-14**|**Towards Robust Model-Based Reinforcement Learning Against Adversarial Corruption**|Chenlu Ye et.al.|[2402.08991](http://arxiv.org/abs/2402.08991)|null|
+|**2024-02-15**|**Camouflage is all you need: Evaluating and Enhancing Language Model Robustness Against Camouflage Adversarial Attacks**|Álvaro Huertas-García et.al.|[2402.09874](http://arxiv.org/abs/2402.09874)|null|
+|**2024-02-15**|**On the adversarial robustness of Locality-Sensitive Hashing in Hamming space**|Michael Kapralov et.al.|[2402.09707](http://arxiv.org/abs/2402.09707)|null|
+|**2024-02-15**|**Towards Robust Model-Based Reinforcement Learning Against Adversarial Corruption**|Chenlu Ye et.al.|[2402.08991](http://arxiv.org/abs/2402.08991)|null|
 |**2024-02-13**|**Adversarially Robust Feature Learning for Breast Cancer Diagnosis**|Degan Hao et.al.|[2402.08768](http://arxiv.org/abs/2402.08768)|null|
 |**2024-02-13**|**Enhancing Robustness of Indoor Robotic Navigation with Free-Space Segmentation Models Against Adversarial Attacks**|Qiyuan An et.al.|[2402.08763](http://arxiv.org/abs/2402.08763)|null|
 |**2024-02-13**|**Exploration by Optimization with Hybrid Regularizers: Logarithmic Regret with Adversarial Robustness in Partial Monitoring**|Taira Tsuchiya et.al.|[2402.08321](http://arxiv.org/abs/2402.08321)|null|
@@ -348,6 +350,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**LLM-based Federated Recommendation**|Jujia Zhao et.al.|[2402.09959](http://arxiv.org/abs/2402.09959)|null|
+|**2024-02-14**|**LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations**|Xinyuan Wang et.al.|[2402.09617](http://arxiv.org/abs/2402.09617)|null|
+|**2024-02-14**|**Rethinking Large Language Model Architectures for Sequential Recommendations**|Hanbing Wang et.al.|[2402.09543](http://arxiv.org/abs/2402.09543)|null|
 |**2024-02-14**|**Large Language Model Interaction Simulator for Cold-Start Item Recommendation**|Feiran Huang et.al.|[2402.09176](http://arxiv.org/abs/2402.09176)|null|
 |**2024-02-14**|**Large Language Model with Graph Convolution for Recommendation**|Yingpeng Du et.al.|[2402.08859](http://arxiv.org/abs/2402.08859)|null|
 |**2024-01-29**|**Experimental Interface for Multimodal and Large Language Model Based Explanations of Educational Recommender Systems**|Hasan Abu-Rasheed et.al.|[2402.07910](http://arxiv.org/abs/2402.07910)|null|
