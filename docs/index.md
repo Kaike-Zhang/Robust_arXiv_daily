@@ -7,11 +7,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-17**|**Mirror Gradient: Towards Robust Multimodal Recommender Systems via Exploring Flat Local Minima**|Shanshan Zhong et.al.|[2402.11262](http://arxiv.org/abs/2402.11262)|**[link](https://github.com/qrange-group/mirror-gradient)**|
 |**2024-02-14**|**Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems**|Shiyi Yang et.al.|[2402.09023](http://arxiv.org/abs/2402.09023)|null|
 |**2024-02-13**|**Causal Learning for Trustworthy Recommender Systems: A Survey**|Jin Li et.al.|[2402.08241](http://arxiv.org/abs/2402.08241)|null|
 |**2024-02-11**|**Towards Robust Car Following Dynamics Modeling via Blackbox Models: Methodology, Analysis, and Recommendations**|Muhammad Bilal Shahid et.al.|[2402.07139](http://arxiv.org/abs/2402.07139)|null|
 |**2024-02-01**|**Proton Pencil-Beam Scanning Stereotactic Body Radiation Therapy and Hypofractionated Radiation Therapy for Thoracic Malignancies: Patterns of Practice Survey and Recommendations for Future Development from NRG Oncology and PTCOG**|Wei Liu et.al.|[2402.00489](http://arxiv.org/abs/2402.00489)|null|
 |**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
+|**2024-02-19**|**RecDCL: Dual Contrastive Learning for Recommendation**|Dan Zhang et.al.|[2401.15635](http://arxiv.org/abs/2401.15635)|**[link](https://github.com/thudm/recdcl)**|
 |**2024-01-26**|**Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation**|Jing Long et.al.|[2401.14583](http://arxiv.org/abs/2401.14583)|null|
 |**2024-01-25**|**The CIPM list "Recommended values of standard frequencies": 2021 update**|H S Margolis et.al.|[2401.14537](http://arxiv.org/abs/2401.14537)|null|
 |**2024-01-26**|**Robustness in Fairness against Edge-level Perturbations in GNN-based Recommendation**|Ludovico Boratto et.al.|[2401.13823](http://arxiv.org/abs/2401.13823)|**[link](https://github.com/jackmedda/cpfairrobust)**|
@@ -73,6 +75,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**An Adversarial Approach to Evaluating the Robustness of Event Identification Models**|Obai Bahwal et.al.|[2402.12338](http://arxiv.org/abs/2402.12338)|null|
+|**2024-02-19**|**Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models**|Christian Schlarmann et.al.|[2402.12336](http://arxiv.org/abs/2402.12336)|**[link](https://github.com/chs20/robustvlm)**|
+|**2024-02-19**|**Adversarial Feature Alignment: Balancing Robustness and Accuracy in Deep Learning via Adversarial Training**|Leo Hyun Park et.al.|[2402.12187](http://arxiv.org/abs/2402.12187)|null|
+|**2024-02-19**|**Automatic Radio Map Adaptation for Robust Localization with Dynamic Adversarial Learning**|Lingyan Zhang et.al.|[2402.11898](http://arxiv.org/abs/2402.11898)|null|
+|**2024-02-18**|**Evaluating Adversarial Robustness of Low dose CT Recovery**|Kanchana Vaishnavi Gandikota et.al.|[2402.11557](http://arxiv.org/abs/2402.11557)|**[link](https://github.com/kvgandikota/robustness-low-dose-ct)**|
+|**2024-02-18**|**A Curious Case of Searching for the Correlation between Training Data and Adversarial Robustness of Transformer Textual Models**|Cuong Dang et.al.|[2402.11469](http://arxiv.org/abs/2402.11469)|null|
+|**2024-02-17**|**Maintaining Adversarial Robustness in Continuous Learning**|Xiaolei Ru et.al.|[2402.11196](http://arxiv.org/abs/2402.11196)|null|
+|**2024-02-16**|**DART: A Principled Approach to Adversarially Robust Unsupervised Domain Adaptation**|Yunjuan Wang et.al.|[2402.11120](http://arxiv.org/abs/2402.11120)|null|
 |**2024-02-15**|**Camouflage is all you need: Evaluating and Enhancing Language Model Robustness Against Camouflage Adversarial Attacks**|Álvaro Huertas-García et.al.|[2402.09874](http://arxiv.org/abs/2402.09874)|null|
 |**2024-02-15**|**On the adversarial robustness of Locality-Sensitive Hashing in Hamming space**|Michael Kapralov et.al.|[2402.09707](http://arxiv.org/abs/2402.09707)|null|
 |**2024-02-15**|**Towards Robust Model-Based Reinforcement Learning Against Adversarial Corruption**|Chenlu Ye et.al.|[2402.08991](http://arxiv.org/abs/2402.08991)|null|
@@ -291,6 +301,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**NEO-BENCH: Evaluating Robustness of Large Language Models with Neologisms**|Jonathan Zheng et.al.|[2402.12261](http://arxiv.org/abs/2402.12261)|null|
 |**2024-02-16**|**Towards Faithful and Robust LLM Specialists for Evidence-Based Question-Answering**|Tobias Schimanski et.al.|[2402.08277](http://arxiv.org/abs/2402.08277)|null|
 |**2024-02-08**|**Permute-and-Flip: An optimally robust and watermarkable decoder for LLMs**|Xuandong Zhao et.al.|[2402.05864](http://arxiv.org/abs/2402.05864)|**[link](https://github.com/xuandongzhao/pf-decoding)**|
 |**2024-01-27**|**An Empirical Study on Large Language Models in Accuracy and Robustness under Chinese Industrial Scenarios**|Zongjie Li et.al.|[2402.01723](http://arxiv.org/abs/2402.01723)|null|
@@ -350,8 +361,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-18**|**Large Language Models as Data Augmenters for Cold-Start Item Recommendation**|Jianling Wang et.al.|[2402.11724](http://arxiv.org/abs/2402.11724)|null|
 |**2024-02-16**|**SPAR: Personalized Content-Based Recommendation via Long Engagement Attention**|Chiyu Zhang et.al.|[2402.10555](http://arxiv.org/abs/2402.10555)|null|
-|**2024-02-15**|**LLM-based Federated Recommendation**|Jujia Zhao et.al.|[2402.09959](http://arxiv.org/abs/2402.09959)|null|
+|**2024-02-17**|**LLM-based Federated Recommendation**|Jujia Zhao et.al.|[2402.09959](http://arxiv.org/abs/2402.09959)|null|
 |**2024-02-14**|**LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations**|Xinyuan Wang et.al.|[2402.09617](http://arxiv.org/abs/2402.09617)|null|
 |**2024-02-14**|**Rethinking Large Language Model Architectures for Sequential Recommendations**|Hanbing Wang et.al.|[2402.09543](http://arxiv.org/abs/2402.09543)|null|
 |**2024-02-14**|**Large Language Model Interaction Simulator for Cold-Start Item Recommendation**|Feiran Huang et.al.|[2402.09176](http://arxiv.org/abs/2402.09176)|null|
