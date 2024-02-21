@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-20**|**Distributionally Robust Graph-based Recommendation System**|Bohao Wang et.al.|[2402.12994](http://arxiv.org/abs/2402.12994)|**[link](https://github.com/WANGBohaO-jpg/DR-GNN)**|
 |**2024-02-17**|**Mirror Gradient: Towards Robust Multimodal Recommender Systems via Exploring Flat Local Minima**|Shanshan Zhong et.al.|[2402.11262](http://arxiv.org/abs/2402.11262)|**[link](https://github.com/qrange-group/mirror-gradient)**|
 |**2024-02-14**|**Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems**|Shiyi Yang et.al.|[2402.09023](http://arxiv.org/abs/2402.09023)|null|
 |**2024-02-13**|**Causal Learning for Trustworthy Recommender Systems: A Survey**|Jin Li et.al.|[2402.08241](http://arxiv.org/abs/2402.08241)|null|
