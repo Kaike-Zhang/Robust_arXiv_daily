@@ -84,6 +84,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Rethinking Invariance Regularization in Adversarial Training to Improve Robustness-Accuracy Trade-off**|Futa Waseda et.al.|[2402.14648](http://arxiv.org/abs/2402.14648)|null|
 |**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
 |**2024-02-21**|**Adversarial Purification and Fine-tuning for Robust UDC Image Restoration**|Zhenbo Song et.al.|[2402.13629](http://arxiv.org/abs/2402.13629)|null|
 |**2024-02-19**|**An Adversarial Approach to Evaluating the Robustness of Event Identification Models**|Obai Bahwal et.al.|[2402.12338](http://arxiv.org/abs/2402.12338)|null|
@@ -389,7 +390,7 @@
 |**2024-02-14**|**Large Language Model with Graph Convolution for Recommendation**|Yingpeng Du et.al.|[2402.08859](http://arxiv.org/abs/2402.08859)|null|
 |**2024-01-29**|**Experimental Interface for Multimodal and Large Language Model Based Explanations of Educational Recommender Systems**|Hasan Abu-Rasheed et.al.|[2402.07910](http://arxiv.org/abs/2402.07910)|null|
 |**2024-02-14**|**Food Recommendation as Language Processing (F-RLP): A Personalized and Contextual Paradigm**|Ali Rostami et.al.|[2402.07477](http://arxiv.org/abs/2402.07477)|null|
-|**2024-02-09**|**Fairly Evaluating Large Language Model-based Recommendation Needs Revisit the Cross-Entropy Loss**|Cong Xu et.al.|[2402.06216](http://arxiv.org/abs/2402.06216)|null|
+|**2024-02-22**|**Understanding the Role of Cross-Entropy Loss in Fairly Evaluating Large Language Model-based Recommendation**|Cong Xu et.al.|[2402.06216](http://arxiv.org/abs/2402.06216)|null|
 |**2024-02-07**|**RA-Rec: An Efficient ID Representation Alignment Framework for LLM-based Recommendation**|Xiaohan Yu et.al.|[2402.04527](http://arxiv.org/abs/2402.04527)|null|
 |**2024-02-07**|**SumRec: A Framework for Recommendation using Open-Domain Dialogue**|Ryutaro Asahara et.al.|[2402.04523](http://arxiv.org/abs/2402.04523)|**[link](https://github.com/ryutaro-a/sumrec)**|
 |**2024-01-31**|**Uncertainty-Aware Explainable Recommendation with Large Language Models**|Yicui Peng et.al.|[2402.03366](http://arxiv.org/abs/2402.03366)|null|
