@@ -241,7 +241,7 @@ layout: default
 |**2023-08-28**|**DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing**|Jiawei Zhang et.al.|[2308.14333](http://arxiv.org/abs/2308.14333)|**[link](https://github.com/javyduck/diffsmooth)**|
 |**2023-08-22**|**Robust Lagrangian and Adversarial Policy Gradient for Robust Constrained Markov Decision Processes**|David M. Bossens et.al.|[2308.11267](http://arxiv.org/abs/2308.11267)|null|
 |**2023-08-17**|**Do you really follow me? Adversarial Instructions for Evaluating the Robustness of Large Language Models**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|**[link](https://github.com/leezekun/adv-instruct-eval)**|
-|**2023-08-21**|**On the Adversarial Robustness of Multi-Modal Foundation Models**|Christian Schlarmann et.al.|[2308.10741](http://arxiv.org/abs/2308.10741)|null|
+|**2023-08-21**|**On the Adversarial Robustness of Multi-Modal Foundation Models**|Christian Schlarmann et.al.|[2308.10741](http://arxiv.org/abs/2308.10741)|**[link](https://github.com/chs20/robustvlm)**|
 |**2023-08-21**|**Measuring the Effect of Causal Disentanglement on the Adversarial Robustness of Neural Network Models**|Preben M. Ness et.al.|[2308.10708](http://arxiv.org/abs/2308.10708)|null|
 |**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|null|
 |**2023-08-22**|**Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting**|Qidong Huang et.al.|[2308.10315](http://arxiv.org/abs/2308.10315)|**[link](https://github.com/shikiw/robustmae)**|
