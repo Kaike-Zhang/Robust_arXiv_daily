@@ -84,6 +84,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-25**|**Adversarial-Robust Transfer Learning for Medical Imaging via Domain Assimilation**|Xiaohui Chen et.al.|[2402.16005](http://arxiv.org/abs/2402.16005)|null|
+|**2024-02-24**|**RAUCA: A Novel Physical Adversarial Attack on Vehicle Detectors via Robust and Accurate Camouflage Generation**|Jiawei Zhou et.al.|[2402.15853](http://arxiv.org/abs/2402.15853)|null|
+|**2024-02-23**|**Distilling Adversarial Robustness Using Heterogeneous Teachers**|Jieren Deng et.al.|[2402.15586](http://arxiv.org/abs/2402.15586)|null|
 |**2024-02-23**|**Adversarial Robustness of Deep Learning-based Malware Detectors via (De)Randomized Smoothing**|Daniel Gibert et.al.|[2402.15267](http://arxiv.org/abs/2402.15267)|null|
 |**2024-02-22**|**Rethinking Invariance Regularization in Adversarial Training to Improve Robustness-Accuracy Trade-off**|Futa Waseda et.al.|[2402.14648](http://arxiv.org/abs/2402.14648)|null|
 |**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
@@ -316,10 +319,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**RoCoIns: Enhancing Robustness of Large Language Models through Code-Style Instructions**|Yuansen Zhang et.al.|[2402.16431](http://arxiv.org/abs/2402.16431)|null|
 |**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
 |**2024-02-21**|**RITFIS: Robust input testing framework for LLMs-based intelligent software**|Mingxuan Xiao et.al.|[2402.13518](http://arxiv.org/abs/2402.13518)|null|
 |**2024-02-19**|**NEO-BENCH: Evaluating Robustness of Large Language Models with Neologisms**|Jonathan Zheng et.al.|[2402.12261](http://arxiv.org/abs/2402.12261)|null|
-|**2024-02-16**|**Towards Faithful and Robust LLM Specialists for Evidence-Based Question-Answering**|Tobias Schimanski et.al.|[2402.08277](http://arxiv.org/abs/2402.08277)|null|
+|**2024-02-26**|**Towards Faithful and Robust LLM Specialists for Evidence-Based Question-Answering**|Tobias Schimanski et.al.|[2402.08277](http://arxiv.org/abs/2402.08277)|null|
 |**2024-02-08**|**Permute-and-Flip: An optimally robust and watermarkable decoder for LLMs**|Xuandong Zhao et.al.|[2402.05864](http://arxiv.org/abs/2402.05864)|**[link](https://github.com/xuandongzhao/pf-decoding)**|
 |**2024-01-27**|**An Empirical Study on Large Language Models in Accuracy and Robustness under Chinese Industrial Scenarios**|Zongjie Li et.al.|[2402.01723](http://arxiv.org/abs/2402.01723)|null|
 |**2024-02-04**|**Evaluating Large Language Models for Generalization and Robustness via Data Compression**|Yucheng Li et.al.|[2402.00861](http://arxiv.org/abs/2402.00861)|**[link](https://github.com/liyucheng09/llm-compressive)**|
@@ -380,6 +384,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-25**|**Text Understanding and Generation Using Transformer Models for Intelligent E-commerce Recommendations**|Yafei Xiang et.al.|[2402.16035](http://arxiv.org/abs/2402.16035)|null|
+|**2024-02-23**|**Language-Based User Profiles for Recommendation**|Joyce Zhou et.al.|[2402.15623](http://arxiv.org/abs/2402.15623)|null|
+|**2024-02-23**|**RecWizard: A Toolkit for Conversational Recommendation with Modular, Portable Models and Interactive User Interface**|Zeyuan Zhang et.al.|[2402.15591](http://arxiv.org/abs/2402.15591)|**[link](https://github.com/mcauley-lab/recwizard)**|
 |**2024-02-23**|**Multi-Agent Collaboration Framework for Recommender Systems**|Zhefan Wang et.al.|[2402.15235](http://arxiv.org/abs/2402.15235)|**[link](https://github.com/wzf2000/macrec)**|
 |**2024-02-23**|**Item-side Fairness of Large Language Model-based Recommendation System**|Meng Jiang et.al.|[2402.15215](http://arxiv.org/abs/2402.15215)|null|
 |**2024-02-18**|**Stealthy Attack on Large Language Model based Recommendation**|Jinghao Zhang et.al.|[2402.14836](http://arxiv.org/abs/2402.14836)|null|
