@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.02.27
+## Updated on 2024.02.28
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -372,6 +372,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539](http://arxiv.org/abs/2402.16539)|null|
 |**2024-02-25**|**Text Understanding and Generation Using Transformer Models for Intelligent E-commerce Recommendations**|Yafei Xiang et.al.|[2402.16035](http://arxiv.org/abs/2402.16035)|null|
 |**2024-02-23**|**Language-Based User Profiles for Recommendation**|Joyce Zhou et.al.|[2402.15623](http://arxiv.org/abs/2402.15623)|null|
 |**2024-02-23**|**RecWizard: A Toolkit for Conversational Recommendation with Modular, Portable Models and Interactive User Interface**|Zeyuan Zhang et.al.|[2402.15591](http://arxiv.org/abs/2402.15591)|**[link](https://github.com/mcauley-lab/recwizard)**|
