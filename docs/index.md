@@ -76,10 +76,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**Extreme Miscalibration and the Illusion of Adversarial Robustness**|Vyas Raina et.al.|[2402.17509](http://arxiv.org/abs/2402.17509)|null|
+|**2024-02-27**|**Robustness-Congruent Adversarial Training for Secure Machine Learning Model Updates**|Daniele Angioni et.al.|[2402.17390](http://arxiv.org/abs/2402.17390)|null|
+|**2024-02-25**|**An Adversarial Robustness Benchmark for Enterprise Network Intrusion Detection**|João Vitorino et.al.|[2402.16912](http://arxiv.org/abs/2402.16912)|null|
 |**2024-02-25**|**Adversarial-Robust Transfer Learning for Medical Imaging via Domain Assimilation**|Xiaohui Chen et.al.|[2402.16005](http://arxiv.org/abs/2402.16005)|null|
 |**2024-02-24**|**RAUCA: A Novel Physical Adversarial Attack on Vehicle Detectors via Robust and Accurate Camouflage Generation**|Jiawei Zhou et.al.|[2402.15853](http://arxiv.org/abs/2402.15853)|null|
 |**2024-02-23**|**Distilling Adversarial Robustness Using Heterogeneous Teachers**|Jieren Deng et.al.|[2402.15586](http://arxiv.org/abs/2402.15586)|null|
-|**2024-02-23**|**Adversarial Robustness of Deep Learning-based Malware Detectors via (De)Randomized Smoothing**|Daniel Gibert et.al.|[2402.15267](http://arxiv.org/abs/2402.15267)|null|
+|**2024-02-26**|**A Robust Defense against Adversarial Attacks on Deep Learning-based Malware Detectors via (De)Randomized Smoothing**|Daniel Gibert et.al.|[2402.15267](http://arxiv.org/abs/2402.15267)|null|
 |**2024-02-22**|**Rethinking Invariance Regularization in Adversarial Training to Improve Robustness-Accuracy Trade-off**|Futa Waseda et.al.|[2402.14648](http://arxiv.org/abs/2402.14648)|null|
 |**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
 |**2024-02-21**|**Adversarial Purification and Fine-tuning for Robust UDC Image Restoration**|Zhenbo Song et.al.|[2402.13629](http://arxiv.org/abs/2402.13629)|null|
@@ -309,6 +312,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-26**|**Eight Methods to Evaluate Robust Unlearning in LLMs**|Aengus Lynch et.al.|[2402.16835](http://arxiv.org/abs/2402.16835)|null|
 |**2024-02-26**|**RoCoIns: Enhancing Robustness of Large Language Models through Code-Style Instructions**|Yuansen Zhang et.al.|[2402.16431](http://arxiv.org/abs/2402.16431)|null|
 |**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
 |**2024-02-21**|**RITFIS: Robust input testing framework for LLMs-based intelligent software**|Mingxuan Xiao et.al.|[2402.13518](http://arxiv.org/abs/2402.13518)|null|
