@@ -22,7 +22,7 @@ layout: default
 |**2024-01-21**|**What Are We Optimizing For? A Human-centric Evaluation Of Deep Learning-based Recommender Systems**|Ruixuan Sun et.al.|[2401.11632](http://arxiv.org/abs/2401.11632)|null|
 |**2024-01-18**|**Improving One-class Recommendation with Multi-tasking on Various Preference Intensities**|Chu-Jen Shao et.al.|[2401.10316](http://arxiv.org/abs/2401.10316)|null|
 |**2024-01-29**|**Plug-In Diffusion Model for Embedding Denoising in Recommendation System**|Jujia Zhao et.al.|[2401.06982](http://arxiv.org/abs/2401.06982)|null|
-|**2024-01-08**|**Towards Efficient Communication Federated Recommendation System via Low-rank Training**|Ngoc-Hieu Nguyen et.al.|[2401.03748](http://arxiv.org/abs/2401.03748)|**[link](https://github.com/nnhieu/colr-fedrec)**|
+|**2024-02-28**|**Towards Efficient Communication and Secure Federated Recommendation System via Low-rank Training**|Ngoc-Hieu Nguyen et.al.|[2401.03748](http://arxiv.org/abs/2401.03748)|**[link](https://github.com/nnhieu/colr-fedrec)**|
 |**2023-12-28**|**DiffKG: Knowledge Graph Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2312.16890](http://arxiv.org/abs/2312.16890)|**[link](https://github.com/hkuds/diffkg)**|
 |**2023-12-27**|**LGMRec: Local and Global Graph Learning for Multimodal Recommendation**|Zhiqiang Guo et.al.|[2312.16400](http://arxiv.org/abs/2312.16400)|**[link](https://github.com/georgeguo-cn/lgmrec)**|
 |**2023-12-26**|**An Incremental Update Framework for Online Recommenders with Data-Driven Prior**|Chen Yang et.al.|[2312.15903](http://arxiv.org/abs/2312.15903)|null|
@@ -76,6 +76,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks**|Zhewei Wu et.al.|[2402.17976](http://arxiv.org/abs/2402.17976)|null|
 |**2024-02-27**|**Extreme Miscalibration and the Illusion of Adversarial Robustness**|Vyas Raina et.al.|[2402.17509](http://arxiv.org/abs/2402.17509)|null|
 |**2024-02-27**|**Robustness-Congruent Adversarial Training for Secure Machine Learning Model Updates**|Daniele Angioni et.al.|[2402.17390](http://arxiv.org/abs/2402.17390)|null|
 |**2024-02-25**|**An Adversarial Robustness Benchmark for Enterprise Network Intrusion Detection**|João Vitorino et.al.|[2402.16912](http://arxiv.org/abs/2402.16912)|null|
@@ -312,6 +313,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-27**|**EmMark: Robust Watermarks for IP Protection of Embedded Quantized Large Language Models**|Ruisi Zhang et.al.|[2402.17938](http://arxiv.org/abs/2402.17938)|null|
 |**2024-02-26**|**Eight Methods to Evaluate Robust Unlearning in LLMs**|Aengus Lynch et.al.|[2402.16835](http://arxiv.org/abs/2402.16835)|null|
 |**2024-02-26**|**RoCoIns: Enhancing Robustness of Large Language Models through Code-Style Instructions**|Yuansen Zhang et.al.|[2402.16431](http://arxiv.org/abs/2402.16431)|null|
 |**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
@@ -376,6 +378,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-28**|**Prospect Personalized Recommendation on Large Language Model-based Agent Platform**|Jizhi Zhang et.al.|[2402.18240](http://arxiv.org/abs/2402.18240)|**[link](https://github.com/jizhi-zhang/rec4agentverse_case)**|
 |**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539](http://arxiv.org/abs/2402.16539)|null|
 |**2024-02-25**|**Text Understanding and Generation Using Transformer Models for Intelligent E-commerce Recommendations**|Yafei Xiang et.al.|[2402.16035](http://arxiv.org/abs/2402.16035)|null|
 |**2024-02-23**|**Language-Based User Profiles for Recommendation**|Joyce Zhou et.al.|[2402.15623](http://arxiv.org/abs/2402.15623)|null|
