@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation**|Jinfeng Xu et.al.|[2402.19407](http://arxiv.org/abs/2402.19407)|**[link](https://github.com/jinfeng-xu/mentor)**|
 |**2024-02-21**|**Distributionally Robust Graph-based Recommendation System**|Bohao Wang et.al.|[2402.12994](http://arxiv.org/abs/2402.12994)|**[link](https://github.com/WANGBohaO-jpg/DR-GNN)**|
 |**2024-02-17**|**Mirror Gradient: Towards Robust Multimodal Recommender Systems via Exploring Flat Local Minima**|Shanshan Zhong et.al.|[2402.11262](http://arxiv.org/abs/2402.11262)|**[link](https://github.com/qrange-group/mirror-gradient)**|
 |**2024-02-14**|**Review-Incorporated Model-Agnostic Profile Injection Attacks on Recommender Systems**|Shiyi Yang et.al.|[2402.09023](http://arxiv.org/abs/2402.09023)|null|
@@ -76,6 +77,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**MPAT: Building Robust Deep Neural Networks against Textual Adversarial Attacks**|Fangyuan Zhang et.al.|[2402.18792](http://arxiv.org/abs/2402.18792)|null|
 |**2024-02-28**|**Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks**|Zhewei Wu et.al.|[2402.17976](http://arxiv.org/abs/2402.17976)|null|
 |**2024-02-27**|**Extreme Miscalibration and the Illusion of Adversarial Robustness**|Vyas Raina et.al.|[2402.17509](http://arxiv.org/abs/2402.17509)|null|
 |**2024-02-27**|**Robustness-Congruent Adversarial Training for Secure Machine Learning Model Updates**|Daniele Angioni et.al.|[2402.17390](http://arxiv.org/abs/2402.17390)|null|
@@ -313,6 +315,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of LLMs as Mathematical Problem Solvers**|Qintong Li et.al.|[2402.19255](http://arxiv.org/abs/2402.19255)|**[link](https://github.com/qtli/gsm-plus)**|
 |**2024-02-27**|**EmMark: Robust Watermarks for IP Protection of Embedded Quantized Large Language Models**|Ruisi Zhang et.al.|[2402.17938](http://arxiv.org/abs/2402.17938)|null|
 |**2024-02-26**|**Eight Methods to Evaluate Robust Unlearning in LLMs**|Aengus Lynch et.al.|[2402.16835](http://arxiv.org/abs/2402.16835)|null|
 |**2024-02-26**|**RoCoIns: Enhancing Robustness of Large Language Models through Code-Style Instructions**|Yuansen Zhang et.al.|[2402.16431](http://arxiv.org/abs/2402.16431)|null|
@@ -378,6 +381,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-29**|**Compositional API Recommendation for Library-Oriented Code Generation**|Zexiong Ma et.al.|[2402.19431](http://arxiv.org/abs/2402.19431)|null|
+|**2024-02-11**|**Exploring the Impact of Large Language Models on Recommender Systems: An Extensive Review**|Arpita Vats et.al.|[2402.18590](http://arxiv.org/abs/2402.18590)|null|
 |**2024-02-28**|**Prospect Personalized Recommendation on Large Language Model-based Agent Platform**|Jizhi Zhang et.al.|[2402.18240](http://arxiv.org/abs/2402.18240)|**[link](https://github.com/jizhi-zhang/rec4agentverse_case)**|
 |**2024-02-26**|**Integrating Large Language Models with Graphical Session-Based Recommendation**|Naicheng Guo et.al.|[2402.16539](http://arxiv.org/abs/2402.16539)|null|
 |**2024-02-25**|**Text Understanding and Generation Using Transformer Models for Intelligent E-commerce Recommendations**|Yafei Xiang et.al.|[2402.16035](http://arxiv.org/abs/2402.16035)|null|
