@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Lower-Left Partial AUC: An Effective and Efficient Optimization Metric for Recommendation**|Wentao Shi et.al.|[2403.00844](http://arxiv.org/abs/2403.00844)|null|
+|**2024-02-26**|**Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**|Wonbin Kweon et.al.|[2403.00817](http://arxiv.org/abs/2403.00817)|null|
 |**2024-02-29**|**MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation**|Jinfeng Xu et.al.|[2402.19407](http://arxiv.org/abs/2402.19407)|**[link](https://github.com/jinfeng-xu/mentor)**|
 |**2024-02-21**|**Distributionally Robust Graph-based Recommendation System**|Bohao Wang et.al.|[2402.12994](http://arxiv.org/abs/2402.12994)|**[link](https://github.com/WANGBohaO-jpg/DR-GNN)**|
 |**2024-02-17**|**Mirror Gradient: Towards Robust Multimodal Recommender Systems via Exploring Flat Local Minima**|Shanshan Zhong et.al.|[2402.11262](http://arxiv.org/abs/2402.11262)|**[link](https://github.com/qrange-group/mirror-gradient)**|
@@ -85,6 +87,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-01**|**Robust Deep Reinforcement Learning Through Adversarial Attacks and Training : A Survey**|Lucas Schott et.al.|[2403.00420](http://arxiv.org/abs/2403.00420)|null|
 |**2024-02-29**|**MPAT: Building Robust Deep Neural Networks against Textual Adversarial Attacks**|Fangyuan Zhang et.al.|[2402.18792](http://arxiv.org/abs/2402.18792)|null|
 |**2024-02-28**|**Enhancing Tracking Robustness with Auxiliary Adversarial Defense Networks**|Zhewei Wu et.al.|[2402.17976](http://arxiv.org/abs/2402.17976)|null|
 |**2024-02-27**|**Extreme Miscalibration and the Illusion of Adversarial Robustness**|Vyas Raina et.al.|[2402.17509](http://arxiv.org/abs/2402.17509)|null|
@@ -393,6 +396,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Enhancing Long-Term Recommendation with Bi-level Learnable Large Language Model Planning**|Wentao Shi et.al.|[2403.00843](http://arxiv.org/abs/2403.00843)|null|
+|**2024-02-26**|**InteraRec: Interactive Recommendations Using Multimodal Large Language Models**|Saketh Reddy Karra et.al.|[2403.00822](http://arxiv.org/abs/2403.00822)|null|
+|**2024-02-18**|**ChatDiet: Empowering Personalized Nutrition-Oriented Food Recommender Chatbots through an LLM-Augmented Framework**|Zhongqi Yang et.al.|[2403.00781](http://arxiv.org/abs/2403.00781)|null|
 |**2024-02-29**|**Compositional API Recommendation for Library-Oriented Code Generation**|Zexiong Ma et.al.|[2402.19431](http://arxiv.org/abs/2402.19431)|null|
 |**2024-02-11**|**Exploring the Impact of Large Language Models on Recommender Systems: An Extensive Review**|Arpita Vats et.al.|[2402.18590](http://arxiv.org/abs/2402.18590)|null|
 |**2024-02-28**|**Prospect Personalized Recommendation on Large Language Model-based Agent Platform**|Jizhi Zhang et.al.|[2402.18240](http://arxiv.org/abs/2402.18240)|**[link](https://github.com/jizhi-zhang/rec4agentverse_case)**|
