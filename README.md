@@ -333,6 +333,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion**|Zekai Zhang et.al.|[2403.03788](http://arxiv.org/abs/2403.03788)|**[link](https://github.com/zekaigalaxy/pptcr)**|
 |**2024-03-05**|**CURATRON: Complete Robust Preference Data for Robust Alignment of Large Language Models**|Son The Nguyen et.al.|[2403.02745](http://arxiv.org/abs/2403.02745)|null|
 |**2024-02-29**|**GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of LLMs as Mathematical Problem Solvers**|Qintong Li et.al.|[2402.19255](http://arxiv.org/abs/2402.19255)|**[link](https://github.com/qtli/gsm-plus)**|
 |**2024-02-27**|**EmMark: Robust Watermarks for IP Protection of Embedded Quantized Large Language Models**|Ruisi Zhang et.al.|[2402.17938](http://arxiv.org/abs/2402.17938)|null|
@@ -402,6 +403,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**Bridging Language and Items for Retrieval and Recommendation**|Yupeng Hou et.al.|[2403.03952](http://arxiv.org/abs/2403.03952)|**[link](https://github.com/hyp1231/amazonreviews2023)**|
+|**2024-03-06**|**Towards Efficient and Effective Unlearning of Large Language Models for Recommendation**|Hangyu Wang et.al.|[2403.03536](http://arxiv.org/abs/2403.03536)|**[link](https://github.com/justarter/e2urec)**|
+|**2024-03-06**|**Generative News Recommendation**|Shen Gao et.al.|[2403.03424](http://arxiv.org/abs/2403.03424)|null|
 |**2024-03-05**|**Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations**|Hasan Abu-Rasheed et.al.|[2403.03008](http://arxiv.org/abs/2403.03008)|null|
 |**2024-03-05**|**PaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers**|Yoonjoo Lee et.al.|[2403.02939](http://arxiv.org/abs/2403.02939)|null|
 |**2024-03-05**|**Emerging Synergies Between Large Language Models and Machine Learning in Ecommerce Recommendations**|Xiaonan Xu et.al.|[2403.02760](http://arxiv.org/abs/2403.02760)|null|
