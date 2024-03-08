@@ -403,6 +403,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-07**|**Pearl: A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset**|Minjin Kim et.al.|[2403.04460](http://arxiv.org/abs/2403.04460)|null|
+|**2024-03-07**|**Can Small Language Models be Good Reasoners for Sequential Recommendation?**|Yuling Wang et.al.|[2403.04260](http://arxiv.org/abs/2403.04260)|null|
+|**2024-03-07**|**Federated Recommendation via Hybrid Retrieval Augmented Generation**|Huimin Zeng et.al.|[2403.04256](http://arxiv.org/abs/2403.04256)|**[link](https://github.com/huiminzeng/gpt-fedrec)**|
 |**2024-03-06**|**Bridging Language and Items for Retrieval and Recommendation**|Yupeng Hou et.al.|[2403.03952](http://arxiv.org/abs/2403.03952)|**[link](https://github.com/hyp1231/amazonreviews2023)**|
 |**2024-03-06**|**Towards Efficient and Effective Unlearning of Large Language Models for Recommendation**|Hangyu Wang et.al.|[2403.03536](http://arxiv.org/abs/2403.03536)|**[link](https://github.com/justarter/e2urec)**|
 |**2024-03-06**|**Generative News Recommendation**|Shen Gao et.al.|[2403.03424](http://arxiv.org/abs/2403.03424)|null|
