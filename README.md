@@ -88,6 +88,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**|Ping Guo et.al.|[2403.05100](http://arxiv.org/abs/2403.05100)|null|
 |**2024-03-04**|**COMMIT: Certifying Robustness of Multi-Sensor Fusion Systems against Semantic Attacks**|Zijian Huang et.al.|[2403.02329](http://arxiv.org/abs/2403.02329)|null|
 |**2024-03-04**|**Robustness Bounds on the Successful Adversarial Examples: Theory and Practice**|Hiroaki Maeshima et.al.|[2403.01896](http://arxiv.org/abs/2403.01896)|null|
 |**2024-03-04**|**One Prompt Word is Enough to Boost Adversarial Robustness for Pre-trained Vision-Language Models**|Lin Li et.al.|[2403.01849](http://arxiv.org/abs/2403.01849)|**[link](https://github.com/treelli/apt)**|
@@ -333,6 +334,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-06**|**WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off**|Eva Giboulot et.al.|[2403.04808](http://arxiv.org/abs/2403.04808)|null|
 |**2024-03-06**|**PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion**|Zekai Zhang et.al.|[2403.03788](http://arxiv.org/abs/2403.03788)|**[link](https://github.com/zekaigalaxy/pptcr)**|
 |**2024-03-05**|**CURATRON: Complete Robust Preference Data for Robust Alignment of Large Language Models**|Son The Nguyen et.al.|[2403.02745](http://arxiv.org/abs/2403.02745)|null|
 |**2024-02-29**|**GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of LLMs as Mathematical Problem Solvers**|Qintong Li et.al.|[2402.19255](http://arxiv.org/abs/2402.19255)|**[link](https://github.com/qtli/gsm-plus)**|
@@ -403,6 +405,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-08**|**Aligning Large Language Models for Controllable Recommendations**|Wensheng Lu et.al.|[2403.05063](http://arxiv.org/abs/2403.05063)|null|
 |**2024-03-08**|**Pearl: A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset**|Minjin Kim et.al.|[2403.04460](http://arxiv.org/abs/2403.04460)|null|
 |**2024-03-07**|**Can Small Language Models be Good Reasoners for Sequential Recommendation?**|Yuling Wang et.al.|[2403.04260](http://arxiv.org/abs/2403.04260)|null|
 |**2024-03-07**|**Federated Recommendation via Hybrid Retrieval Augmented Generation**|Huimin Zeng et.al.|[2403.04256](http://arxiv.org/abs/2403.04256)|**[link](https://github.com/huiminzeng/gpt-fedrec)**|
