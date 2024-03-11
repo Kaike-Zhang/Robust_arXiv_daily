@@ -229,7 +229,7 @@ layout: default
 |**2023-09-25**|**Projected Randomized Smoothing for Certified Adversarial Robustness**|Samuel Pfrommer et.al.|[2309.13794](http://arxiv.org/abs/2309.13794)|**[link](https://github.com/spfrommer/projected_randomized_smoothing)**|
 |**2023-09-23**|**RBFormer: Improve Adversarial Robustness of Transformer by Robust Bias**|Hao Cheng et.al.|[2309.13245](http://arxiv.org/abs/2309.13245)|null|
 |**2023-09-22**|**Spatial-frequency channels, shape bias, and adversarial robustness**|Ajay Subramanian et.al.|[2309.13190](http://arxiv.org/abs/2309.13190)|**[link](https://github.com/ajaysub110/critical-band-masking)**|
-|**2023-09-22**|**Pixel-wise Smoothing for Certified Robustness against Camera Motion Perturbations**|Hanjiang Hu et.al.|[2309.13150](http://arxiv.org/abs/2309.13150)|null|
+|**2023-09-22**|**Pixel-wise Smoothing for Certified Robustness against Camera Motion Perturbations**|Hanjiang Hu et.al.|[2309.13150](http://arxiv.org/abs/2309.13150)|**[link](https://github.com/hanjianghu/pixel-wise-smoothing)**|
 |**2023-09-22**|**VIC-KD: Variance-Invariance-Covariance Knowledge Distillation to Make Keyword Spotting More Robust Against Adversarial Attacks**|Heitor R. Guimarães et.al.|[2309.12914](http://arxiv.org/abs/2309.12914)|null|
 |**2023-09-22**|**Improving Machine Learning Robustness via Adversarial Training**|Long Dang et.al.|[2309.12593](http://arxiv.org/abs/2309.12593)|null|
 |**2023-09-21**|**How Robust is Google's Bard to Adversarial Image Attacks?**|Yinpeng Dong et.al.|[2309.11751](http://arxiv.org/abs/2309.11751)|**[link](https://github.com/thu-ml/attack-bard)**|
@@ -244,7 +244,7 @@ layout: default
 |**2023-09-09**|**Exploring Robust Features for Improving Adversarial Robustness**|Hong Wang et.al.|[2309.04650](http://arxiv.org/abs/2309.04650)|null|
 |**2023-09-08**|**ARRTOC: Adversarially Robust Real-Time Optimization and Control**|Akhil Ahmed et.al.|[2309.04386](http://arxiv.org/abs/2309.04386)|null|
 |**2023-09-07**|**Adversarially Robust Deep Learning with Optimal-Transport-Regularized Divergences**|Jeremiah Birrell et.al.|[2309.03791](http://arxiv.org/abs/2309.03791)|null|
-|**2023-09-06**|**J-Guard: Journalism Guided Adversarially Robust Detection of AI-generated News**|Tharindu Kumarage et.al.|[2309.03164](http://arxiv.org/abs/2309.03164)|null|
+|**2023-09-06**|**J-Guard: Journalism Guided Adversarially Robust Detection of AI-generated News**|Tharindu Kumarage et.al.|[2309.03164](http://arxiv.org/abs/2309.03164)|**[link](https://github.com/TSKumarage/J-Guard)**|
 |**2023-09-06**|**Theoretical Explanation of Activation Sparsity through Flat Minima and Adversarial Robustness**|Ze Peng et.al.|[2309.03004](http://arxiv.org/abs/2309.03004)|null|
 |**2023-09-03**|**AdvMono3D: Advanced Monocular 3D Object Detection with Depth-Aware Robust Adversarial Training**|Xingyuan Li et.al.|[2309.01106](http://arxiv.org/abs/2309.01106)|null|
 |**2023-09-03**|**Dual Adversarial Resilience for Collaborating Robust Underwater Image Enhancement and Perception**|Zengxi Zhang et.al.|[2309.01102](http://arxiv.org/abs/2309.01102)|null|
