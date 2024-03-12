@@ -88,6 +88,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**Enhancing Adversarial Training with Prior Knowledge Distillation for Robust Image Compression**|Cao Zhi et.al.|[2403.06700](http://arxiv.org/abs/2403.06700)|null|
+|**2024-03-07**|**AdvQuNN: A Methodology for Analyzing the Adversarial Robustness of Quanvolutional Neural Networks**|Walid El Maouaki et.al.|[2403.05596](http://arxiv.org/abs/2403.05596)|null|
 |**2024-03-08**|**Exploring the Adversarial Frontier: Quantifying Robustness via Adversarial Hypervolume**|Ping Guo et.al.|[2403.05100](http://arxiv.org/abs/2403.05100)|null|
 |**2024-03-04**|**COMMIT: Certifying Robustness of Multi-Sensor Fusion Systems against Semantic Attacks**|Zijian Huang et.al.|[2403.02329](http://arxiv.org/abs/2403.02329)|null|
 |**2024-03-04**|**Robustness Bounds on the Successful Adversarial Examples: Theory and Practice**|Hiroaki Maeshima et.al.|[2403.01896](http://arxiv.org/abs/2403.01896)|null|
@@ -405,6 +407,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-11**|**KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation**|Weiqing Luo et.al.|[2403.06642](http://arxiv.org/abs/2403.06642)|null|
+|**2024-03-11**|**RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems**|Jianxun Lian et.al.|[2403.06465](http://arxiv.org/abs/2403.06465)|**[link](https://github.com/microsoft/recai)**|
+|**2024-03-11**|**CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation**|Junda Wu et.al.|[2403.06447](http://arxiv.org/abs/2403.06447)|null|
+|**2024-03-08**|**CFaiRLLM: Consumer Fairness Evaluation in Large-Language Model Recommender System**|Yashar Deldjoo et.al.|[2403.05668](http://arxiv.org/abs/2403.05668)|null|
 |**2024-03-08**|**Aligning Large Language Models for Controllable Recommendations**|Wensheng Lu et.al.|[2403.05063](http://arxiv.org/abs/2403.05063)|null|
 |**2024-03-08**|**Pearl: A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset**|Minjin Kim et.al.|[2403.04460](http://arxiv.org/abs/2403.04460)|null|
 |**2024-03-07**|**Can Small Language Models be Good Reasoners for Sequential Recommendation?**|Yuling Wang et.al.|[2403.04260](http://arxiv.org/abs/2403.04260)|null|
