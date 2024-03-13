@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.12
+## Updated on 2024.03.13
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -408,7 +408,7 @@ layout: default
 |**2024-03-06**|**Generative News Recommendation**|Shen Gao et.al.|[2403.03424](http://arxiv.org/abs/2403.03424)|null|
 |**2024-03-05**|**Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations**|Hasan Abu-Rasheed et.al.|[2403.03008](http://arxiv.org/abs/2403.03008)|null|
 |**2024-03-05**|**PaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers**|Yoonjoo Lee et.al.|[2403.02939](http://arxiv.org/abs/2403.02939)|null|
-|**2024-03-05**|**Emerging Synergies Between Large Language Models and Machine Learning in Ecommerce Recommendations**|Xiaonan Xu et.al.|[2403.02760](http://arxiv.org/abs/2403.02760)|null|
+|**2024-03-12**|**Emerging Synergies Between Large Language Models and Machine Learning in Ecommerce Recommendations**|Xiaonan Xu et.al.|[2403.02760](http://arxiv.org/abs/2403.02760)|null|
 |**2024-03-08**|**Wukong: Towards a Scaling Law for Large-Scale Recommendation**|Buyun Zhang et.al.|[2403.02545](http://arxiv.org/abs/2403.02545)|null|
 |**2024-03-04**|**NoteLLM: A Retrievable Large Language Model for Note Recommendation**|Chao Zhang et.al.|[2403.01744](http://arxiv.org/abs/2403.01744)|null|
 |**2024-02-29**|**Enhancing Long-Term Recommendation with Bi-level Learnable Large Language Model Planning**|Wentao Shi et.al.|[2403.00843](http://arxiv.org/abs/2403.00843)|null|
