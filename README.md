@@ -88,6 +88,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-13**|**Robust Decision Aggregation with Adversarial Experts**|Yongkang Guo et.al.|[2403.08222](http://arxiv.org/abs/2403.08222)|null|
 |**2024-03-11**|**Improving deep learning with prior knowledge and cognitive models: A survey on enhancing explainability, adversarial robustness and zero-shot learning**|Fuseinin Mumuni et.al.|[2403.07078](http://arxiv.org/abs/2403.07078)|null|
 |**2024-03-11**|**Enhancing Adversarial Training with Prior Knowledge Distillation for Robust Image Compression**|Cao Zhi et.al.|[2403.06700](http://arxiv.org/abs/2403.06700)|null|
 |**2024-03-07**|**AdvQuNN: A Methodology for Analyzing the Adversarial Robustness of Quanvolutional Neural Networks**|Walid El Maouaki et.al.|[2403.05596](http://arxiv.org/abs/2403.05596)|null|
