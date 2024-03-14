@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.13
+## Updated on 2024.03.14
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -328,7 +328,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-12**|**Robustness, Security, Privacy, Explainability, Efficiency, and Usability of Large Language Models for Code**|Zhou Yang et.al.|[2403.07506](http://arxiv.org/abs/2403.07506)|null|
-|**2024-03-06**|**WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off**|Eva Giboulot et.al.|[2403.04808](http://arxiv.org/abs/2403.04808)|null|
+|**2024-03-06**|**WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off**|Eva Giboulot et.al.|[2403.04808](http://arxiv.org/abs/2403.04808)|**[link](https://github.com/eva-giboulot/watermax)**|
 |**2024-03-06**|**PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion**|Zekai Zhang et.al.|[2403.03788](http://arxiv.org/abs/2403.03788)|**[link](https://github.com/zekaigalaxy/pptcr)**|
 |**2024-03-05**|**CURATRON: Complete Robust Preference Data for Robust Alignment of Large Language Models**|Son The Nguyen et.al.|[2403.02745](http://arxiv.org/abs/2403.02745)|null|
 |**2024-02-29**|**GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of LLMs as Mathematical Problem Solvers**|Qintong Li et.al.|[2402.19255](http://arxiv.org/abs/2402.19255)|**[link](https://github.com/qtli/gsm-plus)**|
