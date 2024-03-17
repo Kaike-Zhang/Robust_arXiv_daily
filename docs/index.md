@@ -80,6 +80,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Adversarial Fine-tuning of Compressed Neural Networks for Joint Improvement of Robustness and Efficiency**|Hallgrimur Thorsteinsson et.al.|[2403.09441](http://arxiv.org/abs/2403.09441)|**[link](https://github.com/saintslab/adver-fine)**|
+|**2024-03-14**|**AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions**|Hao Zhang et.al.|[2403.09346](http://arxiv.org/abs/2403.09346)|null|
+|**2024-03-14**|**ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks**|Zhaoliang Chen et.al.|[2403.09171](http://arxiv.org/abs/2403.09171)|null|
+|**2024-03-14**|**Soften to Defend: Towards Adversarial Robustness via Self-Guided Label Refinement**|Daiwei Yu et.al.|[2403.09101](http://arxiv.org/abs/2403.09101)|null|
 |**2024-03-13**|**Robust Decision Aggregation with Adversarial Experts**|Yongkang Guo et.al.|[2403.08222](http://arxiv.org/abs/2403.08222)|null|
 |**2024-03-11**|**Improving deep learning with prior knowledge and cognitive models: A survey on enhancing explainability, adversarial robustness and zero-shot learning**|Fuseinin Mumuni et.al.|[2403.07078](http://arxiv.org/abs/2403.07078)|null|
 |**2024-03-11**|**Enhancing Adversarial Training with Prior Knowledge Distillation for Robust Image Compression**|Cao Zhi et.al.|[2403.06700](http://arxiv.org/abs/2403.06700)|null|
