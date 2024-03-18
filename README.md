@@ -88,6 +88,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**Introducing Adaptive Continuous Adversarial Training (ACAT) to Enhance ML Robustness**|Mohamed elShehaby et.al.|[2403.10461](http://arxiv.org/abs/2403.10461)|null|
+|**2024-03-15**|**NLP Verification: Towards a General Methodology for Certifying Robustness**|Marco Casadio et.al.|[2403.10144](http://arxiv.org/abs/2403.10144)|null|
+|**2024-03-15**|**Efficient Multiplayer Battle Game Optimizer for Adversarial Robust Neural Architecture Search**|Rui Zhong et.al.|[2403.10100](http://arxiv.org/abs/2403.10100)|**[link](https://github.com/ruizhong961230/embgo)**|
+|**2024-03-15**|**Benchmarking Adversarial Robustness of Image Shadow Removal with Shadow-adaptive Attacks**|Chong Wang et.al.|[2403.10076](http://arxiv.org/abs/2403.10076)|null|
+|**2024-03-15**|**Towards Adversarially Robust Dataset Distillation by Curvature Regularization**|Eric Xue et.al.|[2403.10045](http://arxiv.org/abs/2403.10045)|null|
 |**2024-03-14**|**Adversarial Fine-tuning of Compressed Neural Networks for Joint Improvement of Robustness and Efficiency**|Hallgrimur Thorsteinsson et.al.|[2403.09441](http://arxiv.org/abs/2403.09441)|**[link](https://github.com/saintslab/adver-fine)**|
 |**2024-03-14**|**AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions**|Hao Zhang et.al.|[2403.09346](http://arxiv.org/abs/2403.09346)|null|
 |**2024-03-14**|**ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks**|Zhaoliang Chen et.al.|[2403.09171](http://arxiv.org/abs/2403.09171)|null|
@@ -414,6 +419,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation**|Lei Wang et.al.|[2403.10135](http://arxiv.org/abs/2403.10135)|**[link](https://github.com/demoleiwang/llmsrec_syn)**|
+|**2024-03-13**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738](http://arxiv.org/abs/2403.09738)|null|
 |**2024-03-11**|**KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation**|Weiqing Luo et.al.|[2403.06642](http://arxiv.org/abs/2403.06642)|null|
 |**2024-03-11**|**RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems**|Jianxun Lian et.al.|[2403.06465](http://arxiv.org/abs/2403.06465)|**[link](https://github.com/microsoft/recai)**|
 |**2024-03-11**|**CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation**|Junda Wu et.al.|[2403.06447](http://arxiv.org/abs/2403.06447)|null|
@@ -424,7 +431,7 @@
 |**2024-03-07**|**Federated Recommendation via Hybrid Retrieval Augmented Generation**|Huimin Zeng et.al.|[2403.04256](http://arxiv.org/abs/2403.04256)|**[link](https://github.com/huiminzeng/gpt-fedrec)**|
 |**2024-03-06**|**Bridging Language and Items for Retrieval and Recommendation**|Yupeng Hou et.al.|[2403.03952](http://arxiv.org/abs/2403.03952)|**[link](https://github.com/hyp1231/amazonreviews2023)**|
 |**2024-03-06**|**Towards Efficient and Effective Unlearning of Large Language Models for Recommendation**|Hangyu Wang et.al.|[2403.03536](http://arxiv.org/abs/2403.03536)|**[link](https://github.com/justarter/e2urec)**|
-|**2024-03-06**|**Generative News Recommendation**|Shen Gao et.al.|[2403.03424](http://arxiv.org/abs/2403.03424)|null|
+|**2024-03-06**|**Generative News Recommendation**|Shen Gao et.al.|[2403.03424](http://arxiv.org/abs/2403.03424)|**[link](https://github.com/morganf33/gnr)**|
 |**2024-03-05**|**Knowledge Graphs as Context Sources for LLM-Based Explanations of Learning Recommendations**|Hasan Abu-Rasheed et.al.|[2403.03008](http://arxiv.org/abs/2403.03008)|null|
 |**2024-03-05**|**PaperWeaver: Enriching Topical Paper Alerts by Contextualizing Recommended Papers with User-collected Papers**|Yoonjoo Lee et.al.|[2403.02939](http://arxiv.org/abs/2403.02939)|null|
 |**2024-03-12**|**Emerging Synergies Between Large Language Models and Machine Learning in Ecommerce Recommendations**|Xiaonan Xu et.al.|[2403.02760](http://arxiv.org/abs/2403.02760)|null|
