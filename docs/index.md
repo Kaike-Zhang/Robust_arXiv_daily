@@ -203,7 +203,7 @@ layout: default
 |**2023-11-06**|**On existence, uniqueness and scalability of adversarial robustness measures for AI classifiers**|Illia Horenko et.al.|[2310.14421](http://arxiv.org/abs/2310.14421)|null|
 |**2023-10-19**|**PatchCURE: Improving Certifiable Robustness, Model Utility, and Computation Efficiency of Adversarial Patch Defenses**|Chong Xiang et.al.|[2310.13076](http://arxiv.org/abs/2310.13076)|null|
 |**2023-10-19**|**OODRobustBench: benchmarking and analyzing adversarial robustness under distribution shift**|Lin Li et.al.|[2310.12793](http://arxiv.org/abs/2310.12793)|null|
-|**2023-10-19**|**Learn from the Past: A Proxy based Adversarial Defense Framework to Boost Robustness**|Yaohua Liu et.al.|[2310.12713](http://arxiv.org/abs/2310.12713)|null|
+|**2023-10-19**|**Learn from the Past: A Proxy based Adversarial Defense Framework to Boost Robustness**|Yaohua Liu et.al.|[2310.12713](http://arxiv.org/abs/2310.12713)|**[link](https://github.com/callous-youth/last)**|
 |**2023-10-19**|**Generating Robust Adversarial Examples against Online Social Networks (OSNs)**|Jun Liu et.al.|[2310.12708](http://arxiv.org/abs/2310.12708)|**[link](https://github.com/csjunjun/robustosnattack)**|
 |**2023-10-21**|**Adversarial Robustness Unhardening via Backdoor Attacks in Federated Learning**|Taejin Kim et.al.|[2310.11594](http://arxiv.org/abs/2310.11594)|null|
 |**2023-10-16**|**Robust Multi-Agent Reinforcement Learning via Adversarial Regularization: Theoretical Foundation and Stable Algorithms**|Alexander Bukharin et.al.|[2310.10810](http://arxiv.org/abs/2310.10810)|**[link](https://github.com/abukharin3/ernie)**|
@@ -230,7 +230,7 @@ layout: default
 |**2023-10-01**|**A Survey of Robustness and Safety of 2D and 3D Deep Learning Models Against Adversarial Attacks**|Yanjie Li et.al.|[2310.00633](http://arxiv.org/abs/2310.00633)|null|
 |**2023-10-01**|**On the Onset of Robust Overfitting in Adversarial Training**|Chaojian Yu et.al.|[2310.00607](http://arxiv.org/abs/2310.00607)|null|
 |**2023-10-01**|**Understanding the Robustness of Randomized Feature Defense Against Query-Based Adversarial Attacks**|Quang H. Nguyen et.al.|[2310.00567](http://arxiv.org/abs/2310.00567)|null|
-|**2023-09-29**|**Certified Robustness via Dynamic Margin Maximization and Improved Lipschitz Regularization**|Mahyar Fazlyab et.al.|[2310.00116](http://arxiv.org/abs/2310.00116)|null|
+|**2023-09-29**|**Certified Robustness via Dynamic Margin Maximization and Improved Lipschitz Regularization**|Mahyar Fazlyab et.al.|[2310.00116](http://arxiv.org/abs/2310.00116)|**[link](https://github.com/o4lc/crm-liplt)**|
 |**2023-10-03**|**Robust Offline Reinforcement Learning -- Certify the Confidence Interval**|Jiarui Yao et.al.|[2309.16631](http://arxiv.org/abs/2309.16631)|null|
 |**2023-09-28**|**On the Trade-offs between Adversarial Robustness and Actionable Explanations**|Satyapriya Krishna et.al.|[2309.16452](http://arxiv.org/abs/2309.16452)|null|
 |**2023-09-28**|**Parameter-Saving Adversarial Training: Reinforcing Multi-Perturbation Robustness via Hypernetworks**|Huihui Gong et.al.|[2309.16207](http://arxiv.org/abs/2309.16207)|null|
@@ -373,7 +373,7 @@ layout: default
 |**2023-10-05**|**A Formalism and Approach for Improving Robustness of Large Language Models Using Risk-Adjusted Confidence Scores**|Ke Shen et.al.|[2310.03283](http://arxiv.org/abs/2310.03283)|null|
 |**2023-10-03**|**Intuitive or Dependent? Investigating LLMs' Robustness to Conflicting Prompts**|Jiahao Ying et.al.|[2309.17415](http://arxiv.org/abs/2309.17415)|null|
 |**2023-09-27**|**Are Large Language Models Really Robust to Word-Level Perturbations?**|Haoyu Wang et.al.|[2309.11166](http://arxiv.org/abs/2309.11166)|**[link](https://github.com/harry-mic/treval)**|
-|**2023-09-03**|**Generative Data Augmentation using LLMs improves Distributional Robustness in Question Answering**|Arijit Ghosh Chowdhury et.al.|[2309.06358](http://arxiv.org/abs/2309.06358)|null|
+|**2023-09-03**|**Generative Data Augmentation using LLMs improves Distributional Robustness in Question Answering**|Arijit Ghosh Chowdhury et.al.|[2309.06358](http://arxiv.org/abs/2309.06358)|**[link](https://github.com/patil-suraj/question_generation)**|
 |**2023-10-06**|**Large Language Models Are Not Robust Multiple Choice Selectors**|Chujie Zheng et.al.|[2309.03882](http://arxiv.org/abs/2309.03882)|**[link](https://github.com/chujiezheng/llm-mcq-bias)**|
 |**2023-09-08**|**Simple LLM Prompting is State-of-the-Art for Robust and Multilingual Dialogue Evaluation**|John Mendonça et.al.|[2308.16797](http://arxiv.org/abs/2308.16797)|**[link](https://github.com/johndmendonca/dialevalml)**|
 |**2023-11-27**|**Evaluating the Robustness to Instructions of Large Language Models**|Yuansheng Ni et.al.|[2308.14306](http://arxiv.org/abs/2308.14306)|null|
@@ -429,7 +429,7 @@ layout: default
 |**2024-02-23**|**Language-Based User Profiles for Recommendation**|Joyce Zhou et.al.|[2402.15623](http://arxiv.org/abs/2402.15623)|null|
 |**2024-02-23**|**RecWizard: A Toolkit for Conversational Recommendation with Modular, Portable Models and Interactive User Interface**|Zeyuan Zhang et.al.|[2402.15591](http://arxiv.org/abs/2402.15591)|**[link](https://github.com/mcauley-lab/recwizard)**|
 |**2024-02-23**|**Multi-Agent Collaboration Framework for Recommender Systems**|Zhefan Wang et.al.|[2402.15235](http://arxiv.org/abs/2402.15235)|**[link](https://github.com/wzf2000/macrec)**|
-|**2024-02-23**|**Item-side Fairness of Large Language Model-based Recommendation System**|Meng Jiang et.al.|[2402.15215](http://arxiv.org/abs/2402.15215)|null|
+|**2024-02-23**|**Item-side Fairness of Large Language Model-based Recommendation System**|Meng Jiang et.al.|[2402.15215](http://arxiv.org/abs/2402.15215)|**[link](https://github.com/jiangm-c/ifairlrs)**|
 |**2024-02-18**|**Stealthy Attack on Large Language Model based Recommendation**|Jinghao Zhang et.al.|[2402.14836](http://arxiv.org/abs/2402.14836)|null|
 |**2024-02-21**|**LLM4SBR: A Lightweight and Effective Framework for Integrating Large Language Models in Session-based Recommendation**|Shutong Qiao et.al.|[2402.13840](http://arxiv.org/abs/2402.13840)|null|
 |**2024-02-21**|**Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph**|Qian Zhao et.al.|[2402.13750](http://arxiv.org/abs/2402.13750)|null|
