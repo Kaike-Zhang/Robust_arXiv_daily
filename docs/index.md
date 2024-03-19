@@ -80,6 +80,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-18**|**Robust Overfitting Does Matter: Test-Time Adversarial Purification With FGSM**|Linyu Tang et.al.|[2403.11448](http://arxiv.org/abs/2403.11448)|null|
+|**2024-03-17**|**COLEP: Certifiably Robust Learning-Reasoning Conformal Prediction via Probabilistic Circuits**|Mintong Kang et.al.|[2403.11348](http://arxiv.org/abs/2403.11348)|**[link](https://github.com/kangmintong/colep)**|
+|**2024-03-17**|**RobustSentEmbed: Robust Sentence Embeddings Using Adversarial Self-Supervised Contrastive Learning**|Javad Rafiei Asl et.al.|[2403.11082](http://arxiv.org/abs/2403.11082)|null|
+|**2024-03-16**|**Robust Co-Design of Canonical Underactuated Systems for Increased Certifiable Stability**|Federico Girlanda et.al.|[2403.10966](http://arxiv.org/abs/2403.10966)|null|
 |**2024-03-15**|**Introducing Adaptive Continuous Adversarial Training (ACAT) to Enhance ML Robustness**|Mohamed elShehaby et.al.|[2403.10461](http://arxiv.org/abs/2403.10461)|null|
 |**2024-03-15**|**NLP Verification: Towards a General Methodology for Certifying Robustness**|Marco Casadio et.al.|[2403.10144](http://arxiv.org/abs/2403.10144)|null|
 |**2024-03-15**|**Efficient Multiplayer Battle Game Optimizer for Adversarial Robust Neural Architecture Search**|Rui Zhong et.al.|[2403.10100](http://arxiv.org/abs/2403.10100)|**[link](https://github.com/ruizhong961230/embgo)**|
@@ -347,7 +351,7 @@ layout: default
 |**2024-02-26**|**RoCoIns: Enhancing Robustness of Large Language Models through Code-Style Instructions**|Yuansen Zhang et.al.|[2402.16431](http://arxiv.org/abs/2402.16431)|null|
 |**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
 |**2024-02-21**|**RITFIS: Robust input testing framework for LLMs-based intelligent software**|Mingxuan Xiao et.al.|[2402.13518](http://arxiv.org/abs/2402.13518)|null|
-|**2024-02-19**|**NEO-BENCH: Evaluating Robustness of Large Language Models with Neologisms**|Jonathan Zheng et.al.|[2402.12261](http://arxiv.org/abs/2402.12261)|null|
+|**2024-03-16**|**NEO-BENCH: Evaluating Robustness of Large Language Models with Neologisms**|Jonathan Zheng et.al.|[2402.12261](http://arxiv.org/abs/2402.12261)|null|
 |**2024-02-26**|**Towards Faithful and Robust LLM Specialists for Evidence-Based Question-Answering**|Tobias Schimanski et.al.|[2402.08277](http://arxiv.org/abs/2402.08277)|null|
 |**2024-02-08**|**Permute-and-Flip: An optimally robust and watermarkable decoder for LLMs**|Xuandong Zhao et.al.|[2402.05864](http://arxiv.org/abs/2402.05864)|**[link](https://github.com/xuandongzhao/pf-decoding)**|
 |**2024-01-27**|**An Empirical Study on Large Language Models in Accuracy and Robustness under Chinese Industrial Scenarios**|Zongjie Li et.al.|[2402.01723](http://arxiv.org/abs/2402.01723)|null|
