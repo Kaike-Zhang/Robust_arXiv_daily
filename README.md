@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660](http://arxiv.org/abs/2403.12660)|**[link](https://github.com/jia-py/erase)**|
+|**2024-03-17**|**Learning Time Slot Preferences via Mobility Tree for Next POI Recommendation**|Tianhao Huang et.al.|[2403.12100](http://arxiv.org/abs/2403.12100)|**[link](https://github.com/skyyyy0920/mtnet)**|
 |**2024-03-05**|**Uplift Modeling for Target User Attacks on Recommender Systems**|Wenjie Wang et.al.|[2403.02692](http://arxiv.org/abs/2403.02692)|**[link](https://github.com/wcsa23187/uba)**|
 |**2024-02-29**|**Lower-Left Partial AUC: An Effective and Efficient Optimization Metric for Recommendation**|Wentao Shi et.al.|[2403.00844](http://arxiv.org/abs/2403.00844)|null|
 |**2024-02-26**|**Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**|Wonbin Kweon et.al.|[2403.00817](http://arxiv.org/abs/2403.00817)|null|
