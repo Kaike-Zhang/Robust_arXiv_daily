@@ -82,6 +82,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation**|Yifan Wu et.al.|[2403.13322](http://arxiv.org/abs/2403.13322)|null|
+|**2024-03-19**|**Robust NAS under adversarial training: benchmark, theory, and beyond**|Yongtao Wu et.al.|[2403.13134](http://arxiv.org/abs/2403.13134)|null|
 |**2024-03-18**|**Robust Overfitting Does Matter: Test-Time Adversarial Purification With FGSM**|Linyu Tang et.al.|[2403.11448](http://arxiv.org/abs/2403.11448)|null|
 |**2024-03-17**|**COLEP: Certifiably Robust Learning-Reasoning Conformal Prediction via Probabilistic Circuits**|Mintong Kang et.al.|[2403.11348](http://arxiv.org/abs/2403.11348)|**[link](https://github.com/kangmintong/colep)**|
 |**2024-03-17**|**RobustSentEmbed: Robust Sentence Embeddings Using Adversarial Self-Supervised Contrastive Learning**|Javad Rafiei Asl et.al.|[2403.11082](http://arxiv.org/abs/2403.11082)|null|
@@ -413,6 +415,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation**|Bowen Zheng et.al.|[2403.13574](http://arxiv.org/abs/2403.13574)|null|
+|**2024-03-20**|**Harnessing Large Language Models for Text-Rich Sequential Recommendation**|Zhi Zheng et.al.|[2403.13325](http://arxiv.org/abs/2403.13325)|null|
 |**2024-03-15**|**The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation**|Lei Wang et.al.|[2403.10135](http://arxiv.org/abs/2403.10135)|**[link](https://github.com/demoleiwang/llmsrec_syn)**|
 |**2024-03-19**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738](http://arxiv.org/abs/2403.09738)|null|
 |**2024-03-11**|**KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation**|Weiqing Luo et.al.|[2403.06642](http://arxiv.org/abs/2403.06642)|null|
