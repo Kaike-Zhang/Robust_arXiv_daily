@@ -1,4 +1,4 @@
-## Updated on 2024.03.20
+## Updated on 2024.03.21
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,7 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-19**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660](http://arxiv.org/abs/2403.12660)|**[link](https://github.com/jia-py/erase)**|
+|**2024-03-20**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660](http://arxiv.org/abs/2403.12660)|**[link](https://github.com/jia-py/erase)**|
 |**2024-03-17**|**Learning Time Slot Preferences via Mobility Tree for Next POI Recommendation**|Tianhao Huang et.al.|[2403.12100](http://arxiv.org/abs/2403.12100)|**[link](https://github.com/skyyyy0920/mtnet)**|
 |**2024-03-05**|**Uplift Modeling for Target User Attacks on Recommender Systems**|Wenjie Wang et.al.|[2403.02692](http://arxiv.org/abs/2403.02692)|**[link](https://github.com/wcsa23187/uba)**|
 |**2024-02-29**|**Lower-Left Partial AUC: An Effective and Efficient Optimization Metric for Recommendation**|Wentao Shi et.al.|[2403.00844](http://arxiv.org/abs/2403.00844)|null|
@@ -84,7 +84,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20240320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
 
 ## Robust ML
 
@@ -347,7 +347,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20240320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
 
 ## Security LLM
 
@@ -419,14 +419,14 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20240320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
 
 ## LLM4Rec
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-03-15**|**The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation**|Lei Wang et.al.|[2403.10135](http://arxiv.org/abs/2403.10135)|**[link](https://github.com/demoleiwang/llmsrec_syn)**|
-|**2024-03-13**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738](http://arxiv.org/abs/2403.09738)|null|
+|**2024-03-19**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738](http://arxiv.org/abs/2403.09738)|null|
 |**2024-03-11**|**KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation**|Weiqing Luo et.al.|[2403.06642](http://arxiv.org/abs/2403.06642)|null|
 |**2024-03-11**|**RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems**|Jianxun Lian et.al.|[2403.06465](http://arxiv.org/abs/2403.06465)|**[link](https://github.com/microsoft/recai)**|
 |**2024-03-11**|**CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation**|Junda Wu et.al.|[2403.06447](http://arxiv.org/abs/2403.06447)|null|
@@ -496,5 +496,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240320>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240321>back to top</a>)</p>
 
