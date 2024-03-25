@@ -90,6 +90,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-22**|**Robust optimization for adversarial learning with finite sample complexity guarantees**|André Bertolace et.al.|[2403.15207](http://arxiv.org/abs/2403.15207)|null|
 |**2024-03-21**|**Adversary-Robust Graph-Based Learning of WSIs**|Saba Heidari Gheshlaghi et.al.|[2403.14489](http://arxiv.org/abs/2403.14489)|null|
 |**2024-03-20**|**DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation**|Yifan Wu et.al.|[2403.13322](http://arxiv.org/abs/2403.13322)|null|
 |**2024-03-19**|**Robust NAS under adversarial training: benchmark, theory, and beyond**|Yongtao Wu et.al.|[2403.13134](http://arxiv.org/abs/2403.13134)|null|
@@ -356,7 +357,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-03-21**|**Improving the Robustness of Large Language Models via Consistency Alignment**|Zhao Yukun et.al.|[2403.14221](http://arxiv.org/abs/2403.14221)|null|
+|**2024-03-22**|**Improving the Robustness of Large Language Models via Consistency Alignment**|Yukun Zhao et.al.|[2403.14221](http://arxiv.org/abs/2403.14221)|null|
 |**2024-03-12**|**Robustness, Security, Privacy, Explainability, Efficiency, and Usability of Large Language Models for Code**|Zhou Yang et.al.|[2403.07506](http://arxiv.org/abs/2403.07506)|null|
 |**2024-03-06**|**WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off**|Eva Giboulot et.al.|[2403.04808](http://arxiv.org/abs/2403.04808)|**[link](https://github.com/eva-giboulot/watermax)**|
 |**2024-03-06**|**PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion**|Zekai Zhang et.al.|[2403.03788](http://arxiv.org/abs/2403.03788)|**[link](https://github.com/zekaigalaxy/pptcr)**|
