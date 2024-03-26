@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Graph Augmentation for Recommendation**|Qianru Zhang et.al.|[2403.16656](http://arxiv.org/abs/2403.16656)|**[link](https://github.com/hkuds/graphaug)**|
 |**2024-03-20**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660](http://arxiv.org/abs/2403.12660)|**[link](https://github.com/applied-machine-learning-lab/erase)**|
 |**2024-03-17**|**Learning Time Slot Preferences via Mobility Tree for Next POI Recommendation**|Tianhao Huang et.al.|[2403.12100](http://arxiv.org/abs/2403.12100)|**[link](https://github.com/skyyyy0920/mtnet)**|
 |**2024-03-05**|**Uplift Modeling for Target User Attacks on Recommender Systems**|Wenjie Wang et.al.|[2403.02692](http://arxiv.org/abs/2403.02692)|**[link](https://github.com/wcsa23187/uba)**|
@@ -82,6 +83,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-24**|**Robust Diffusion Models for Adversarial Purification**|Guang Lin et.al.|[2403.16067](http://arxiv.org/abs/2403.16067)|null|
 |**2024-03-22**|**Robust optimization for adversarial learning with finite sample complexity guarantees**|André Bertolace et.al.|[2403.15207](http://arxiv.org/abs/2403.15207)|null|
 |**2024-03-21**|**Adversary-Robust Graph-Based Learning of WSIs**|Saba Heidari Gheshlaghi et.al.|[2403.14489](http://arxiv.org/abs/2403.14489)|null|
 |**2024-03-20**|**DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation**|Yifan Wu et.al.|[2403.13322](http://arxiv.org/abs/2403.13322)|null|
@@ -418,6 +420,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-25**|**Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation**|Ziyan Wang et.al.|[2403.16427](http://arxiv.org/abs/2403.16427)|null|
+|**2024-03-25**|**How Reliable is Your Simulator? Analysis on the Limitations of Current LLM-based User Simulators for Conversational Recommendation**|Lixi Zhu et.al.|[2403.16416](http://arxiv.org/abs/2403.16416)|null|
+|**2024-03-25**|**Play to Your Strengths: Collaborative Intelligence of Conventional Recommender Models and Large Language Models**|Yunjia Xi et.al.|[2403.16378](http://arxiv.org/abs/2403.16378)|null|
 |**2024-03-20**|**A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation**|Bowen Zheng et.al.|[2403.13574](http://arxiv.org/abs/2403.13574)|null|
 |**2024-03-20**|**Harnessing Large Language Models for Text-Rich Sequential Recommendation**|Zhi Zheng et.al.|[2403.13325](http://arxiv.org/abs/2403.13325)|null|
 |**2024-03-15**|**The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation**|Lei Wang et.al.|[2403.10135](http://arxiv.org/abs/2403.10135)|**[link](https://github.com/demoleiwang/llmsrec_syn)**|
