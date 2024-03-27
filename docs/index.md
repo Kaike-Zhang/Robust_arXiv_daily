@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.03.26
+## Updated on 2024.03.27
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -420,13 +420,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-03-25**|**Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation**|Ziyan Wang et.al.|[2403.16427](http://arxiv.org/abs/2403.16427)|null|
+|**2024-03-26**|**Re2LLM: Reflective Reinforcement Large Language Model for Session-based Recommendation**|Ziyan Wang et.al.|[2403.16427](http://arxiv.org/abs/2403.16427)|null|
 |**2024-03-25**|**How Reliable is Your Simulator? Analysis on the Limitations of Current LLM-based User Simulators for Conversational Recommendation**|Lixi Zhu et.al.|[2403.16416](http://arxiv.org/abs/2403.16416)|null|
 |**2024-03-25**|**Play to Your Strengths: Collaborative Intelligence of Conventional Recommender Models and Large Language Models**|Yunjia Xi et.al.|[2403.16378](http://arxiv.org/abs/2403.16378)|null|
 |**2024-03-20**|**A Large Language Model Enhanced Sequential Recommender for Joint Video and Comment Recommendation**|Bowen Zheng et.al.|[2403.13574](http://arxiv.org/abs/2403.13574)|null|
 |**2024-03-20**|**Harnessing Large Language Models for Text-Rich Sequential Recommendation**|Zhi Zheng et.al.|[2403.13325](http://arxiv.org/abs/2403.13325)|null|
 |**2024-03-15**|**The Whole is Better than the Sum: Using Aggregated Demonstrations in In-Context Learning for Sequential Recommendation**|Lei Wang et.al.|[2403.10135](http://arxiv.org/abs/2403.10135)|**[link](https://github.com/demoleiwang/llmsrec_syn)**|
-|**2024-03-22**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738](http://arxiv.org/abs/2403.09738)|null|
+|**2024-03-25**|**Evaluating Large Language Models as Generative User Simulators for Conversational Recommendation**|Se-eun Yoon et.al.|[2403.09738](http://arxiv.org/abs/2403.09738)|**[link](https://github.com/granelle/naacl24-user-sim)**|
 |**2024-03-11**|**KELLMRec: Knowledge-Enhanced Large Language Models for Recommendation**|Weiqing Luo et.al.|[2403.06642](http://arxiv.org/abs/2403.06642)|null|
 |**2024-03-11**|**RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems**|Jianxun Lian et.al.|[2403.06465](http://arxiv.org/abs/2403.06465)|**[link](https://github.com/microsoft/recai)**|
 |**2024-03-11**|**CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation**|Junda Wu et.al.|[2403.06447](http://arxiv.org/abs/2403.06447)|null|
