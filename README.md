@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|null|
+|**2024-04-01**|**Poisoning Decentralized Collaborative Recommender System and Its Countermeasures**|Ruiqi Zheng et.al.|[2404.01177](http://arxiv.org/abs/2404.01177)|null|
+|**2024-03-29**|**Optimal Blackjack Strategy Recommender: A Comprehensive Study on Computer Vision Integration for Enhanced Gameplay**|Krishnanshu Gupta et.al.|[2404.00191](http://arxiv.org/abs/2404.00191)|null|
 |**2024-03-29**|**Review-Based Cross-Domain Recommendation via Hyperbolic Embedding and Hierarchy-Aware Domain Disentanglement**|Yoonhyuk Choi et.al.|[2403.20298](http://arxiv.org/abs/2403.20298)|null|
 |**2024-03-29**|**Robust Federated Contrastive Recommender System against Model Poisoning Attack**|Wei Yuan et.al.|[2403.20107](http://arxiv.org/abs/2403.20107)|null|
 |**2024-03-28**|**Enhanced Bayesian Personalized Ranking for Robust Hard Negative Sampling in Recommender Systems**|Kexin Shi et.al.|[2403.19276](http://arxiv.org/abs/2403.19276)|null|
@@ -95,6 +98,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-31**|**Adversarially-Robust Inference on Trees via Belief Propagation**|Samuel B. Hopkins et.al.|[2404.00768](http://arxiv.org/abs/2404.00768)|null|
+|**2024-03-29**|**On Inherent Adversarial Robustness of Active Vision Systems**|Amitangshu Mukherjee et.al.|[2404.00185](http://arxiv.org/abs/2404.00185)|null|
 |**2024-03-29**|**Cross-Lingual Transfer Robustness to Lower-Resource Languages on Adversarial Datasets**|Shadi Manafi et.al.|[2403.20056](http://arxiv.org/abs/2403.20056)|**[link](https://github.com/csu-signal/xlingual-robustness)**|
 |**2024-03-27**|**SemRoDe: Macro Adversarial Training to Learn Representations That are Robust to Word-Level Attacks**|Brian Formento et.al.|[2403.18423](http://arxiv.org/abs/2403.18423)|**[link](https://github.com/aniloid2/semrode-macroadversarialtraining)**|
 |**2024-03-24**|**Robust Diffusion Models for Adversarial Purification**|Guang Lin et.al.|[2403.16067](http://arxiv.org/abs/2403.16067)|null|
@@ -365,6 +370,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-01**|**Syntactic Robustness for LLM-based Code Generation**|Laboni Sarker et.al.|[2404.01535](http://arxiv.org/abs/2404.01535)|null|
+|**2024-03-28**|**JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models**|Patrick Chao et.al.|[2404.01318](http://arxiv.org/abs/2404.01318)|null|
+|**2024-03-31**|**PID Control-Based Self-Healing to Improve the Robustness of Large Language Models**|Zhuotong Chen et.al.|[2404.00828](http://arxiv.org/abs/2404.00828)|**[link](https://github.com/zhuotongchen/pid-control-based-self-healing-to-improve-the-robustness-of-large-language-models)**|
+|**2024-03-31**|**WavLLM: Towards Robust and Adaptive Speech Large Language Model**|Shujie Hu et.al.|[2404.00656](http://arxiv.org/abs/2404.00656)|null|
 |**2024-03-27**|**CheckEval: Robust Evaluation Framework using Large Language Model via Checklist**|Yukyung Lee et.al.|[2403.18771](http://arxiv.org/abs/2403.18771)|null|
 |**2024-03-24**|**Is Watermarking LLM-Generated Code Robust?**|Tarun Suresh et.al.|[2403.17983](http://arxiv.org/abs/2403.17983)|null|
 |**2024-03-26**|**Robust and Scalable Model Editing for Large Language Models**|Yingfa Chen et.al.|[2403.17431](http://arxiv.org/abs/2403.17431)|**[link](https://github.com/thunlp/eren)**|
@@ -441,6 +450,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|null|
+|**2024-04-01**|**Maximizing User Experience with LLMOps-Driven Personalized Recommendation Systems**|Chenxi Shi et.al.|[2404.00903](http://arxiv.org/abs/2404.00903)|null|
+|**2024-03-31**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702](http://arxiv.org/abs/2404.00702)|null|
+|**2024-03-31**|**A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)**|Yashar Deldjoo et.al.|[2404.00579](http://arxiv.org/abs/2404.00579)|**[link](https://github.com/yasdel/llm-recsys)**|
+|**2024-03-30**|**Aligning Large Language Models with Recommendation Knowledge**|Yuwei Cao et.al.|[2404.00245](http://arxiv.org/abs/2404.00245)|null|
+|**2024-03-30**|**Enhancing Content-based Recommendation via Large Language Model**|Wentao Xu et.al.|[2404.00236](http://arxiv.org/abs/2404.00236)|null|
 |**2024-03-27**|**Sequential Recommendation with Latent Relations based on Large Language Model**|Shenghao Yang et.al.|[2403.18348](http://arxiv.org/abs/2403.18348)|**[link](https://github.com/ysh-1998/lrd)**|
 |**2024-03-27**|**Common Sense Enhanced Knowledge-based Recommendation with Large Language Model**|Shenghao Yang et.al.|[2403.18325](http://arxiv.org/abs/2403.18325)|**[link](https://github.com/ysh-1998/csrec)**|
 |**2024-03-25**|**Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling**|Jie Wang et.al.|[2403.16948](http://arxiv.org/abs/2403.16948)|null|
