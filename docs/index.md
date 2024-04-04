@@ -90,6 +90,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-02**|**Towards Robust 3D Pose Transfer with Adversarial Learning**|Haoyu Chen et.al.|[2404.02242](http://arxiv.org/abs/2404.02242)|null|
 |**2024-03-31**|**Adversarially-Robust Inference on Trees via Belief Propagation**|Samuel B. Hopkins et.al.|[2404.00768](http://arxiv.org/abs/2404.00768)|null|
 |**2024-03-29**|**On Inherent Adversarial Robustness of Active Vision Systems**|Amitangshu Mukherjee et.al.|[2404.00185](http://arxiv.org/abs/2404.00185)|null|
 |**2024-03-29**|**Cross-Lingual Transfer Robustness to Lower-Resource Languages on Adversarial Datasets**|Shadi Manafi et.al.|[2403.20056](http://arxiv.org/abs/2403.20056)|**[link](https://github.com/csu-signal/xlingual-robustness)**|
@@ -365,7 +366,7 @@ layout: default
 |**2024-03-31**|**PID Control-Based Self-Healing to Improve the Robustness of Large Language Models**|Zhuotong Chen et.al.|[2404.00828](http://arxiv.org/abs/2404.00828)|**[link](https://github.com/zhuotongchen/pid-control-based-self-healing-to-improve-the-robustness-of-large-language-models)**|
 |**2024-03-31**|**WavLLM: Towards Robust and Adaptive Speech Large Language Model**|Shujie Hu et.al.|[2404.00656](http://arxiv.org/abs/2404.00656)|null|
 |**2024-03-27**|**CheckEval: Robust Evaluation Framework using Large Language Model via Checklist**|Yukyung Lee et.al.|[2403.18771](http://arxiv.org/abs/2403.18771)|null|
-|**2024-03-24**|**Is Watermarking LLM-Generated Code Robust?**|Tarun Suresh et.al.|[2403.17983](http://arxiv.org/abs/2403.17983)|null|
+|**2024-03-24**|**Is Watermarking LLM-Generated Code Robust?**|Tarun Suresh et.al.|[2403.17983](http://arxiv.org/abs/2403.17983)|**[link](https://github.com/uiuc-arc/llm-code-watermark)**|
 |**2024-03-26**|**Robust and Scalable Model Editing for Large Language Models**|Yingfa Chen et.al.|[2403.17431](http://arxiv.org/abs/2403.17431)|**[link](https://github.com/thunlp/eren)**|
 |**2024-03-22**|**Improving the Robustness of Large Language Models via Consistency Alignment**|Yukun Zhao et.al.|[2403.14221](http://arxiv.org/abs/2403.14221)|null|
 |**2024-03-12**|**Robustness, Security, Privacy, Explainability, Efficiency, and Usability of Large Language Models for Code**|Zhou Yang et.al.|[2403.07506](http://arxiv.org/abs/2403.07506)|null|
