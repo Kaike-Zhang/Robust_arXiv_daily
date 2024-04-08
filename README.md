@@ -98,6 +98,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And The Role of Distillation as Defense Mechanism**|Trilokesh Ranjan Sarkar et.al.|[2404.04245](http://arxiv.org/abs/2404.04245)|null|
+|**2024-04-05**|**Reliable Feature Selection for Adversarially Robust Cyber-Attack Detection**|João Vitorino et.al.|[2404.04188](http://arxiv.org/abs/2404.04188)|null|
 |**2024-04-04**|**Meta Invariance Defense Towards Generalizable Robustness to Unknown Adversarial Attacks**|Lei Zhang et.al.|[2404.03340](http://arxiv.org/abs/2404.03340)|null|
 |**2024-04-02**|**Towards Robust 3D Pose Transfer with Adversarial Learning**|Haoyu Chen et.al.|[2404.02242](http://arxiv.org/abs/2404.02242)|null|
 |**2024-03-31**|**Adversarially-Robust Inference on Trees via Belief Propagation**|Samuel B. Hopkins et.al.|[2404.00768](http://arxiv.org/abs/2404.00768)|null|
@@ -372,6 +374,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-05**|**Robust Preference Optimization with Provable Noise Tolerance for LLMs**|Xize Liang et.al.|[2404.04102](http://arxiv.org/abs/2404.04102)|null|
 |**2024-04-04**|**Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?**|Vagrant Gautam et.al.|[2404.03134](http://arxiv.org/abs/2404.03134)|**[link](https://github.com/uds-lsv/pronoun-use-fidelity)**|
 |**2024-04-03**|**JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks**|Weidi Luo et.al.|[2404.03027](http://arxiv.org/abs/2404.03027)|null|
 |**2024-04-01**|**Syntactic Robustness for LLM-based Code Generation**|Laboni Sarker et.al.|[2404.01535](http://arxiv.org/abs/2404.01535)|null|
@@ -454,6 +457,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-04**|**Understanding Language Modeling Paradigm Adaptations in Recommender Systems: Lessons Learned and Open Challenges**|Lemei Zhang et.al.|[2404.03788](http://arxiv.org/abs/2404.03788)|**[link](https://github.com/smartmediaai/llm_recsys)**|
 |**2024-04-04**|**Concept -- An Evaluation Protocol on Conversation Recommender Systems with System- and User-centric Factors**|Chen Huang et.al.|[2404.03304](http://arxiv.org/abs/2404.03304)|null|
 |**2024-04-02**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
 |**2024-04-01**|**Maximizing User Experience with LLMOps-Driven Personalized Recommendation Systems**|Chenxi Shi et.al.|[2404.00903](http://arxiv.org/abs/2404.00903)|null|
