@@ -239,7 +239,7 @@
 |**2023-10-25**|**Dual Defense: Adversarial, Traceable, and Invisible Robust Watermarking against Face Swapping**|Yunming Zhang et.al.|[2310.16540](http://arxiv.org/abs/2310.16540)|null|
 |**2023-10-23**|**Unsupervised Federated Learning: A Federated Gradient EM Algorithm for Heterogeneous Mixture Models with Robustness against Adversarial Attacks**|Ye Tian et.al.|[2310.15330](http://arxiv.org/abs/2310.15330)|null|
 |**2023-11-06**|**On existence, uniqueness and scalability of adversarial robustness measures for AI classifiers**|Illia Horenko et.al.|[2310.14421](http://arxiv.org/abs/2310.14421)|null|
-|**2023-10-19**|**PatchCURE: Improving Certifiable Robustness, Model Utility, and Computation Efficiency of Adversarial Patch Defenses**|Chong Xiang et.al.|[2310.13076](http://arxiv.org/abs/2310.13076)|null|
+|**2023-10-19**|**PatchCURE: Improving Certifiable Robustness, Model Utility, and Computation Efficiency of Adversarial Patch Defenses**|Chong Xiang et.al.|[2310.13076](http://arxiv.org/abs/2310.13076)|**[link](https://github.com/inspire-group/patchcure)**|
 |**2023-10-19**|**OODRobustBench: benchmarking and analyzing adversarial robustness under distribution shift**|Lin Li et.al.|[2310.12793](http://arxiv.org/abs/2310.12793)|null|
 |**2023-10-19**|**Learn from the Past: A Proxy based Adversarial Defense Framework to Boost Robustness**|Yaohua Liu et.al.|[2310.12713](http://arxiv.org/abs/2310.12713)|**[link](https://github.com/callous-youth/last)**|
 |**2023-10-19**|**Generating Robust Adversarial Examples against Online Social Networks (OSNs)**|Jun Liu et.al.|[2310.12708](http://arxiv.org/abs/2310.12708)|**[link](https://github.com/csjunjun/robustosnattack)**|
@@ -536,7 +536,7 @@
 |**2024-01-07**|**ChatGPT for Conversational Recommendation: Refining Recommendations by Reprompting with Feedback**|Kyle Dylan Spurlock et.al.|[2401.03605](http://arxiv.org/abs/2401.03605)|null|
 |**2024-01-05**|**Detection and Classification of Diabetic Retinopathy using Deep Learning Algorithms for Segmentation to Facilitate Referral Recommendation for Test and Treatment Prediction**|Manoj S H et.al.|[2401.02759](http://arxiv.org/abs/2401.02759)|**[link](https://github.com/Manoj-Sh-AI/Diabetic-Retinopathy-Detection-and-Clasification-System)**|
 |**2023-12-26**|**Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models**|Fan Liu et.al.|[2312.16275](http://arxiv.org/abs/2312.16275)|null|
-|**2024-01-15**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018](http://arxiv.org/abs/2312.16018)|null|
+|**2024-01-15**|**RecRanker: Instruction Tuning Large Language Model as Ranker for Top-k Recommendation**|Sichun Luo et.al.|[2312.16018](http://arxiv.org/abs/2312.16018)|**[link](https://github.com/sichunluo/recranker)**|
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
