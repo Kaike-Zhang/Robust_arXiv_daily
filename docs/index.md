@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model**|Sirui Wang et.al.|[2404.05342](http://arxiv.org/abs/2404.05342)|null|
+|**2024-04-06**|**Music Recommendation Based on Facial Emotion Recognition**|Rajesh B et.al.|[2404.04654](http://arxiv.org/abs/2404.04654)|null|
 |**2024-04-02**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
 |**2024-04-01**|**Poisoning Decentralized Collaborative Recommender System and Its Countermeasures**|Ruiqi Zheng et.al.|[2404.01177](http://arxiv.org/abs/2404.01177)|null|
 |**2024-03-29**|**Optimal Blackjack Strategy Recommender: A Comprehensive Study on Computer Vision Integration for Enhanced Gameplay**|Krishnanshu Gupta et.al.|[2404.00191](http://arxiv.org/abs/2404.00191)|null|
@@ -90,6 +92,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Investigating the Impact of Quantization on Adversarial Robustness**|Qun Li et.al.|[2404.05639](http://arxiv.org/abs/2404.05639)|null|
 |**2024-04-05**|**Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And The Role of Distillation as Defense Mechanism**|Trilokesh Ranjan Sarkar et.al.|[2404.04245](http://arxiv.org/abs/2404.04245)|null|
 |**2024-04-05**|**Reliable Feature Selection for Adversarially Robust Cyber-Attack Detection**|João Vitorino et.al.|[2404.04188](http://arxiv.org/abs/2404.04188)|null|
 |**2024-04-04**|**Meta Invariance Defense Towards Generalizable Robustness to Unknown Adversarial Attacks**|Lei Zhang et.al.|[2404.03340](http://arxiv.org/abs/2404.03340)|null|
@@ -364,6 +367,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging**|Tianshuo Cong et.al.|[2404.05188](http://arxiv.org/abs/2404.05188)|**[link](https://github.com/thuccslab/mergeguard)**|
 |**2024-04-05**|**Robust Preference Optimization with Provable Noise Tolerance for LLMs**|Xize Liang et.al.|[2404.04102](http://arxiv.org/abs/2404.04102)|null|
 |**2024-04-04**|**Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?**|Vagrant Gautam et.al.|[2404.03134](http://arxiv.org/abs/2404.03134)|**[link](https://github.com/uds-lsv/pronoun-use-fidelity)**|
 |**2024-04-03**|**JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks**|Weidi Luo et.al.|[2404.03027](http://arxiv.org/abs/2404.03027)|null|
@@ -449,7 +453,7 @@ layout: default
 |**2024-04-06**|**Concept -- An Evaluation Protocol on Conversation Recommender Systems with System-centric and User-centric Factors**|Chen Huang et.al.|[2404.03304](http://arxiv.org/abs/2404.03304)|null|
 |**2024-04-02**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
 |**2024-04-01**|**Maximizing User Experience with LLMOps-Driven Personalized Recommendation Systems**|Chenxi Shi et.al.|[2404.00903](http://arxiv.org/abs/2404.00903)|null|
-|**2024-03-31**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702](http://arxiv.org/abs/2404.00702)|null|
+|**2024-04-07**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702](http://arxiv.org/abs/2404.00702)|null|
 |**2024-03-31**|**A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)**|Yashar Deldjoo et.al.|[2404.00579](http://arxiv.org/abs/2404.00579)|**[link](https://github.com/yasdel/llm-recsys)**|
 |**2024-03-30**|**Aligning Large Language Models with Recommendation Knowledge**|Yuwei Cao et.al.|[2404.00245](http://arxiv.org/abs/2404.00245)|null|
 |**2024-03-30**|**Enhancing Content-based Recommendation via Large Language Model**|Wentao Xu et.al.|[2404.00236](http://arxiv.org/abs/2404.00236)|null|
