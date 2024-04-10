@@ -449,6 +449,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level**|Shen Gao et.al.|[2404.06311](http://arxiv.org/abs/2404.06311)|null|
 |**2024-04-04**|**Understanding Language Modeling Paradigm Adaptations in Recommender Systems: Lessons Learned and Open Challenges**|Lemei Zhang et.al.|[2404.03788](http://arxiv.org/abs/2404.03788)|**[link](https://github.com/smartmediaai/llm_recsys)**|
 |**2024-04-06**|**Concept -- An Evaluation Protocol on Conversation Recommender Systems with System-centric and User-centric Factors**|Chen Huang et.al.|[2404.03304](http://arxiv.org/abs/2404.03304)|null|
 |**2024-04-02**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
