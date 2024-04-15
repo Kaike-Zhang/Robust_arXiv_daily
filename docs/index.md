@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.14
+## Updated on 2024.04.15
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -92,6 +92,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-12**|**FCert: Certifiably Robust Few-Shot Classification in the Era of Foundation Models**|Yanting Wang et.al.|[2404.08631](http://arxiv.org/abs/2404.08631)|null|
 |**2024-04-08**|**Investigating the Impact of Quantization on Adversarial Robustness**|Qun Li et.al.|[2404.05639](http://arxiv.org/abs/2404.05639)|null|
 |**2024-04-05**|**Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And The Role of Distillation as Defense Mechanism**|Trilokesh Ranjan Sarkar et.al.|[2404.04245](http://arxiv.org/abs/2404.04245)|null|
 |**2024-04-05**|**Reliable Feature Selection for Adversarially Robust Cyber-Attack Detection**|João Vitorino et.al.|[2404.04188](http://arxiv.org/abs/2404.04188)|null|
