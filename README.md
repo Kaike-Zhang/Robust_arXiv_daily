@@ -465,6 +465,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Exact and Efficient Unlearning for Large Language Model-based Recommendation**|Zhiyu Hu et.al.|[2404.10327](http://arxiv.org/abs/2404.10327)|null|
 |**2024-04-06**|**RecGPT: Generative Personalized Prompts for Sequential Recommendation via ChatGPT Training Paradigm**|Yabin Zhang et.al.|[2404.08675](http://arxiv.org/abs/2404.08675)|null|
 |**2024-04-11**|**Can Large Language Models Assess Serendipity in Recommender Systems?**|Yu Tokutake et.al.|[2404.07499](http://arxiv.org/abs/2404.07499)|null|
 |**2024-04-09**|**DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level**|Shen Gao et.al.|[2404.06311](http://arxiv.org/abs/2404.06311)|null|
