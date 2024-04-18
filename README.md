@@ -465,6 +465,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-17**|**Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System**|Sein Kim et.al.|[2404.11343](http://arxiv.org/abs/2404.11343)|**[link](https://github.com/ghdtjr/a-llmrec)**|
+|**2024-04-16**|**Course Recommender Systems Need to Consider the Job Market**|Jibril Frej et.al.|[2404.10876](http://arxiv.org/abs/2404.10876)|null|
 |**2024-04-16**|**Exact and Efficient Unlearning for Large Language Model-based Recommendation**|Zhiyu Hu et.al.|[2404.10327](http://arxiv.org/abs/2404.10327)|null|
 |**2024-04-06**|**RecGPT: Generative Personalized Prompts for Sequential Recommendation via ChatGPT Training Paradigm**|Yabin Zhang et.al.|[2404.08675](http://arxiv.org/abs/2404.08675)|null|
 |**2024-04-11**|**Can Large Language Models Assess Serendipity in Recommender Systems?**|Yu Tokutake et.al.|[2404.07499](http://arxiv.org/abs/2404.07499)|null|
