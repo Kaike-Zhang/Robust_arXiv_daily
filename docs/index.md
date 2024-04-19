@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems**|Dayu Yang et.al.|[2404.11773](http://arxiv.org/abs/2404.11773)|null|
 |**2024-04-08**|**Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model**|Sirui Wang et.al.|[2404.05342](http://arxiv.org/abs/2404.05342)|null|
 |**2024-04-06**|**Music Recommendation Based on Facial Emotion Recognition**|Rajesh B et.al.|[2404.04654](http://arxiv.org/abs/2404.04654)|null|
 |**2024-04-02**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
@@ -92,6 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Exploring DNN Robustness Against Adversarial Attacks Using Approximate Multipliers**|Mohammad Javad Askarizadeh et.al.|[2404.11665](http://arxiv.org/abs/2404.11665)|null|
 |**2024-04-15**|**Mitigating the Curse of Dimensionality for Certified Robustness via Dual Randomized Smoothing**|Song Xia et.al.|[2404.09586](http://arxiv.org/abs/2404.09586)|null|
 |**2024-04-14**|**Adversarial Robustness Limits via Scaling-Law and Human-Alignment Studies**|Brian R. Bartoldson et.al.|[2404.09349](http://arxiv.org/abs/2404.09349)|null|
 |**2024-04-12**|**FCert: Certifiably Robust Few-Shot Classification in the Era of Foundation Models**|Yanting Wang et.al.|[2404.08631](http://arxiv.org/abs/2404.08631)|null|
@@ -370,11 +372,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Advancing the Robustness of Large Language Models through Self-Denoised Smoothing**|Jiabao Ji et.al.|[2404.12274](http://arxiv.org/abs/2404.12274)|**[link](https://github.com/ucsb-nlp-chang/selfdenoise)**|
 |**2024-04-16**|**Post-Semantic-Thinking: A Robust Strategy to Distill Reasoning Capacity from Large Language Models**|Xiaoshu Chen et.al.|[2404.09170](http://arxiv.org/abs/2404.09170)|null|
 |**2024-04-08**|**Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging**|Tianshuo Cong et.al.|[2404.05188](http://arxiv.org/abs/2404.05188)|**[link](https://github.com/thuccslab/mergeguard)**|
 |**2024-04-05**|**Robust Preference Optimization with Provable Noise Tolerance for LLMs**|Xize Liang et.al.|[2404.04102](http://arxiv.org/abs/2404.04102)|null|
 |**2024-04-04**|**Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?**|Vagrant Gautam et.al.|[2404.03134](http://arxiv.org/abs/2404.03134)|**[link](https://github.com/uds-lsv/pronoun-use-fidelity)**|
-|**2024-04-03**|**JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks**|Weidi Luo et.al.|[2404.03027](http://arxiv.org/abs/2404.03027)|null|
+|**2024-04-18**|**JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks**|Weidi Luo et.al.|[2404.03027](http://arxiv.org/abs/2404.03027)|null|
 |**2024-04-01**|**Syntactic Robustness for LLM-based Code Generation**|Laboni Sarker et.al.|[2404.01535](http://arxiv.org/abs/2404.01535)|null|
 |**2024-03-28**|**JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models**|Patrick Chao et.al.|[2404.01318](http://arxiv.org/abs/2404.01318)|**[link](https://github.com/jailbreakbench/jailbreakbench)**|
 |**2024-03-31**|**PID Control-Based Self-Healing to Improve the Robustness of Large Language Models**|Zhuotong Chen et.al.|[2404.00828](http://arxiv.org/abs/2404.00828)|**[link](https://github.com/zhuotongchen/pid-control-based-self-healing-to-improve-the-robustness-of-large-language-models)**|
@@ -453,6 +456,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems**|Dayu Yang et.al.|[2404.11773](http://arxiv.org/abs/2404.11773)|null|
 |**2024-04-17**|**Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System**|Sein Kim et.al.|[2404.11343](http://arxiv.org/abs/2404.11343)|**[link](https://github.com/ghdtjr/a-llmrec)**|
 |**2024-04-16**|**Course Recommender Systems Need to Consider the Job Market**|Jibril Frej et.al.|[2404.10876](http://arxiv.org/abs/2404.10876)|null|
 |**2024-04-16**|**Exact and Efficient Unlearning for Large Language Model-based Recommendation**|Zhiyu Hu et.al.|[2404.10327](http://arxiv.org/abs/2404.10327)|null|
