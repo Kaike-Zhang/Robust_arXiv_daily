@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.04.23
+## Updated on 2024.04.24
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,7 +10,7 @@ layout: default
 |**2024-04-17**|**Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems**|Dayu Yang et.al.|[2404.11773](http://arxiv.org/abs/2404.11773)|null|
 |**2024-04-08**|**Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model**|Sirui Wang et.al.|[2404.05342](http://arxiv.org/abs/2404.05342)|null|
 |**2024-04-06**|**Music Recommendation Based on Facial Emotion Recognition**|Rajesh B et.al.|[2404.04654](http://arxiv.org/abs/2404.04654)|null|
-|**2024-04-02**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
+|**2024-04-22**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
 |**2024-04-01**|**Poisoning Decentralized Collaborative Recommender System and Its Countermeasures**|Ruiqi Zheng et.al.|[2404.01177](http://arxiv.org/abs/2404.01177)|null|
 |**2024-03-29**|**Optimal Blackjack Strategy Recommender: A Comprehensive Study on Computer Vision Integration for Enhanced Gameplay**|Krishnanshu Gupta et.al.|[2404.00191](http://arxiv.org/abs/2404.00191)|null|
 |**2024-03-29**|**Review-Based Cross-Domain Recommendation via Hyperbolic Embedding and Hierarchy-Aware Domain Disentanglement**|Yoonhyuk Choi et.al.|[2403.20298](http://arxiv.org/abs/2403.20298)|null|
@@ -468,7 +468,7 @@ layout: default
 |**2024-04-09**|**DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level**|Shen Gao et.al.|[2404.06311](http://arxiv.org/abs/2404.06311)|null|
 |**2024-04-04**|**Understanding Language Modeling Paradigm Adaptations in Recommender Systems: Lessons Learned and Open Challenges**|Lemei Zhang et.al.|[2404.03788](http://arxiv.org/abs/2404.03788)|**[link](https://github.com/smartmediaai/llm_recsys)**|
 |**2024-04-06**|**Concept -- An Evaluation Protocol on Conversation Recommender Systems with System-centric and User-centric Factors**|Chen Huang et.al.|[2404.03304](http://arxiv.org/abs/2404.03304)|null|
-|**2024-04-02**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
+|**2024-04-22**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
 |**2024-04-01**|**Maximizing User Experience with LLMOps-Driven Personalized Recommendation Systems**|Chenxi Shi et.al.|[2404.00903](http://arxiv.org/abs/2404.00903)|null|
 |**2024-04-07**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702](http://arxiv.org/abs/2404.00702)|null|
 |**2024-03-31**|**A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)**|Yashar Deldjoo et.al.|[2404.00579](http://arxiv.org/abs/2404.00579)|**[link](https://github.com/yasdel/llm-recsys)**|
