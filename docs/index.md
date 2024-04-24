@@ -93,6 +93,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Double Privacy Guard: Robust Traceable Adversarial Watermarking against Face Recognition**|Yunming Zhang et.al.|[2404.14693](http://arxiv.org/abs/2404.14693)|null|
 |**2024-04-20**|**Pixel is a Barrier: Diffusion Models Are More Adversarially Robust Than We Think**|Haotian Xue et.al.|[2404.13320](http://arxiv.org/abs/2404.13320)|**[link](https://github.com/xavihart/pdm-pure)**|
 |**2024-04-17**|**Exploring DNN Robustness Against Adversarial Attacks Using Approximate Multipliers**|Mohammad Javad Askarizadeh et.al.|[2404.11665](http://arxiv.org/abs/2404.11665)|null|
 |**2024-04-15**|**Mitigating the Curse of Dimensionality for Certified Robustness via Dual Randomized Smoothing**|Song Xia et.al.|[2404.09586](http://arxiv.org/abs/2404.09586)|null|
@@ -381,7 +382,7 @@ layout: default
 |**2024-04-04**|**Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?**|Vagrant Gautam et.al.|[2404.03134](http://arxiv.org/abs/2404.03134)|**[link](https://github.com/uds-lsv/pronoun-use-fidelity)**|
 |**2024-04-18**|**JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks**|Weidi Luo et.al.|[2404.03027](http://arxiv.org/abs/2404.03027)|null|
 |**2024-04-01**|**Syntactic Robustness for LLM-based Code Generation**|Laboni Sarker et.al.|[2404.01535](http://arxiv.org/abs/2404.01535)|null|
-|**2024-03-28**|**JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models**|Patrick Chao et.al.|[2404.01318](http://arxiv.org/abs/2404.01318)|**[link](https://github.com/jailbreakbench/jailbreakbench)**|
+|**2024-04-23**|**JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models**|Patrick Chao et.al.|[2404.01318](http://arxiv.org/abs/2404.01318)|**[link](https://github.com/jailbreakbench/jailbreakbench)**|
 |**2024-03-31**|**PID Control-Based Self-Healing to Improve the Robustness of Large Language Models**|Zhuotong Chen et.al.|[2404.00828](http://arxiv.org/abs/2404.00828)|**[link](https://github.com/zhuotongchen/pid-control-based-self-healing-to-improve-the-robustness-of-large-language-models)**|
 |**2024-03-31**|**WavLLM: Towards Robust and Adaptive Speech Large Language Model**|Shujie Hu et.al.|[2404.00656](http://arxiv.org/abs/2404.00656)|null|
 |**2024-03-27**|**CheckEval: Robust Evaluation Framework using Large Language Model via Checklist**|Yukyung Lee et.al.|[2403.18771](http://arxiv.org/abs/2403.18771)|null|
@@ -458,6 +459,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-23**|**Contrastive Quantization based Semantic Code for Generative Recommendation**|Mengqun Jin et.al.|[2404.14774](http://arxiv.org/abs/2404.14774)|null|
 |**2024-04-19**|**FineRec:Exploring Fine-grained Sequential Recommendation**|Xiaokun Zhang et.al.|[2404.12975](http://arxiv.org/abs/2404.12975)|null|
 |**2024-04-17**|**Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems**|Dayu Yang et.al.|[2404.11773](http://arxiv.org/abs/2404.11773)|null|
 |**2024-04-17**|**Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System**|Sein Kim et.al.|[2404.11343](http://arxiv.org/abs/2404.11343)|**[link](https://github.com/ghdtjr/a-llmrec)**|
