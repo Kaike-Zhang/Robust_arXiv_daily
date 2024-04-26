@@ -101,6 +101,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-24**|**A Comparative Analysis of Adversarial Robustness for Quantum and Classical Machine Learning Models**|Maximilian Wendlinger et.al.|[2404.16154](http://arxiv.org/abs/2404.16154)|null|
+|**2024-04-24**|**Steal Now and Attack Later: Evaluating Robustness of Object Detection against Black-box Adversarial Attacks**|Erh-Chung Chen et.al.|[2404.15881](http://arxiv.org/abs/2404.15881)|null|
 |**2024-04-11**|**Adversarial Robustness of Distilled and Pruned Deep Learning-based Wireless Classifiers**|Nayan Moni Baishya et.al.|[2404.15344](http://arxiv.org/abs/2404.15344)|null|
 |**2024-04-23**|**Double Privacy Guard: Robust Traceable Adversarial Watermarking against Face Recognition**|Yunming Zhang et.al.|[2404.14693](http://arxiv.org/abs/2404.14693)|null|
 |**2024-04-20**|**Pixel is a Barrier: Diffusion Models Are More Adversarially Robust Than We Think**|Haotian Xue et.al.|[2404.13320](http://arxiv.org/abs/2404.13320)|**[link](https://github.com/xavihart/pdm-pure)**|
