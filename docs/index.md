@@ -505,7 +505,7 @@ layout: default
 |**2024-03-12**|**Emerging Synergies Between Large Language Models and Machine Learning in Ecommerce Recommendations**|Xiaonan Xu et.al.|[2403.02760](http://arxiv.org/abs/2403.02760)|null|
 |**2024-03-08**|**Wukong: Towards a Scaling Law for Large-Scale Recommendation**|Buyun Zhang et.al.|[2403.02545](http://arxiv.org/abs/2403.02545)|null|
 |**2024-03-04**|**NoteLLM: A Retrievable Large Language Model for Note Recommendation**|Chao Zhang et.al.|[2403.01744](http://arxiv.org/abs/2403.01744)|null|
-|**2024-02-29**|**Enhancing Long-Term Recommendation with Bi-level Learnable Large Language Model Planning**|Wentao Shi et.al.|[2403.00843](http://arxiv.org/abs/2403.00843)|null|
+|**2024-02-29**|**Enhancing Long-Term Recommendation with Bi-level Learnable Large Language Model Planning**|Wentao Shi et.al.|[2403.00843](http://arxiv.org/abs/2403.00843)|**[link](https://github.com/jizhi-zhang/billp)**|
 |**2024-02-26**|**InteraRec: Interactive Recommendations Using Multimodal Large Language Models**|Saketh Reddy Karra et.al.|[2403.00822](http://arxiv.org/abs/2403.00822)|null|
 |**2024-02-18**|**ChatDiet: Empowering Personalized Nutrition-Oriented Food Recommender Chatbots through an LLM-Augmented Framework**|Zhongqi Yang et.al.|[2403.00781](http://arxiv.org/abs/2403.00781)|null|
 |**2024-02-29**|**Compositional API Recommendation for Library-Oriented Code Generation**|Zexiong Ma et.al.|[2402.19431](http://arxiv.org/abs/2402.19431)|null|
@@ -521,7 +521,7 @@ layout: default
 |**2024-02-21**|**LLM4SBR: A Lightweight and Effective Framework for Integrating Large Language Models in Session-based Recommendation**|Shutong Qiao et.al.|[2402.13840](http://arxiv.org/abs/2402.13840)|null|
 |**2024-02-21**|**Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph**|Qian Zhao et.al.|[2402.13750](http://arxiv.org/abs/2402.13750)|null|
 |**2024-02-18**|**Large Language Models as Data Augmenters for Cold-Start Item Recommendation**|Jianling Wang et.al.|[2402.11724](http://arxiv.org/abs/2402.11724)|null|
-|**2024-02-16**|**SPAR: Personalized Content-Based Recommendation via Long Engagement Attention**|Chiyu Zhang et.al.|[2402.10555](http://arxiv.org/abs/2402.10555)|null|
+|**2024-02-16**|**SPAR: Personalized Content-Based Recommendation via Long Engagement Attention**|Chiyu Zhang et.al.|[2402.10555](http://arxiv.org/abs/2402.10555)|**[link](https://github.com/jyonn/legommenders)**|
 |**2024-02-17**|**LLM-based Federated Recommendation**|Jujia Zhao et.al.|[2402.09959](http://arxiv.org/abs/2402.09959)|null|
 |**2024-02-14**|**LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations**|Xinyuan Wang et.al.|[2402.09617](http://arxiv.org/abs/2402.09617)|**[link](https://github.com/anord-wang/llm4rec)**|
 |**2024-02-14**|**Rethinking Large Language Model Architectures for Sequential Recommendations**|Hanbing Wang et.al.|[2402.09543](http://arxiv.org/abs/2402.09543)|null|
