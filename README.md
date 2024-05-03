@@ -1,4 +1,4 @@
-## Updated on 2024.05.02
+## Updated on 2024.05.03
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -100,7 +100,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240503>back to top</a>)</p>
 
 ## Robust ML
 
@@ -114,7 +114,7 @@
 |**2024-04-24**|**Steal Now and Attack Later: Evaluating Robustness of Object Detection against Black-box Adversarial Attacks**|Erh-Chung Chen et.al.|[2404.15881](http://arxiv.org/abs/2404.15881)|null|
 |**2024-04-11**|**Adversarial Robustness of Distilled and Pruned Deep Learning-based Wireless Classifiers**|Nayan Moni Baishya et.al.|[2404.15344](http://arxiv.org/abs/2404.15344)|null|
 |**2024-04-23**|**Double Privacy Guard: Robust Traceable Adversarial Watermarking against Face Recognition**|Yunming Zhang et.al.|[2404.14693](http://arxiv.org/abs/2404.14693)|null|
-|**2024-04-20**|**Pixel is a Barrier: Diffusion Models Are More Adversarially Robust Than We Think**|Haotian Xue et.al.|[2404.13320](http://arxiv.org/abs/2404.13320)|**[link](https://github.com/xavihart/pdm-pure)**|
+|**2024-05-02**|**Pixel is a Barrier: Diffusion Models Are More Adversarially Robust Than We Think**|Haotian Xue et.al.|[2404.13320](http://arxiv.org/abs/2404.13320)|**[link](https://github.com/xavihart/pdm-pure)**|
 |**2024-04-17**|**Exploring DNN Robustness Against Adversarial Attacks Using Approximate Multipliers**|Mohammad Javad Askarizadeh et.al.|[2404.11665](http://arxiv.org/abs/2404.11665)|null|
 |**2024-04-29**|**Mitigating the Curse of Dimensionality for Certified Robustness via Dual Randomized Smoothing**|Song Xia et.al.|[2404.09586](http://arxiv.org/abs/2404.09586)|null|
 |**2024-04-14**|**Adversarial Robustness Limits via Scaling-Law and Human-Alignment Studies**|Brian R. Bartoldson et.al.|[2404.09349](http://arxiv.org/abs/2404.09349)|null|
@@ -390,7 +390,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240503>back to top</a>)</p>
 
 ## Security LLM
 
@@ -403,7 +403,7 @@
 |**2024-04-16**|**Post-Semantic-Thinking: A Robust Strategy to Distill Reasoning Capacity from Large Language Models**|Xiaoshu Chen et.al.|[2404.09170](http://arxiv.org/abs/2404.09170)|null|
 |**2024-04-08**|**Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging**|Tianshuo Cong et.al.|[2404.05188](http://arxiv.org/abs/2404.05188)|**[link](https://github.com/thuccslab/mergeguard)**|
 |**2024-04-05**|**Robust Preference Optimization with Provable Noise Tolerance for LLMs**|Xize Liang et.al.|[2404.04102](http://arxiv.org/abs/2404.04102)|null|
-|**2024-04-04**|**Robust Pronoun Use Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?**|Vagrant Gautam et.al.|[2404.03134](http://arxiv.org/abs/2404.03134)|**[link](https://github.com/uds-lsv/pronoun-use-fidelity)**|
+|**2024-05-01**|**Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?**|Vagrant Gautam et.al.|[2404.03134](http://arxiv.org/abs/2404.03134)|**[link](https://github.com/uds-lsv/pronoun-use-fidelity)**|
 |**2024-04-18**|**JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks**|Weidi Luo et.al.|[2404.03027](http://arxiv.org/abs/2404.03027)|null|
 |**2024-04-01**|**Syntactic Robustness for LLM-based Code Generation**|Laboni Sarker et.al.|[2404.01535](http://arxiv.org/abs/2404.01535)|null|
 |**2024-04-23**|**JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models**|Patrick Chao et.al.|[2404.01318](http://arxiv.org/abs/2404.01318)|**[link](https://github.com/jailbreakbench/jailbreakbench)**|
@@ -479,7 +479,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240503>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -585,5 +585,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240502>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240503>back to top</a>)</p>
 
