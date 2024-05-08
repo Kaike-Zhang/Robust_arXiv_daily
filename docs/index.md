@@ -103,6 +103,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Effective and Robust Adversarial Training against Data and Label Corruptions**|Peng-Fei Zhang et.al.|[2405.04191](http://arxiv.org/abs/2405.04191)|null|
+|**2024-05-06**|**Is ReLU Adversarially Robust?**|Korn Sooksatra et.al.|[2405.03777](http://arxiv.org/abs/2405.03777)|null|
 |**2024-05-04**|**Assessing Adversarial Robustness of Large Language Models: An Empirical Study**|Zeyu Yang et.al.|[2405.02764](http://arxiv.org/abs/2405.02764)|null|
 |**2024-05-04**|**Updating Windows Malware Detectors: Balancing Robustness and Regression against Adversarial EXEmples**|Matous Kozak et.al.|[2405.02646](http://arxiv.org/abs/2405.02646)|null|
 |**2024-05-03**|**Impact of Architectural Modifications on Deep Learning Adversarial Robustness**|Firuz Juraev et.al.|[2405.01934](http://arxiv.org/abs/2405.01934)|null|
@@ -394,6 +396,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**NL2Plan: Robust LLM-Driven Planning from Minimal Text Descriptions**|Elliot Gestrin et.al.|[2405.04215](http://arxiv.org/abs/2405.04215)|null|
 |**2024-05-04**|**Assessing Adversarial Robustness of Large Language Models: An Empirical Study**|Zeyu Yang et.al.|[2405.02764](http://arxiv.org/abs/2405.02764)|null|
 |**2024-05-01**|**Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations**|Kirandeep Kaur et.al.|[2405.00824](http://arxiv.org/abs/2405.00824)|null|
 |**2024-05-01**|**DFKI-NLP at SemEval-2024 Task 2: Towards Robust LLMs Using Data Perturbations and MinMax Training**|Bhuvanesh Verma et.al.|[2405.00321](http://arxiv.org/abs/2405.00321)|null|
@@ -483,6 +486,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-07**|**Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application**|Jian Jia et.al.|[2405.03988](http://arxiv.org/abs/2405.03988)|null|
 |**2024-05-06**|**Vector Quantization for Recommender Systems: A Review and Outlook**|Qijiong Liu et.al.|[2405.03110](http://arxiv.org/abs/2405.03110)|**[link](https://github.com/Jyonn/VQ4Rec)**|
 |**2024-05-05**|**High Order Reasoning for Time Critical Recommendation in Evidence-based Medicine**|Manjiang Yu et.al.|[2405.03010](http://arxiv.org/abs/2405.03010)|null|
 |**2024-05-05**|**Improve Temporal Awareness of LLMs for Sequential Recommendation**|Zhendong Chu et.al.|[2405.02778](http://arxiv.org/abs/2405.02778)|null|
