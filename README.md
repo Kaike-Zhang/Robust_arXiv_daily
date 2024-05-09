@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**SVD-AE: Simple Autoencoders for Collaborative Filtering**|Seoyoung Hong et.al.|[2405.04746](http://arxiv.org/abs/2405.04746)|null|
 |**2024-05-03**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219](http://arxiv.org/abs/2405.02219)|null|
 |**2024-05-03**|**Robust Explainable Recommendation**|Sairamvinay Vijayaraghavan et.al.|[2405.01855](http://arxiv.org/abs/2405.01855)|null|
 |**2024-05-03**|**Stability of Explainable Recommendation**|Sairamvinay Vijayaraghavan et.al.|[2405.01849](http://arxiv.org/abs/2405.01849)|null|
@@ -111,6 +112,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**Towards Efficient Training and Evaluation of Robust Models against $l_0$ Bounded Adversarial Perturbations**|Xuyang Zhong et.al.|[2405.05075](http://arxiv.org/abs/2405.05075)|**[link](https://github.com/cityu-mlo/spgd)**|
 |**2024-05-07**|**Effective and Robust Adversarial Training against Data and Label Corruptions**|Peng-Fei Zhang et.al.|[2405.04191](http://arxiv.org/abs/2405.04191)|null|
 |**2024-05-06**|**Is ReLU Adversarially Robust?**|Korn Sooksatra et.al.|[2405.03777](http://arxiv.org/abs/2405.03777)|null|
 |**2024-05-04**|**Assessing Adversarial Robustness of Large Language Models: An Empirical Study**|Zeyu Yang et.al.|[2405.02764](http://arxiv.org/abs/2405.02764)|null|
@@ -498,6 +500,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-08**|**Impact of Tone-Aware Explanations in Recommender Systems**|Ayano Okoso et.al.|[2405.05061](http://arxiv.org/abs/2405.05061)|null|
+|**2024-05-08**|**Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models**|Aylin Gunal et.al.|[2405.05060](http://arxiv.org/abs/2405.05060)|null|
+|**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840](http://arxiv.org/abs/2405.04840)|null|
 |**2024-05-07**|**Knowledge Adaptation from Large Language Model to Recommendation for Practical Industrial Application**|Jian Jia et.al.|[2405.03988](http://arxiv.org/abs/2405.03988)|null|
 |**2024-05-06**|**Vector Quantization for Recommender Systems: A Review and Outlook**|Qijiong Liu et.al.|[2405.03110](http://arxiv.org/abs/2405.03110)|**[link](https://github.com/Jyonn/VQ4Rec)**|
 |**2024-05-05**|**High Order Reasoning for Time Critical Recommendation in Evidence-based Medicine**|Manjiang Yu et.al.|[2405.03010](http://arxiv.org/abs/2405.03010)|null|
