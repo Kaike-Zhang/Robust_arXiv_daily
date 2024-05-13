@@ -112,6 +112,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-10**|**Certified $\ell_2$ Attribution Robustness via Uniformly Smoothed Attributions**|Fan Wang et.al.|[2405.06361](http://arxiv.org/abs/2405.06361)|null|
+|**2024-05-10**|**Evaluating Adversarial Robustness in the Spatial Frequency Domain**|Keng-Hsin Liao et.al.|[2405.06345](http://arxiv.org/abs/2405.06345)|null|
 |**2024-05-08**|**Towards Efficient Training and Evaluation of Robust Models against $l_0$ Bounded Adversarial Perturbations**|Xuyang Zhong et.al.|[2405.05075](http://arxiv.org/abs/2405.05075)|**[link](https://github.com/cityu-mlo/spgd)**|
 |**2024-05-07**|**Effective and Robust Adversarial Training against Data and Label Corruptions**|Peng-Fei Zhang et.al.|[2405.04191](http://arxiv.org/abs/2405.04191)|null|
 |**2024-05-06**|**Is ReLU Adversarially Robust?**|Korn Sooksatra et.al.|[2405.03777](http://arxiv.org/abs/2405.03777)|null|
