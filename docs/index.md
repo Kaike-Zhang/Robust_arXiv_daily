@@ -33,7 +33,7 @@ layout: default
 |**2024-03-17**|**Learning Time Slot Preferences via Mobility Tree for Next POI Recommendation**|Tianhao Huang et.al.|[2403.12100](http://arxiv.org/abs/2403.12100)|**[link](https://github.com/skyyyy0920/mtnet)**|
 |**2024-03-05**|**Uplift Modeling for Target User Attacks on Recommender Systems**|Wenjie Wang et.al.|[2403.02692](http://arxiv.org/abs/2403.02692)|**[link](https://github.com/wcsa23187/uba)**|
 |**2024-02-29**|**Lower-Left Partial AUC: An Effective and Efficient Optimization Metric for Recommendation**|Wentao Shi et.al.|[2403.00844](http://arxiv.org/abs/2403.00844)|null|
-|**2024-02-26**|**Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**|Wonbin Kweon et.al.|[2403.00817](http://arxiv.org/abs/2403.00817)|null|
+|**2024-02-26**|**Doubly Calibrated Estimator for Recommendation on Data Missing Not At Random**|Wonbin Kweon et.al.|[2403.00817](http://arxiv.org/abs/2403.00817)|**[link](https://github.com/wonbinkweon/dce_www2024)**|
 |**2024-02-29**|**MENTOR: Multi-level Self-supervised Learning for Multimodal Recommendation**|Jinfeng Xu et.al.|[2402.19407](http://arxiv.org/abs/2402.19407)|**[link](https://github.com/jinfeng-xu/mentor)**|
 |**2024-02-21**|**Distributionally Robust Graph-based Recommendation System**|Bohao Wang et.al.|[2402.12994](http://arxiv.org/abs/2402.12994)|**[link](https://github.com/WANGBohaO-jpg/DR-GNN)**|
 |**2024-02-17**|**Mirror Gradient: Towards Robust Multimodal Recommender Systems via Exploring Flat Local Minima**|Shanshan Zhong et.al.|[2402.11262](http://arxiv.org/abs/2402.11262)|**[link](https://github.com/qrange-group/mirror-gradient)**|
@@ -332,7 +332,7 @@ layout: default
 |**2023-08-29**|**3D Adversarial Augmentations for Robust Out-of-Domain Predictions**|Alexander Lehner et.al.|[2308.15479](http://arxiv.org/abs/2308.15479)|null|
 |**2023-08-29**|**Advancing Adversarial Robustness Through Adversarial Logit Update**|Hao Xuan et.al.|[2308.15072](http://arxiv.org/abs/2308.15072)|null|
 |**2023-08-28**|**DiffSmooth: Certifiably Robust Learning via Diffusion Models and Local Smoothing**|Jiawei Zhang et.al.|[2308.14333](http://arxiv.org/abs/2308.14333)|**[link](https://github.com/javyduck/diffsmooth)**|
-|**2023-08-22**|**Robust Lagrangian and Adversarial Policy Gradient for Robust Constrained Markov Decision Processes**|David M. Bossens et.al.|[2308.11267](http://arxiv.org/abs/2308.11267)|null|
+|**2023-08-22**|**Robust Lagrangian and Adversarial Policy Gradient for Robust Constrained Markov Decision Processes**|David M. Bossens et.al.|[2308.11267](http://arxiv.org/abs/2308.11267)|**[link](https://github.com/bossdm/RCMDP)**|
 |**2023-08-17**|**Do you really follow me? Adversarial Instructions for Evaluating the Robustness of Large Language Models**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|**[link](https://github.com/leezekun/adv-instruct-eval)**|
 |**2023-08-21**|**On the Adversarial Robustness of Multi-Modal Foundation Models**|Christian Schlarmann et.al.|[2308.10741](http://arxiv.org/abs/2308.10741)|**[link](https://github.com/chs20/robustvlm)**|
 |**2023-08-21**|**Measuring the Effect of Causal Disentanglement on the Adversarial Robustness of Neural Network Models**|Preben M. Ness et.al.|[2308.10708](http://arxiv.org/abs/2308.10708)|null|
@@ -514,7 +514,7 @@ layout: default
 |**2024-04-11**|**Can Large Language Models Assess Serendipity in Recommender Systems?**|Yu Tokutake et.al.|[2404.07499](http://arxiv.org/abs/2404.07499)|null|
 |**2024-04-09**|**DRE: Generating Recommendation Explanations by Aligning Large Language Models at Data-level**|Shen Gao et.al.|[2404.06311](http://arxiv.org/abs/2404.06311)|null|
 |**2024-04-04**|**Understanding Language Modeling Paradigm Adaptations in Recommender Systems: Lessons Learned and Open Challenges**|Lemei Zhang et.al.|[2404.03788](http://arxiv.org/abs/2404.03788)|**[link](https://github.com/smartmediaai/llm_recsys)**|
-|**2024-04-06**|**Concept -- An Evaluation Protocol on Conversation Recommender Systems with System-centric and User-centric Factors**|Chen Huang et.al.|[2404.03304](http://arxiv.org/abs/2404.03304)|null|
+|**2024-04-06**|**Concept -- An Evaluation Protocol on Conversation Recommender Systems with System-centric and User-centric Factors**|Chen Huang et.al.|[2404.03304](http://arxiv.org/abs/2404.03304)|**[link](https://github.com/huangzichun/concept4crs)**|
 |**2024-04-22**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
 |**2024-04-01**|**Maximizing User Experience with LLMOps-Driven Personalized Recommendation Systems**|Chenxi Shi et.al.|[2404.00903](http://arxiv.org/abs/2404.00903)|null|
 |**2024-04-07**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702](http://arxiv.org/abs/2404.00702)|null|
