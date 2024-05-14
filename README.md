@@ -112,6 +112,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**On the Adversarial Robustness of Learning-based Image Compression Against Rate-Distortion Attacks**|Chenhao Wu et.al.|[2405.07717](http://arxiv.org/abs/2405.07717)|null|
 |**2024-05-10**|**Certified $\ell_2$ Attribution Robustness via Uniformly Smoothed Attributions**|Fan Wang et.al.|[2405.06361](http://arxiv.org/abs/2405.06361)|null|
 |**2024-05-10**|**Evaluating Adversarial Robustness in the Spatial Frequency Domain**|Keng-Hsin Liao et.al.|[2405.06345](http://arxiv.org/abs/2405.06345)|null|
 |**2024-05-08**|**Towards Efficient Training and Evaluation of Robust Models against $l_0$ Bounded Adversarial Perturbations**|Xuyang Zhong et.al.|[2405.05075](http://arxiv.org/abs/2405.05075)|**[link](https://github.com/cityu-mlo/spgd)**|
@@ -502,6 +503,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-13**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580](http://arxiv.org/abs/2405.07580)|null|
+|**2024-05-12**|**Learnable Tokenizer for LLM-based Generative Recommendation**|Wenjie Wang et.al.|[2405.07314](http://arxiv.org/abs/2405.07314)|null|
 |**2024-05-08**|**Impact of Tone-Aware Explanations in Recommender Systems**|Ayano Okoso et.al.|[2405.05061](http://arxiv.org/abs/2405.05061)|null|
 |**2024-05-08**|**Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models**|Aylin Gunal et.al.|[2405.05060](http://arxiv.org/abs/2405.05060)|null|
 |**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840](http://arxiv.org/abs/2405.04840)|**[link](https://github.com/Zhangcx19/IJCAI-24-FedPA)**|
