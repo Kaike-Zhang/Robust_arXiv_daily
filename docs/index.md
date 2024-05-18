@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.05.17
+## Updated on 2024.05.18
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -104,6 +104,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Adversarial Robustness for Visual Grounding of Multimodal Large Language Models**|Kuofeng Gao et.al.|[2405.09981](http://arxiv.org/abs/2405.09981)|null|
 |**2024-05-14**|**RS-Reg: Probabilistic and Robust Certified Regression Through Randomized Smoothing**|Aref Miri Rekavandi et.al.|[2405.08892](http://arxiv.org/abs/2405.08892)|**[link](https://github.com/arekavandi/certified_robust_regression)**|
 |**2024-05-14**|**Certifying Robustness of Graph Convolutional Networks for Node Perturbation with Polyhedra Abstract Interpretation**|Boqi Chen et.al.|[2405.08645](http://arxiv.org/abs/2405.08645)|null|
 |**2024-05-14**|**SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models**|Raghuveer Peri et.al.|[2405.08317](http://arxiv.org/abs/2405.08317)|null|
@@ -404,6 +405,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-16**|**Adversarial Robustness for Visual Grounding of Multimodal Large Language Models**|Kuofeng Gao et.al.|[2405.09981](http://arxiv.org/abs/2405.09981)|null|
 |**2024-05-14**|**SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models**|Raghuveer Peri et.al.|[2405.08317](http://arxiv.org/abs/2405.08317)|null|
 |**2024-05-16**|**Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness**|Mingchen Li et.al.|[2405.08151](http://arxiv.org/abs/2405.08151)|null|
 |**2024-05-07**|**NL2Plan: Robust LLM-Driven Planning from Minimal Text Descriptions**|Elliot Gestrin et.al.|[2405.04215](http://arxiv.org/abs/2405.04215)|null|
