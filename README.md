@@ -208,7 +208,7 @@
 |**2024-02-06**|**PAC-Bayesian Adversarially Robust Generalization Bounds for Graph Neural Network**|Tan Sun et.al.|[2402.04038](http://arxiv.org/abs/2402.04038)|null|
 |**2024-02-05**|**Adversarial Data Augmentation for Robust Speaker Verification**|Zhenyu Zhou et.al.|[2402.02699](http://arxiv.org/abs/2402.02699)|null|
 |**2024-02-13**|**Your Diffusion Model is Secretly a Certifiably Robust Classifier**|Huanran Chen et.al.|[2402.02316](http://arxiv.org/abs/2402.02316)|**[link](https://github.com/huanranchen/NoisedDiffusionClassifiers)**|
-|**2024-02-03**|**Towards Optimal Adversarial Robust Q-learning with Bellman Infinity-error**|Haoran Li et.al.|[2402.02165](http://arxiv.org/abs/2402.02165)|null|
+|**2024-02-03**|**Towards Optimal Adversarial Robust Q-learning with Bellman Infinity-error**|Haoran Li et.al.|[2402.02165](http://arxiv.org/abs/2402.02165)|**[link](https://github.com/leoranlmia/CAR-DQN)**|
 |**2024-02-03**|**Evaluating the Robustness of Off-Road Autonomous Driving Segmentation against Adversarial Attacks: A Dataset-Centric analysis**|Pankaj Deoli et.al.|[2402.02154](http://arxiv.org/abs/2402.02154)|**[link](https://github.com/rohtkumar/adversarial_attacks_on_segmentation)**|
 |**2024-02-01**|**Tropical Decision Boundaries for Neural Networks Are Robust Against Adversarial Attacks**|Kurt Pasque et.al.|[2402.00576](http://arxiv.org/abs/2402.00576)|null|
 |**2024-01-30**|**Quantum Transfer Learning with Adversarial Robustness for Classification of High-Resolution Image Datasets**|Amena Khatun et.al.|[2401.17009](http://arxiv.org/abs/2401.17009)|null|
