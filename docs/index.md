@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-19**|**Knowledge Graph Pruning for Recommendation**|Fake Lin et.al.|[2405.11531](http://arxiv.org/abs/2405.11531)|null|
 |**2024-05-08**|**SVD-AE: Simple Autoencoders for Collaborative Filtering**|Seoyoung Hong et.al.|[2405.04746](http://arxiv.org/abs/2405.04746)|null|
 |**2024-05-03**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219](http://arxiv.org/abs/2405.02219)|null|
 |**2024-05-03**|**Robust Explainable Recommendation**|Sairamvinay Vijayaraghavan et.al.|[2405.01855](http://arxiv.org/abs/2405.01855)|null|
@@ -104,6 +105,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Robust Deep Reinforcement Learning with Adaptive Adversarial Perturbations in Action Space**|Qianmei Liu et.al.|[2405.11982](http://arxiv.org/abs/2405.11982)|null|
+|**2024-05-20**|**Adaptive Batch Normalization Networks for Adversarial Robustness**|Shao-Yuan Lo et.al.|[2405.11708](http://arxiv.org/abs/2405.11708)|null|
+|**2024-05-19**|**Certified Robust Accuracy of Neural Networks Are Bounded due to Bayes Errors**|Ruihan Zhang et.al.|[2405.11547](http://arxiv.org/abs/2405.11547)|null|
+|**2024-05-18**|**Towards Robust Policy: Enhancing Offline Reinforcement Learning with Adversarial Attacks and Defenses**|Thanh Nguyen et.al.|[2405.11206](http://arxiv.org/abs/2405.11206)|null|
+|**2024-05-18**|**Revisiting the Robust Generalization of Adversarial Prompt Tuning**|Fan Yang et.al.|[2405.11154](http://arxiv.org/abs/2405.11154)|null|
 |**2024-05-16**|**Adversarial Robustness Guarantees for Quantum Classifiers**|Neil Dowling et.al.|[2405.10360](http://arxiv.org/abs/2405.10360)|null|
 |**2024-05-16**|**Adversarial Robustness for Visual Grounding of Multimodal Large Language Models**|Kuofeng Gao et.al.|[2405.09981](http://arxiv.org/abs/2405.09981)|null|
 |**2024-05-14**|**RS-Reg: Probabilistic and Robust Certified Regression Through Randomized Smoothing**|Aref Miri Rekavandi et.al.|[2405.08892](http://arxiv.org/abs/2405.08892)|**[link](https://github.com/arekavandi/certified_robust_regression)**|
@@ -406,6 +412,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Multiple-Choice Questions are Efficient and Robust LLM Evaluators**|Ziyin Zhang et.al.|[2405.11966](http://arxiv.org/abs/2405.11966)|**[link](https://github.com/geralt-targaryen/mc-evaluation)**|
+|**2024-05-20**|**xFinder: Robust and Pinpoint Answer Extraction for Large Language Models**|Qingchen Yu et.al.|[2405.11874](http://arxiv.org/abs/2405.11874)|null|
 |**2024-05-16**|**Adversarial Robustness for Visual Grounding of Multimodal Large Language Models**|Kuofeng Gao et.al.|[2405.09981](http://arxiv.org/abs/2405.09981)|null|
 |**2024-05-14**|**SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models**|Raghuveer Peri et.al.|[2405.08317](http://arxiv.org/abs/2405.08317)|null|
 |**2024-05-16**|**Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness**|Mingchen Li et.al.|[2405.08151](http://arxiv.org/abs/2405.08151)|null|
@@ -499,6 +507,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation**|Zhankui He et.al.|[2405.12119](http://arxiv.org/abs/2405.12119)|null|
+|**2024-05-20**|**Recommender Algorithm for Supporting Self-Management of CVD Risk Factors in an Adult Population at Home**|Tatiana V. Afanasieva et.al.|[2405.11967](http://arxiv.org/abs/2405.11967)|null|
+|**2024-05-19**|**EmbSum: Leveraging the Summarization Capabilities of Large Language Models for Content-Based Recommendations**|Chiyu Zhang et.al.|[2405.11441](http://arxiv.org/abs/2405.11441)|null|
 |**2024-05-17**|**RDRec: Rationale Distillation for LLM-based Recommendation**|Xinfeng Wang et.al.|[2405.10587](http://arxiv.org/abs/2405.10587)|**[link](https://github.com/wangxfng/rdrec)**|
 |**2024-05-13**|**A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems**|Lixi Zhu et.al.|[2405.08035](http://arxiv.org/abs/2405.08035)|null|
 |**2024-05-13**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580](http://arxiv.org/abs/2405.07580)|null|
