@@ -14,7 +14,7 @@ layout: default
 |**2024-05-03**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219](http://arxiv.org/abs/2405.02219)|null|
 |**2024-05-03**|**Robust Explainable Recommendation**|Sairamvinay Vijayaraghavan et.al.|[2405.01855](http://arxiv.org/abs/2405.01855)|null|
 |**2024-05-03**|**Stability of Explainable Recommendation**|Sairamvinay Vijayaraghavan et.al.|[2405.01849](http://arxiv.org/abs/2405.01849)|null|
-|**2024-05-02**|**Fair Recommendations with Limited Sensitive Attributes: A Distributionally Robust Optimization Approach**|Tianhao Shi et.al.|[2405.01063](http://arxiv.org/abs/2405.01063)|**[link](https://github.com/TianhaoShi2001/DRFO)**|
+|**2024-05-27**|**Fair Recommendations with Limited Sensitive Attributes: A Distributionally Robust Optimization Approach**|Tianhao Shi et.al.|[2405.01063](http://arxiv.org/abs/2405.01063)|**[link](https://github.com/TianhaoShi2001/DRFO)**|
 |**2024-05-01**|**Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations**|Kirandeep Kaur et.al.|[2405.00824](http://arxiv.org/abs/2405.00824)|null|
 |**2024-05-01**|**Stochastic Sampling for Contrastive Views and Hard Negative Samples in Graph-based Collaborative Filtering**|Chaejeong Lee et.al.|[2405.00287](http://arxiv.org/abs/2405.00287)|null|
 |**2024-04-30**|**Data Set Terminology of Artificial Intelligence in Medicine: A Historical Review and Recommendation**|Shannon L. Walston et.al.|[2404.19303](http://arxiv.org/abs/2404.19303)|null|
@@ -107,12 +107,20 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**A One-Layer Decoder-Only Transformer is a Two-Layer RNN: With an Application to Certified Robustness**|Yuhao Zhang et.al.|[2405.17361](http://arxiv.org/abs/2405.17361)|null|
+|**2024-05-27**|**Spectral regularization for adversarially-robust representation learning**|Sheng Yang et.al.|[2405.17181](http://arxiv.org/abs/2405.17181)|null|
+|**2024-05-27**|**The Uncanny Valley: Exploring Adversarial Robustness from a Flatness Perspective**|Nils Philipp Walter et.al.|[2405.16918](http://arxiv.org/abs/2405.16918)|null|
+|**2024-05-25**|**R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model**|Changhoon Kim et.al.|[2405.16341](http://arxiv.org/abs/2405.16341)|null|
+|**2024-05-25**|**Certifying Adapters: Enabling and Enhancing the Certification of Classifier Adversarial Robustness**|Jieren Deng et.al.|[2405.16036](http://arxiv.org/abs/2405.16036)|null|
+|**2024-05-24**|**Evaluating the Adversarial Robustness of Retrieval-Based In-Context Learning for Large Language Models**|Simon Chi Lok Yu et.al.|[2405.15984](http://arxiv.org/abs/2405.15984)|null|
+|**2024-05-24**|**Robust width: A lightweight and certifiable adversarial defense**|Jonathan Peck et.al.|[2405.15971](http://arxiv.org/abs/2405.15971)|**[link](https://github.com/peck94/robust-width-defense)**|
+|**2024-05-24**|**Can Implicit Bias Imply Adversarial Robustness?**|Hancheng Min et.al.|[2405.15942](http://arxiv.org/abs/2405.15942)|null|
 |**2024-05-24**|**Certifiably Robust RAG against Retrieval Corruption**|Chong Xiang et.al.|[2405.15556](http://arxiv.org/abs/2405.15556)|null|
 |**2024-05-24**|**Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models**|Yimeng Zhang et.al.|[2405.15234](http://arxiv.org/abs/2405.15234)|**[link](https://github.com/optml-group/advunlearn)**|
 |**2024-05-23**|**Certified Robustness against Sparse Adversarial Perturbations via Data Localization**|Ambar Pal et.al.|[2405.14176](http://arxiv.org/abs/2405.14176)|null|
 |**2024-05-21**|**Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers**|Fan Shi et.al.|[2405.12424](http://arxiv.org/abs/2405.12424)|null|
 |**2024-05-20**|**Robust Deep Reinforcement Learning with Adaptive Adversarial Perturbations in Action Space**|Qianmei Liu et.al.|[2405.11982](http://arxiv.org/abs/2405.11982)|null|
-|**2024-05-20**|**Adaptive Batch Normalization Networks for Adversarial Robustness**|Shao-Yuan Lo et.al.|[2405.11708](http://arxiv.org/abs/2405.11708)|null|
+|**2024-05-27**|**Adaptive Batch Normalization Networks for Adversarial Robustness**|Shao-Yuan Lo et.al.|[2405.11708](http://arxiv.org/abs/2405.11708)|null|
 |**2024-05-19**|**Certified Robust Accuracy of Neural Networks Are Bounded due to Bayes Errors**|Ruihan Zhang et.al.|[2405.11547](http://arxiv.org/abs/2405.11547)|null|
 |**2024-05-18**|**Towards Robust Policy: Enhancing Offline Reinforcement Learning with Adversarial Attacks and Defenses**|Thanh Nguyen et.al.|[2405.11206](http://arxiv.org/abs/2405.11206)|null|
 |**2024-05-18**|**Revisiting the Robust Generalization of Adversarial Prompt Tuning**|Fan Yang et.al.|[2405.11154](http://arxiv.org/abs/2405.11154)|null|
@@ -418,6 +426,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Evaluating the Adversarial Robustness of Retrieval-Based In-Context Learning for Large Language Models**|Simon Chi Lok Yu et.al.|[2405.15984](http://arxiv.org/abs/2405.15984)|null|
 |**2024-04-02**|**Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments**|Ibne Farabi Shihab et.al.|[2405.14876](http://arxiv.org/abs/2405.14876)|null|
 |**2024-05-21**|**Multiple-Choice Questions are Efficient and Robust LLM Evaluators**|Ziyin Zhang et.al.|[2405.11966](http://arxiv.org/abs/2405.11966)|**[link](https://github.com/geralt-targaryen/mc-evaluation)**|
 |**2024-05-23**|**xFinder: Robust and Pinpoint Answer Extraction for Large Language Models**|Qingchen Yu et.al.|[2405.11874](http://arxiv.org/abs/2405.11874)|**[link](https://github.com/iaar-shanghai/xfinder)**|
@@ -514,6 +523,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-27**|**NoteLLM-2: Multimodal Large Representation Models for Recommendation**|Chao Zhang et.al.|[2405.16789](http://arxiv.org/abs/2405.16789)|null|
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-23**|**As an AI Language Model, "Yes I Would Recommend Calling the Police'': Norm Inconsistency in LLM Decision-Making**|Shomik Jain et.al.|[2405.14812](http://arxiv.org/abs/2405.14812)|null|
 |**2024-05-22**|**Sunnie: An Anthropomorphic LLM-Based Conversational Agent for Mental Well-Being Activity Recommendation**|Siyi Wu et.al.|[2405.13803](http://arxiv.org/abs/2405.13803)|null|
