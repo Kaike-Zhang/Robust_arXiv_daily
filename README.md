@@ -115,6 +115,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator**|Junda Zhu et.al.|[2405.18111](http://arxiv.org/abs/2405.18111)|null|
+|**2024-05-28**|**Towards Unified Robustness Against Both Backdoor and Adversarial Attacks**|Zhenxing Niu et.al.|[2405.17929](http://arxiv.org/abs/2405.17929)|**[link](https://github.com/john-niu-07/pud)**|
+|**2024-05-27**|**TIMA: Text-Image Mutual Awareness for Balancing Zero-Shot Adversarial Robustness and Generalization Ability**|Fengji Ma et.al.|[2405.17678](http://arxiv.org/abs/2405.17678)|null|
 |**2024-05-27**|**A One-Layer Decoder-Only Transformer is a Two-Layer RNN: With an Application to Certified Robustness**|Yuhao Zhang et.al.|[2405.17361](http://arxiv.org/abs/2405.17361)|null|
 |**2024-05-27**|**Spectral regularization for adversarially-robust representation learning**|Sheng Yang et.al.|[2405.17181](http://arxiv.org/abs/2405.17181)|null|
 |**2024-05-27**|**The Uncanny Valley: Exploring Adversarial Robustness from a Flatness Perspective**|Nils Philipp Walter et.al.|[2405.16918](http://arxiv.org/abs/2405.16918)|null|
@@ -452,7 +455,7 @@
 |**2024-04-18**|**Advancing the Robustness of Large Language Models through Self-Denoised Smoothing**|Jiabao Ji et.al.|[2404.12274](http://arxiv.org/abs/2404.12274)|**[link](https://github.com/ucsb-nlp-chang/selfdenoise)**|
 |**2024-04-16**|**Post-Semantic-Thinking: A Robust Strategy to Distill Reasoning Capacity from Large Language Models**|Xiaoshu Chen et.al.|[2404.09170](http://arxiv.org/abs/2404.09170)|null|
 |**2024-04-08**|**Have You Merged My Model? On The Robustness of Large Language Model IP Protection Methods Against Model Merging**|Tianshuo Cong et.al.|[2404.05188](http://arxiv.org/abs/2404.05188)|**[link](https://github.com/thuccslab/mergeguard)**|
-|**2024-04-05**|**Robust Preference Optimization with Provable Noise Tolerance for LLMs**|Xize Liang et.al.|[2404.04102](http://arxiv.org/abs/2404.04102)|null|
+|**2024-05-28**|**ROPO: Robust Preference Optimization for Large Language Models**|Xize Liang et.al.|[2404.04102](http://arxiv.org/abs/2404.04102)|null|
 |**2024-05-01**|**Robust Pronoun Fidelity with English LLMs: Are they Reasoning, Repeating, or Just Biased?**|Vagrant Gautam et.al.|[2404.03134](http://arxiv.org/abs/2404.03134)|**[link](https://github.com/uds-lsv/robust-pronoun-fidelity)**|
 |**2024-04-18**|**JailBreakV-28K: A Benchmark for Assessing the Robustness of MultiModal Large Language Models against Jailbreak Attacks**|Weidi Luo et.al.|[2404.03027](http://arxiv.org/abs/2404.03027)|null|
 |**2024-04-01**|**Syntactic Robustness for LLM-based Code Generation**|Laboni Sarker et.al.|[2404.01535](http://arxiv.org/abs/2404.01535)|null|
@@ -535,6 +538,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-28**|**SLMRec: Empowering Small Language Models for Sequential Recommendation**|Wujiang Xu et.al.|[2405.17890](http://arxiv.org/abs/2405.17890)|null|
+|**2024-05-28**|**MobileConvRec: A Conversational Dataset for Mobile Apps Recommendations**|Srijata Maji et.al.|[2405.17740](http://arxiv.org/abs/2405.17740)|null|
+|**2024-05-27**|**RAGSys: Item-Cold-Start Recommender as RAG System**|Emile Contal et.al.|[2405.17587](http://arxiv.org/abs/2405.17587)|null|
 |**2024-05-27**|**NoteLLM-2: Multimodal Large Representation Models for Recommendation**|Chao Zhang et.al.|[2405.16789](http://arxiv.org/abs/2405.16789)|null|
 |**2024-05-24**|**Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning**|Yuyue Zhao et.al.|[2405.15114](http://arxiv.org/abs/2405.15114)|null|
 |**2024-05-23**|**As an AI Language Model, "Yes I Would Recommend Calling the Police'': Norm Inconsistency in LLM Decision-Making**|Shomik Jain et.al.|[2405.14812](http://arxiv.org/abs/2405.14812)|null|
