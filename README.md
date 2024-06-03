@@ -71,7 +71,7 @@
 |**2023-12-18**|**Multi-Modality is All You Need for Transferable Recommender Systems**|Youhua Li et.al.|[2312.09602](http://arxiv.org/abs/2312.09602)|**[link](https://github.com/icde24/pmmrec)**|
 |**2023-12-12**|**Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure**|Jiyuan Yang et.al.|[2312.07036](http://arxiv.org/abs/2312.07036)|**[link](https://github.com/nancheng58/debiasedsr_dro)**|
 |**2023-12-05**|**An empirical study of next-basket recommendations**|Zhufeng Shao et.al.|[2312.02550](http://arxiv.org/abs/2312.02550)|null|
-|**2023-11-30**|**Poisoning Attacks Against Contrastive Recommender Systems**|Zongwei Wang et.al.|[2311.18244](http://arxiv.org/abs/2311.18244)|null|
+|**2023-11-30**|**Poisoning Attacks Against Contrastive Recommender Systems**|Zongwei Wang et.al.|[2311.18244](http://arxiv.org/abs/2311.18244)|**[link](https://github.com/coderwzw/arlib)**|
 |**2023-11-22**|**Hierarchical Matrix Factorization for Interpretable Collaborative Filtering**|Kai Sugahara et.al.|[2311.13277](http://arxiv.org/abs/2311.13277)|null|
 |**2023-10-25**|**Defense Against Model Extraction Attacks on Recommender Systems**|Sixiao Zhang et.al.|[2310.16335](http://arxiv.org/abs/2310.16335)|**[link](https://github.com/rinnesz/gro-gradient-based-ranking-optimization)**|
 |**2023-10-22**|**Offline Metrics for Evaluating Explanation Goals in Recommender Systems**|André Levi Zanon et.al.|[2310.14379](http://arxiv.org/abs/2310.14379)|null|
@@ -162,7 +162,7 @@
 |**2024-04-23**|**Double Privacy Guard: Robust Traceable Adversarial Watermarking against Face Recognition**|Yunming Zhang et.al.|[2404.14693](http://arxiv.org/abs/2404.14693)|null|
 |**2024-05-02**|**Pixel is a Barrier: Diffusion Models Are More Adversarially Robust Than We Think**|Haotian Xue et.al.|[2404.13320](http://arxiv.org/abs/2404.13320)|**[link](https://github.com/xavihart/pdm-pure)**|
 |**2024-04-17**|**Exploring DNN Robustness Against Adversarial Attacks Using Approximate Multipliers**|Mohammad Javad Askarizadeh et.al.|[2404.11665](http://arxiv.org/abs/2404.11665)|null|
-|**2024-04-29**|**Mitigating the Curse of Dimensionality for Certified Robustness via Dual Randomized Smoothing**|Song Xia et.al.|[2404.09586](http://arxiv.org/abs/2404.09586)|null|
+|**2024-04-29**|**Mitigating the Curse of Dimensionality for Certified Robustness via Dual Randomized Smoothing**|Song Xia et.al.|[2404.09586](http://arxiv.org/abs/2404.09586)|**[link](https://github.com/xiasong0501/drs)**|
 |**2024-04-14**|**Adversarial Robustness Limits via Scaling-Law and Human-Alignment Studies**|Brian R. Bartoldson et.al.|[2404.09349](http://arxiv.org/abs/2404.09349)|null|
 |**2024-04-12**|**FCert: Certifiably Robust Few-Shot Classification in the Era of Foundation Models**|Yanting Wang et.al.|[2404.08631](http://arxiv.org/abs/2404.08631)|**[link](https://github.com/WYT8506/FCert)**|
 |**2024-04-08**|**Investigating the Impact of Quantization on Adversarial Robustness**|Qun Li et.al.|[2404.05639](http://arxiv.org/abs/2404.05639)|null|
@@ -394,7 +394,7 @@
 |**2023-08-07**|**Fixed Inter-Neuron Covariability Induces Adversarial Robustness**|Muhammad Ahmed Shah et.al.|[2308.03956](http://arxiv.org/abs/2308.03956)|null|
 |**2023-08-07**|**Exploring the Physical World Adversarial Robustness of Vehicle Detection**|Wei Jiang et.al.|[2308.03476](http://arxiv.org/abs/2308.03476)|null|
 |**2023-08-01**|**Improving Generalization of Adversarial Training via Robust Critical Fine-Tuning**|Kaijie Zhu et.al.|[2308.02533](http://arxiv.org/abs/2308.02533)|**[link](https://github.com/microsoft/robustlearn)**|
-|**2023-08-04**|**AdvFAS: A robust face anti-spoofing framework against adversarial examples**|Jiawei Chen et.al.|[2308.02116](http://arxiv.org/abs/2308.02116)|null|
+|**2023-08-04**|**AdvFAS: A robust face anti-spoofing framework against adversarial examples**|Jiawei Chen et.al.|[2308.02116](http://arxiv.org/abs/2308.02116)|**[link](https://github.com/Garsonjw/AdvFAS)**|
 |**2023-08-03**|**Hard Adversarial Example Mining for Improving Robust Fairness**|Chenhao Lin et.al.|[2308.01823](http://arxiv.org/abs/2308.01823)|null|
 |**2023-08-01**|**Training on Foveated Images Improves Robustness to Adversarial Attacks**|Muhammad A. Shah et.al.|[2308.00854](http://arxiv.org/abs/2308.00854)|null|
 |**2023-08-01**|**Dynamic ensemble selection based on Deep Neural Network Uncertainty Estimation for Adversarial Robustness**|Ruoxi Qin et.al.|[2308.00346](http://arxiv.org/abs/2308.00346)|null|
