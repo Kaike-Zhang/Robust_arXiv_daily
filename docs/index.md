@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2024.06.02
+## Updated on 2024.06.03
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-17**|**Review of Deep Representation Learning Techniques for Brain-Computer Interfaces and Recommendations**|Pierre Guetschel et.al.|[2405.19345](http://arxiv.org/abs/2405.19345)|null|
-|**2024-05-23**|**Identifying Breakdowns in Conversational Recommender Systems using User Simulation**|Nolwenn Bernard et.al.|[2405.14249](http://arxiv.org/abs/2405.14249)|null|
+|**2024-05-23**|**Identifying Breakdowns in Conversational Recommender Systems using User Simulation**|Nolwenn Bernard et.al.|[2405.14249](http://arxiv.org/abs/2405.14249)|**[link](https://github.com/nob0/crs-breakdown-detection)**|
 |**2024-05-21**|**Time Matters: Enhancing Pre-trained News Recommendation Models with Robust User Dwell Time Injection**|Hao Jiang et.al.|[2405.12486](http://arxiv.org/abs/2405.12486)|null|
 |**2024-05-19**|**Knowledge Graph Pruning for Recommendation**|Fake Lin et.al.|[2405.11531](http://arxiv.org/abs/2405.11531)|null|
 |**2024-05-08**|**SVD-AE: Simple Autoencoders for Collaborative Filtering**|Seoyoung Hong et.al.|[2405.04746](http://arxiv.org/abs/2405.04746)|null|
@@ -114,7 +114,7 @@ layout: default
 |**2024-05-28**|**Towards Unified Robustness Against Both Backdoor and Adversarial Attacks**|Zhenxing Niu et.al.|[2405.17929](http://arxiv.org/abs/2405.17929)|**[link](https://github.com/john-niu-07/pud)**|
 |**2024-05-27**|**TIMA: Text-Image Mutual Awareness for Balancing Zero-Shot Adversarial Robustness and Generalization Ability**|Fengji Ma et.al.|[2405.17678](http://arxiv.org/abs/2405.17678)|null|
 |**2024-05-27**|**A One-Layer Decoder-Only Transformer is a Two-Layer RNN: With an Application to Certified Robustness**|Yuhao Zhang et.al.|[2405.17361](http://arxiv.org/abs/2405.17361)|null|
-|**2024-05-27**|**Spectral regularization for adversarially-robust representation learning**|Sheng Yang et.al.|[2405.17181](http://arxiv.org/abs/2405.17181)|null|
+|**2024-05-27**|**Spectral regularization for adversarially-robust representation learning**|Sheng Yang et.al.|[2405.17181](http://arxiv.org/abs/2405.17181)|**[link](https://github.com/Pehlevan-Group/rep-spectral)**|
 |**2024-05-27**|**The Uncanny Valley: Exploring Adversarial Robustness from a Flatness Perspective**|Nils Philipp Walter et.al.|[2405.16918](http://arxiv.org/abs/2405.16918)|null|
 |**2024-05-25**|**R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model**|Changhoon Kim et.al.|[2405.16341](http://arxiv.org/abs/2405.16341)|null|
 |**2024-05-25**|**Certifying Adapters: Enabling and Enhancing the Certification of Classifier Adversarial Robustness**|Jieren Deng et.al.|[2405.16036](http://arxiv.org/abs/2405.16036)|null|
@@ -124,7 +124,7 @@ layout: default
 |**2024-05-24**|**Certifiably Robust RAG against Retrieval Corruption**|Chong Xiang et.al.|[2405.15556](http://arxiv.org/abs/2405.15556)|null|
 |**2024-05-24**|**Defensive Unlearning with Adversarial Training for Robust Concept Erasure in Diffusion Models**|Yimeng Zhang et.al.|[2405.15234](http://arxiv.org/abs/2405.15234)|**[link](https://github.com/optml-group/advunlearn)**|
 |**2024-05-23**|**Certified Robustness against Sparse Adversarial Perturbations via Data Localization**|Ambar Pal et.al.|[2405.14176](http://arxiv.org/abs/2405.14176)|null|
-|**2024-05-21**|**Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers**|Fan Shi et.al.|[2405.12424](http://arxiv.org/abs/2405.12424)|null|
+|**2024-05-30**|**Rethinking Robustness Assessment: Adversarial Attacks on Learning-based Quadrupedal Locomotion Controllers**|Fan Shi et.al.|[2405.12424](http://arxiv.org/abs/2405.12424)|null|
 |**2024-05-20**|**Robust Deep Reinforcement Learning with Adaptive Adversarial Perturbations in Action Space**|Qianmei Liu et.al.|[2405.11982](http://arxiv.org/abs/2405.11982)|null|
 |**2024-05-27**|**Adaptive Batch Normalization Networks for Adversarial Robustness**|Shao-Yuan Lo et.al.|[2405.11708](http://arxiv.org/abs/2405.11708)|null|
 |**2024-05-19**|**Certified Robust Accuracy of Neural Networks Are Bounded due to Bayes Errors**|Ruihan Zhang et.al.|[2405.11547](http://arxiv.org/abs/2405.11547)|null|
@@ -543,8 +543,8 @@ layout: default
 |**2024-05-22**|**Sunnie: An Anthropomorphic LLM-Based Conversational Agent for Mental Well-Being Activity Recommendation**|Siyi Wu et.al.|[2405.13803](http://arxiv.org/abs/2405.13803)|null|
 |**2024-05-22**|**Navigating User Experience of ChatGPT-based Conversational Recommender Systems: The Effects of Prompt Guidance and Recommendation Domain**|Yizhe Zhang et.al.|[2405.13560](http://arxiv.org/abs/2405.13560)|null|
 |**2024-05-22**|**Lusifer: LLM-based User SImulated Feedback Environment for online Recommender systems**|Danial Ebrat et.al.|[2405.13362](http://arxiv.org/abs/2405.13362)|null|
-|**2024-05-13**|**News Recommendation with Category Description by a Large Language Model**|Yuki Yada et.al.|[2405.13007](http://arxiv.org/abs/2405.13007)|null|
-|**2024-05-21**|**RecGPT: Generative Pre-training for Text-based Recommendation**|Hoang Ngo et.al.|[2405.12715](http://arxiv.org/abs/2405.12715)|null|
+|**2024-05-13**|**News Recommendation with Category Description by a Large Language Model**|Yuki Yada et.al.|[2405.13007](http://arxiv.org/abs/2405.13007)|**[link](https://github.com/yamanalab/gpt-augmented-news-recommendation)**|
+|**2024-05-21**|**RecGPT: Generative Pre-training for Text-based Recommendation**|Hoang Ngo et.al.|[2405.12715](http://arxiv.org/abs/2405.12715)|**[link](https://github.com/vinairesearch/recgpt)**|
 |**2024-05-21**|**Time Matters: Enhancing Pre-trained News Recommendation Models with Robust User Dwell Time Injection**|Hao Jiang et.al.|[2405.12486](http://arxiv.org/abs/2405.12486)|null|
 |**2024-05-21**|**Learning Structure and Knowledge Aware Representation with Large Language Models for Concept Recommendation**|Qingyao Li et.al.|[2405.12442](http://arxiv.org/abs/2405.12442)|null|
 |**2024-05-20**|**Reindex-Then-Adapt: Improving Large Language Models for Conversational Recommendation**|Zhankui He et.al.|[2405.12119](http://arxiv.org/abs/2405.12119)|null|
