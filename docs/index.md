@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation**|Yuxi Liu et.al.|[2405.20878](http://arxiv.org/abs/2405.20878)|**[link](https://github.com/hkuds/selfgnn)**|
+|**2024-05-31**|**Knowledge Enhanced Multi-intent Transformer Network for Recommendation**|Ding Zou et.al.|[2405.20565](http://arxiv.org/abs/2405.20565)|null|
+|**2024-05-30**|**Hiding Your Awful Online Choices Made More Efficient and Secure: A New Privacy-Aware Recommender System**|Shibam Mukherjee et.al.|[2405.20483](http://arxiv.org/abs/2405.20483)|null|
 |**2024-05-17**|**Review of Deep Representation Learning Techniques for Brain-Computer Interfaces and Recommendations**|Pierre Guetschel et.al.|[2405.19345](http://arxiv.org/abs/2405.19345)|null|
 |**2024-05-23**|**Identifying Breakdowns in Conversational Recommender Systems using User Simulation**|Nolwenn Bernard et.al.|[2405.14249](http://arxiv.org/abs/2405.14249)|**[link](https://github.com/nob0/crs-breakdown-detection)**|
 |**2024-05-21**|**Time Matters: Enhancing Pre-trained News Recommendation Models with Robust User Dwell Time Injection**|Hao Jiang et.al.|[2405.12486](http://arxiv.org/abs/2405.12486)|null|
@@ -108,6 +111,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training**|Feiteng Fang et.al.|[2405.20978](http://arxiv.org/abs/2405.20978)|null|
+|**2024-05-24**|**Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent**|Guang Lin et.al.|[2405.20770](http://arxiv.org/abs/2405.20770)|null|
+|**2024-05-31**|**Certifying Global Robustness for Deep Neural Networks**|You Li et.al.|[2405.20556](http://arxiv.org/abs/2405.20556)|null|
+|**2024-05-30**|**Enhancing Adversarial Robustness in SNNs with Sparse Gradients**|Yujia Liu et.al.|[2405.20355](http://arxiv.org/abs/2405.20355)|null|
 |**2024-05-30**|**Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models**|Shuyuan Liu et.al.|[2405.19802](http://arxiv.org/abs/2405.19802)|null|
 |**2024-05-29**|**Confronting the Reproducibility Crisis: A Case Study in Validating Certified Robustness**|Richard H. Moulton et.al.|[2405.18753](http://arxiv.org/abs/2405.18753)|null|
 |**2024-05-28**|**ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator**|Junda Zhu et.al.|[2405.18111](http://arxiv.org/abs/2405.18111)|null|
@@ -432,6 +439,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-24**|**Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent**|Guang Lin et.al.|[2405.20770](http://arxiv.org/abs/2405.20770)|null|
+|**2024-05-31**|**Robust Planning with LLM-Modulo Framework: Case Study in Travel Planning**|Atharva Gundawar et.al.|[2405.20625](http://arxiv.org/abs/2405.20625)|null|
 |**2024-05-30**|**Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks**|Chen Xiong et.al.|[2405.20099](http://arxiv.org/abs/2405.20099)|null|
 |**2024-05-30**|**Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models**|Shuyuan Liu et.al.|[2405.19802](http://arxiv.org/abs/2405.19802)|null|
 |**2024-05-28**|**Learning diverse attacks on large language models for robust red-teaming and safety tuning**|Seanie Lee et.al.|[2405.18540](http://arxiv.org/abs/2405.18540)|null|
@@ -532,6 +541,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-31**|**Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item**|Qidong Liu et.al.|[2405.20646](http://arxiv.org/abs/2405.20646)|null|
 |**2024-05-30**|**Generating Query Recommendations via LLMs**|Andrea Bacciu et.al.|[2405.19749](http://arxiv.org/abs/2405.19749)|null|
 |**2024-05-30**|**Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations**|Hai-Dang Kieu et.al.|[2405.19612](http://arxiv.org/abs/2405.19612)|null|
 |**2024-05-28**|**SLMRec: Empowering Small Language Models for Sequential Recommendation**|Wujiang Xu et.al.|[2405.17890](http://arxiv.org/abs/2405.17890)|null|
