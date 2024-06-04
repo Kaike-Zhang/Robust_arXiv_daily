@@ -123,7 +123,7 @@
 |**2024-05-24**|**Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent**|Guang Lin et.al.|[2405.20770](http://arxiv.org/abs/2405.20770)|null|
 |**2024-05-31**|**Certifying Global Robustness for Deep Neural Networks**|You Li et.al.|[2405.20556](http://arxiv.org/abs/2405.20556)|null|
 |**2024-05-30**|**Enhancing Adversarial Robustness in SNNs with Sparse Gradients**|Yujia Liu et.al.|[2405.20355](http://arxiv.org/abs/2405.20355)|null|
-|**2024-05-30**|**Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models**|Shuyuan Liu et.al.|[2405.19802](http://arxiv.org/abs/2405.19802)|null|
+|**2024-06-03**|**Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models**|Shuyuan Liu et.al.|[2405.19802](http://arxiv.org/abs/2405.19802)|null|
 |**2024-05-29**|**Confronting the Reproducibility Crisis: A Case Study in Validating Certified Robustness**|Richard H. Moulton et.al.|[2405.18753](http://arxiv.org/abs/2405.18753)|null|
 |**2024-05-28**|**ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator**|Junda Zhu et.al.|[2405.18111](http://arxiv.org/abs/2405.18111)|null|
 |**2024-05-28**|**Towards Unified Robustness Against Both Backdoor and Adversarial Attacks**|Zhenxing Niu et.al.|[2405.17929](http://arxiv.org/abs/2405.17929)|**[link](https://github.com/john-niu-07/pud)**|
@@ -452,7 +452,7 @@
 |**2024-05-24**|**Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent**|Guang Lin et.al.|[2405.20770](http://arxiv.org/abs/2405.20770)|null|
 |**2024-05-31**|**Robust Planning with LLM-Modulo Framework: Case Study in Travel Planning**|Atharva Gundawar et.al.|[2405.20625](http://arxiv.org/abs/2405.20625)|null|
 |**2024-05-30**|**Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks**|Chen Xiong et.al.|[2405.20099](http://arxiv.org/abs/2405.20099)|null|
-|**2024-05-30**|**Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models**|Shuyuan Liu et.al.|[2405.19802](http://arxiv.org/abs/2405.19802)|null|
+|**2024-06-03**|**Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models**|Shuyuan Liu et.al.|[2405.19802](http://arxiv.org/abs/2405.19802)|null|
 |**2024-05-28**|**Learning diverse attacks on large language models for robust red-teaming and safety tuning**|Seanie Lee et.al.|[2405.18540](http://arxiv.org/abs/2405.18540)|null|
 |**2024-05-24**|**Evaluating the Adversarial Robustness of Retrieval-Based In-Context Learning for Large Language Models**|Simon Chi Lok Yu et.al.|[2405.15984](http://arxiv.org/abs/2405.15984)|null|
 |**2024-04-02**|**Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments**|Ibne Farabi Shihab et.al.|[2405.14876](http://arxiv.org/abs/2405.14876)|null|
