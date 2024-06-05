@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.04
+## Updated on 2024.06.05
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -542,7 +542,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-05-31**|**Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item**|Qidong Liu et.al.|[2405.20646](http://arxiv.org/abs/2405.20646)|null|
-|**2024-05-30**|**Generating Query Recommendations via LLMs**|Andrea Bacciu et.al.|[2405.19749](http://arxiv.org/abs/2405.19749)|null|
+|**2024-06-04**|**Generating Query Recommendations via LLMs**|Andrea Bacciu et.al.|[2405.19749](http://arxiv.org/abs/2405.19749)|null|
 |**2024-05-30**|**Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations**|Hai-Dang Kieu et.al.|[2405.19612](http://arxiv.org/abs/2405.19612)|null|
 |**2024-05-28**|**SLMRec: Empowering Small Language Models for Sequential Recommendation**|Wujiang Xu et.al.|[2405.17890](http://arxiv.org/abs/2405.17890)|null|
 |**2024-05-28**|**MobileConvRec: A Conversational Dataset for Mobile Apps Recommendations**|Srijata Maji et.al.|[2405.17740](http://arxiv.org/abs/2405.17740)|null|
