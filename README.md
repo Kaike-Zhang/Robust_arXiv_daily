@@ -13,6 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Pairwise Ranking Loss for Multi-Task Learning in Recommender Systems**|Furkan Durmus et.al.|[2406.02163](http://arxiv.org/abs/2406.02163)|null|
+|**2024-06-01**|**RecDiff: Diffusion Model for Social Recommendation**|Zongwei Li et.al.|[2406.01629](http://arxiv.org/abs/2406.01629)|**[link](https://github.com/hkuds/recdiff)**|
+|**2024-06-04**|**FourierKAN-GCF: Fourier Kolmogorov-Arnold Network -- An Effective and Efficient Feature Transformation for Graph Collaborative Filtering**|Jinfeng Xu et.al.|[2406.01034](http://arxiv.org/abs/2406.01034)|**[link](https://github.com/jinfeng-xu/fkan-gcf)**|
+|**2024-06-03**|**Poisoning Attacks and Defenses in Recommender Systems: A Survey**|Zongwei Wang et.al.|[2406.01022](http://arxiv.org/abs/2406.01022)|null|
+|**2024-05-20**|**Extracting Essential and Disentangled Knowledge for Recommendation Enhancement**|Kounianhua Du et.al.|[2406.00012](http://arxiv.org/abs/2406.00012)|null|
 |**2024-05-31**|**SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation**|Yuxi Liu et.al.|[2405.20878](http://arxiv.org/abs/2405.20878)|**[link](https://github.com/hkuds/selfgnn)**|
 |**2024-05-31**|**Knowledge Enhanced Multi-intent Transformer Network for Recommendation**|Ding Zou et.al.|[2405.20565](http://arxiv.org/abs/2405.20565)|null|
 |**2024-05-30**|**Hiding Your Awful Online Choices Made More Efficient and Secure: A New Privacy-Aware Recommender System**|Shibam Mukherjee et.al.|[2405.20483](http://arxiv.org/abs/2405.20483)|null|
@@ -119,6 +124,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Certifiably Byzantine-Robust Federated Conformal Prediction**|Mintong Kang et.al.|[2406.01960](http://arxiv.org/abs/2406.01960)|null|
+|**2024-06-04**|**CR-UTP: Certified Robustness against Universal Text Perturbations**|Qian Lou et.al.|[2406.01873](http://arxiv.org/abs/2406.01873)|null|
+|**2024-06-03**|**Reproducibility Study on Adversarial Attacks Against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2406.01765](http://arxiv.org/abs/2406.01765)|**[link](https://github.com/fatemehn/reproducibilitystudy)**|
+|**2024-06-03**|**Are AI-Generated Text Detectors Robust to Adversarial Perturbations?**|Guanhua Huang et.al.|[2406.01179](http://arxiv.org/abs/2406.01179)|null|
+|**2024-06-02**|**Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training**|Jiacheng Zhang et.al.|[2406.00685](http://arxiv.org/abs/2406.00685)|null|
 |**2024-05-31**|**Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training**|Feiteng Fang et.al.|[2405.20978](http://arxiv.org/abs/2405.20978)|null|
 |**2024-05-24**|**Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent**|Guang Lin et.al.|[2405.20770](http://arxiv.org/abs/2405.20770)|null|
 |**2024-05-31**|**Certifying Global Robustness for Deep Neural Networks**|You Li et.al.|[2405.20556](http://arxiv.org/abs/2405.20556)|null|
@@ -449,6 +459,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**Robust Interaction-based Relevance Modeling for Online E-Commerce and LLM-based Retrieval**|Ben Chen et.al.|[2406.02135](http://arxiv.org/abs/2406.02135)|null|
 |**2024-05-24**|**Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent**|Guang Lin et.al.|[2405.20770](http://arxiv.org/abs/2405.20770)|null|
 |**2024-05-31**|**Robust Planning with LLM-Modulo Framework: Case Study in Travel Planning**|Atharva Gundawar et.al.|[2405.20625](http://arxiv.org/abs/2405.20625)|null|
 |**2024-05-30**|**Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks**|Chen Xiong et.al.|[2405.20099](http://arxiv.org/abs/2405.20099)|null|
@@ -553,6 +564,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377](http://arxiv.org/abs/2406.02377)|**[link](https://github.com/hkuds/xrec)**|
+|**2024-06-04**|**Large Language Models Make Sample-Efficient Recommender Systems**|Jianghao Lin et.al.|[2406.02368](http://arxiv.org/abs/2406.02368)|null|
+|**2024-06-01**|**An LLM-based Recommender System Environment**|Nathan Corecco et.al.|[2406.01631](http://arxiv.org/abs/2406.01631)|null|
+|**2024-06-03**|**Privacy in LLM-based Recommendation: Recent Advances and Future Directions**|Sichun Luo et.al.|[2406.01363](http://arxiv.org/abs/2406.01363)|null|
+|**2024-06-03**|**Large Language Models as Recommender Systems: A Study of Popularity Bias**|Jan Malte Lichtenberg et.al.|[2406.01285](http://arxiv.org/abs/2406.01285)|null|
+|**2024-06-01**|**A Practice-Friendly Two-Stage LLM-Enhanced Paradigm in Sequential Recommendation**|Dugang Liu et.al.|[2406.00333](http://arxiv.org/abs/2406.00333)|null|
+|**2024-05-25**|**Retrieval-Augmented Conversational Recommendation with Prompt-based Semi-Structured Natural Language State Tracking**|Sara Kemper et.al.|[2406.00033](http://arxiv.org/abs/2406.00033)|null|
 |**2024-05-31**|**Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item**|Qidong Liu et.al.|[2405.20646](http://arxiv.org/abs/2405.20646)|null|
 |**2024-06-04**|**Generating Query Recommendations via LLMs**|Andrea Bacciu et.al.|[2405.19749](http://arxiv.org/abs/2405.19749)|null|
 |**2024-05-30**|**Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations**|Hai-Dang Kieu et.al.|[2405.19612](http://arxiv.org/abs/2405.19612)|null|
