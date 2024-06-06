@@ -13,10 +13,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-04**|**EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation**|Yuda Wang et.al.|[2406.02638](http://arxiv.org/abs/2406.02638)|null|
 |**2024-06-05**|**Pairwise Ranking Loss for Multi-Task Learning in Recommender Systems**|Furkan Durmus et.al.|[2406.02163](http://arxiv.org/abs/2406.02163)|null|
 |**2024-06-01**|**RecDiff: Diffusion Model for Social Recommendation**|Zongwei Li et.al.|[2406.01629](http://arxiv.org/abs/2406.01629)|**[link](https://github.com/hkuds/recdiff)**|
 |**2024-06-04**|**FourierKAN-GCF: Fourier Kolmogorov-Arnold Network -- An Effective and Efficient Feature Transformation for Graph Collaborative Filtering**|Jinfeng Xu et.al.|[2406.01034](http://arxiv.org/abs/2406.01034)|**[link](https://github.com/jinfeng-xu/fkan-gcf)**|
-|**2024-06-05**|**Poisoning Attacks and Defenses in Recommender Systems: A Survey**|Zongwei Wang et.al.|[2406.01022](http://arxiv.org/abs/2406.01022)|null|
+|**2024-06-05**|**Poisoning Attacks and Defenses in Recommender Systems: A Survey**|Zongwei Wang et.al.|[2406.01022](http://arxiv.org/abs/2406.01022)|**[link](https://github.com/coderwzw/arlib)**|
 |**2024-05-20**|**Extracting Essential and Disentangled Knowledge for Recommendation Enhancement**|Kounianhua Du et.al.|[2406.00012](http://arxiv.org/abs/2406.00012)|null|
 |**2024-05-31**|**SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation**|Yuxi Liu et.al.|[2405.20878](http://arxiv.org/abs/2405.20878)|**[link](https://github.com/hkuds/selfgnn)**|
 |**2024-05-31**|**Knowledge Enhanced Multi-intent Transformer Network for Recommendation**|Ding Zou et.al.|[2405.20565](http://arxiv.org/abs/2405.20565)|**[link](https://github.com/CCIIPLab/KGTN)**|
@@ -125,7 +126,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-04**|**Certifiably Byzantine-Robust Federated Conformal Prediction**|Mintong Kang et.al.|[2406.01960](http://arxiv.org/abs/2406.01960)|null|
-|**2024-06-04**|**CR-UTP: Certified Robustness against Universal Text Perturbations**|Qian Lou et.al.|[2406.01873](http://arxiv.org/abs/2406.01873)|null|
+|**2024-06-05**|**CR-UTP: Certified Robustness against Universal Text Perturbations on Large Language Models**|Qian Lou et.al.|[2406.01873](http://arxiv.org/abs/2406.01873)|null|
 |**2024-06-03**|**Reproducibility Study on Adversarial Attacks Against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2406.01765](http://arxiv.org/abs/2406.01765)|**[link](https://github.com/fatemehn/reproducibilitystudy)**|
 |**2024-06-03**|**Are AI-Generated Text Detectors Robust to Adversarial Perturbations?**|Guanhua Huang et.al.|[2406.01179](http://arxiv.org/abs/2406.01179)|null|
 |**2024-06-02**|**Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training**|Jiacheng Zhang et.al.|[2406.00685](http://arxiv.org/abs/2406.00685)|**[link](https://github.com/tmlr-group/PART)**|
@@ -460,6 +461,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-04**|**Robust Interaction-based Relevance Modeling for Online E-Commerce and LLM-based Retrieval**|Ben Chen et.al.|[2406.02135](http://arxiv.org/abs/2406.02135)|null|
+|**2024-06-05**|**CR-UTP: Certified Robustness against Universal Text Perturbations on Large Language Models**|Qian Lou et.al.|[2406.01873](http://arxiv.org/abs/2406.01873)|null|
 |**2024-05-24**|**Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent**|Guang Lin et.al.|[2405.20770](http://arxiv.org/abs/2405.20770)|null|
 |**2024-05-31**|**Robust Planning with LLM-Modulo Framework: Case Study in Travel Planning**|Atharva Gundawar et.al.|[2405.20625](http://arxiv.org/abs/2405.20625)|null|
 |**2024-05-30**|**Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks**|Chen Xiong et.al.|[2405.20099](http://arxiv.org/abs/2405.20099)|null|
@@ -564,6 +566,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-05**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248](http://arxiv.org/abs/2406.03248)|**[link](https://github.com/xiaoyu-sz/llmasevaluator)**|
+|**2024-06-05**|**Text-like Encoding of Collaborative Information in Large Language Models for Recommendation**|Yang Zhang et.al.|[2406.03210](http://arxiv.org/abs/2406.03210)|null|
+|**2024-06-05**|**Exploring User Retrieval Integration towards Large Language Models for Cross-Domain Sequential Recommendation**|Tingjia Shen et.al.|[2406.03085](http://arxiv.org/abs/2406.03085)|null|
+|**2024-06-05**|**Item-Language Model for Conversational Recommendation**|Li Yang et.al.|[2406.02844](http://arxiv.org/abs/2406.02844)|null|
 |**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377](http://arxiv.org/abs/2406.02377)|**[link](https://github.com/hkuds/xrec)**|
 |**2024-06-04**|**Large Language Models Make Sample-Efficient Recommender Systems**|Jianghao Lin et.al.|[2406.02368](http://arxiv.org/abs/2406.02368)|null|
 |**2024-06-01**|**An LLM-based Recommender System Environment**|Nathan Corecco et.al.|[2406.01631](http://arxiv.org/abs/2406.01631)|null|
