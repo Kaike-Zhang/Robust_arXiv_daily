@@ -461,7 +461,7 @@ layout: default
 |**2024-04-02**|**Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments**|Ibne Farabi Shihab et.al.|[2405.14876](http://arxiv.org/abs/2405.14876)|null|
 |**2024-05-21**|**Multiple-Choice Questions are Efficient and Robust LLM Evaluators**|Ziyin Zhang et.al.|[2405.11966](http://arxiv.org/abs/2405.11966)|**[link](https://github.com/geralt-targaryen/mc-evaluation)**|
 |**2024-05-23**|**xFinder: Robust and Pinpoint Answer Extraction for Large Language Models**|Qingchen Yu et.al.|[2405.11874](http://arxiv.org/abs/2405.11874)|**[link](https://github.com/iaar-shanghai/xfinder)**|
-|**2024-05-16**|**Adversarial Robustness for Visual Grounding of Multimodal Large Language Models**|Kuofeng Gao et.al.|[2405.09981](http://arxiv.org/abs/2405.09981)|null|
+|**2024-05-16**|**Adversarial Robustness for Visual Grounding of Multimodal Large Language Models**|Kuofeng Gao et.al.|[2405.09981](http://arxiv.org/abs/2405.09981)|**[link](https://github.com/KuofengGao/MLLM-Grounding-Robustness)**|
 |**2024-05-14**|**SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models**|Raghuveer Peri et.al.|[2405.08317](http://arxiv.org/abs/2405.08317)|null|
 |**2024-05-16**|**Benchmarking Retrieval-Augmented Large Language Models in Biomedical NLP: Application, Robustness, and Self-Awareness**|Mingchen Li et.al.|[2405.08151](http://arxiv.org/abs/2405.08151)|null|
 |**2024-05-07**|**NL2Plan: Robust LLM-Driven Planning from Minimal Text Descriptions**|Elliot Gestrin et.al.|[2405.04215](http://arxiv.org/abs/2405.04215)|null|
