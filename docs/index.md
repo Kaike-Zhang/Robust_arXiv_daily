@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**QAGCF: Graph Collaborative Filtering for Q&A Recommendation**|Changshuo Zhang et.al.|[2406.04828](http://arxiv.org/abs/2406.04828)|null|
+|**2024-06-07**|**Mobile Network Configuration Recommendation using Deep Generative Graph Neural Network**|Shirwan Piroti et.al.|[2406.04779](http://arxiv.org/abs/2406.04779)|null|
+|**2024-06-04**|**Dynamic Online Recommendation for Two-Sided Market with Bayesian Incentive Compatibility**|Yuantong Li et.al.|[2406.04374](http://arxiv.org/abs/2406.04374)|null|
 |**2024-06-04**|**EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation**|Yuda Wang et.al.|[2406.02638](http://arxiv.org/abs/2406.02638)|null|
 |**2024-06-05**|**Pairwise Ranking Loss for Multi-Task Learning in Recommender Systems**|Furkan Durmus et.al.|[2406.02163](http://arxiv.org/abs/2406.02163)|null|
 |**2024-06-01**|**RecDiff: Diffusion Model for Social Recommendation**|Zongwei Li et.al.|[2406.01629](http://arxiv.org/abs/2406.01629)|**[link](https://github.com/hkuds/recdiff)**|
@@ -117,6 +120,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**The Price of Implicit Bias in Adversarially Robust Generalization**|Nikolaos Tsilivis et.al.|[2406.04981](http://arxiv.org/abs/2406.04981)|null|
 |**2024-06-04**|**Certifiably Byzantine-Robust Federated Conformal Prediction**|Mintong Kang et.al.|[2406.01960](http://arxiv.org/abs/2406.01960)|null|
 |**2024-06-05**|**CR-UTP: Certified Robustness against Universal Text Perturbations on Large Language Models**|Qian Lou et.al.|[2406.01873](http://arxiv.org/abs/2406.01873)|null|
 |**2024-06-03**|**Reproducibility Study on Adversarial Attacks Against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2406.01765](http://arxiv.org/abs/2406.01765)|**[link](https://github.com/fatemehn/reproducibilitystudy)**|
@@ -554,6 +558,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-07**|**Sales Whisperer: A Human-Inconspicuous Attack on LLM Brand Recommendations**|Weiran Lin et.al.|[2406.04755](http://arxiv.org/abs/2406.04755)|null|
 |**2024-06-06**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248](http://arxiv.org/abs/2406.03248)|**[link](https://github.com/xiaoyu-sz/llmasevaluator)**|
 |**2024-06-05**|**Text-like Encoding of Collaborative Information in Large Language Models for Recommendation**|Yang Zhang et.al.|[2406.03210](http://arxiv.org/abs/2406.03210)|null|
 |**2024-06-05**|**Exploring User Retrieval Integration towards Large Language Models for Cross-Domain Sequential Recommendation**|Tingjia Shen et.al.|[2406.03085](http://arxiv.org/abs/2406.03085)|null|
