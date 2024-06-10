@@ -149,7 +149,7 @@ layout: default
 |**2024-05-18**|**Towards Robust Policy: Enhancing Offline Reinforcement Learning with Adversarial Attacks and Defenses**|Thanh Nguyen et.al.|[2405.11206](http://arxiv.org/abs/2405.11206)|null|
 |**2024-05-18**|**Revisiting the Robust Generalization of Adversarial Prompt Tuning**|Fan Yang et.al.|[2405.11154](http://arxiv.org/abs/2405.11154)|null|
 |**2024-05-16**|**Adversarial Robustness Guarantees for Quantum Classifiers**|Neil Dowling et.al.|[2405.10360](http://arxiv.org/abs/2405.10360)|null|
-|**2024-05-16**|**Adversarial Robustness for Visual Grounding of Multimodal Large Language Models**|Kuofeng Gao et.al.|[2405.09981](http://arxiv.org/abs/2405.09981)|null|
+|**2024-05-16**|**Adversarial Robustness for Visual Grounding of Multimodal Large Language Models**|Kuofeng Gao et.al.|[2405.09981](http://arxiv.org/abs/2405.09981)|**[link](https://github.com/KuofengGao/MLLM-Grounding-Robustness)**|
 |**2024-05-14**|**RS-Reg: Probabilistic and Robust Certified Regression Through Randomized Smoothing**|Aref Miri Rekavandi et.al.|[2405.08892](http://arxiv.org/abs/2405.08892)|**[link](https://github.com/arekavandi/certified_robust_regression)**|
 |**2024-05-14**|**Certifying Robustness of Graph Convolutional Networks for Node Perturbation with Polyhedra Abstract Interpretation**|Boqi Chen et.al.|[2405.08645](http://arxiv.org/abs/2405.08645)|null|
 |**2024-05-14**|**SpeechGuard: Exploring the Adversarial Robustness of Multimodal Large Language Models**|Raghuveer Peri et.al.|[2405.08317](http://arxiv.org/abs/2405.08317)|null|
@@ -275,7 +275,7 @@ layout: default
 |**2023-12-14**|**Towards Inductive Robustness: Distilling and Fostering Wave-induced Resonance in Transductive GCNs Against Graph Adversarial Attacks**|Ao Liu et.al.|[2312.08651](http://arxiv.org/abs/2312.08651)|null|
 |**2023-12-13**|**Universal Adversarial Framework to Improve Adversarial Robustness for Diabetic Retinopathy Detection**|Samrat Mukherjee et.al.|[2312.08193](http://arxiv.org/abs/2312.08193)|null|
 |**2023-12-13**|**Radio Signal Classification by Adversarially Robust Quantum Machine Learning**|Yanqiu Wu et.al.|[2312.07821](http://arxiv.org/abs/2312.07821)|null|
-|**2023-12-12**|**Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval**|Qiwei Tian et.al.|[2312.07364](http://arxiv.org/abs/2312.07364)|null|
+|**2023-12-12**|**Collapse-Oriented Adversarial Training with Triplet Decoupling for Robust Image Retrieval**|Qiwei Tian et.al.|[2312.07364](http://arxiv.org/abs/2312.07364)|**[link](https://github.com/michaeltian108/ca-tride)**|
 |**2023-12-11**|**Sparse but Strong: Crafting Adversarially Robust Graph Lottery Tickets**|Subhajit Dutta Chowdhury et.al.|[2312.06568](http://arxiv.org/abs/2312.06568)|null|
 |**2023-12-11**|**Adversarial Camera Patch: An Effective and Robust Physical-World Attack on Object Detectors**|Kalibinuer Tiliwalidi et.al.|[2312.06163](http://arxiv.org/abs/2312.06163)|null|
 |**2023-12-09**|**Improving Adversarial Robust Fairness via Anti-Bias Soft Label Distillation**|Shiji Zhao et.al.|[2312.05508](http://arxiv.org/abs/2312.05508)|null|
@@ -320,7 +320,7 @@ layout: default
 |**2023-10-23**|**Unsupervised Federated Learning: A Federated Gradient EM Algorithm for Heterogeneous Mixture Models with Robustness against Adversarial Attacks**|Ye Tian et.al.|[2310.15330](http://arxiv.org/abs/2310.15330)|null|
 |**2023-11-06**|**On existence, uniqueness and scalability of adversarial robustness measures for AI classifiers**|Illia Horenko et.al.|[2310.14421](http://arxiv.org/abs/2310.14421)|null|
 |**2023-10-19**|**PatchCURE: Improving Certifiable Robustness, Model Utility, and Computation Efficiency of Adversarial Patch Defenses**|Chong Xiang et.al.|[2310.13076](http://arxiv.org/abs/2310.13076)|**[link](https://github.com/inspire-group/patchcure)**|
-|**2023-10-19**|**OODRobustBench: benchmarking and analyzing adversarial robustness under distribution shift**|Lin Li et.al.|[2310.12793](http://arxiv.org/abs/2310.12793)|null|
+|**2023-10-19**|**OODRobustBench: benchmarking and analyzing adversarial robustness under distribution shift**|Lin Li et.al.|[2310.12793](http://arxiv.org/abs/2310.12793)|**[link](https://github.com/oodrobustbench/oodrobustbench)**|
 |**2023-10-19**|**Learn from the Past: A Proxy based Adversarial Defense Framework to Boost Robustness**|Yaohua Liu et.al.|[2310.12713](http://arxiv.org/abs/2310.12713)|**[link](https://github.com/callous-youth/last)**|
 |**2023-10-19**|**Generating Robust Adversarial Examples against Online Social Networks (OSNs)**|Jun Liu et.al.|[2310.12708](http://arxiv.org/abs/2310.12708)|**[link](https://github.com/csjunjun/robustosnattack)**|
 |**2023-10-21**|**Adversarial Robustness Unhardening via Backdoor Attacks in Federated Learning**|Taejin Kim et.al.|[2310.11594](http://arxiv.org/abs/2310.11594)|null|
@@ -347,7 +347,7 @@ layout: default
 |**2023-10-01**|**Counterfactual Image Generation for adversarially robust and interpretable Classifiers**|Rafael Bischof et.al.|[2310.00761](http://arxiv.org/abs/2310.00761)|null|
 |**2023-10-01**|**A Survey of Robustness and Safety of 2D and 3D Deep Learning Models Against Adversarial Attacks**|Yanjie Li et.al.|[2310.00633](http://arxiv.org/abs/2310.00633)|null|
 |**2023-10-01**|**On the Onset of Robust Overfitting in Adversarial Training**|Chaojian Yu et.al.|[2310.00607](http://arxiv.org/abs/2310.00607)|null|
-|**2023-10-01**|**Understanding the Robustness of Randomized Feature Defense Against Query-Based Adversarial Attacks**|Quang H. Nguyen et.al.|[2310.00567](http://arxiv.org/abs/2310.00567)|null|
+|**2023-10-01**|**Understanding the Robustness of Randomized Feature Defense Against Query-Based Adversarial Attacks**|Quang H. Nguyen et.al.|[2310.00567](http://arxiv.org/abs/2310.00567)|**[link](https://github.com/mail-research/randomized_defenses)**|
 |**2023-09-29**|**Certified Robustness via Dynamic Margin Maximization and Improved Lipschitz Regularization**|Mahyar Fazlyab et.al.|[2310.00116](http://arxiv.org/abs/2310.00116)|**[link](https://github.com/o4lc/crm-liplt)**|
 |**2023-10-03**|**Robust Offline Reinforcement Learning -- Certify the Confidence Interval**|Jiarui Yao et.al.|[2309.16631](http://arxiv.org/abs/2309.16631)|null|
 |**2023-09-28**|**On the Trade-offs between Adversarial Robustness and Actionable Explanations**|Satyapriya Krishna et.al.|[2309.16452](http://arxiv.org/abs/2309.16452)|null|
@@ -388,7 +388,7 @@ layout: default
 |**2023-08-17**|**Do you really follow me? Adversarial Instructions for Evaluating the Robustness of Large Language Models**|Zekun Li et.al.|[2308.10819](http://arxiv.org/abs/2308.10819)|**[link](https://github.com/leezekun/adv-instruct-eval)**|
 |**2023-08-21**|**On the Adversarial Robustness of Multi-Modal Foundation Models**|Christian Schlarmann et.al.|[2308.10741](http://arxiv.org/abs/2308.10741)|**[link](https://github.com/chs20/robustvlm)**|
 |**2023-08-21**|**Measuring the Effect of Causal Disentanglement on the Adversarial Robustness of Neural Network Models**|Preben M. Ness et.al.|[2308.10708](http://arxiv.org/abs/2308.10708)|null|
-|**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|null|
+|**2023-08-20**|**HoSNN: Adversarially-Robust Homeostatic Spiking Neural Networks with Adaptive Firing Thresholds**|Hejia Geng et.al.|[2308.10373](http://arxiv.org/abs/2308.10373)|**[link](https://github.com/stonezwr/TSSL-BP)**|
 |**2023-08-22**|**Improving Adversarial Robustness of Masked Autoencoders via Test-time Frequency-domain Prompting**|Qidong Huang et.al.|[2308.10315](http://arxiv.org/abs/2308.10315)|**[link](https://github.com/shikiw/robustmae)**|
 |**2023-08-17**|**Causal Adversarial Perturbations for Individual Fairness and Robustness in Heterogeneous Data Spaces**|Ahmad-Reza Ehyaei et.al.|[2308.08938](http://arxiv.org/abs/2308.08938)|null|
 |**2023-08-16**|**Expressivity of Graph Neural Networks Through the Lens of Adversarial Robustness**|Francesco Campi et.al.|[2308.08173](http://arxiv.org/abs/2308.08173)|**[link](https://github.com/francesco-campi/rob-subgraphs)**|
@@ -681,7 +681,7 @@ layout: default
 |**2024-02-02**|**A Multi-Agent Conversational Recommender System**|Jiabao Fang et.al.|[2402.01135](http://arxiv.org/abs/2402.01135)|null|
 |**2024-02-01**|**From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models**|Jung-Mei Chu et.al.|[2402.00421](http://arxiv.org/abs/2402.00421)|null|
 |**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
-|**2024-01-30**|**Data-efficient Fine-tuning for LLM-based Recommendation**|Xinyu Lin et.al.|[2401.17197](http://arxiv.org/abs/2401.17197)|null|
+|**2024-01-30**|**Data-efficient Fine-tuning for LLM-based Recommendation**|Xinyu Lin et.al.|[2401.17197](http://arxiv.org/abs/2401.17197)|**[link](https://github.com/linxyhaha/dealrec)**|
 |**2024-01-29**|**APIGen: Generative API Method Recommendation**|Yujia Chen et.al.|[2401.15843](http://arxiv.org/abs/2401.15843)|**[link](https://github.com/hitcoderr/apigen)**|
 |**2024-01-25**|**Integrating Large Language Models into Recommendation via Mutual Augmentation and Adaptive Aggregation**|Sichun Luo et.al.|[2401.13870](http://arxiv.org/abs/2401.13870)|null|
 |**2024-01-21**|**Enhancing Recommendation Diversity by Re-ranking with Large Language Models**|Diego Carraro et.al.|[2401.11506](http://arxiv.org/abs/2401.11506)|null|
