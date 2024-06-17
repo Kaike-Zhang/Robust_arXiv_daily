@@ -1,4 +1,4 @@
-## Updated on 2024.06.16
+## Updated on 2024.06.17
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -123,7 +123,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20240616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
 
 ## Robust ML
 
@@ -131,7 +131,7 @@
 |---|---|---|---|---|
 |**2024-06-13**|**Improving Adversarial Robustness via Feature Pattern Consistency Constraint**|Jiacong Hu et.al.|[2406.08829](http://arxiv.org/abs/2406.08829)|null|
 |**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486](http://arxiv.org/abs/2406.08486)|**[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)**|
-|**2024-06-10**|**Reinforced Compressive Neural Architecture Search for Versatile Adversarial Robustness**|Dingrong Wang et.al.|[2406.06792](http://arxiv.org/abs/2406.06792)|**[link](https://github.com/wdr123/robn2n)**|
+|**2024-06-14**|**Reinforced Compressive Neural Architecture Search for Versatile Adversarial Robustness**|Dingrong Wang et.al.|[2406.06792](http://arxiv.org/abs/2406.06792)|**[link](https://github.com/wdr123/robn2n)**|
 |**2024-06-10**|**Robust Distribution Learning with Local and Global Adversarial Corruptions**|Sloan Nietert et.al.|[2406.06509](http://arxiv.org/abs/2406.06509)|null|
 |**2024-06-09**|**ProFeAT: Projected Feature Adversarial Training for Self-Supervised Learning of Robust Representations**|Sravanti Addepalli et.al.|[2406.05796](http://arxiv.org/abs/2406.05796)|null|
 |**2024-06-09**|**Certified Robustness to Data Poisoning in Gradient-Based Training**|Philip Sosnin et.al.|[2406.05670](http://arxiv.org/abs/2406.05670)|null|
@@ -467,7 +467,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20240616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
 
 ## Security LLM
 
@@ -577,7 +577,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20240616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -733,5 +733,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240617>back to top</a>)</p>
 

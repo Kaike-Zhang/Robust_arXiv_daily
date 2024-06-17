@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.16
+## Updated on 2024.06.17
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -123,7 +123,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-13**|**Improving Adversarial Robustness via Feature Pattern Consistency Constraint**|Jiacong Hu et.al.|[2406.08829](http://arxiv.org/abs/2406.08829)|null|
 |**2024-06-12**|**On Evaluating Adversarial Robustness of Volumetric Medical Segmentation Models**|Hashmat Shadab Malik et.al.|[2406.08486](http://arxiv.org/abs/2406.08486)|**[link](https://github.com/hashmatshadab/robustness-of-volumetric-medical-segmentation-models)**|
-|**2024-06-10**|**Reinforced Compressive Neural Architecture Search for Versatile Adversarial Robustness**|Dingrong Wang et.al.|[2406.06792](http://arxiv.org/abs/2406.06792)|**[link](https://github.com/wdr123/robn2n)**|
+|**2024-06-14**|**Reinforced Compressive Neural Architecture Search for Versatile Adversarial Robustness**|Dingrong Wang et.al.|[2406.06792](http://arxiv.org/abs/2406.06792)|**[link](https://github.com/wdr123/robn2n)**|
 |**2024-06-10**|**Robust Distribution Learning with Local and Global Adversarial Corruptions**|Sloan Nietert et.al.|[2406.06509](http://arxiv.org/abs/2406.06509)|null|
 |**2024-06-09**|**ProFeAT: Projected Feature Adversarial Training for Self-Supervised Learning of Robust Representations**|Sravanti Addepalli et.al.|[2406.05796](http://arxiv.org/abs/2406.05796)|null|
 |**2024-06-09**|**Certified Robustness to Data Poisoning in Gradient-Based Training**|Philip Sosnin et.al.|[2406.05670](http://arxiv.org/abs/2406.05670)|null|
