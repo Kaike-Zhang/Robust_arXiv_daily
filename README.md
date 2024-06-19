@@ -1,4 +1,4 @@
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -124,14 +124,14 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## Robust ML
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-17**|**Harmonizing Feature Maps: A Graph Convolutional Approach for Enhancing Adversarial Robustness**|Kejia Zhang et.al.|[2406.11576](http://arxiv.org/abs/2406.11576)|null|
-|**2024-06-17**|**Adversaries With Incentives: A Strategic Alternative to Adversarial Robustness**|Maayan Ehrenberg et.al.|[2406.11458](http://arxiv.org/abs/2406.11458)|null|
+|**2024-06-17**|**Adversaries With Incentives: A Strategic Alternative to Adversarial Robustness**|Maayan Ehrenberg et.al.|[2406.11458](http://arxiv.org/abs/2406.11458)|**[link](https://github.com/maayango285/Adversaries-With-Incentives)**|
 |**2024-06-17**|**Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection**|Sungwon Park et.al.|[2406.11260](http://arxiv.org/abs/2406.11260)|null|
 |**2024-06-16**|**Improving Adversarial Robustness via Decoupled Visual Representation Masking**|Decheng Liu et.al.|[2406.10933](http://arxiv.org/abs/2406.10933)|**[link](https://github.com/chenboluo/adversarial-defense)**|
 |**2024-06-15**|**Robust Image Classification in the Presence of Out-of-Distribution and Adversarial Samples Using Attractors in Neural Networks**|Nasrin Alipour et.al.|[2406.10579](http://arxiv.org/abs/2406.10579)|null|
@@ -475,7 +475,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## Security LLM
 
@@ -590,7 +590,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -598,7 +598,7 @@
 |---|---|---|---|---|
 |**2024-06-17**|**Multi-Layer Ranking with Large Language Models for News Source Recommendation**|Wenjia Zhang et.al.|[2406.11745](http://arxiv.org/abs/2406.11745)|null|
 |**2024-06-17**|**A Collaborative Data Analytics System with Recommender for Diverse Users**|Siu Lung Ng et.al.|[2406.11232](http://arxiv.org/abs/2406.11232)|null|
-|**2024-06-17**|**DELRec: Distilling Sequential Pattern to Enhance LLM-based Recommendation**|Guohao Sun et.al.|[2406.11156](http://arxiv.org/abs/2406.11156)|null|
+|**2024-06-18**|**DELRec: Distilling Sequential Pattern to Enhance LLM-based Recommendation**|Guohao Sun et.al.|[2406.11156](http://arxiv.org/abs/2406.11156)|null|
 |**2024-06-15**|**TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation**|Haohao Qu et.al.|[2406.10450](http://arxiv.org/abs/2406.10450)|null|
 |**2024-06-02**|**Towards commands recommender system in BIM authoring tool using transformers**|Changyu Du et.al.|[2406.10237](http://arxiv.org/abs/2406.10237)|null|
 |**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
@@ -751,5 +751,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240619>back to top</a>)</p>
 

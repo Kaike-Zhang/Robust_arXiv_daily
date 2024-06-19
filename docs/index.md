@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -123,7 +123,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-17**|**Harmonizing Feature Maps: A Graph Convolutional Approach for Enhancing Adversarial Robustness**|Kejia Zhang et.al.|[2406.11576](http://arxiv.org/abs/2406.11576)|null|
-|**2024-06-17**|**Adversaries With Incentives: A Strategic Alternative to Adversarial Robustness**|Maayan Ehrenberg et.al.|[2406.11458](http://arxiv.org/abs/2406.11458)|null|
+|**2024-06-17**|**Adversaries With Incentives: A Strategic Alternative to Adversarial Robustness**|Maayan Ehrenberg et.al.|[2406.11458](http://arxiv.org/abs/2406.11458)|**[link](https://github.com/maayango285/Adversaries-With-Incentives)**|
 |**2024-06-17**|**Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection**|Sungwon Park et.al.|[2406.11260](http://arxiv.org/abs/2406.11260)|null|
 |**2024-06-16**|**Improving Adversarial Robustness via Decoupled Visual Representation Masking**|Decheng Liu et.al.|[2406.10933](http://arxiv.org/abs/2406.10933)|**[link](https://github.com/chenboluo/adversarial-defense)**|
 |**2024-06-15**|**Robust Image Classification in the Presence of Out-of-Distribution and Adversarial Samples Using Attractors in Neural Networks**|Nasrin Alipour et.al.|[2406.10579](http://arxiv.org/abs/2406.10579)|null|
@@ -586,7 +586,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-17**|**Multi-Layer Ranking with Large Language Models for News Source Recommendation**|Wenjia Zhang et.al.|[2406.11745](http://arxiv.org/abs/2406.11745)|null|
 |**2024-06-17**|**A Collaborative Data Analytics System with Recommender for Diverse Users**|Siu Lung Ng et.al.|[2406.11232](http://arxiv.org/abs/2406.11232)|null|
-|**2024-06-17**|**DELRec: Distilling Sequential Pattern to Enhance LLM-based Recommendation**|Guohao Sun et.al.|[2406.11156](http://arxiv.org/abs/2406.11156)|null|
+|**2024-06-18**|**DELRec: Distilling Sequential Pattern to Enhance LLM-based Recommendation**|Guohao Sun et.al.|[2406.11156](http://arxiv.org/abs/2406.11156)|null|
 |**2024-06-15**|**TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation**|Haohao Qu et.al.|[2406.10450](http://arxiv.org/abs/2406.10450)|null|
 |**2024-06-02**|**Towards commands recommender system in BIM authoring tool using transformers**|Changyu Du et.al.|[2406.10237](http://arxiv.org/abs/2406.10237)|null|
 |**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
