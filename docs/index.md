@@ -122,6 +122,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**MEAT: Median-Ensemble Adversarial Training for Improving Robustness and Generalization**|Zhaozhe Hu et.al.|[2406.14259](http://arxiv.org/abs/2406.14259)|null|
+|**2024-06-20**|**Enhancing robustness of data-driven SHM models: adversarial training with circle loss**|Xiangli Yang et.al.|[2406.14232](http://arxiv.org/abs/2406.14232)|null|
+|**2024-06-20**|**Exploring Layerwise Adversarial Robustness Through the Lens of t-SNE**|Inês Valentim et.al.|[2406.14073](http://arxiv.org/abs/2406.14073)|null|
+|**2024-06-20**|**Explainable AI Security: Exploring Robustness of Graph Neural Networks to Adversarial Attacks**|Tao Wu et.al.|[2406.13920](http://arxiv.org/abs/2406.13920)|null|
 |**2024-06-18**|**Can Go AIs be adversarially robust?**|Tom Tseng et.al.|[2406.12843](http://arxiv.org/abs/2406.12843)|null|
 |**2024-06-17**|**Harmonizing Feature Maps: A Graph Convolutional Approach for Enhancing Adversarial Robustness**|Kejia Zhang et.al.|[2406.11576](http://arxiv.org/abs/2406.11576)|null|
 |**2024-06-17**|**Adversaries With Incentives: A Strategic Alternative to Adversarial Robustness**|Maayan Ehrenberg et.al.|[2406.11458](http://arxiv.org/abs/2406.11458)|**[link](https://github.com/maayango285/Adversaries-With-Incentives)**|
@@ -472,7 +476,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-06-17**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|null|
+|**2024-06-20**|**PostMark: A Robust Blackbox Watermark for Large Language Models**|Yapei Chang et.al.|[2406.14517](http://arxiv.org/abs/2406.14517)|**[link](https://github.com/lilakk/postmark)**|
+|**2024-06-19**|**Factual Confidence of LLMs: on Reliability and Robustness of Current Estimators**|Matéo Mahaut et.al.|[2406.13415](http://arxiv.org/abs/2406.13415)|null|
+|**2024-06-19**|**Towards Robust Evaluation: A Comprehensive Taxonomy of Datasets and Metrics for Open Domain Question Answering in the Era of Large Language Models**|Akchay Srivastava et.al.|[2406.13232](http://arxiv.org/abs/2406.13232)|null|
+|**2024-06-19**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|null|
 |**2024-06-17**|**InternalInspector $I^2$ : Robust Confidence Estimation in LLMs through Internal States**|Mohammad Beigi et.al.|[2406.12053](http://arxiv.org/abs/2406.12053)|null|
 |**2024-06-17**|**Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection**|Sungwon Park et.al.|[2406.11260](http://arxiv.org/abs/2406.11260)|null|
 |**2024-06-16**|**RUPBench: Benchmarking Reasoning Under Perturbations for Robustness Evaluation in Large Language Models**|Yuqing Wang et.al.|[2406.11020](http://arxiv.org/abs/2406.11020)|null|
@@ -587,8 +594,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-20**|**Optimizing Novelty of Top-k Recommendations using Large Language Models and Reinforcement Learning**|Amit Sharma et.al.|[2406.14169](http://arxiv.org/abs/2406.14169)|null|
+|**2024-06-20**|**Taxonomy-Guided Zero-Shot Recommendations with LLMs**|Yueqing Liang et.al.|[2406.14043](http://arxiv.org/abs/2406.14043)|**[link](https://github.com/yueqingliang1/taxrec)**|
+|**2024-06-19**|**Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning**|Zhong Guan et.al.|[2406.13235](http://arxiv.org/abs/2406.13235)|null|
 |**2024-06-18**|**LLM4MSR: An LLM-Enhanced Paradigm for Multi-Scenario Recommendation**|Yuhao Wang et.al.|[2406.12529](http://arxiv.org/abs/2406.12529)|null|
-|**2024-06-18**|**LLM-enhanced Reranking in Recommender Systems**|Jingtong Gao et.al.|[2406.12433](http://arxiv.org/abs/2406.12433)|null|
+|**2024-06-20**|**LLM-enhanced Reranking in Recommender Systems**|Jingtong Gao et.al.|[2406.12433](http://arxiv.org/abs/2406.12433)|null|
 |**2024-06-18**|**CherryRec: Enhancing News Recommendation Quality via LLM-driven Framework**|Shaohuang Wang et.al.|[2406.12243](http://arxiv.org/abs/2406.12243)|null|
 |**2024-06-18**|**"You Gotta be a Doctor, Lin": An Investigation of Name-Based Bias of Large Language Models in Employment Recommendations**|Huy Nghiem et.al.|[2406.12232](http://arxiv.org/abs/2406.12232)|null|
 |**2024-06-17**|**When Box Meets Graph Neural Network in Tag-aware Recommendation**|Fake Lin et.al.|[2406.12020](http://arxiv.org/abs/2406.12020)|**[link](https://github.com/critical88/boxgnn)**|
