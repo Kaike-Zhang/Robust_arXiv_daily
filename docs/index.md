@@ -122,6 +122,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**Deciphering the Definition of Adversarial Robustness for post-hoc OOD Detectors**|Peter Lorenz et.al.|[2406.15104](http://arxiv.org/abs/2406.15104)|null|
+|**2024-06-20**|**Uniform Convergence of Adversarially Robust Classifiers**|Rachel Morris et.al.|[2406.14682](http://arxiv.org/abs/2406.14682)|null|
 |**2024-06-20**|**MEAT: Median-Ensemble Adversarial Training for Improving Robustness and Generalization**|Zhaozhe Hu et.al.|[2406.14259](http://arxiv.org/abs/2406.14259)|null|
 |**2024-06-20**|**Enhancing robustness of data-driven SHM models: adversarial training with circle loss**|Xiangli Yang et.al.|[2406.14232](http://arxiv.org/abs/2406.14232)|null|
 |**2024-06-20**|**Exploring Layerwise Adversarial Robustness Through the Lens of t-SNE**|Inês Valentim et.al.|[2406.14073](http://arxiv.org/abs/2406.14073)|null|
@@ -594,6 +596,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-21**|**V-RECS, a Low-Cost LLM4VIS Recommender with Explanations, Captioning and Suggestions**|Luca Podo et.al.|[2406.15259](http://arxiv.org/abs/2406.15259)|null|
+|**2024-06-21**|**Decoding Matters: Addressing Amplification Bias and Homogeneity Issue for LLM-based Recommendation**|Keqin Bao et.al.|[2406.14900](http://arxiv.org/abs/2406.14900)|null|
 |**2024-06-20**|**Optimizing Novelty of Top-k Recommendations using Large Language Models and Reinforcement Learning**|Amit Sharma et.al.|[2406.14169](http://arxiv.org/abs/2406.14169)|null|
 |**2024-06-20**|**Taxonomy-Guided Zero-Shot Recommendations with LLMs**|Yueqing Liang et.al.|[2406.14043](http://arxiv.org/abs/2406.14043)|**[link](https://github.com/yueqingliang1/taxrec)**|
 |**2024-06-19**|**Enhancing Collaborative Semantics of Language Model-Driven Recommendations via Graph-Aware Learning**|Zhong Guan et.al.|[2406.13235](http://arxiv.org/abs/2406.13235)|null|
