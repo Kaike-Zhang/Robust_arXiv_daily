@@ -67,7 +67,7 @@ layout: default
 |**2024-01-23**|**Securing Recommender System via Cooperative Training**|Qingyang Wang et.al.|[2401.12700](http://arxiv.org/abs/2401.12700)|**[link](https://github.com/greensun0830/cotraining-attack)**|
 |**2024-01-21**|**What Are We Optimizing For? A Human-centric Evaluation Of Deep Learning-based Recommender Systems**|Ruixuan Sun et.al.|[2401.11632](http://arxiv.org/abs/2401.11632)|null|
 |**2024-01-18**|**Improving One-class Recommendation with Multi-tasking on Various Preference Intensities**|Chu-Jen Shao et.al.|[2401.10316](http://arxiv.org/abs/2401.10316)|null|
-|**2024-01-29**|**Plug-In Diffusion Model for Embedding Denoising in Recommendation System**|Jujia Zhao et.al.|[2401.06982](http://arxiv.org/abs/2401.06982)|null|
+|**2024-01-29**|**Plug-In Diffusion Model for Embedding Denoising in Recommendation System**|Jujia Zhao et.al.|[2401.06982](http://arxiv.org/abs/2401.06982)|**[link](https://github.com/polaris-jz/ddrm)**|
 |**2024-02-28**|**Towards Efficient Communication and Secure Federated Recommendation System via Low-rank Training**|Ngoc-Hieu Nguyen et.al.|[2401.03748](http://arxiv.org/abs/2401.03748)|**[link](https://github.com/nnhieu/colr-fedrec)**|
 |**2023-12-28**|**DiffKG: Knowledge Graph Diffusion Model for Recommendation**|Yangqin Jiang et.al.|[2312.16890](http://arxiv.org/abs/2312.16890)|**[link](https://github.com/hkuds/diffkg)**|
 |**2023-12-27**|**LGMRec: Local and Global Graph Learning for Multimodal Recommendation**|Zhiqiang Guo et.al.|[2312.16400](http://arxiv.org/abs/2312.16400)|**[link](https://github.com/georgeguo-cn/lgmrec)**|
@@ -642,7 +642,7 @@ layout: default
 |**2024-05-20**|**Recommender Algorithm for Supporting Self-Management of CVD Risk Factors in an Adult Population at Home**|Tatiana V. Afanasieva et.al.|[2405.11967](http://arxiv.org/abs/2405.11967)|null|
 |**2024-05-19**|**EmbSum: Leveraging the Summarization Capabilities of Large Language Models for Content-Based Recommendations**|Chiyu Zhang et.al.|[2405.11441](http://arxiv.org/abs/2405.11441)|null|
 |**2024-05-17**|**RDRec: Rationale Distillation for LLM-based Recommendation**|Xinfeng Wang et.al.|[2405.10587](http://arxiv.org/abs/2405.10587)|**[link](https://github.com/wangxfng/rdrec)**|
-|**2024-05-13**|**A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems**|Lixi Zhu et.al.|[2405.08035](http://arxiv.org/abs/2405.08035)|null|
+|**2024-05-13**|**A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems**|Lixi Zhu et.al.|[2405.08035](http://arxiv.org/abs/2405.08035)|**[link](https://github.com/zlxxlz1026/cshi)**|
 |**2024-05-13**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580](http://arxiv.org/abs/2405.07580)|null|
 |**2024-05-12**|**Learnable Tokenizer for LLM-based Generative Recommendation**|Wenjie Wang et.al.|[2405.07314](http://arxiv.org/abs/2405.07314)|null|
 |**2024-05-08**|**Impact of Tone-Aware Explanations in Recommender Systems**|Ayano Okoso et.al.|[2405.05061](http://arxiv.org/abs/2405.05061)|null|
