@@ -122,6 +122,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Evaluating the Robustness of Deep-Learning Algorithm-Selection Models by Evolving Adversarial Instances**|Emma Hart et.al.|[2406.16609](http://arxiv.org/abs/2406.16609)|null|
+|**2024-06-22**|**Federated Adversarial Learning for Robust Autonomous Landing Runway Detection**|Yi Li et.al.|[2406.15925](http://arxiv.org/abs/2406.15925)|null|
 |**2024-06-21**|**Deciphering the Definition of Adversarial Robustness for post-hoc OOD Detectors**|Peter Lorenz et.al.|[2406.15104](http://arxiv.org/abs/2406.15104)|null|
 |**2024-06-20**|**Uniform Convergence of Adversarially Robust Classifiers**|Rachel Morris et.al.|[2406.14682](http://arxiv.org/abs/2406.14682)|null|
 |**2024-06-20**|**MEAT: Median-Ensemble Adversarial Training for Improving Robustness and Generalization**|Zhaozhe Hu et.al.|[2406.14259](http://arxiv.org/abs/2406.14259)|null|
@@ -478,6 +480,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-22**|**Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs**|Jannik Kossen et.al.|[2406.15927](http://arxiv.org/abs/2406.15927)|null|
+|**2024-05-30**|**Investigating the Robustness of LLMs on Math Word Problems**|Ujjwala Anantheswaran et.al.|[2406.15444](http://arxiv.org/abs/2406.15444)|null|
 |**2024-06-20**|**PostMark: A Robust Blackbox Watermark for Large Language Models**|Yapei Chang et.al.|[2406.14517](http://arxiv.org/abs/2406.14517)|**[link](https://github.com/lilakk/postmark)**|
 |**2024-06-19**|**Factual Confidence of LLMs: on Reliability and Robustness of Current Estimators**|Matéo Mahaut et.al.|[2406.13415](http://arxiv.org/abs/2406.13415)|null|
 |**2024-06-19**|**Towards Robust Evaluation: A Comprehensive Taxonomy of Datasets and Metrics for Open Domain Question Answering in the Era of Large Language Models**|Akchay Srivastava et.al.|[2406.13232](http://arxiv.org/abs/2406.13232)|null|
@@ -596,6 +600,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Guardrails for avoiding harmful medical product recommendations and off-label promotion in generative AI models**|Daniel Lopez-Martinez et.al.|[2406.16455](http://arxiv.org/abs/2406.16455)|null|
+|**2024-06-22**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859](http://arxiv.org/abs/2406.15859)|null|
 |**2024-06-21**|**V-RECS, a Low-Cost LLM4VIS Recommender with Explanations, Captioning and Suggestions**|Luca Podo et.al.|[2406.15259](http://arxiv.org/abs/2406.15259)|null|
 |**2024-06-21**|**Decoding Matters: Addressing Amplification Bias and Homogeneity Issue for LLM-based Recommendation**|Keqin Bao et.al.|[2406.14900](http://arxiv.org/abs/2406.14900)|null|
 |**2024-06-20**|**Optimizing Novelty of Top-k Recommendations using Large Language Models and Reinforcement Learning**|Amit Sharma et.al.|[2406.14169](http://arxiv.org/abs/2406.14169)|null|
