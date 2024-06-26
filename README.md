@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-24**|**Debiased Recommendation with Noisy Feedback**|Haoxuan Li et.al.|[2406.17182](http://arxiv.org/abs/2406.17182)|null|
 |**2024-06-09**|**Robust portfolio optimization for recommender systems considering uncertainty of estimated statistics**|Tomoya Yanagi et.al.|[2406.10250](http://arxiv.org/abs/2406.10250)|null|
 |**2024-06-10**|**Training and Validating a Treatment Recommender with Partial Verification Evidence**|Vishnu Unnikrishnan et.al.|[2406.06654](http://arxiv.org/abs/2406.06654)|null|
 |**2024-06-07**|**QAGCF: Graph Collaborative Filtering for Q&A Recommendation**|Changshuo Zhang et.al.|[2406.04828](http://arxiv.org/abs/2406.04828)|null|
