@@ -131,9 +131,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-25**|**Treatment of Statistical Estimation Problems in Randomized Smoothing for Adversarial Robustness**|Vaclav Voracek et.al.|[2406.17830](http://arxiv.org/abs/2406.17830)|null|
 |**2024-06-24**|**Evaluating the Robustness of Deep-Learning Algorithm-Selection Models by Evolving Adversarial Instances**|Emma Hart et.al.|[2406.16609](http://arxiv.org/abs/2406.16609)|null|
 |**2024-06-22**|**Federated Adversarial Learning for Robust Autonomous Landing Runway Detection**|Yi Li et.al.|[2406.15925](http://arxiv.org/abs/2406.15925)|null|
-|**2024-06-25**|**Deciphering the Definition of Adversarial Robustness for post-hoc OOD Detectors**|Peter Lorenz et.al.|[2406.15104](http://arxiv.org/abs/2406.15104)|null|
+|**2024-06-25**|**Deciphering the Definition of Adversarial Robustness for post-hoc OOD Detectors**|Peter Lorenz et.al.|[2406.15104](http://arxiv.org/abs/2406.15104)|**[link](https://github.com/adverml/advopenood)**|
 |**2024-06-20**|**Uniform Convergence of Adversarially Robust Classifiers**|Rachel Morris et.al.|[2406.14682](http://arxiv.org/abs/2406.14682)|null|
 |**2024-06-20**|**MEAT: Median-Ensemble Adversarial Training for Improving Robustness and Generalization**|Zhaozhe Hu et.al.|[2406.14259](http://arxiv.org/abs/2406.14259)|**[link](https://github.com/huzhaozhe00/Median-ensemble-AT)**|
 |**2024-06-20**|**Enhancing robustness of data-driven SHM models: adversarial training with circle loss**|Xiangli Yang et.al.|[2406.14232](http://arxiv.org/abs/2406.14232)|null|
@@ -491,6 +492,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-26**|**Assessing "Implicit" Retrieval Robustness of Large Language Models**|Xiaoyu Shen et.al.|[2406.18134](http://arxiv.org/abs/2406.18134)|null|
+|**2024-06-25**|**Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic Alignment**|Paarth Neekhara et.al.|[2406.17957](http://arxiv.org/abs/2406.17957)|null|
 |**2024-06-22**|**Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs**|Jannik Kossen et.al.|[2406.15927](http://arxiv.org/abs/2406.15927)|null|
 |**2024-05-30**|**Investigating the Robustness of LLMs on Math Word Problems**|Ujjwala Anantheswaran et.al.|[2406.15444](http://arxiv.org/abs/2406.15444)|null|
 |**2024-06-20**|**PostMark: A Robust Blackbox Watermark for Large Language Models**|Yapei Chang et.al.|[2406.14517](http://arxiv.org/abs/2406.14517)|**[link](https://github.com/lilakk/postmark)**|
