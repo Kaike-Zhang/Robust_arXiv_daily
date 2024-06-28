@@ -492,6 +492,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**The Remarkable Robustness of LLMs: Stages of Inference?**|Vedang Lad et.al.|[2406.19384](http://arxiv.org/abs/2406.19384)|**[link](https://github.com/vdlad/remarkable-robustness-of-llms)**|
 |**2024-06-26**|**Assessing "Implicit" Retrieval Robustness of Large Language Models**|Xiaoyu Shen et.al.|[2406.18134](http://arxiv.org/abs/2406.18134)|null|
 |**2024-06-25**|**Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic Alignment**|Paarth Neekhara et.al.|[2406.17957](http://arxiv.org/abs/2406.17957)|null|
 |**2024-06-22**|**Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs**|Jannik Kossen et.al.|[2406.15927](http://arxiv.org/abs/2406.15927)|null|
@@ -616,6 +617,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-27**|**Efficient course recommendations with T5-based ranking and summarization**|Thijmen Bijl et.al.|[2406.19018](http://arxiv.org/abs/2406.19018)|null|
+|**2024-06-27**|**ELCoRec: Enhance Language Understanding with Co-Propagation of Numerical and Categorical Features for Recommendation**|Jizheng Chen et.al.|[2406.18825](http://arxiv.org/abs/2406.18825)|null|
 |**2024-06-24**|**Guardrails for avoiding harmful medical product recommendations and off-label promotion in generative AI models**|Daniel Lopez-Martinez et.al.|[2406.16455](http://arxiv.org/abs/2406.16455)|null|
 |**2024-06-22**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859](http://arxiv.org/abs/2406.15859)|null|
 |**2024-06-21**|**V-RECS, a Low-Cost LLM4VIS Recommender with Explanations, Captioning and Suggestions**|Luca Podo et.al.|[2406.15259](http://arxiv.org/abs/2406.15259)|null|
