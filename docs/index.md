@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.06.27
+## Updated on 2024.06.28
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -492,7 +492,7 @@ layout: default
 |**2024-06-19**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|null|
 |**2024-06-17**|**InternalInspector $I^2$ : Robust Confidence Estimation in LLMs through Internal States**|Mohammad Beigi et.al.|[2406.12053](http://arxiv.org/abs/2406.12053)|null|
 |**2024-06-17**|**Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection**|Sungwon Park et.al.|[2406.11260](http://arxiv.org/abs/2406.11260)|null|
-|**2024-06-16**|**RUPBench: Benchmarking Reasoning Under Perturbations for Robustness Evaluation in Large Language Models**|Yuqing Wang et.al.|[2406.11020](http://arxiv.org/abs/2406.11020)|null|
+|**2024-06-16**|**RUPBench: Benchmarking Reasoning Under Perturbations for Robustness Evaluation in Large Language Models**|Yuqing Wang et.al.|[2406.11020](http://arxiv.org/abs/2406.11020)|**[link](https://github.com/eternityyw/rupbench)**|
 |**2024-06-16**|**KGPA: Robustness Evaluation for Large Language Models via Cross-Domain Knowledge Graphs**|Aihua Pei et.al.|[2406.10802](http://arxiv.org/abs/2406.10802)|**[link](https://github.com/aika-wsd/KGPA)**|
 |**2024-06-16**|**ShareLoRA: Parameter Efficient and Robust Large Language Model Fine-tuning via Shared Low-Rank Adaptation**|Yurun Song et.al.|[2406.10785](http://arxiv.org/abs/2406.10785)|null|
 |**2024-06-13**|**Robustness of Structured Data Extraction from In-plane Rotated Documents using Multi-Modal Large Language Models (LLM)**|Anjanava Biswas et.al.|[2406.10295](http://arxiv.org/abs/2406.10295)|null|
