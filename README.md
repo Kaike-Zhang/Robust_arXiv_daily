@@ -307,7 +307,7 @@
 |**2024-01-05**|**A Random Ensemble of Encrypted models for Enhancing Robustness against Adversarial Examples**|Ryota Iijima et.al.|[2401.02633](http://arxiv.org/abs/2401.02633)|null|
 |**2023-12-26**|**Robust Survival Analysis with Adversarial Regularization**|Michael Potter et.al.|[2312.16019](http://arxiv.org/abs/2312.16019)|**[link](https://github.com/mlpotter/sawar)**|
 |**2023-12-21**|**ARBiBench: Benchmarking Adversarial Robustness of Binarized Neural Networks**|Peng Zhao et.al.|[2312.13575](http://arxiv.org/abs/2312.13575)|null|
-|**2023-12-20**|**Scaling Compute Is Not All You Need for Adversarial Robustness**|Edoardo Debenedetti et.al.|[2312.13131](http://arxiv.org/abs/2312.13131)|null|
+|**2023-12-20**|**Scaling Compute Is Not All You Need for Adversarial Robustness**|Edoardo Debenedetti et.al.|[2312.13131](http://arxiv.org/abs/2312.13131)|**[link](https://github.com/dedeswim/timm-adv-training)**|
 |**2023-12-18**|**The Pros and Cons of Adversarial Robustness**|Yacine Izza et.al.|[2312.10911](http://arxiv.org/abs/2312.10911)|null|
 |**2023-12-16**|**Perturbation-Invariant Adversarial Training for Neural Ranking Models: Improving the Effectiveness-Robustness Trade-Off**|Yu-An Liu et.al.|[2312.10329](http://arxiv.org/abs/2312.10329)|null|
 |**2023-12-15**|**Embodied Adversarial Attack: A Dynamic Robust Physical Attack in Autonomous Driving**|Yitong Sun et.al.|[2312.09554](http://arxiv.org/abs/2312.09554)|null|
@@ -642,7 +642,7 @@
 |**2024-06-07**|**Sales Whisperer: A Human-Inconspicuous Attack on LLM Brand Recommendations**|Weiran Lin et.al.|[2406.04755](http://arxiv.org/abs/2406.04755)|null|
 |**2024-06-06**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248](http://arxiv.org/abs/2406.03248)|**[link](https://github.com/xiaoyu-sz/llmasevaluator)**|
 |**2024-06-05**|**Text-like Encoding of Collaborative Information in Large Language Models for Recommendation**|Yang Zhang et.al.|[2406.03210](http://arxiv.org/abs/2406.03210)|null|
-|**2024-06-05**|**Exploring User Retrieval Integration towards Large Language Models for Cross-Domain Sequential Recommendation**|Tingjia Shen et.al.|[2406.03085](http://arxiv.org/abs/2406.03085)|null|
+|**2024-06-05**|**Exploring User Retrieval Integration towards Large Language Models for Cross-Domain Sequential Recommendation**|Tingjia Shen et.al.|[2406.03085](http://arxiv.org/abs/2406.03085)|**[link](https://github.com/tingjshen/urllm)**|
 |**2024-06-05**|**Item-Language Model for Conversational Recommendation**|Li Yang et.al.|[2406.02844](http://arxiv.org/abs/2406.02844)|null|
 |**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377](http://arxiv.org/abs/2406.02377)|**[link](https://github.com/hkuds/xrec)**|
 |**2024-06-04**|**Large Language Models Make Sample-Efficient Recommender Systems**|Jianghao Lin et.al.|[2406.02368](http://arxiv.org/abs/2406.02368)|null|
