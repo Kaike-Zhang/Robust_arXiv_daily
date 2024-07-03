@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-24**|**Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning**|Xiao Han et.al.|[2407.00082](http://arxiv.org/abs/2407.00082)|**[link](https://github.com/applied-machine-learning-lab/bistro)**|
+|**2024-06-17**|**A First Principles Approach to Trust-Based Recommendation Systems**|Paras Stefanopoulos et.al.|[2407.00062](http://arxiv.org/abs/2407.00062)|null|
 |**2024-06-24**|**Debiased Recommendation with Noisy Feedback**|Haoxuan Li et.al.|[2406.17182](http://arxiv.org/abs/2406.17182)|null|
 |**2024-06-09**|**Robust portfolio optimization for recommender systems considering uncertainty of estimated statistics**|Tomoya Yanagi et.al.|[2406.10250](http://arxiv.org/abs/2406.10250)|null|
 |**2024-06-10**|**Training and Validating a Treatment Recommender with Partial Verification Evidence**|Vishnu Unnikrishnan et.al.|[2406.06654](http://arxiv.org/abs/2406.06654)|null|
@@ -123,6 +125,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-30**|**A Whole-Process Certifiably Robust Aggregation Method Against Backdoor Attacks in Federated Learning**|Anqi Zhou et.al.|[2407.00719](http://arxiv.org/abs/2407.00719)|null|
+|**2024-06-30**|**Consistency Purification: Effective and Efficient Diffusion Purification towards Certified Robustness**|Yiquan Li et.al.|[2407.00623](http://arxiv.org/abs/2407.00623)|null|
+|**2024-06-28**|**DiffuseDef: Improved Robustness to Adversarial Attacks**|Zhenhao Li et.al.|[2407.00248](http://arxiv.org/abs/2407.00248)|null|
 |**2024-06-28**|**Data-Driven Lipschitz Continuity: A Cost-Effective Approach to Improve Adversarial Robustness**|Erh-Chung Chen et.al.|[2406.19622](http://arxiv.org/abs/2406.19622)|null|
 |**2024-06-25**|**Treatment of Statistical Estimation Problems in Randomized Smoothing for Adversarial Robustness**|Vaclav Voracek et.al.|[2406.17830](http://arxiv.org/abs/2406.17830)|null|
 |**2024-06-24**|**Evaluating the Robustness of Deep-Learning Algorithm-Selection Models by Evolving Adversarial Instances**|Emma Hart et.al.|[2406.16609](http://arxiv.org/abs/2406.16609)|null|
@@ -483,6 +488,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-01**|**Enhancing the Capability and Robustness of Large Language Models through Reinforcement Learning-Driven Query Refinement**|Zisu Huang et.al.|[2407.01461](http://arxiv.org/abs/2407.01461)|**[link](https://github.com/huangzisu/query-refinement)**|
 |**2024-06-28**|**NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations**|Junkai Chen et.al.|[2406.19783](http://arxiv.org/abs/2406.19783)|null|
 |**2024-06-27**|**The Remarkable Robustness of LLMs: Stages of Inference?**|Vedang Lad et.al.|[2406.19384](http://arxiv.org/abs/2406.19384)|**[link](https://github.com/vdlad/remarkable-robustness-of-llms)**|
 |**2024-06-26**|**Assessing "Implicit" Retrieval Robustness of Large Language Models**|Xiaoyu Shen et.al.|[2406.18134](http://arxiv.org/abs/2406.18134)|null|
