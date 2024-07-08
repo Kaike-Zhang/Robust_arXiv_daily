@@ -167,9 +167,9 @@
 |**2024-06-04**|**Certifiably Byzantine-Robust Federated Conformal Prediction**|Mintong Kang et.al.|[2406.01960](http://arxiv.org/abs/2406.01960)|null|
 |**2024-06-05**|**CR-UTP: Certified Robustness against Universal Text Perturbations on Large Language Models**|Qian Lou et.al.|[2406.01873](http://arxiv.org/abs/2406.01873)|null|
 |**2024-06-03**|**Reproducibility Study on Adversarial Attacks Against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2406.01765](http://arxiv.org/abs/2406.01765)|**[link](https://github.com/fatemehn/reproducibilitystudy)**|
-|**2024-06-03**|**Are AI-Generated Text Detectors Robust to Adversarial Perturbations?**|Guanhua Huang et.al.|[2406.01179](http://arxiv.org/abs/2406.01179)|null|
+|**2024-06-03**|**Are AI-Generated Text Detectors Robust to Adversarial Perturbations?**|Guanhua Huang et.al.|[2406.01179](http://arxiv.org/abs/2406.01179)|**[link](https://github.com/carlanlark/robust-aigc-detector)**|
 |**2024-06-02**|**Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training**|Jiacheng Zhang et.al.|[2406.00685](http://arxiv.org/abs/2406.00685)|**[link](https://github.com/tmlr-group/PART)**|
-|**2024-05-31**|**Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training**|Feiteng Fang et.al.|[2405.20978](http://arxiv.org/abs/2405.20978)|null|
+|**2024-05-31**|**Enhancing Noise Robustness of Retrieval-Augmented Language Models with Adaptive Adversarial Training**|Feiteng Fang et.al.|[2405.20978](http://arxiv.org/abs/2405.20978)|**[link](https://github.com/calubkk/raat)**|
 |**2024-05-24**|**Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent**|Guang Lin et.al.|[2405.20770](http://arxiv.org/abs/2405.20770)|null|
 |**2024-05-31**|**Certifying Global Robustness for Deep Neural Networks**|You Li et.al.|[2405.20556](http://arxiv.org/abs/2405.20556)|null|
 |**2024-05-30**|**Enhancing Adversarial Robustness in SNNs with Sparse Gradients**|Yujia Liu et.al.|[2405.20355](http://arxiv.org/abs/2405.20355)|null|
@@ -269,14 +269,14 @@
 |**2024-02-23**|**Distilling Adversarial Robustness Using Heterogeneous Teachers**|Jieren Deng et.al.|[2402.15586](http://arxiv.org/abs/2402.15586)|null|
 |**2024-02-26**|**A Robust Defense against Adversarial Attacks on Deep Learning-based Malware Detectors via (De)Randomized Smoothing**|Daniel Gibert et.al.|[2402.15267](http://arxiv.org/abs/2402.15267)|null|
 |**2024-02-22**|**Rethinking Invariance Regularization in Adversarial Training to Improve Robustness-Accuracy Trade-off**|Futa Waseda et.al.|[2402.14648](http://arxiv.org/abs/2402.14648)|null|
-|**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
+|**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|**[link](https://github.com/rainavyas/attack-comparative-assessment)**|
 |**2024-02-21**|**Adversarial Purification and Fine-tuning for Robust UDC Image Restoration**|Zhenbo Song et.al.|[2402.13629](http://arxiv.org/abs/2402.13629)|null|
 |**2024-02-19**|**An Adversarial Approach to Evaluating the Robustness of Event Identification Models**|Obai Bahwal et.al.|[2402.12338](http://arxiv.org/abs/2402.12338)|null|
 |**2024-02-19**|**Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models**|Christian Schlarmann et.al.|[2402.12336](http://arxiv.org/abs/2402.12336)|**[link](https://github.com/chs20/robustvlm)**|
 |**2024-02-19**|**Adversarial Feature Alignment: Balancing Robustness and Accuracy in Deep Learning via Adversarial Training**|Leo Hyun Park et.al.|[2402.12187](http://arxiv.org/abs/2402.12187)|null|
 |**2024-02-19**|**Automatic Radio Map Adaptation for Robust Localization with Dynamic Adversarial Learning**|Lingyan Zhang et.al.|[2402.11898](http://arxiv.org/abs/2402.11898)|null|
 |**2024-02-18**|**Evaluating Adversarial Robustness of Low dose CT Recovery**|Kanchana Vaishnavi Gandikota et.al.|[2402.11557](http://arxiv.org/abs/2402.11557)|**[link](https://github.com/kvgandikota/robustness-low-dose-ct)**|
-|**2024-02-18**|**A Curious Case of Searching for the Correlation between Training Data and Adversarial Robustness of Transformer Textual Models**|Cuong Dang et.al.|[2402.11469](http://arxiv.org/abs/2402.11469)|null|
+|**2024-02-18**|**A Curious Case of Searching for the Correlation between Training Data and Adversarial Robustness of Transformer Textual Models**|Cuong Dang et.al.|[2402.11469](http://arxiv.org/abs/2402.11469)|**[link](https://github.com/captaincuong/robusttext_acl2024)**|
 |**2024-02-17**|**Maintaining Adversarial Robustness in Continuous Learning**|Xiaolei Ru et.al.|[2402.11196](http://arxiv.org/abs/2402.11196)|null|
 |**2024-02-16**|**DART: A Principled Approach to Adversarially Robust Unsupervised Domain Adaptation**|Yunjuan Wang et.al.|[2402.11120](http://arxiv.org/abs/2402.11120)|null|
 |**2024-02-15**|**Camouflage is all you need: Evaluating and Enhancing Language Model Robustness Against Camouflage Adversarial Attacks**|Álvaro Huertas-García et.al.|[2402.09874](http://arxiv.org/abs/2402.09874)|null|
@@ -562,7 +562,7 @@
 |**2024-02-27**|**EmMark: Robust Watermarks for IP Protection of Embedded Quantized Large Language Models**|Ruisi Zhang et.al.|[2402.17938](http://arxiv.org/abs/2402.17938)|null|
 |**2024-02-26**|**Eight Methods to Evaluate Robust Unlearning in LLMs**|Aengus Lynch et.al.|[2402.16835](http://arxiv.org/abs/2402.16835)|null|
 |**2024-02-26**|**RoCoIns: Enhancing Robustness of Large Language Models through Code-Style Instructions**|Yuansen Zhang et.al.|[2402.16431](http://arxiv.org/abs/2402.16431)|null|
-|**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
+|**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|**[link](https://github.com/rainavyas/attack-comparative-assessment)**|
 |**2024-02-21**|**RITFIS: Robust input testing framework for LLMs-based intelligent software**|Mingxuan Xiao et.al.|[2402.13518](http://arxiv.org/abs/2402.13518)|null|
 |**2024-03-16**|**NEO-BENCH: Evaluating Robustness of Large Language Models with Neologisms**|Jonathan Zheng et.al.|[2402.12261](http://arxiv.org/abs/2402.12261)|null|
 |**2024-02-26**|**Towards Faithful and Robust LLM Specialists for Evidence-Based Question-Answering**|Tobias Schimanski et.al.|[2402.08277](http://arxiv.org/abs/2402.08277)|**[link](https://github.com/EdisonNi-hku/Robust_Evidence_Based_QA)**|
