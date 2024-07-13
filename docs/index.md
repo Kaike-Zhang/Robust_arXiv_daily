@@ -130,7 +130,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-11**|**Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation**|Riccardo Cantini et.al.|[2407.08441](http://arxiv.org/abs/2407.08441)|null|
 |**2024-07-09**|**Robust Neural Information Retrieval: An Adversarial and Out-of-distribution Perspective**|Yu-An Liu et.al.|[2407.06992](http://arxiv.org/abs/2407.06992)|**[link](https://github.com/davion-liu/awesome-robustness-in-information-retrieval)**|
-|**2024-07-04**|**Certifiably Robust Image Watermark**|Zhengyuan Jiang et.al.|[2407.04086](http://arxiv.org/abs/2407.04086)|null|
+|**2024-07-04**|**Certifiably Robust Image Watermark**|Zhengyuan Jiang et.al.|[2407.04086](http://arxiv.org/abs/2407.04086)|**[link](https://github.com/zhengyuan-jiang/Watermark-Library)**|
 |**2024-07-04**|**Mitigating Low-Frequency Bias: Feature Recalibration and Frequency Attention Regularization for Adversarial Robustness**|Kejia Zhang et.al.|[2407.04016](http://arxiv.org/abs/2407.04016)|null|
 |**2024-07-04**|**RobQuNNs: A Methodology for Robust Quanvolutional Neural Networks against Adversarial Attacks**|Walid El Maouaki et.al.|[2407.03875](http://arxiv.org/abs/2407.03875)|null|
 |**2024-07-04**|**Adversarial Robustness of VAEs across Intersectional Subgroups**|Chethan Krishnamurthy Ramanaik et.al.|[2407.03864](http://arxiv.org/abs/2407.03864)|null|
@@ -626,7 +626,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-09**|**Fine-grained large-scale content recommendations for MSX sellers**|Manpreet Singh et.al.|[2407.06910](http://arxiv.org/abs/2407.06910)|null|
-|**2024-07-06**|**Preference Distillation for Personalized Generative Recommendation**|Jerome Ramos et.al.|[2407.05033](http://arxiv.org/abs/2407.05033)|**[link](https://github.com/jeromeramos70/peapod)**|
+|**2024-07-06**|**Preference Distillation for Personalized Generative Recommendation**|Jerome Ramos et.al.|[2407.05033](http://arxiv.org/abs/2407.05033)|null|
 |**2024-07-06**|**MemoCRS: Memory-enhanced Sequential Conversational Recommender Systems with Large Language Models**|Yunjia Xi et.al.|[2407.04960](http://arxiv.org/abs/2407.04960)|**[link](https://github.com/mindspore-lab/models)**|
 |**2024-07-06**|**RAMO: Retrieval-Augmented Generation for Enhancing MOOCs Recommendations**|Jiarui Rao et.al.|[2407.04925](http://arxiv.org/abs/2407.04925)|null|
 |**2024-07-09**|**EventChat: Implementation and user-centric evaluation of a large language model-driven conversational recommender system for exploring leisure events in an SME context**|Hannes Kunstmann et.al.|[2407.04472](http://arxiv.org/abs/2407.04472)|null|
