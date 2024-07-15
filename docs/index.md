@@ -221,7 +221,7 @@ layout: default
 |**2024-05-02**|**Pixel is a Barrier: Diffusion Models Are More Adversarially Robust Than We Think**|Haotian Xue et.al.|[2404.13320](http://arxiv.org/abs/2404.13320)|**[link](https://github.com/xavihart/pdm-pure)**|
 |**2024-04-17**|**Exploring DNN Robustness Against Adversarial Attacks Using Approximate Multipliers**|Mohammad Javad Askarizadeh et.al.|[2404.11665](http://arxiv.org/abs/2404.11665)|null|
 |**2024-04-29**|**Mitigating the Curse of Dimensionality for Certified Robustness via Dual Randomized Smoothing**|Song Xia et.al.|[2404.09586](http://arxiv.org/abs/2404.09586)|**[link](https://github.com/xiasong0501/drs)**|
-|**2024-04-14**|**Adversarial Robustness Limits via Scaling-Law and Human-Alignment Studies**|Brian R. Bartoldson et.al.|[2404.09349](http://arxiv.org/abs/2404.09349)|null|
+|**2024-04-14**|**Adversarial Robustness Limits via Scaling-Law and Human-Alignment Studies**|Brian R. Bartoldson et.al.|[2404.09349](http://arxiv.org/abs/2404.09349)|**[link](https://github.com/bbartoldson/adversarial-robustness-limits)**|
 |**2024-04-12**|**FCert: Certifiably Robust Few-Shot Classification in the Era of Foundation Models**|Yanting Wang et.al.|[2404.08631](http://arxiv.org/abs/2404.08631)|**[link](https://github.com/WYT8506/FCert)**|
 |**2024-04-08**|**Investigating the Impact of Quantization on Adversarial Robustness**|Qun Li et.al.|[2404.05639](http://arxiv.org/abs/2404.05639)|null|
 |**2024-04-05**|**Evaluating Adversarial Robustness: A Comparison Of FGSM, Carlini-Wagner Attacks, And The Role of Distillation as Defense Mechanism**|Trilokesh Ranjan Sarkar et.al.|[2404.04245](http://arxiv.org/abs/2404.04245)|null|
@@ -521,7 +521,7 @@ layout: default
 |**2024-06-11**|**MoreauPruner: Robust Pruning of Large Language Models against Weight Perturbations**|Zixiao Wang et.al.|[2406.07017](http://arxiv.org/abs/2406.07017)|**[link](https://github.com/shiningsord/moreaupruner)**|
 |**2024-06-03**|**MedFuzz: Exploring the Robustness of Large Language Models in Medical Question Answering**|Robert Osazuwa Ness et.al.|[2406.06573](http://arxiv.org/abs/2406.06573)|null|
 |**2024-06-08**|**Large Language Model Assisted Adversarial Robustness Neural Architecture Search**|Rui Zhong et.al.|[2406.05433](http://arxiv.org/abs/2406.05433)|**[link](https://github.com/ruizhong961230/llmo)**|
-|**2024-06-04**|**Robust Interaction-based Relevance Modeling for Online E-Commerce and LLM-based Retrieval**|Ben Chen et.al.|[2406.02135](http://arxiv.org/abs/2406.02135)|null|
+|**2024-06-04**|**Robust Interaction-based Relevance Modeling for Online E-Commerce and LLM-based Retrieval**|Ben Chen et.al.|[2406.02135](http://arxiv.org/abs/2406.02135)|**[link](https://github.com/benchen4395/ei-src4search)**|
 |**2024-06-05**|**CR-UTP: Certified Robustness against Universal Text Perturbations on Large Language Models**|Qian Lou et.al.|[2406.01873](http://arxiv.org/abs/2406.01873)|null|
 |**2024-05-24**|**Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent**|Guang Lin et.al.|[2405.20770](http://arxiv.org/abs/2405.20770)|null|
 |**2024-05-31**|**Robust Planning with LLM-Modulo Framework: Case Study in Travel Planning**|Atharva Gundawar et.al.|[2405.20625](http://arxiv.org/abs/2405.20625)|null|
@@ -787,7 +787,7 @@ layout: default
 |**2024-01-29**|**APIGen: Generative API Method Recommendation**|Yujia Chen et.al.|[2401.15843](http://arxiv.org/abs/2401.15843)|**[link](https://github.com/hitcoderr/apigen)**|
 |**2024-01-25**|**Integrating Large Language Models into Recommendation via Mutual Augmentation and Adaptive Aggregation**|Sichun Luo et.al.|[2401.13870](http://arxiv.org/abs/2401.13870)|null|
 |**2024-01-21**|**Enhancing Recommendation Diversity by Re-ranking with Large Language Models**|Diego Carraro et.al.|[2401.11506](http://arxiv.org/abs/2401.11506)|null|
-|**2024-01-30**|**Understanding Biases in ChatGPT-based Recommender Systems: Provider Fairness, Temporal Stability, and Recency**|Yashar Deldjoo et.al.|[2401.10545](http://arxiv.org/abs/2401.10545)|null|
+|**2024-01-30**|**Understanding Biases in ChatGPT-based Recommender Systems: Provider Fairness, Temporal Stability, and Recency**|Yashar Deldjoo et.al.|[2401.10545](http://arxiv.org/abs/2401.10545)|**[link](https://github.com/yasdel/benchmark_recllm_fairness)**|
 |**2024-01-24**|**Supporting Student Decisions on Learning Recommendations: An LLM-Based Chatbot with Knowledge Graph Contextualization for Conversational Explainability and Mentoring**|Hasan Abu-Rasheed et.al.|[2401.08517](http://arxiv.org/abs/2401.08517)|null|
 |**2024-01-16**|**LLM-Guided Multi-View Hypergraph Learning for Human-Centric Explainable Recommendation**|Zhixuan Chu et.al.|[2401.08217](http://arxiv.org/abs/2401.08217)|null|
 |**2024-01-14**|**Lightweight Modality Adaptation to Sequential Recommendation via Correlation Supervision**|Hengchang Hu et.al.|[2401.07257](http://arxiv.org/abs/2401.07257)|null|
