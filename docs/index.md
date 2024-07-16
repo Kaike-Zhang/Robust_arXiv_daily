@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-14**|**Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning**|Jiakai Tang et.al.|[2407.10184](http://arxiv.org/abs/2407.10184)|null|
 |**2024-07-12**|**Transforming Movie Recommendations with Advanced Machine Learning: A Study of NMF, SVD,and K-Means Clustering**|Yubing Yan et.al.|[2407.08916](http://arxiv.org/abs/2407.08916)|null|
 |**2024-07-04**|**A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations**|Md Tahmid Rahman Laskar et.al.|[2407.04069](http://arxiv.org/abs/2407.04069)|null|
 |**2024-07-04**|**Heterogeneous Hypergraph Embedding for Recommendation Systems**|Darnbi Sakong et.al.|[2407.03665](http://arxiv.org/abs/2407.03665)|null|
@@ -628,6 +629,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**Enhancing Medication Recommendation with LLM Text Representation**|Yu-Tzu Lee et.al.|[2407.10453](http://arxiv.org/abs/2407.10453)|null|
+|**2024-07-14**|**All Roads Lead to Rome: Unveiling the Trajectory of Recommender Systems Across the LLM Era**|Bo Chen et.al.|[2407.10081](http://arxiv.org/abs/2407.10081)|null|
+|**2024-07-14**|**Semantic Understanding and Data Imputation using Large Language Model to Accelerate Recommendation System**|Zhicheng Ding et.al.|[2407.10078](http://arxiv.org/abs/2407.10078)|null|
+|**2024-07-12**|**Bridging the Gap Between Information Seeking and Product Search Systems: Q&A Recommendation for E-commerce**|Saar Kuzi et.al.|[2407.09653](http://arxiv.org/abs/2407.09653)|null|
 |**2024-07-12**|**Movie Recommendation with Poster Attention via Multi-modal Transformer Feature Fusion**|Linhan Xia et.al.|[2407.09157](http://arxiv.org/abs/2407.09157)|null|
 |**2024-07-12**|**A Neural Matrix Decomposition Recommender System Model based on the Multimodal Large Language Model**|Ao Xiang et.al.|[2407.08942](http://arxiv.org/abs/2407.08942)|null|
 |**2024-07-09**|**Fine-grained large-scale content recommendations for MSX sellers**|Manpreet Singh et.al.|[2407.06910](http://arxiv.org/abs/2407.06910)|null|
