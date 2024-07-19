@@ -1,4 +1,4 @@
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -133,12 +133,13 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
 ## Robust ML
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**Distributionally and Adversarially Robust Logistic Regression via Intersecting Wasserstein Balls**|Aras Selvi et.al.|[2407.13625](http://arxiv.org/abs/2407.13625)|null|
 |**2024-07-16**|**Variational Randomized Smoothing for Sample-Wise Adversarial Robustness**|Ryo Hase et.al.|[2407.11844](http://arxiv.org/abs/2407.11844)|null|
 |**2024-07-15**|**Towards Adversarially Robust Vision-Language Models: Insights from Design Choices and Prompt Formatting Techniques**|Rishika Bhagwatkar et.al.|[2407.11121](http://arxiv.org/abs/2407.11121)|null|
 |**2024-07-12**|**Evaluating the Adversarial Robustness of Semantic Segmentation: Trying Harder Pays Off**|Levente Halmosi et.al.|[2407.09150](http://arxiv.org/abs/2407.09150)|**[link](https://github.com/szegedai/robust-segmentation-evaluation)**|
@@ -508,12 +509,13 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
 ## Security LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-03**|**Truth is Universal: Robust Detection of Lies in LLMs**|Lennart Bürger et.al.|[2407.12831](http://arxiv.org/abs/2407.12831)|null|
 |**2024-07-16**|**Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness**|Kai Guo et.al.|[2407.12068](http://arxiv.org/abs/2407.12068)|null|
 |**2024-07-16**|**Robust Utility-Preserving Text Anonymization Based on Large Language Models**|Tianyu Yang et.al.|[2407.11770](http://arxiv.org/abs/2407.11770)|**[link](https://github.com/ukplab/arxiv2024-rupta)**|
 |**2024-07-15**|**Unraveling the Truth: Do LLMs really Understand Charts? A Deep Dive into Consistency and Robustness**|Srija Mukhopadhyay et.al.|[2407.11229](http://arxiv.org/abs/2407.11229)|null|
@@ -641,12 +643,15 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 
 ## LLM4Rec
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|null|
+|**2024-07-18**|**Attention Overflow: Language Model Input Blur during Long-Context Missing Items Recommendation**|Damien Sileo et.al.|[2407.13481](http://arxiv.org/abs/2407.13481)|null|
+|**2024-07-16**|**Whitening Not Recommended for Classification Tasks in LLMs**|Ali Forooghi et.al.|[2407.12886](http://arxiv.org/abs/2407.12886)|null|
 |**2024-07-15**|**Enhancing Medication Recommendation with LLM Text Representation**|Yu-Tzu Lee et.al.|[2407.10453](http://arxiv.org/abs/2407.10453)|null|
 |**2024-07-14**|**All Roads Lead to Rome: Unveiling the Trajectory of Recommender Systems Across the LLM Era**|Bo Chen et.al.|[2407.10081](http://arxiv.org/abs/2407.10081)|null|
 |**2024-07-14**|**Semantic Understanding and Data Imputation using Large Language Model to Accelerate Recommendation System**|Zhicheng Ding et.al.|[2407.10078](http://arxiv.org/abs/2407.10078)|null|
@@ -830,5 +835,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240718>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240719>back to top</a>)</p>
 

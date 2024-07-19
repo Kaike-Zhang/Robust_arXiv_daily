@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.18
+## Updated on 2024.07.19
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -131,6 +131,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**Distributionally and Adversarially Robust Logistic Regression via Intersecting Wasserstein Balls**|Aras Selvi et.al.|[2407.13625](http://arxiv.org/abs/2407.13625)|null|
 |**2024-07-16**|**Variational Randomized Smoothing for Sample-Wise Adversarial Robustness**|Ryo Hase et.al.|[2407.11844](http://arxiv.org/abs/2407.11844)|null|
 |**2024-07-15**|**Towards Adversarially Robust Vision-Language Models: Insights from Design Choices and Prompt Formatting Techniques**|Rishika Bhagwatkar et.al.|[2407.11121](http://arxiv.org/abs/2407.11121)|null|
 |**2024-07-12**|**Evaluating the Adversarial Robustness of Semantic Segmentation: Trying Harder Pays Off**|Levente Halmosi et.al.|[2407.09150](http://arxiv.org/abs/2407.09150)|**[link](https://github.com/szegedai/robust-segmentation-evaluation)**|
@@ -504,6 +505,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-03**|**Truth is Universal: Robust Detection of Lies in LLMs**|Lennart Bürger et.al.|[2407.12831](http://arxiv.org/abs/2407.12831)|null|
 |**2024-07-16**|**Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness**|Kai Guo et.al.|[2407.12068](http://arxiv.org/abs/2407.12068)|null|
 |**2024-07-16**|**Robust Utility-Preserving Text Anonymization Based on Large Language Models**|Tianyu Yang et.al.|[2407.11770](http://arxiv.org/abs/2407.11770)|**[link](https://github.com/ukplab/arxiv2024-rupta)**|
 |**2024-07-15**|**Unraveling the Truth: Do LLMs really Understand Charts? A Deep Dive into Consistency and Robustness**|Srija Mukhopadhyay et.al.|[2407.11229](http://arxiv.org/abs/2407.11229)|null|
@@ -635,6 +637,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|null|
+|**2024-07-18**|**Attention Overflow: Language Model Input Blur during Long-Context Missing Items Recommendation**|Damien Sileo et.al.|[2407.13481](http://arxiv.org/abs/2407.13481)|null|
+|**2024-07-16**|**Whitening Not Recommended for Classification Tasks in LLMs**|Ali Forooghi et.al.|[2407.12886](http://arxiv.org/abs/2407.12886)|null|
 |**2024-07-15**|**Enhancing Medication Recommendation with LLM Text Representation**|Yu-Tzu Lee et.al.|[2407.10453](http://arxiv.org/abs/2407.10453)|null|
 |**2024-07-14**|**All Roads Lead to Rome: Unveiling the Trajectory of Recommender Systems Across the LLM Era**|Bo Chen et.al.|[2407.10081](http://arxiv.org/abs/2407.10081)|null|
 |**2024-07-14**|**Semantic Understanding and Data Imputation using Large Language Model to Accelerate Recommendation System**|Zhicheng Ding et.al.|[2407.10078](http://arxiv.org/abs/2407.10078)|null|
