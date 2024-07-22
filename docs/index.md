@@ -219,7 +219,7 @@ layout: default
 |**2024-05-03**|**Impact of Architectural Modifications on Deep Learning Adversarial Robustness**|Firuz Juraev et.al.|[2405.01934](http://arxiv.org/abs/2405.01934)|null|
 |**2024-05-01**|**Certified Adversarial Robustness of Machine Learning-based Malware Detectors via (De)Randomized Smoothing**|Daniel Gibert et.al.|[2405.00392](http://arxiv.org/abs/2405.00392)|null|
 |**2024-04-27**|**Attacking Bayes: On the Adversarial Robustness of Bayesian Neural Networks**|Yunzhen Feng et.al.|[2404.19640](http://arxiv.org/abs/2404.19640)|null|
-|**2024-04-30**|**Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective**|Wanqi Zhou et.al.|[2404.19287](http://arxiv.org/abs/2404.19287)|null|
+|**2024-04-30**|**Revisiting the Adversarial Robustness of Vision Language Models: a Multimodal Perspective**|Wanqi Zhou et.al.|[2404.19287](http://arxiv.org/abs/2404.19287)|**[link](https://github.com/ellezwq/mmcoa)**|
 |**2024-04-27**|**Towards Robust Recommendation: A Review and an Adversarial Robustness Evaluation Library**|Lei Cheng et.al.|[2404.17844](http://arxiv.org/abs/2404.17844)|**[link](https://github.com/chengleileilei/shillingrec)**|
 |**2024-04-24**|**A Comparative Analysis of Adversarial Robustness for Quantum and Classical Machine Learning Models**|Maximilian Wendlinger et.al.|[2404.16154](http://arxiv.org/abs/2404.16154)|null|
 |**2024-04-24**|**Steal Now and Attack Later: Evaluating Robustness of Object Detection against Black-box Adversarial Attacks**|Erh-Chung Chen et.al.|[2404.15881](http://arxiv.org/abs/2404.15881)|null|
@@ -572,7 +572,7 @@ layout: default
 |**2024-03-06**|**PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion**|Zekai Zhang et.al.|[2403.03788](http://arxiv.org/abs/2403.03788)|**[link](https://github.com/zekaigalaxy/pptcr)**|
 |**2024-03-05**|**CURATRON: Complete Robust Preference Data for Robust Alignment of Large Language Models**|Son The Nguyen et.al.|[2403.02745](http://arxiv.org/abs/2403.02745)|null|
 |**2024-02-29**|**GSM-Plus: A Comprehensive Benchmark for Evaluating the Robustness of LLMs as Mathematical Problem Solvers**|Qintong Li et.al.|[2402.19255](http://arxiv.org/abs/2402.19255)|**[link](https://github.com/qtli/gsm-plus)**|
-|**2024-02-27**|**EmMark: Robust Watermarks for IP Protection of Embedded Quantized Large Language Models**|Ruisi Zhang et.al.|[2402.17938](http://arxiv.org/abs/2402.17938)|null|
+|**2024-02-27**|**EmMark: Robust Watermarks for IP Protection of Embedded Quantized Large Language Models**|Ruisi Zhang et.al.|[2402.17938](http://arxiv.org/abs/2402.17938)|**[link](https://github.com/ruisizhang123/EmMark)**|
 |**2024-02-26**|**Eight Methods to Evaluate Robust Unlearning in LLMs**|Aengus Lynch et.al.|[2402.16835](http://arxiv.org/abs/2402.16835)|null|
 |**2024-02-26**|**RoCoIns: Enhancing Robustness of Large Language Models through Code-Style Instructions**|Yuansen Zhang et.al.|[2402.16431](http://arxiv.org/abs/2402.16431)|null|
 |**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|**[link](https://github.com/rainavyas/attack-comparative-assessment)**|
@@ -595,7 +595,7 @@ layout: default
 |**2023-12-05**|**Machine Vision Therapy: Multimodal Large Language Models Can Enhance Visual Robustness via Denoising In-Context Learning**|Zhuo Huang et.al.|[2312.02546](http://arxiv.org/abs/2312.02546)|**[link](https://github.com/tmllab/machine_vision_therapy)**|
 |**2023-12-01**|**Exploring the Robustness of Decentralized Training for Large Language Models**|Lin Lu et.al.|[2312.00843](http://arxiv.org/abs/2312.00843)|null|
 |**2023-11-30**|**Improving the Robustness of Transformer-based Large Language Models with Dynamic Attention**|Lujia Shen et.al.|[2311.17400](http://arxiv.org/abs/2311.17400)|null|
-|**2023-11-16**|**Towards Robust Temporal Reasoning of Large Language Models via a Multi-Hop QA Dataset and Pseudo-Instruction Tuning**|Qingyu Tan et.al.|[2311.09821](http://arxiv.org/abs/2311.09821)|null|
+|**2023-11-16**|**Towards Robust Temporal Reasoning of Large Language Models via a Multi-Hop QA Dataset and Pseudo-Instruction Tuning**|Qingyu Tan et.al.|[2311.09821](http://arxiv.org/abs/2311.09821)|**[link](https://github.com/nusnlp/complex-tr)**|
 |**2023-11-15**|**A Robust Semantics-based Watermark for Large Language Model against Paraphrasing**|Jie Ren et.al.|[2311.08721](http://arxiv.org/abs/2311.08721)|null|
 |**2023-11-14**|**RECALL: A Benchmark for LLMs Robustness against External Counterfactual Knowledge**|Yi Liu et.al.|[2311.08147](http://arxiv.org/abs/2311.08147)|null|
 |**2023-11-01**|**Noisy Exemplars Make Large Language Models More Robust: A Domain-Agnostic Behavioral Analysis**|Hongyi Zheng et.al.|[2311.00258](http://arxiv.org/abs/2311.00258)|**[link](https://github.com/hiroki39/noisy-exemplars-make-large-language-models-more-robust)**|
