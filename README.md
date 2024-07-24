@@ -519,6 +519,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Robust Privacy Amidst Innovation with Large Language Models Through a Critical Assessment of the Risks**|Yao-Shun Chuang et.al.|[2407.16166](http://arxiv.org/abs/2407.16166)|null|
 |**2024-07-22**|**Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs**|Abhay Sheshadri et.al.|[2407.15549](http://arxiv.org/abs/2407.15549)|null|
 |**2024-07-03**|**Truth is Universal: Robust Detection of Lies in LLMs**|Lennart Bürger et.al.|[2407.12831](http://arxiv.org/abs/2407.12831)|null|
 |**2024-07-16**|**Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness**|Kai Guo et.al.|[2407.12068](http://arxiv.org/abs/2407.12068)|null|
