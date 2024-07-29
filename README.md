@@ -42,7 +42,7 @@
 |**2024-05-23**|**Identifying Breakdowns in Conversational Recommender Systems using User Simulation**|Nolwenn Bernard et.al.|[2405.14249](http://arxiv.org/abs/2405.14249)|**[link](https://github.com/nob0/crs-breakdown-detection)**|
 |**2024-05-21**|**Time Matters: Enhancing Pre-trained News Recommendation Models with Robust User Dwell Time Injection**|Hao Jiang et.al.|[2405.12486](http://arxiv.org/abs/2405.12486)|null|
 |**2024-05-19**|**Knowledge Graph Pruning for Recommendation**|Fake Lin et.al.|[2405.11531](http://arxiv.org/abs/2405.11531)|null|
-|**2024-05-08**|**SVD-AE: Simple Autoencoders for Collaborative Filtering**|Seoyoung Hong et.al.|[2405.04746](http://arxiv.org/abs/2405.04746)|null|
+|**2024-05-08**|**SVD-AE: Simple Autoencoders for Collaborative Filtering**|Seoyoung Hong et.al.|[2405.04746](http://arxiv.org/abs/2405.04746)|**[link](https://github.com/seoyoungh/svd-ae)**|
 |**2024-05-03**|**FairEvalLLM. A Comprehensive Framework for Benchmarking Fairness in Large Language Model Recommender Systems**|Yashar Deldjoo et.al.|[2405.02219](http://arxiv.org/abs/2405.02219)|null|
 |**2024-05-03**|**Robust Explainable Recommendation**|Sairamvinay Vijayaraghavan et.al.|[2405.01855](http://arxiv.org/abs/2405.01855)|null|
 |**2024-05-03**|**Stability of Explainable Recommendation**|Sairamvinay Vijayaraghavan et.al.|[2405.01849](http://arxiv.org/abs/2405.01849)|null|
@@ -227,7 +227,7 @@
 |**2024-05-07**|**Effective and Robust Adversarial Training against Data and Label Corruptions**|Peng-Fei Zhang et.al.|[2405.04191](http://arxiv.org/abs/2405.04191)|null|
 |**2024-05-06**|**Is ReLU Adversarially Robust?**|Korn Sooksatra et.al.|[2405.03777](http://arxiv.org/abs/2405.03777)|null|
 |**2024-05-04**|**Assessing Adversarial Robustness of Large Language Models: An Empirical Study**|Zeyu Yang et.al.|[2405.02764](http://arxiv.org/abs/2405.02764)|null|
-|**2024-05-04**|**Updating Windows Malware Detectors: Balancing Robustness and Regression against Adversarial EXEmples**|Matous Kozak et.al.|[2405.02646](http://arxiv.org/abs/2405.02646)|null|
+|**2024-05-04**|**Updating Windows Malware Detectors: Balancing Robustness and Regression against Adversarial EXEmples**|Matous Kozak et.al.|[2405.02646](http://arxiv.org/abs/2405.02646)|**[link](https://github.com/matouskozak/exe-scanner)**|
 |**2024-05-03**|**Impact of Architectural Modifications on Deep Learning Adversarial Robustness**|Firuz Juraev et.al.|[2405.01934](http://arxiv.org/abs/2405.01934)|null|
 |**2024-05-01**|**Certified Adversarial Robustness of Machine Learning-based Malware Detectors via (De)Randomized Smoothing**|Daniel Gibert et.al.|[2405.00392](http://arxiv.org/abs/2405.00392)|null|
 |**2024-04-27**|**Attacking Bayes: On the Adversarial Robustness of Bayesian Neural Networks**|Yunzhen Feng et.al.|[2404.19640](http://arxiv.org/abs/2404.19640)|null|
