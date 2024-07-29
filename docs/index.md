@@ -133,6 +133,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-25**|**Adversarial Robust Decision Transformer: Enhancing Robustness of RvS via Minimax Returns-to-go**|Xiaohang Tang et.al.|[2407.18414](http://arxiv.org/abs/2407.18414)|null|
 |**2024-07-22**|**Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs**|Abhay Sheshadri et.al.|[2407.15549](http://arxiv.org/abs/2407.15549)|**[link](https://github.com/aengusl/latent-adversarial-training)**|
 |**2024-07-20**|**Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models**|Md Zarif Hossain et.al.|[2407.14971](http://arxiv.org/abs/2407.14971)|null|
 |**2024-07-18**|**Distributionally and Adversarially Robust Logistic Regression via Intersecting Wasserstein Balls**|Aras Selvi et.al.|[2407.13625](http://arxiv.org/abs/2407.13625)|null|
