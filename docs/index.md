@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2024.07.29
+## Updated on 2024.07.30
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-07-20**|**Denoising Long- and Short-term Interests for Sequential Recommendation**|Xinyu Zhang et.al.|[2407.14743](http://arxiv.org/abs/2407.14743)|null|
 |**2024-07-19**|**L^2CL: Embarrassingly Simple Layer-to-Layer Contrastive Learning for Graph Collaborative Filtering**|Xinzhou Jin et.al.|[2407.14266](http://arxiv.org/abs/2407.14266)|**[link](https://github.com/downeykking/l2cl)**|
-|**2024-07-17**|**Conditional Quantile Estimation for Uncertain Watch Time in Short-Video Recommendation**|Chengzhi Lin et.al.|[2407.12223](http://arxiv.org/abs/2407.12223)|null|
+|**2024-07-27**|**Conditional Quantile Estimation for Uncertain Watch Time in Short-Video Recommendation**|Chengzhi Lin et.al.|[2407.12223](http://arxiv.org/abs/2407.12223)|null|
 |**2024-07-22**|**Towards Robust Recommendation via Decision Boundary-aware Graph Contrastive Learning**|Jiakai Tang et.al.|[2407.10184](http://arxiv.org/abs/2407.10184)|null|
 |**2024-07-12**|**Transforming Movie Recommendations with Advanced Machine Learning: A Study of NMF, SVD,and K-Means Clustering**|Yubing Yan et.al.|[2407.08916](http://arxiv.org/abs/2407.08916)|null|
 |**2024-07-04**|**A Systematic Survey and Critical Review on Evaluating Large Language Models: Challenges, Limitations, and Recommendations**|Md Tahmid Rahman Laskar et.al.|[2407.04069](http://arxiv.org/abs/2407.04069)|null|
@@ -514,7 +514,7 @@ layout: default
 |**2024-07-23**|**Robust Privacy Amidst Innovation with Large Language Models Through a Critical Assessment of the Risks**|Yao-Shun Chuang et.al.|[2407.16166](http://arxiv.org/abs/2407.16166)|null|
 |**2024-07-22**|**Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs**|Abhay Sheshadri et.al.|[2407.15549](http://arxiv.org/abs/2407.15549)|**[link](https://github.com/aengusl/latent-adversarial-training)**|
 |**2024-07-03**|**Truth is Universal: Robust Detection of Lies in LLMs**|Lennart Bürger et.al.|[2407.12831](http://arxiv.org/abs/2407.12831)|null|
-|**2024-07-16**|**Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness**|Kai Guo et.al.|[2407.12068](http://arxiv.org/abs/2407.12068)|null|
+|**2024-07-28**|**Learning on Graphs with Large Language Models(LLMs): A Deep Dive into Model Robustness**|Kai Guo et.al.|[2407.12068](http://arxiv.org/abs/2407.12068)|null|
 |**2024-07-16**|**Robust Utility-Preserving Text Anonymization Based on Large Language Models**|Tianyu Yang et.al.|[2407.11770](http://arxiv.org/abs/2407.11770)|**[link](https://github.com/ukplab/arxiv2024-rupta)**|
 |**2024-07-15**|**Unraveling the Truth: Do LLMs really Understand Charts? A Deep Dive into Consistency and Robustness**|Srija Mukhopadhyay et.al.|[2407.11229](http://arxiv.org/abs/2407.11229)|null|
 |**2024-07-12**|**Robustness of LLMs to Perturbations in Text**|Ayush Singh et.al.|[2407.08989](http://arxiv.org/abs/2407.08989)|null|
