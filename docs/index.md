@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-17**|**Watermarking Recommender Systems**|Sixiao Zhang et.al.|[2407.21034](http://arxiv.org/abs/2407.21034)|null|
 |**2024-07-26**|**MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI**|Shyam Dongre et.al.|[2407.20284](http://arxiv.org/abs/2407.20284)|null|
 |**2024-07-29**|**High-Order Fusion Graph Contrastive Learning for Recommendation**|Yu Zhang et.al.|[2407.19692](http://arxiv.org/abs/2407.19692)|null|
 |**2024-07-20**|**Denoising Long- and Short-term Interests for Sequential Recommendation**|Xinyu Zhang et.al.|[2407.14743](http://arxiv.org/abs/2407.14743)|null|
@@ -135,6 +136,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**AI Safety in Practice: Enhancing Adversarial Robustness in Multimodal Image Captioning**|Maisha Binte Rashid et.al.|[2407.21174](http://arxiv.org/abs/2407.21174)|null|
 |**2024-07-29**|**From ML to LLM: Evaluating the Robustness of Phishing Webpage Detection Models against Adversarial Attacks**|Aditya Kulkarni et.al.|[2407.20361](http://arxiv.org/abs/2407.20361)|null|
 |**2024-07-29**|**RSC-SNN: Exploring the Trade-off Between Adversarial Robustness and Accuracy in Spiking Neural Networks via Randomized Smoothing Coding**|Keming Wu et.al.|[2407.20099](http://arxiv.org/abs/2407.20099)|**[link](https://github.com/KemingWu/RSC-SNN)**|
 |**2024-07-29**|**Adversarial Robustness in RGB-Skeleton Action Recognition: Leveraging Attention Modality Reweighter**|Chao Liu et.al.|[2407.19981](http://arxiv.org/abs/2407.19981)|null|
@@ -653,6 +655,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**GenRec: Generative Personalized Sequential Recommendation**|Panfeng Cao et.al.|[2407.21191](http://arxiv.org/abs/2407.21191)|null|
 |**2024-07-30**|**Learn by Selling: Equipping Large Language Models with Product Knowledge for Context-Driven Recommendations**|Sarthak Anand et.al.|[2407.20856](http://arxiv.org/abs/2407.20856)|null|
 |**2024-07-31**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643](http://arxiv.org/abs/2407.19643)|**[link](https://github.com/iamryanshengwang/prometheus-chatbot)**|
 |**2024-07-24**|**Reinforced Prompt Personalization for Recommendation with Large Language Models**|Wenyu Mao et.al.|[2407.17115](http://arxiv.org/abs/2407.17115)|**[link](https://github.com/maowenyu-11/rpp)**|
