@@ -771,7 +771,7 @@ layout: default
 |**2024-04-07**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702](http://arxiv.org/abs/2404.00702)|null|
 |**2024-03-31**|**A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)**|Yashar Deldjoo et.al.|[2404.00579](http://arxiv.org/abs/2404.00579)|**[link](https://github.com/yasdel/llm-recsys)**|
 |**2024-03-30**|**Aligning Large Language Models with Recommendation Knowledge**|Yuwei Cao et.al.|[2404.00245](http://arxiv.org/abs/2404.00245)|null|
-|**2024-03-30**|**Enhancing Content-based Recommendation via Large Language Model**|Wentao Xu et.al.|[2404.00236](http://arxiv.org/abs/2404.00236)|null|
+|**2024-03-30**|**Enhancing Content-based Recommendation via Large Language Model**|Wentao Xu et.al.|[2404.00236](http://arxiv.org/abs/2404.00236)|**[link](https://github.com/cjx96/loid)**|
 |**2024-03-27**|**Sequential Recommendation with Latent Relations based on Large Language Model**|Shenghao Yang et.al.|[2403.18348](http://arxiv.org/abs/2403.18348)|**[link](https://github.com/ysh-1998/lrd)**|
 |**2024-03-27**|**Common Sense Enhanced Knowledge-based Recommendation with Large Language Model**|Shenghao Yang et.al.|[2403.18325](http://arxiv.org/abs/2403.18325)|**[link](https://github.com/ysh-1998/csrec)**|
 |**2024-03-25**|**Reinforcement Learning-based Recommender Systems with Large Language Models for State Reward and Action Modeling**|Jie Wang et.al.|[2403.16948](http://arxiv.org/abs/2403.16948)|null|
