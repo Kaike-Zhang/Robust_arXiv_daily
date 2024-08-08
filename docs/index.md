@@ -669,6 +669,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-07**|**Lifelong Personalized Low-Rank Adaptation of Large Language Models for Recommendation**|Jiachen Zhu et.al.|[2408.03533](http://arxiv.org/abs/2408.03533)|null|
 |**2024-08-05**|**Large Language Model Aided QoS Prediction for Service Recommendation**|Huiying Liu et.al.|[2408.02223](http://arxiv.org/abs/2408.02223)|null|
 |**2024-08-03**|**CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature**|Chenyan Liu et.al.|[2408.01733](http://arxiv.org/abs/2408.01733)|null|
 |**2024-07-22**|**Leveraging LLM Reasoning Enhances Personalized Recommender Systems**|Alicia Y. Tsai et.al.|[2408.00802](http://arxiv.org/abs/2408.00802)|null|
