@@ -1,4 +1,4 @@
-## Updated on 2024.08.08
+## Updated on 2024.08.09
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -141,7 +141,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20240808>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240809>back to top</a>)</p>
 
 ## Robust ML
 
@@ -534,7 +534,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20240808>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240809>back to top</a>)</p>
 
 ## Security LLM
 
@@ -675,7 +675,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20240808>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240809>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -695,7 +695,7 @@
 |**2024-07-16**|**Whitening Not Recommended for Classification Tasks in LLMs**|Ali Forooghi et.al.|[2407.12886](http://arxiv.org/abs/2407.12886)|null|
 |**2024-07-15**|**Enhancing Medication Recommendation with LLM Text Representation**|Yu-Tzu Lee et.al.|[2407.10453](http://arxiv.org/abs/2407.10453)|null|
 |**2024-07-14**|**All Roads Lead to Rome: Unveiling the Trajectory of Recommender Systems Across the LLM Era**|Bo Chen et.al.|[2407.10081](http://arxiv.org/abs/2407.10081)|null|
-|**2024-07-14**|**Semantic Understanding and Data Imputation using Large Language Model to Accelerate Recommendation System**|Zhicheng Ding et.al.|[2407.10078](http://arxiv.org/abs/2407.10078)|null|
+|**2024-08-07**|**Data Imputation using Large Language Model to Accelerate Recommendation System**|Zhicheng Ding et.al.|[2407.10078](http://arxiv.org/abs/2407.10078)|null|
 |**2024-07-16**|**Bridging the Gap Between Information Seeking and Product Search Systems: Q&A Recommendation for E-commerce**|Saar Kuzi et.al.|[2407.09653](http://arxiv.org/abs/2407.09653)|null|
 |**2024-07-12**|**Movie Recommendation with Poster Attention via Multi-modal Transformer Feature Fusion**|Linhan Xia et.al.|[2407.09157](http://arxiv.org/abs/2407.09157)|null|
 |**2024-07-12**|**A Neural Matrix Decomposition Recommender System Model based on the Multimodal Large Language Model**|Ao Xiang et.al.|[2407.08942](http://arxiv.org/abs/2407.08942)|null|
@@ -876,5 +876,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240808>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240809>back to top</a>)</p>
 
