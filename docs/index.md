@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.13
+## Updated on 2024.08.14
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -678,7 +678,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-08-12**|**Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation**|Jieyong Kim et.al.|[2408.06276](http://arxiv.org/abs/2408.06276)|null|
+|**2024-08-13**|**Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation**|Jieyong Kim et.al.|[2408.06276](http://arxiv.org/abs/2408.06276)|null|
 |**2024-08-11**|**A Decoding Acceleration Framework for Industrial Deployable LLM-based Recommender Systems**|Yunjia Xi et.al.|[2408.05676](http://arxiv.org/abs/2408.05676)|**[link](https://github.com/yunjiaxi/dare_code)**|
 |**2024-08-10**|**Exploring Applications of State Space Models and Advanced Training Techniques in Sequential Recommendations: A Comparative Study on Efficiency and Performance**|Mark Obozov et.al.|[2408.05606](http://arxiv.org/abs/2408.05606)|null|
 |**2024-08-09**|**AI-assisted Coding with Cody: Lessons from Context Retrieval and Evaluation for Code Recommendations**|Jan Hartman et.al.|[2408.05344](http://arxiv.org/abs/2408.05344)|null|
