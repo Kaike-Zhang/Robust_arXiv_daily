@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.14
+## Updated on 2024.08.15
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -12,7 +12,7 @@ layout: default
 |**2024-08-06**|**Sharpness-Aware Cross-Domain Recommendation to Cold-Start Users**|Guohang Zeng et.al.|[2408.01931](http://arxiv.org/abs/2408.01931)|null|
 |**2024-08-01**|**Adversarial Text Rewriting for Text-aware Recommender Systems**|Sejoon Oh et.al.|[2408.00312](http://arxiv.org/abs/2408.00312)|**[link](https://github.com/sejoonoh/atr)**|
 |**2024-07-31**|**Semantic Codebook Learning for Dynamic Recommendation Models**|Zheqi Lv et.al.|[2408.00123](http://arxiv.org/abs/2408.00123)|null|
-|**2024-07-17**|**Watermarking Recommender Systems**|Sixiao Zhang et.al.|[2407.21034](http://arxiv.org/abs/2407.21034)|null|
+|**2024-08-14**|**Watermarking Recommender Systems**|Sixiao Zhang et.al.|[2407.21034](http://arxiv.org/abs/2407.21034)|null|
 |**2024-07-26**|**MLtoGAI: Semantic Web based with Machine Learning for Enhanced Disease Prediction and Personalized Recommendations using Generative AI**|Shyam Dongre et.al.|[2407.20284](http://arxiv.org/abs/2407.20284)|null|
 |**2024-07-29**|**High-Order Fusion Graph Contrastive Learning for Recommendation**|Yu Zhang et.al.|[2407.19692](http://arxiv.org/abs/2407.19692)|null|
 |**2024-07-20**|**Denoising Long- and Short-term Interests for Sequential Recommendation**|Xinyu Zhang et.al.|[2407.14743](http://arxiv.org/abs/2407.14743)|null|
