@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.08.15
+## Updated on 2024.08.16
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -142,7 +142,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-14**|**TabularBench: Benchmarking Adversarial Robustness for Tabular Deep Learning in Real-world Use-cases**|Thibault Simonetto et.al.|[2408.07579](http://arxiv.org/abs/2408.07579)|**[link](https://github.com/serval-uni-lu/tabularbench)**|
-|**2024-08-14**|**Robust Active Learning (RoAL): Countering Dynamic Adversaries in Active Learning with Elastic Weight Consolidation**|Ricky Maulana Fajri et.al.|[2408.07364](http://arxiv.org/abs/2408.07364)|null|
+|**2024-08-15**|**Robust Active Learning (RoAL): Countering Dynamic Adversaries in Active Learning with Elastic Weight Consolidation**|Ricky Maulana Fajri et.al.|[2408.07364](http://arxiv.org/abs/2408.07364)|null|
 |**2024-08-13**|**DePatch: Towards Robust Adversarial Patch for Evading Person Detectors in the Real World**|Jikang Cheng et.al.|[2408.06625](http://arxiv.org/abs/2408.06625)|null|
 |**2024-08-12**|**Towards Adversarial Robustness via Debiased High-Confidence Logit Alignment**|Kejia Zhang et.al.|[2408.06079](http://arxiv.org/abs/2408.06079)|null|
 |**2024-08-08**|**Ensemble everything everywhere: Multi-scale aggregation for adversarial robustness**|Stanislav Fort et.al.|[2408.05446](http://arxiv.org/abs/2408.05446)|null|
