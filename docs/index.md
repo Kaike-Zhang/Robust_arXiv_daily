@@ -65,7 +65,7 @@ layout: default
 |**2024-03-29**|**Review-Based Cross-Domain Recommendation via Hyperbolic Embedding and Hierarchy-Aware Domain Disentanglement**|Yoonhyuk Choi et.al.|[2403.20298](http://arxiv.org/abs/2403.20298)|null|
 |**2024-03-29**|**Robust Federated Contrastive Recommender System against Model Poisoning Attack**|Wei Yuan et.al.|[2403.20107](http://arxiv.org/abs/2403.20107)|null|
 |**2024-03-28**|**Enhanced Bayesian Personalized Ranking for Robust Hard Negative Sampling in Recommender Systems**|Kexin Shi et.al.|[2403.19276](http://arxiv.org/abs/2403.19276)|null|
-|**2024-03-26**|**Leave No Patient Behind: Enhancing Medication Recommendation for Rare Disease Patients**|Zihao Zhao et.al.|[2403.17745](http://arxiv.org/abs/2403.17745)|null|
+|**2024-03-26**|**Leave No Patient Behind: Enhancing Medication Recommendation for Rare Disease Patients**|Zihao Zhao et.al.|[2403.17745](http://arxiv.org/abs/2403.17745)|**[link](https://github.com/zzhustc2016/raremed)**|
 |**2024-03-25**|**Graph Augmentation for Recommendation**|Qianru Zhang et.al.|[2403.16656](http://arxiv.org/abs/2403.16656)|**[link](https://github.com/hkuds/graphaug)**|
 |**2024-03-20**|**ERASE: Benchmarking Feature Selection Methods for Deep Recommender Systems**|Pengyue Jia et.al.|[2403.12660](http://arxiv.org/abs/2403.12660)|**[link](https://github.com/applied-machine-learning-lab/erase)**|
 |**2024-03-17**|**Learning Time Slot Preferences via Mobility Tree for Next POI Recommendation**|Tianhao Huang et.al.|[2403.12100](http://arxiv.org/abs/2403.12100)|**[link](https://github.com/skyyyy0920/mtnet)**|
@@ -210,7 +210,7 @@ layout: default
 |**2024-06-08**|**Large Language Model Assisted Adversarial Robustness Neural Architecture Search**|Rui Zhong et.al.|[2406.05433](http://arxiv.org/abs/2406.05433)|**[link](https://github.com/ruizhong961230/llmo)**|
 |**2024-06-07**|**The Price of Implicit Bias in Adversarially Robust Generalization**|Nikolaos Tsilivis et.al.|[2406.04981](http://arxiv.org/abs/2406.04981)|null|
 |**2024-06-04**|**Certifiably Byzantine-Robust Federated Conformal Prediction**|Mintong Kang et.al.|[2406.01960](http://arxiv.org/abs/2406.01960)|null|
-|**2024-06-05**|**CR-UTP: Certified Robustness against Universal Text Perturbations on Large Language Models**|Qian Lou et.al.|[2406.01873](http://arxiv.org/abs/2406.01873)|null|
+|**2024-06-05**|**CR-UTP: Certified Robustness against Universal Text Perturbations on Large Language Models**|Qian Lou et.al.|[2406.01873](http://arxiv.org/abs/2406.01873)|**[link](https://github.com/UCF-ML-Research/CR-UTP)**|
 |**2024-06-03**|**Reproducibility Study on Adversarial Attacks Against Robust Transformer Trackers**|Fatemeh Nourilenjan Nokabadi et.al.|[2406.01765](http://arxiv.org/abs/2406.01765)|**[link](https://github.com/fatemehn/reproducibilitystudy)**|
 |**2024-06-03**|**Are AI-Generated Text Detectors Robust to Adversarial Perturbations?**|Guanhua Huang et.al.|[2406.01179](http://arxiv.org/abs/2406.01179)|**[link](https://github.com/carlanlark/robust-aigc-detector)**|
 |**2024-06-02**|**Improving Accuracy-robustness Trade-off via Pixel Reweighted Adversarial Training**|Jiacheng Zhang et.al.|[2406.00685](http://arxiv.org/abs/2406.00685)|**[link](https://github.com/tmlr-group/PART)**|
@@ -228,7 +228,7 @@ layout: default
 |**2024-05-27**|**The Uncanny Valley: Exploring Adversarial Robustness from a Flatness Perspective**|Nils Philipp Walter et.al.|[2405.16918](http://arxiv.org/abs/2405.16918)|null|
 |**2024-05-25**|**R.A.C.E.: Robust Adversarial Concept Erasure for Secure Text-to-Image Diffusion Model**|Changhoon Kim et.al.|[2405.16341](http://arxiv.org/abs/2405.16341)|null|
 |**2024-05-25**|**Certifying Adapters: Enabling and Enhancing the Certification of Classifier Adversarial Robustness**|Jieren Deng et.al.|[2405.16036](http://arxiv.org/abs/2405.16036)|null|
-|**2024-05-24**|**Evaluating the Adversarial Robustness of Retrieval-Based In-Context Learning for Large Language Models**|Simon Chi Lok Yu et.al.|[2405.15984](http://arxiv.org/abs/2405.15984)|null|
+|**2024-05-24**|**Evaluating the Adversarial Robustness of Retrieval-Based In-Context Learning for Large Language Models**|Simon Chi Lok Yu et.al.|[2405.15984](http://arxiv.org/abs/2405.15984)|**[link](https://github.com/simonucl/adv-retreival-icl)**|
 |**2024-05-24**|**Robust width: A lightweight and certifiable adversarial defense**|Jonathan Peck et.al.|[2405.15971](http://arxiv.org/abs/2405.15971)|**[link](https://github.com/peck94/robust-width-defense)**|
 |**2024-05-24**|**Can Implicit Bias Imply Adversarial Robustness?**|Hancheng Min et.al.|[2405.15942](http://arxiv.org/abs/2405.15942)|null|
 |**2024-05-24**|**Certifiably Robust RAG against Retrieval Corruption**|Chong Xiang et.al.|[2405.15556](http://arxiv.org/abs/2405.15556)|null|
@@ -385,7 +385,7 @@ layout: default
 |**2023-12-04**|**Singular Regularization with Information Bottleneck Improves Model's Adversarial Robustness**|Guanlin Li et.al.|[2312.02237](http://arxiv.org/abs/2312.02237)|null|
 |**2023-12-03**|**Exploring Adversarial Robustness of LiDAR-Camera Fusion Model in Autonomous Driving**|Bo Yang et.al.|[2312.01468](http://arxiv.org/abs/2312.01468)|null|
 |**2023-11-30**|**On the Adversarial Robustness of Graph Contrastive Learning Methods**|Filippo Guerranti et.al.|[2311.17853](http://arxiv.org/abs/2311.17853)|null|
-|**2023-11-29**|**Adversarial Robust Memory-Based Continual Learner**|Xiaoyue Mi et.al.|[2311.17608](http://arxiv.org/abs/2311.17608)|null|
+|**2023-11-29**|**Adversarial Robust Memory-Based Continual Learner**|Xiaoyue Mi et.al.|[2311.17608](http://arxiv.org/abs/2311.17608)|**[link](https://github.com/KululuMi/RCL)**|
 |**2023-11-29**|**RADAP: A Robust and Adaptive Defense Against Diverse Adversarial Patches on Face Recognition**|Xiaoliang Liu et.al.|[2311.17339](http://arxiv.org/abs/2311.17339)|null|
 |**2023-11-28**|**1-Lipschitz Layers Compared: Memory, Speed, and Certifiable Robustness**|Bernd Prach et.al.|[2311.16833](http://arxiv.org/abs/2311.16833)|**[link](https://github.com/berndprach/1lipschitzlayerscompared)**|
 |**2023-11-28**|**On robust overfitting: adversarial training induced distribution matters**|Runzhi Tian et.al.|[2311.16526](http://arxiv.org/abs/2311.16526)|null|
@@ -581,13 +581,13 @@ layout: default
 |**2024-06-03**|**MedFuzz: Exploring the Robustness of Large Language Models in Medical Question Answering**|Robert Osazuwa Ness et.al.|[2406.06573](http://arxiv.org/abs/2406.06573)|null|
 |**2024-06-08**|**Large Language Model Assisted Adversarial Robustness Neural Architecture Search**|Rui Zhong et.al.|[2406.05433](http://arxiv.org/abs/2406.05433)|**[link](https://github.com/ruizhong961230/llmo)**|
 |**2024-06-04**|**Robust Interaction-based Relevance Modeling for Online E-Commerce and LLM-based Retrieval**|Ben Chen et.al.|[2406.02135](http://arxiv.org/abs/2406.02135)|**[link](https://github.com/benchen4395/ei-src4search)**|
-|**2024-06-05**|**CR-UTP: Certified Robustness against Universal Text Perturbations on Large Language Models**|Qian Lou et.al.|[2406.01873](http://arxiv.org/abs/2406.01873)|null|
+|**2024-06-05**|**CR-UTP: Certified Robustness against Universal Text Perturbations on Large Language Models**|Qian Lou et.al.|[2406.01873](http://arxiv.org/abs/2406.01873)|**[link](https://github.com/UCF-ML-Research/CR-UTP)**|
 |**2024-05-24**|**Large Language Model Sentinel: Advancing Adversarial Robustness by LLM Agent**|Guang Lin et.al.|[2405.20770](http://arxiv.org/abs/2405.20770)|null|
 |**2024-05-31**|**Robust Planning with LLM-Modulo Framework: Case Study in Travel Planning**|Atharva Gundawar et.al.|[2405.20625](http://arxiv.org/abs/2405.20625)|null|
 |**2024-05-30**|**Defensive Prompt Patch: A Robust and Interpretable Defense of LLMs against Jailbreak Attacks**|Chen Xiong et.al.|[2405.20099](http://arxiv.org/abs/2405.20099)|null|
 |**2024-06-03**|**Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models**|Shuyuan Liu et.al.|[2405.19802](http://arxiv.org/abs/2405.19802)|null|
 |**2024-05-28**|**Learning diverse attacks on large language models for robust red-teaming and safety tuning**|Seanie Lee et.al.|[2405.18540](http://arxiv.org/abs/2405.18540)|null|
-|**2024-05-24**|**Evaluating the Adversarial Robustness of Retrieval-Based In-Context Learning for Large Language Models**|Simon Chi Lok Yu et.al.|[2405.15984](http://arxiv.org/abs/2405.15984)|null|
+|**2024-05-24**|**Evaluating the Adversarial Robustness of Retrieval-Based In-Context Learning for Large Language Models**|Simon Chi Lok Yu et.al.|[2405.15984](http://arxiv.org/abs/2405.15984)|**[link](https://github.com/simonucl/adv-retreival-icl)**|
 |**2024-04-02**|**Precise and Robust Sidewalk Detection: Leveraging Ensemble Learning to Surpass LLM Limitations in Urban Environments**|Ibne Farabi Shihab et.al.|[2405.14876](http://arxiv.org/abs/2405.14876)|null|
 |**2024-06-12**|**Multiple-Choice Questions are Efficient and Robust LLM Evaluators**|Ziyin Zhang et.al.|[2405.11966](http://arxiv.org/abs/2405.11966)|**[link](https://github.com/geralt-targaryen/mc-evaluation)**|
 |**2024-05-23**|**xFinder: Robust and Pinpoint Answer Extraction for Large Language Models**|Qingchen Yu et.al.|[2405.11874](http://arxiv.org/abs/2405.11874)|**[link](https://github.com/iaar-shanghai/xfinder)**|
@@ -624,7 +624,7 @@ layout: default
 |**2024-02-26**|**RoCoIns: Enhancing Robustness of Large Language Models through Code-Style Instructions**|Yuansen Zhang et.al.|[2402.16431](http://arxiv.org/abs/2402.16431)|null|
 |**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|**[link](https://github.com/rainavyas/attack-comparative-assessment)**|
 |**2024-02-21**|**RITFIS: Robust input testing framework for LLMs-based intelligent software**|Mingxuan Xiao et.al.|[2402.13518](http://arxiv.org/abs/2402.13518)|null|
-|**2024-03-16**|**NEO-BENCH: Evaluating Robustness of Large Language Models with Neologisms**|Jonathan Zheng et.al.|[2402.12261](http://arxiv.org/abs/2402.12261)|null|
+|**2024-03-16**|**NEO-BENCH: Evaluating Robustness of Large Language Models with Neologisms**|Jonathan Zheng et.al.|[2402.12261](http://arxiv.org/abs/2402.12261)|**[link](https://github.com/jonathanqzheng/neo-bench)**|
 |**2024-02-26**|**Towards Faithful and Robust LLM Specialists for Evidence-Based Question-Answering**|Tobias Schimanski et.al.|[2402.08277](http://arxiv.org/abs/2402.08277)|**[link](https://github.com/EdisonNi-hku/Robust_Evidence_Based_QA)**|
 |**2024-02-08**|**Permute-and-Flip: An optimally robust and watermarkable decoder for LLMs**|Xuandong Zhao et.al.|[2402.05864](http://arxiv.org/abs/2402.05864)|**[link](https://github.com/xuandongzhao/pf-decoding)**|
 |**2024-01-27**|**An Empirical Study on Large Language Models in Accuracy and Robustness under Chinese Industrial Scenarios**|Zongjie Li et.al.|[2402.01723](http://arxiv.org/abs/2402.01723)|null|
@@ -724,7 +724,7 @@ layout: default
 |**2024-06-27**|**ELCoRec: Enhance Language Understanding with Co-Propagation of Numerical and Categorical Features for Recommendation**|Jizheng Chen et.al.|[2406.18825](http://arxiv.org/abs/2406.18825)|null|
 |**2024-06-24**|**Guardrails for avoiding harmful medical product recommendations and off-label promotion in generative AI models**|Daniel Lopez-Martinez et.al.|[2406.16455](http://arxiv.org/abs/2406.16455)|null|
 |**2024-06-30**|**LLM-Powered Explanations: Unraveling Recommendations Through Subgraph Reasoning**|Guangsi Shi et.al.|[2406.15859](http://arxiv.org/abs/2406.15859)|null|
-|**2024-06-21**|**V-RECS, a Low-Cost LLM4VIS Recommender with Explanations, Captioning and Suggestions**|Luca Podo et.al.|[2406.15259](http://arxiv.org/abs/2406.15259)|null|
+|**2024-06-21**|**V-RECS, a Low-Cost LLM4VIS Recommender with Explanations, Captioning and Suggestions**|Luca Podo et.al.|[2406.15259](http://arxiv.org/abs/2406.15259)|**[link](https://github.com/lucapodo/v-recs)**|
 |**2024-06-21**|**Decoding Matters: Addressing Amplification Bias and Homogeneity Issue for LLM-based Recommendation**|Keqin Bao et.al.|[2406.14900](http://arxiv.org/abs/2406.14900)|null|
 |**2024-06-20**|**Optimizing Novelty of Top-k Recommendations using Large Language Models and Reinforcement Learning**|Amit Sharma et.al.|[2406.14169](http://arxiv.org/abs/2406.14169)|null|
 |**2024-06-20**|**Taxonomy-Guided Zero-Shot Recommendations with LLMs**|Yueqing Liang et.al.|[2406.14043](http://arxiv.org/abs/2406.14043)|**[link](https://github.com/yueqingliang1/taxrec)**|
@@ -744,7 +744,7 @@ layout: default
 |**2024-06-07**|**Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers**|Lütfi Kerem Senel et.al.|[2406.05255](http://arxiv.org/abs/2406.05255)|null|
 |**2024-06-07**|**Sales Whisperer: A Human-Inconspicuous Attack on LLM Brand Recommendations**|Weiran Lin et.al.|[2406.04755](http://arxiv.org/abs/2406.04755)|null|
 |**2024-06-06**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248](http://arxiv.org/abs/2406.03248)|**[link](https://github.com/xiaoyu-sz/llmasevaluator)**|
-|**2024-06-05**|**Text-like Encoding of Collaborative Information in Large Language Models for Recommendation**|Yang Zhang et.al.|[2406.03210](http://arxiv.org/abs/2406.03210)|null|
+|**2024-06-05**|**Text-like Encoding of Collaborative Information in Large Language Models for Recommendation**|Yang Zhang et.al.|[2406.03210](http://arxiv.org/abs/2406.03210)|**[link](https://github.com/zyang1580/binllm)**|
 |**2024-06-05**|**Exploring User Retrieval Integration towards Large Language Models for Cross-Domain Sequential Recommendation**|Tingjia Shen et.al.|[2406.03085](http://arxiv.org/abs/2406.03085)|**[link](https://github.com/tingjshen/urllm)**|
 |**2024-06-05**|**Item-Language Model for Conversational Recommendation**|Li Yang et.al.|[2406.02844](http://arxiv.org/abs/2406.02844)|null|
 |**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377](http://arxiv.org/abs/2406.02377)|**[link](https://github.com/hkuds/xrec)**|
