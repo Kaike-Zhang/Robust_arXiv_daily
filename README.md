@@ -361,7 +361,7 @@
 |**2024-02-03**|**Evaluating the Robustness of Off-Road Autonomous Driving Segmentation against Adversarial Attacks: A Dataset-Centric analysis**|Pankaj Deoli et.al.|[2402.02154](http://arxiv.org/abs/2402.02154)|**[link](https://github.com/rohtkumar/adversarial_attacks_on_segmentation)**|
 |**2024-02-01**|**Tropical Decision Boundaries for Neural Networks Are Robust Against Adversarial Attacks**|Kurt Pasque et.al.|[2402.00576](http://arxiv.org/abs/2402.00576)|null|
 |**2024-01-30**|**Quantum Transfer Learning with Adversarial Robustness for Classification of High-Resolution Image Datasets**|Amena Khatun et.al.|[2401.17009](http://arxiv.org/abs/2401.17009)|null|
-|**2024-01-29**|**Adversarial Training on Purification (AToP): Advancing Both Robustness and Generalization**|Guang Lin et.al.|[2401.16352](http://arxiv.org/abs/2401.16352)|null|
+|**2024-01-29**|**Adversarial Training on Purification (AToP): Advancing Both Robustness and Generalization**|Guang Lin et.al.|[2401.16352](http://arxiv.org/abs/2401.16352)|**[link](https://github.com/glin2022/atop)**|
 |**2024-01-27**|**Music Auto-Tagging with Robust Music Representation Learned via Domain Adversarial Training**|Haesun Joung et.al.|[2401.15323](http://arxiv.org/abs/2401.15323)|null|
 |**2024-01-26**|**Conserve-Update-Revise to Cure Generalization and Robustness Trade-off in Adversarial Training**|Shruthi Gowda et.al.|[2401.14948](http://arxiv.org/abs/2401.14948)|**[link](https://github.com/neurai-lab/cure)**|
 |**2024-01-26**|**Mitigating Feature Gap for Adversarial Robustness by Feature Disentanglement**|Nuoyan Zhou et.al.|[2401.14707](http://arxiv.org/abs/2401.14707)|null|
@@ -781,7 +781,7 @@
 |**2024-06-15**|**TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation**|Haohao Qu et.al.|[2406.10450](http://arxiv.org/abs/2406.10450)|null|
 |**2024-06-02**|**Towards commands recommender system in BIM authoring tool using transformers**|Changyu Du et.al.|[2406.10237](http://arxiv.org/abs/2406.10237)|null|
 |**2024-06-12**|**Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens**|Ting-Ji Huang et.al.|[2406.08477](http://arxiv.org/abs/2406.08477)|null|
-|**2024-06-08**|**PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System**|Wei Yuan et.al.|[2406.05387](http://arxiv.org/abs/2406.05387)|null|
+|**2024-06-08**|**PTF-FSR: A Parameter Transmission-Free Federated Sequential Recommender System**|Wei Yuan et.al.|[2406.05387](http://arxiv.org/abs/2406.05387)|**[link](https://github.com/hi-weiyuan/PTF-FSR)**|
 |**2024-06-07**|**Generative Explore-Exploit: Training-free Optimization of Generative Recommender Systems using LLM Optimizers**|Lütfi Kerem Senel et.al.|[2406.05255](http://arxiv.org/abs/2406.05255)|null|
 |**2024-06-07**|**Sales Whisperer: A Human-Inconspicuous Attack on LLM Brand Recommendations**|Weiran Lin et.al.|[2406.04755](http://arxiv.org/abs/2406.04755)|null|
 |**2024-06-06**|**Large Language Models as Evaluators for Recommendation Explanations**|Xiaoyu Zhang et.al.|[2406.03248](http://arxiv.org/abs/2406.03248)|**[link](https://github.com/xiaoyu-sz/llmasevaluator)**|
@@ -790,7 +790,7 @@
 |**2024-06-05**|**Item-Language Model for Conversational Recommendation**|Li Yang et.al.|[2406.02844](http://arxiv.org/abs/2406.02844)|null|
 |**2024-06-04**|**XRec: Large Language Models for Explainable Recommendation**|Qiyao Ma et.al.|[2406.02377](http://arxiv.org/abs/2406.02377)|**[link](https://github.com/hkuds/xrec)**|
 |**2024-06-04**|**Large Language Models Make Sample-Efficient Recommender Systems**|Jianghao Lin et.al.|[2406.02368](http://arxiv.org/abs/2406.02368)|null|
-|**2024-06-01**|**An LLM-based Recommender System Environment**|Nathan Corecco et.al.|[2406.01631](http://arxiv.org/abs/2406.01631)|null|
+|**2024-06-01**|**An LLM-based Recommender System Environment**|Nathan Corecco et.al.|[2406.01631](http://arxiv.org/abs/2406.01631)|**[link](https://github.com/suber-team/suber)**|
 |**2024-06-03**|**Privacy in LLM-based Recommendation: Recent Advances and Future Directions**|Sichun Luo et.al.|[2406.01363](http://arxiv.org/abs/2406.01363)|null|
 |**2024-06-03**|**Large Language Models as Recommender Systems: A Study of Popularity Bias**|Jan Malte Lichtenberg et.al.|[2406.01285](http://arxiv.org/abs/2406.01285)|null|
 |**2024-06-01**|**A Practice-Friendly Two-Stage LLM-Enhanced Paradigm in Sequential Recommendation**|Dugang Liu et.al.|[2406.00333](http://arxiv.org/abs/2406.00333)|null|
@@ -817,7 +817,7 @@
 |**2024-05-17**|**RDRec: Rationale Distillation for LLM-based Recommendation**|Xinfeng Wang et.al.|[2405.10587](http://arxiv.org/abs/2405.10587)|**[link](https://github.com/wangxfng/rdrec)**|
 |**2024-05-13**|**A LLM-based Controllable, Scalable, Human-Involved User Simulator Framework for Conversational Recommender Systems**|Lixi Zhu et.al.|[2405.08035](http://arxiv.org/abs/2405.08035)|**[link](https://github.com/zlxxlz1026/cshi)**|
 |**2024-05-13**|**DynLLM: When Large Language Models Meet Dynamic Graph Recommendation**|Ziwei Zhao et.al.|[2405.07580](http://arxiv.org/abs/2405.07580)|null|
-|**2024-05-12**|**Learnable Tokenizer for LLM-based Generative Recommendation**|Wenjie Wang et.al.|[2405.07314](http://arxiv.org/abs/2405.07314)|null|
+|**2024-05-12**|**Learnable Tokenizer for LLM-based Generative Recommendation**|Wenjie Wang et.al.|[2405.07314](http://arxiv.org/abs/2405.07314)|**[link](https://github.com/honghuibao2000/letter)**|
 |**2024-05-08**|**Impact of Tone-Aware Explanations in Recommender Systems**|Ayano Okoso et.al.|[2405.05061](http://arxiv.org/abs/2405.05061)|null|
 |**2024-05-08**|**Conversational Topic Recommendation in Counseling and Psychotherapy with Decision Transformer and Large Language Models**|Aylin Gunal et.al.|[2405.05060](http://arxiv.org/abs/2405.05060)|null|
 |**2024-05-08**|**Federated Adaptation for Foundation Model-based Recommendations**|Chunxu Zhang et.al.|[2405.04840](http://arxiv.org/abs/2405.04840)|**[link](https://github.com/Zhangcx19/IJCAI-24-FedPA)**|
@@ -830,7 +830,7 @@
 |**2024-05-03**|**Incorporating External Knowledge and Goal Guidance for LLM-based Conversational Recommender Systems**|Chuang Li et.al.|[2405.01868](http://arxiv.org/abs/2405.01868)|null|
 |**2024-05-02**|**Prompt engineering paradigms for medical applications: scoping review and recommendations for better practices**|Jamil Zaghir et.al.|[2405.01249](http://arxiv.org/abs/2405.01249)|null|
 |**2024-05-01**|**Efficient and Responsible Adaptation of Large Language Models for Robust Top-k Recommendations**|Kirandeep Kaur et.al.|[2405.00824](http://arxiv.org/abs/2405.00824)|null|
-|**2024-05-03**|**Distillation Matters: Empowering Sequential Recommenders to Match the Performance of Large Language Model**|Yu Cui et.al.|[2405.00338](http://arxiv.org/abs/2405.00338)|null|
+|**2024-05-03**|**Distillation Matters: Empowering Sequential Recommenders to Match the Performance of Large Language Model**|Yu Cui et.al.|[2405.00338](http://arxiv.org/abs/2405.00338)|**[link](https://github.com/istarryn/dllm2rec)**|
 |**2024-04-29**|**Large Language Models as Conversational Movie Recommenders: A User Study**|Ruixuan Sun et.al.|[2404.19093](http://arxiv.org/abs/2404.19093)|null|
 |**2024-04-19**|**Large Language Models for Next Point-of-Interest Recommendation**|Peibo Li et.al.|[2404.17591](http://arxiv.org/abs/2404.17591)|**[link](https://github.com/neolifer/LLM4POI)**|
 |**2024-04-25**|**A Survey of Generative Search and Recommendation in the Era of Large Language Models**|Yongqi Li et.al.|[2404.16924](http://arxiv.org/abs/2404.16924)|null|
