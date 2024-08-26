@@ -152,6 +152,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-23**|**Deep Learning at the Intersection: Certified Robustness as a Tool for 3D Vision**|Gabriel Pérez S et.al.|[2408.13135](http://arxiv.org/abs/2408.13135)|null|
+|**2024-08-23**|**Dynamic Label Adversarial Training for Deep Learning Robustness Against Adversarial Attacks**|Zhenyu Liu et.al.|[2408.13102](http://arxiv.org/abs/2408.13102)|null|
 |**2024-08-21**|**First line of defense: A robust first layer mitigates adversarial attacks**|Janani Suresh et.al.|[2408.11680](http://arxiv.org/abs/2408.11680)|**[link](https://github.com/janani-suresh-97/first-line-defence)**|
 |**2024-08-22**|**A Joint Noise Disentanglement and Adversarial Training Framework for Robust Speaker Verification**|Xujiang Xing et.al.|[2408.11562](http://arxiv.org/abs/2408.11562)|null|
 |**2024-08-20**|**Adversarial Attack for Explanation Robustness of Rationalization Models**|Yuankai Zhang et.al.|[2408.10795](http://arxiv.org/abs/2408.10795)|null|
