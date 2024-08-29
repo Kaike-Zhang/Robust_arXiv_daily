@@ -146,6 +146,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-28**|**Certified Causal Defense with Generalizable Robustness**|Yiran Qiao et.al.|[2408.15451](http://arxiv.org/abs/2408.15451)|null|
 |**2024-08-25**|**On the Robustness of Kolmogorov-Arnold Networks: An Adversarial Perspective**|Tal Alter et.al.|[2408.13809](http://arxiv.org/abs/2408.13809)|null|
 |**2024-08-24**|**Probing the Robustness of Vision-Language Pretrained Models: A Multimodal Adversarial Attack Approach**|Jiwei Guan et.al.|[2408.13461](http://arxiv.org/abs/2408.13461)|null|
 |**2024-08-23**|**Disentangled Training with Adversarial Examples For Robust Small-footprint Keyword Spotting**|Zhenyu Wang et.al.|[2408.13355](http://arxiv.org/abs/2408.13355)|null|
@@ -714,7 +715,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-27**|**X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation**|Hanjia Lyu et.al.|[2408.15172](http://arxiv.org/abs/2408.15172)|null|
-|**2024-08-26**|**Are LLM-based Recommenders Already the Best? Simple Scaled Cross-entropy Unleashes the Potential of Traditional Sequential Recommenders**|Cong Xu et.al.|[2408.14238](http://arxiv.org/abs/2408.14238)|null|
+|**2024-08-26**|**Are LLM-based Recommenders Already the Best? Simple Scaled Cross-entropy Unleashes the Potential of Traditional Sequential Recommenders**|Cong Xu et.al.|[2408.14238](http://arxiv.org/abs/2408.14238)|**[link](https://github.com/mtandhj/ce-sce-llmrec)**|
 |**2024-08-26**|**Say Your Reason: Extract Contextual Rules In Situ for Context-aware Service Recommendation**|Yuxuan Li et.al.|[2408.13977](http://arxiv.org/abs/2408.13977)|null|
 |**2024-08-24**|**HRGraph: Leveraging LLMs for HR Data Knowledge Graphs with Information Propagation-based Job Recommendation**|Azmine Toushik Wasi et.al.|[2408.13521](http://arxiv.org/abs/2408.13521)|**[link](https://github.com/azminewasi/hrgraph)**|
 |**2024-08-22**|**DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems**|Jiaju Chen et.al.|[2408.12470](http://arxiv.org/abs/2408.12470)|null|
