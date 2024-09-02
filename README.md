@@ -155,6 +155,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-29**|**STEREO: Towards Adversarially Robust Concept Erasing from Text-to-Image Generation Models**|Koushik Srivatsan et.al.|[2408.16807](http://arxiv.org/abs/2408.16807)|**[link](https://github.com/koushiksrivats/robust-concept-erasing)**|
 |**2024-08-29**|**PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning**|Noor Hussein et.al.|[2408.16769](http://arxiv.org/abs/2408.16769)|**[link](https://github.com/nhussein/promptsmooth)**|
 |**2024-08-27**|**Improving Adversarial Robustness in Android Malware Detection by Reducing the Impact of Spurious Correlations**|Hamid Bostani et.al.|[2408.16025](http://arxiv.org/abs/2408.16025)|**[link](https://github.com/hamidbostani2021/robust-feature-space)**|
 |**2024-08-28**|**Certified Causal Defense with Generalizable Robustness**|Yiran Qiao et.al.|[2408.15451](http://arxiv.org/abs/2408.15451)|null|
