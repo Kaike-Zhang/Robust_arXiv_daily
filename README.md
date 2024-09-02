@@ -156,7 +156,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-29**|**PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning**|Noor Hussein et.al.|[2408.16769](http://arxiv.org/abs/2408.16769)|**[link](https://github.com/nhussein/promptsmooth)**|
-|**2024-08-27**|**Improving Adversarial Robustness in Android Malware Detection by Reducing the Impact of Spurious Correlations**|Hamid Bostani et.al.|[2408.16025](http://arxiv.org/abs/2408.16025)|null|
+|**2024-08-27**|**Improving Adversarial Robustness in Android Malware Detection by Reducing the Impact of Spurious Correlations**|Hamid Bostani et.al.|[2408.16025](http://arxiv.org/abs/2408.16025)|**[link](https://github.com/hamidbostani2021/robust-feature-space)**|
 |**2024-08-28**|**Certified Causal Defense with Generalizable Robustness**|Yiran Qiao et.al.|[2408.15451](http://arxiv.org/abs/2408.15451)|null|
 |**2024-08-25**|**On the Robustness of Kolmogorov-Arnold Networks: An Adversarial Perspective**|Tal Alter et.al.|[2408.13809](http://arxiv.org/abs/2408.13809)|null|
 |**2024-08-24**|**Probing the Robustness of Vision-Language Pretrained Models: A Multimodal Adversarial Attack Approach**|Jiwei Guan et.al.|[2408.13461](http://arxiv.org/abs/2408.13461)|null|
@@ -691,7 +691,7 @@
 |**2023-11-01**|**Noisy Exemplars Make Large Language Models More Robust: A Domain-Agnostic Behavioral Analysis**|Hongyi Zheng et.al.|[2311.00258](http://arxiv.org/abs/2311.00258)|**[link](https://github.com/hiroki39/noisy-exemplars-make-large-language-models-more-robust)**|
 |**2023-10-31**|**Robust Safety Classifier for Large Language Models: Adversarial Prompt Shield**|Jinhwa Kim et.al.|[2311.00172](http://arxiv.org/abs/2311.00172)|null|
 |**2023-10-18**|**REMARK-LLM: A Robust and Efficient Watermarking Framework for Generative Large Language Models**|Ruisi Zhang et.al.|[2310.12362](http://arxiv.org/abs/2310.12362)|null|
-|**2023-10-16**|**Fake News in Sheep's Clothing: Robust Fake News Detection Against LLM-Empowered Style Attacks**|Jiaying Wu et.al.|[2310.10830](http://arxiv.org/abs/2310.10830)|null|
+|**2023-10-16**|**Fake News in Sheep's Clothing: Robust Fake News Detection Against LLM-Empowered Style Attacks**|Jiaying Wu et.al.|[2310.10830](http://arxiv.org/abs/2310.10830)|**[link](https://github.com/jiayingwu19/sheepdog)**|
 |**2023-11-11**|**ASSERT: Automated Safety Scenario Red Teaming for Evaluating the Robustness of Large Language Models**|Alex Mei et.al.|[2310.09624](http://arxiv.org/abs/2310.09624)|**[link](https://github.com/alexmeigz/assert)**|
 |**2023-10-10**|**Revisit Input Perturbation Problems for LLMs: A Unified Robustness Evaluation Framework for Noisy Slot Filling Task**|Guanting Dong et.al.|[2310.06504](http://arxiv.org/abs/2310.06504)|**[link](https://github.com/dongguanting/noise-slot-filling-llm)**|
 |**2023-10-10**|**A Semantic Invariant Robust Watermark for Large Language Models**|Aiwei Liu et.al.|[2310.06356](http://arxiv.org/abs/2310.06356)|**[link](https://github.com/thu-bpm/robust_watermark)**|
@@ -759,7 +759,7 @@
 |**2024-08-16**|**Large Language Model Aided QoS Prediction for Service Recommendation**|Huiying Liu et.al.|[2408.02223](http://arxiv.org/abs/2408.02223)|null|
 |**2024-08-03**|**CoEdPilot: Recommending Code Edits with Learned Prior Edit Relevance, Project-wise Awareness, and Interactive Nature**|Chenyan Liu et.al.|[2408.01733](http://arxiv.org/abs/2408.01733)|null|
 |**2024-07-22**|**Leveraging LLM Reasoning Enhances Personalized Recommender Systems**|Alicia Y. Tsai et.al.|[2408.00802](http://arxiv.org/abs/2408.00802)|null|
-|**2024-07-30**|**GenRec: Generative Personalized Sequential Recommendation**|Panfeng Cao et.al.|[2407.21191](http://arxiv.org/abs/2407.21191)|null|
+|**2024-07-30**|**GenRec: Generative Personalized Sequential Recommendation**|Panfeng Cao et.al.|[2407.21191](http://arxiv.org/abs/2407.21191)|**[link](https://github.com/caop-kie/GenRec)**|
 |**2024-07-30**|**Learn by Selling: Equipping Large Language Models with Product Knowledge for Context-Driven Recommendations**|Sarthak Anand et.al.|[2407.20856](http://arxiv.org/abs/2407.20856)|null|
 |**2024-07-31**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643](http://arxiv.org/abs/2407.19643)|**[link](https://github.com/iamryanshengwang/prometheus-chatbot)**|
 |**2024-07-24**|**Reinforced Prompt Personalization for Recommendation with Large Language Models**|Wenyu Mao et.al.|[2407.17115](http://arxiv.org/abs/2407.17115)|**[link](https://github.com/maowenyu-11/rpp)**|
