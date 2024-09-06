@@ -147,6 +147,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 |**2024-09-02**|**Adversarial Pruning: A Survey and Benchmark of Pruning Methods for Adversarial Robustness**|Giorgio Piras et.al.|[2409.01249](http://arxiv.org/abs/2409.01249)|**[link](https://github.com/pralab/adversarialpruningbenchmark)**|
 |**2024-08-31**|**Robust off-policy Reinforcement Learning via Soft Constrained Adversary**|Kosuke Nakanishi et.al.|[2409.00418](http://arxiv.org/abs/2409.00418)|null|
 |**2024-08-29**|**STEREO: Towards Adversarially Robust Concept Erasing from Text-to-Image Generation Models**|Koushik Srivatsan et.al.|[2408.16807](http://arxiv.org/abs/2408.16807)|**[link](https://github.com/koushiksrivats/robust-concept-erasing)**|
