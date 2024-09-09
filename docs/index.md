@@ -61,7 +61,7 @@ layout: default
 |**2024-04-29**|**Going Beyond Popularity and Positivity Bias: Correcting for Multifactorial Bias in Recommender Systems**|Jin Huang et.al.|[2404.18640](http://arxiv.org/abs/2404.18640)|**[link](https://github.com/betsyhj/multifactorialbias)**|
 |**2024-04-28**|**Behavior-Contextualized Item Preference Modeling for Multi-Behavior Recommendation**|Mingshi Yan et.al.|[2404.18166](http://arxiv.org/abs/2404.18166)|null|
 |**2024-04-27**|**Towards Robust Recommendation: A Review and an Adversarial Robustness Evaluation Library**|Lei Cheng et.al.|[2404.17844](http://arxiv.org/abs/2404.17844)|**[link](https://github.com/chengleileilei/shillingrec)**|
-|**2024-04-17**|**Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems**|Dayu Yang et.al.|[2404.11773](http://arxiv.org/abs/2404.11773)|null|
+|**2024-04-17**|**Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems**|Dayu Yang et.al.|[2404.11773](http://arxiv.org/abs/2404.11773)|**[link](https://github.com/dayuyang1999/behavior-alignment)**|
 |**2024-04-08**|**Beyond the Sequence: Statistics-Driven Pre-training for Stabilizing Sequential Recommendation Model**|Sirui Wang et.al.|[2404.05342](http://arxiv.org/abs/2404.05342)|null|
 |**2024-04-06**|**Music Recommendation Based on Facial Emotion Recognition**|Rajesh B et.al.|[2404.04654](http://arxiv.org/abs/2404.04654)|null|
 |**2024-04-22**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
@@ -850,7 +850,7 @@ layout: default
 |**2024-04-25**|**A Survey of Generative Search and Recommendation in the Era of Large Language Models**|Yongqi Li et.al.|[2404.16924](http://arxiv.org/abs/2404.16924)|null|
 |**2024-04-23**|**Contrastive Quantization based Semantic Code for Generative Recommendation**|Mengqun Jin et.al.|[2404.14774](http://arxiv.org/abs/2404.14774)|null|
 |**2024-04-19**|**FineRec:Exploring Fine-grained Sequential Recommendation**|Xiaokun Zhang et.al.|[2404.12975](http://arxiv.org/abs/2404.12975)|**[link](https://github.com/zhang-xiaokun/finerec)**|
-|**2024-04-17**|**Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems**|Dayu Yang et.al.|[2404.11773](http://arxiv.org/abs/2404.11773)|null|
+|**2024-04-17**|**Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems**|Dayu Yang et.al.|[2404.11773](http://arxiv.org/abs/2404.11773)|**[link](https://github.com/dayuyang1999/behavior-alignment)**|
 |**2024-04-17**|**Large Language Models meet Collaborative Filtering: An Efficient All-round LLM-based Recommender System**|Sein Kim et.al.|[2404.11343](http://arxiv.org/abs/2404.11343)|**[link](https://github.com/ghdtjr/a-llmrec)**|
 |**2024-05-01**|**Course Recommender Systems Need to Consider the Job Market**|Jibril Frej et.al.|[2404.10876](http://arxiv.org/abs/2404.10876)|**[link](https://github.com/jibril-frej/jcrec)**|
 |**2024-04-16**|**Exact and Efficient Unlearning for Large Language Model-based Recommendation**|Zhiyu Hu et.al.|[2404.10327](http://arxiv.org/abs/2404.10327)|null|
