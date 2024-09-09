@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.08
+## Updated on 2024.09.09
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -573,7 +573,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-27**|**When All Options Are Wrong: Evaluating Large Language Model Robustness with Incorrect Multiple-Choice Options**|Gracjan Góral et.al.|[2409.00113](http://arxiv.org/abs/2409.00113)|null|
 |**2024-09-04**|**LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet**|Nathaniel Li et.al.|[2408.15221](http://arxiv.org/abs/2408.15221)|null|
-|**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
+|**2024-09-06**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
 |**2024-08-20**|**Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models**|Hongbang Yuan et.al.|[2408.10682](http://arxiv.org/abs/2408.10682)|null|
 |**2024-08-20**|**Enhancing Robustness in Large Language Models: Prompting for Mitigating the Impact of Irrelevant Information**|Ming Jiang et.al.|[2408.10615](http://arxiv.org/abs/2408.10615)|null|
 |**2024-08-20**|**Task-level Distributionally Robust Optimization for Large Language Model-based Dense Retrieval**|Guangyuan Ma et.al.|[2408.10613](http://arxiv.org/abs/2408.10613)|null|
