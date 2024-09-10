@@ -1,4 +1,4 @@
-## Updated on 2024.09.09
+## Updated on 2024.09.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -19,7 +19,7 @@
 |**2024-08-22**|**DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems**|Jiaju Chen et.al.|[2408.12470](http://arxiv.org/abs/2408.12470)|null|
 |**2024-08-19**|**GANPrompt: Enhancing Robustness in LLM-Based Recommendations with GAN-Enhanced Diversity Prompts**|Xinyu Li et.al.|[2408.09671](http://arxiv.org/abs/2408.09671)|null|
 |**2024-08-15**|**The Nah Bandit: Modeling User Non-compliance in Recommendation Systems**|Tianyue Zhou et.al.|[2408.07897](http://arxiv.org/abs/2408.07897)|null|
-|**2024-08-13**|**Reformulating Conversational Recommender Systems as Tri-Phase Offline Policy Learning**|Gangyi Zhang et.al.|[2408.06809](http://arxiv.org/abs/2408.06809)|null|
+|**2024-09-07**|**Reformulating Conversational Recommender Systems as Tri-Phase Offline Policy Learning**|Gangyi Zhang et.al.|[2408.06809](http://arxiv.org/abs/2408.06809)|null|
 |**2024-08-09**|**Dual-Channel Latent Factor Analysis Enhanced Graph Contrastive Learning for Recommendation**|Junfeng Long et.al.|[2408.04838](http://arxiv.org/abs/2408.04838)|null|
 |**2024-08-06**|**Sharpness-Aware Cross-Domain Recommendation to Cold-Start Users**|Guohang Zeng et.al.|[2408.01931](http://arxiv.org/abs/2408.01931)|null|
 |**2024-08-01**|**Adversarial Text Rewriting for Text-aware Recommender Systems**|Sejoon Oh et.al.|[2408.00312](http://arxiv.org/abs/2408.00312)|**[link](https://github.com/sejoonoh/atr)**|
@@ -149,7 +149,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240910>back to top</a>)</p>
 
 ## Robust ML
 
@@ -575,7 +575,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240910>back to top</a>)</p>
 
 ## Security LLM
 
@@ -728,7 +728,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240910>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -956,5 +956,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20240909>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240910>back to top</a>)</p>
 

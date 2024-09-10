@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.09
+## Updated on 2024.09.10
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -13,7 +13,7 @@ layout: default
 |**2024-08-22**|**DLCRec: A Novel Approach for Managing Diversity in LLM-Based Recommender Systems**|Jiaju Chen et.al.|[2408.12470](http://arxiv.org/abs/2408.12470)|null|
 |**2024-08-19**|**GANPrompt: Enhancing Robustness in LLM-Based Recommendations with GAN-Enhanced Diversity Prompts**|Xinyu Li et.al.|[2408.09671](http://arxiv.org/abs/2408.09671)|null|
 |**2024-08-15**|**The Nah Bandit: Modeling User Non-compliance in Recommendation Systems**|Tianyue Zhou et.al.|[2408.07897](http://arxiv.org/abs/2408.07897)|null|
-|**2024-08-13**|**Reformulating Conversational Recommender Systems as Tri-Phase Offline Policy Learning**|Gangyi Zhang et.al.|[2408.06809](http://arxiv.org/abs/2408.06809)|null|
+|**2024-09-07**|**Reformulating Conversational Recommender Systems as Tri-Phase Offline Policy Learning**|Gangyi Zhang et.al.|[2408.06809](http://arxiv.org/abs/2408.06809)|null|
 |**2024-08-09**|**Dual-Channel Latent Factor Analysis Enhanced Graph Contrastive Learning for Recommendation**|Junfeng Long et.al.|[2408.04838](http://arxiv.org/abs/2408.04838)|null|
 |**2024-08-06**|**Sharpness-Aware Cross-Domain Recommendation to Cold-Start Users**|Guohang Zeng et.al.|[2408.01931](http://arxiv.org/abs/2408.01931)|null|
 |**2024-08-01**|**Adversarial Text Rewriting for Text-aware Recommender Systems**|Sejoon Oh et.al.|[2408.00312](http://arxiv.org/abs/2408.00312)|**[link](https://github.com/sejoonoh/atr)**|
