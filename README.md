@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-25**|**CF-KAN: Kolmogorov-Arnold Network-based Collaborative Filtering to Mitigate Catastrophic Forgetting in Recommender Systems**|Jin-Duk Park et.al.|[2409.05878](http://arxiv.org/abs/2409.05878)|null|
 |**2024-09-08**|**A Survey on Diffusion Models for Recommender Systems**|Jianghao Lin et.al.|[2409.05033](http://arxiv.org/abs/2409.05033)|null|
 |**2024-09-08**|**Sequential Recommendation via Adaptive Robust Attention with Multi-dimensional Embeddings**|Linsey Pang et.al.|[2409.05022](http://arxiv.org/abs/2409.05022)|null|
 |**2024-08-29**|**Do Recommender Systems Promote Local Music? A Reproducibility Study Using Music Streaming Data**|Kristina Matrosova et.al.|[2408.16430](http://arxiv.org/abs/2408.16430)|**[link](https://github.com/kmatrosova/fairnessrecsys2024)**|
@@ -157,6 +158,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Unrevealed Threats: A Comprehensive Study of the Adversarial Robustness of Underwater Image Enhancement Models**|Siyu Zhai et.al.|[2409.06420](http://arxiv.org/abs/2409.06420)|null|
+|**2024-09-10**|**RobustSVC: HuBERT-based Melody Extractor and Adversarial Learning for Robust Singing Voice Conversion**|Wei Chen et.al.|[2409.06237](http://arxiv.org/abs/2409.06237)|null|
 |**2024-09-05**|**Limited but consistent gains in adversarial robustness by co-training object recognition models with human EEG**|Manshan Guo et.al.|[2409.03646](http://arxiv.org/abs/2409.03646)|null|
 |**2024-09-02**|**Adversarial Pruning: A Survey and Benchmark of Pruning Methods for Adversarial Robustness**|Giorgio Piras et.al.|[2409.01249](http://arxiv.org/abs/2409.01249)|**[link](https://github.com/pralab/adversarialpruningbenchmark)**|
 |**2024-08-31**|**Robust off-policy Reinforcement Learning via Soft Constrained Adversary**|Kosuke Nakanishi et.al.|[2409.00418](http://arxiv.org/abs/2409.00418)|null|
@@ -737,6 +740,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-10**|**Enhancing Sequential Recommendations through Multi-Perspective Reflections and Iteration**|Weicong Qin et.al.|[2409.06377](http://arxiv.org/abs/2409.06377)|null|
+|**2024-09-10**|**User Preferences for Large Language Model versus Template-Based Explanations of Movie Recommendations: A Pilot Study**|Julien Albert et.al.|[2409.06297](http://arxiv.org/abs/2409.06297)|null|
+|**2024-09-10**|**HierLLM: Hierarchical Large Language Model for Question Recommendation**|Yuxuan Liu et.al.|[2409.06177](http://arxiv.org/abs/2409.06177)|null|
 |**2024-09-07**|**Incorporate LLMs with Influential Recommender System**|Mingze Wang et.al.|[2409.04827](http://arxiv.org/abs/2409.04827)|null|
 |**2024-09-03**|**Laser: Parameter-Efficient LLM Bi-Tuning for Sequential Recommendation with Collaborative Information**|Xinyu Zhang et.al.|[2409.01605](http://arxiv.org/abs/2409.01605)|null|
 |**2024-08-28**|**An Extremely Data-efficient and Generative LLM-based Reinforcement Learning Agent for Recommenders**|Shuang Feng et.al.|[2408.16032](http://arxiv.org/abs/2408.16032)|null|
