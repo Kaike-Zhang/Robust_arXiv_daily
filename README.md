@@ -15,9 +15,9 @@
 |---|---|---|---|---|
 |**2024-09-12**|**Enhancing Cross-Market Recommendation System with Graph Isomorphism Networks: A Novel Approach to Personalized User Experience**|Sümeyye Öztürk et.al.|[2409.07850](http://arxiv.org/abs/2409.07850)|null|
 |**2024-09-11**|**Cybersecurity Challenge Analysis of Work-from-Anywhere (WFA) and Recommendations guided by a User Study**|Mohammed Mahyoub et.al.|[2409.07567](http://arxiv.org/abs/2409.07567)|null|
-|**2024-09-10**|**DV-FSR: A Dual-View Target Attack Framework for Federated Sequential Recommendation**|Qitao Qin et.al.|[2409.07500](http://arxiv.org/abs/2409.07500)|null|
-|**2024-09-11**|**CF-KAN: Kolmogorov-Arnold Network-based Collaborative Filtering to Mitigate Catastrophic Forgetting in Recommender Systems**|Jin-Duk Park et.al.|[2409.05878](http://arxiv.org/abs/2409.05878)|null|
-|**2024-09-08**|**A Survey on Diffusion Models for Recommender Systems**|Jianghao Lin et.al.|[2409.05033](http://arxiv.org/abs/2409.05033)|null|
+|**2024-09-10**|**DV-FSR: A Dual-View Target Attack Framework for Federated Sequential Recommendation**|Qitao Qin et.al.|[2409.07500](http://arxiv.org/abs/2409.07500)|**[link](https://github.com/ustcagi/dv-fsr)**|
+|**2024-09-11**|**CF-KAN: Kolmogorov-Arnold Network-based Collaborative Filtering to Mitigate Catastrophic Forgetting in Recommender Systems**|Jin-Duk Park et.al.|[2409.05878](http://arxiv.org/abs/2409.05878)|**[link](https://github.com/jindeok/CF-KAN)**|
+|**2024-09-08**|**A Survey on Diffusion Models for Recommender Systems**|Jianghao Lin et.al.|[2409.05033](http://arxiv.org/abs/2409.05033)|**[link](https://github.com/chiangel/awesome-diffusion-for-recsys)**|
 |**2024-09-08**|**Sequential Recommendation via Adaptive Robust Attention with Multi-dimensional Embeddings**|Linsey Pang et.al.|[2409.05022](http://arxiv.org/abs/2409.05022)|null|
 |**2024-08-29**|**Do Recommender Systems Promote Local Music? A Reproducibility Study Using Music Streaming Data**|Kristina Matrosova et.al.|[2408.16430](http://arxiv.org/abs/2408.16430)|**[link](https://github.com/kmatrosova/fairnessrecsys2024)**|
 |**2024-08-27**|**X-Reflect: Cross-Reflection Prompting for Multimodal Recommendation**|Hanjia Lyu et.al.|[2408.15172](http://arxiv.org/abs/2408.15172)|null|
