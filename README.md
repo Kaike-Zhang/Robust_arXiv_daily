@@ -161,6 +161,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-12**|**FedProphet: Memory-Efficient Federated Adversarial Training via Theoretic-Robustness and Low-Inconsistency Cascade Learning**|Minxue Tang et.al.|[2409.08372](http://arxiv.org/abs/2409.08372)|null|
 |**2024-09-11**|**A Cost-Aware Approach to Adversarial Robustness in Neural Networks**|Charles Meyers et.al.|[2409.07609](http://arxiv.org/abs/2409.07609)|null|
 |**2024-09-11**|**Introducing Perturb-ability Score (PS) to Enhance Robustness Against Evasion Adversarial Attacks on ML-NIDS**|Mohamed elShehaby et.al.|[2409.07448](http://arxiv.org/abs/2409.07448)|null|
 |**2024-09-11**|**Enhancing adversarial robustness in Natural Language Inference using explanations**|Alexandros Koulakos et.al.|[2409.07423](http://arxiv.org/abs/2409.07423)|null|
@@ -747,6 +748,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-13**|**ATFLRec: A Multimodal Recommender System with Audio-Text Fusion and Low-Rank Adaptation via Instruction-Tuned Large Language Model**|Zezheng Qin et.al.|[2409.08543](http://arxiv.org/abs/2409.08543)|null|
 |**2024-09-11**|**Multilingual Prompts in LLM-Based Recommenders: Performance Across Languages**|Makbule Gulcin Ozsoy et.al.|[2409.07604](http://arxiv.org/abs/2409.07604)|null|
 |**2024-09-11**|**Towards Fairer Health Recommendations: finding informative unbiased samples via Word Sense Disambiguation**|Gavin Butts et.al.|[2409.07424](http://arxiv.org/abs/2409.07424)|null|
 |**2024-09-13**|**STORE: Streamlining Semantic Tokenization and Generative Recommendation with A Single LLM**|Qijiong Liu et.al.|[2409.07276](http://arxiv.org/abs/2409.07276)|null|
