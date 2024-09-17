@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.16
+## Updated on 2024.09.17
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -596,7 +596,7 @@ layout: default
 |**2024-08-16**|**Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?**|Zhongjian Zhang et.al.|[2408.08685](http://arxiv.org/abs/2408.08685)|null|
 |**2024-08-13**|**Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models**|Sungmin Cha et.al.|[2408.06621](http://arxiv.org/abs/2408.06621)|null|
 |**2024-08-11**|**LLM-Based Robust Product Classification in Commerce and Compliance**|Sina Gholamian et.al.|[2408.05874](http://arxiv.org/abs/2408.05874)|null|
-|**2024-08-09**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585](http://arxiv.org/abs/2408.04585)|null|
+|**2024-09-14**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585](http://arxiv.org/abs/2408.04585)|null|
 |**2024-08-04**|**A Novel Metric for Measuring the Robustness of Large Language Models in Non-adversarial Scenarios**|Samuel Ackerman et.al.|[2408.01963](http://arxiv.org/abs/2408.01963)|null|
 |**2024-08-02**|**Coalitions of Large Language Models Increase the Robustness of AI Agents**|Prattyush Mangal et.al.|[2408.01380](http://arxiv.org/abs/2408.01380)|null|
 |**2024-08-02**|**MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code**|Kaiwen Ning et.al.|[2408.01354](http://arxiv.org/abs/2408.01354)|**[link](https://github.com/KevinHeiwa/MCGTM)**|
