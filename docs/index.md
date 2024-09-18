@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Bridging User Dynamics: Transforming Sequential Recommendations with Schrödinger Bridge and Diffusion Models**|Wenjia Xie et.al.|[2409.10522](http://arxiv.org/abs/2409.10522)|null|
+|**2024-08-30**|**Achieving Responsible AI through ESG: Insights and Recommendations from Industry Engagement**|Harsha Perera et.al.|[2409.10520](http://arxiv.org/abs/2409.10520)|null|
 |**2024-09-12**|**Enhancing Cross-Market Recommendation System with Graph Isomorphism Networks: A Novel Approach to Personalized User Experience**|Sümeyye Öztürk et.al.|[2409.07850](http://arxiv.org/abs/2409.07850)|null|
 |**2024-09-11**|**Cybersecurity Challenge Analysis of Work-from-Anywhere (WFA) and Recommendations guided by a User Study**|Mohammed Mahyoub et.al.|[2409.07567](http://arxiv.org/abs/2409.07567)|null|
 |**2024-09-10**|**DV-FSR: A Dual-View Target Attack Framework for Federated Sequential Recommendation**|Qitao Qin et.al.|[2409.07500](http://arxiv.org/abs/2409.07500)|**[link](https://github.com/ustcagi/dv-fsr)**|
@@ -736,6 +738,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-17**|**Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations**|Shahnewaz Karim Sakib et.al.|[2409.10825](http://arxiv.org/abs/2409.10825)|null|
+|**2024-09-16**|**Semantics Preserving Emoji Recommendation with Large Language Models**|Zhongyi Qiu et.al.|[2409.10760](http://arxiv.org/abs/2409.10760)|null|
+|**2024-08-30**|**Towards Empathetic Conversational Recommender Systems**|Xiaoyu Zhang et.al.|[2409.10527](http://arxiv.org/abs/2409.10527)|**[link](https://github.com/zxd-octopus/ECR)**|
 |**2024-09-16**|**Large Language Model Enhanced Hard Sample Identification for Denoising Recommendation**|Tianrui Song et.al.|[2409.10343](http://arxiv.org/abs/2409.10343)|null|
 |**2024-09-14**|**An empirical evaluation of using ChatGPT to summarize disputes for recommending similar labor and employment cases in Chinese**|Po-Hsien Wu et.al.|[2409.09280](http://arxiv.org/abs/2409.09280)|null|
 |**2024-09-14**|**Unleash LLMs Potential for Recommendation by Coordinating Twin-Tower Dynamic Semantic Token Generator**|Jun Yin et.al.|[2409.09253](http://arxiv.org/abs/2409.09253)|null|
