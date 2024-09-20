@@ -2,12 +2,12 @@
 layout: default
 ---
 
-## Updated on 2024.09.19
+## Updated on 2024.09.20
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-18**|**LLM-Powered Text Simulation Attack Against ID-Free Recommender Systems**|Zongwei Wang et.al.|[2409.11690](http://arxiv.org/abs/2409.11690)|null|
+|**2024-09-19**|**LLM-Powered Text Simulation Attack Against ID-Free Recommender Systems**|Zongwei Wang et.al.|[2409.11690](http://arxiv.org/abs/2409.11690)|null|
 |**2024-08-30**|**Bridging User Dynamics: Transforming Sequential Recommendations with Schrödinger Bridge and Diffusion Models**|Wenjia Xie et.al.|[2409.10522](http://arxiv.org/abs/2409.10522)|null|
 |**2024-08-30**|**Achieving Responsible AI through ESG: Insights and Recommendations from Industry Engagement**|Harsha Perera et.al.|[2409.10520](http://arxiv.org/abs/2409.10520)|null|
 |**2024-09-12**|**Enhancing Cross-Market Recommendation System with Graph Isomorphism Networks: A Novel Approach to Personalized User Experience**|Sümeyye Öztürk et.al.|[2409.07850](http://arxiv.org/abs/2409.07850)|null|
@@ -740,7 +740,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-18**|**Decoding Style: Efficient Fine-Tuning of LLMs for Image-Guided Outfit Recommendation with Preference**|Najmeh Forouzandehmehr et.al.|[2409.12150](http://arxiv.org/abs/2409.12150)|null|
-|**2024-09-18**|**LLM-Powered Text Simulation Attack Against ID-Free Recommender Systems**|Zongwei Wang et.al.|[2409.11690](http://arxiv.org/abs/2409.11690)|null|
+|**2024-09-19**|**LLM-Powered Text Simulation Attack Against ID-Free Recommender Systems**|Zongwei Wang et.al.|[2409.11690](http://arxiv.org/abs/2409.11690)|null|
 |**2024-09-17**|**Challenging Fairness: A Comprehensive Exploration of Bias in LLM-Based Recommendations**|Shahnewaz Karim Sakib et.al.|[2409.10825](http://arxiv.org/abs/2409.10825)|null|
 |**2024-09-16**|**Semantics Preserving Emoji Recommendation with Large Language Models**|Zhongyi Qiu et.al.|[2409.10760](http://arxiv.org/abs/2409.10760)|null|
 |**2024-08-30**|**Towards Empathetic Conversational Recommender Systems**|Xiaoyu Zhang et.al.|[2409.10527](http://arxiv.org/abs/2409.10527)|**[link](https://github.com/zxd-octopus/ECR)**|
