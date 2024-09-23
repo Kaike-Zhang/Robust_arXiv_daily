@@ -46,7 +46,7 @@ layout: default
 |**2024-06-07**|**QAGCF: Graph Collaborative Filtering for Q&A Recommendation**|Changshuo Zhang et.al.|[2406.04828](http://arxiv.org/abs/2406.04828)|null|
 |**2024-06-07**|**Mobile Network Configuration Recommendation using Deep Generative Graph Neural Network**|Shirwan Piroti et.al.|[2406.04779](http://arxiv.org/abs/2406.04779)|null|
 |**2024-06-04**|**Dynamic Online Recommendation for Two-Sided Market with Bayesian Incentive Compatibility**|Yuantong Li et.al.|[2406.04374](http://arxiv.org/abs/2406.04374)|null|
-|**2024-06-10**|**EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation**|Yuda Wang et.al.|[2406.02638](http://arxiv.org/abs/2406.02638)|null|
+|**2024-06-10**|**EchoMamba4Rec: Harmonizing Bidirectional State Space Models with Spectral Filtering for Advanced Sequential Recommendation**|Yuda Wang et.al.|[2406.02638](http://arxiv.org/abs/2406.02638)|**[link](https://github.com/wyd0042/EchoMamba4Rec)**|
 |**2024-06-05**|**Pairwise Ranking Loss for Multi-Task Learning in Recommender Systems**|Furkan Durmus et.al.|[2406.02163](http://arxiv.org/abs/2406.02163)|null|
 |**2024-06-01**|**RecDiff: Diffusion Model for Social Recommendation**|Zongwei Li et.al.|[2406.01629](http://arxiv.org/abs/2406.01629)|**[link](https://github.com/hkuds/recdiff)**|
 |**2024-06-04**|**FourierKAN-GCF: Fourier Kolmogorov-Arnold Network -- An Effective and Efficient Feature Transformation for Graph Collaborative Filtering**|Jinfeng Xu et.al.|[2406.01034](http://arxiv.org/abs/2406.01034)|**[link](https://github.com/jinfeng-xu/fkan-gcf)**|
