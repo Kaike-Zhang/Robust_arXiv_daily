@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Neural Collaborative Filtering to Detect Anomalies in Human Semantic Trajectories**|Yueyang Liu et.al.|[2409.18427](http://arxiv.org/abs/2409.18427)|null|
 |**2024-09-26**|**Improving the Shortest Plank: Vulnerability-Aware Adversarial Training for Robust Recommender System**|Kaike Zhang et.al.|[2409.17476](http://arxiv.org/abs/2409.17476)|**[link](https://github.com/Kaike-Zhang/VAT)**|
 |**2024-09-26**|**Minimizing Live Experiments in Recommender Systems: User Simulation to Evaluate Preference Elicitation Policies**|Chih-Wei Hsu et.al.|[2409.17436](http://arxiv.org/abs/2409.17436)|null|
 |**2024-09-24**|**Algorithmic Drift: A Simulation Framework to Study the Effects of Recommender Systems on User Preferences**|Erica Coppolillo et.al.|[2409.16478](http://arxiv.org/abs/2409.16478)|null|
@@ -770,6 +771,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**Scalable Cross-Entropy Loss for Sequential Recommendations with Large Item Catalogs**|Gleb Mezentsev et.al.|[2409.18721](http://arxiv.org/abs/2409.18721)|null|
 |**2024-09-26**|**Enhancing Tourism Recommender Systems for Sustainable City Trips Using Retrieval-Augmented Generation**|Ashmi Banerjee et.al.|[2409.18003](http://arxiv.org/abs/2409.18003)|null|
 |**2024-09-25**|**A Prompting-Based Representation Learning Method for Recommendation with Large Language Models**|Junyi Chen et.al.|[2409.16674](http://arxiv.org/abs/2409.16674)|null|
 |**2024-09-18**|**Recommendation with Generative Models**|Yashar Deldjoo et.al.|[2409.15173](http://arxiv.org/abs/2409.15173)|null|
