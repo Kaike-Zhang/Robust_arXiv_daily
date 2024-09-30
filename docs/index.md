@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.09.29
+## Updated on 2024.09.30
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -603,7 +603,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-09-18**|**Reward-Robust RLHF in LLMs**|Yuzi Yan et.al.|[2409.15360](http://arxiv.org/abs/2409.15360)|null|
+|**2024-09-27**|**Reward-Robust RLHF in LLMs**|Yuzi Yan et.al.|[2409.15360](http://arxiv.org/abs/2409.15360)|null|
 |**2024-09-23**|**PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs**|Jiahao Yu et.al.|[2409.14729](http://arxiv.org/abs/2409.14729)|null|
 |**2024-09-22**|**Evaluating the Performance and Robustness of LLMs in Materials Science Q&A and Property Predictions**|Hongchen Wang et.al.|[2409.14572](http://arxiv.org/abs/2409.14572)|null|
 |**2024-09-18**|**Towards Building a Robust Knowledge Intensive Question Answering Model with Large Language Models**|Xingyun Hong et.al.|[2409.05385](http://arxiv.org/abs/2409.05385)|null|
