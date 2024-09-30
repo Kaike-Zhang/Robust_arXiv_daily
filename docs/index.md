@@ -683,7 +683,7 @@ layout: default
 |**2024-04-01**|**Syntactic Robustness for LLM-based Code Generation**|Laboni Sarker et.al.|[2404.01535](http://arxiv.org/abs/2404.01535)|null|
 |**2024-04-23**|**JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models**|Patrick Chao et.al.|[2404.01318](http://arxiv.org/abs/2404.01318)|**[link](https://github.com/jailbreakbench/jailbreakbench)**|
 |**2024-03-31**|**PID Control-Based Self-Healing to Improve the Robustness of Large Language Models**|Zhuotong Chen et.al.|[2404.00828](http://arxiv.org/abs/2404.00828)|**[link](https://github.com/zhuotongchen/pid-control-based-self-healing-to-improve-the-robustness-of-large-language-models)**|
-|**2024-03-31**|**WavLLM: Towards Robust and Adaptive Speech Large Language Model**|Shujie Hu et.al.|[2404.00656](http://arxiv.org/abs/2404.00656)|null|
+|**2024-03-31**|**WavLLM: Towards Robust and Adaptive Speech Large Language Model**|Shujie Hu et.al.|[2404.00656](http://arxiv.org/abs/2404.00656)|**[link](https://github.com/microsoft/speecht5)**|
 |**2024-03-27**|**CheckEval: Robust Evaluation Framework using Large Language Model via Checklist**|Yukyung Lee et.al.|[2403.18771](http://arxiv.org/abs/2403.18771)|null|
 |**2024-03-24**|**Is Watermarking LLM-Generated Code Robust?**|Tarun Suresh et.al.|[2403.17983](http://arxiv.org/abs/2403.17983)|**[link](https://github.com/uiuc-arc/llm-code-watermark)**|
 |**2024-03-26**|**Robust and Scalable Model Editing for Large Language Models**|Yingfa Chen et.al.|[2403.17431](http://arxiv.org/abs/2403.17431)|**[link](https://github.com/thunlp/eren)**|
