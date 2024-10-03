@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-01**|**Bias in mixed models when analysing longitudinal data subject to irregular observation: when should we worry about it and how can recommended visit intervals help in specifying joint models when needed?**|Rose Garrett et.al.|[2410.00662](http://arxiv.org/abs/2410.00662)|null|
 |**2024-10-01**|**The Unique Taste of LLMs for Papers: Potential issues in Using LLMs for Digital Library Document Recommendation Tasks**|Yifan Tian et.al.|[2409.19868](http://arxiv.org/abs/2409.19868)|null|
 |**2024-09-27**|**Neural Collaborative Filtering to Detect Anomalies in Human Semantic Trajectories**|Yueyang Liu et.al.|[2409.18427](http://arxiv.org/abs/2409.18427)|**[link](https://github.com/alex-cse/NCF_AHSTD)**|
 |**2024-09-26**|**Improving the Shortest Plank: Vulnerability-Aware Adversarial Training for Robust Recommender System**|Kaike Zhang et.al.|[2409.17476](http://arxiv.org/abs/2409.17476)|**[link](https://github.com/Kaike-Zhang/VAT)**|
@@ -173,6 +174,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**MOREL: Enhancing Adversarial Robustness through Multi-Objective Representation Learning**|Sedjro Salomon Hotegni et.al.|[2410.01697](http://arxiv.org/abs/2410.01697)|**[link](https://github.com/salomonhotegni/MOREL)**|
+|**2024-10-02**|**On Using Certified Training towards Empirical Robustness**|Alessandro De Palma et.al.|[2410.01617](http://arxiv.org/abs/2410.01617)|null|
+|**2024-10-02**|**Fake It Until You Break It: On the Adversarial Robustness of AI-generated Image Detectors**|Sina Mavali et.al.|[2410.01574](http://arxiv.org/abs/2410.01574)|**[link](https://github.com/smavali/aigi-break)**|
 |**2024-09-30**|**Robust LLM safeguarding via refusal feature adversarial training**|Lei Yu et.al.|[2409.20089](http://arxiv.org/abs/2409.20089)|null|
 |**2024-09-29**|**A Certified Robust Watermark For Large Language Models**|Xianheng Feng et.al.|[2409.19708](http://arxiv.org/abs/2409.19708)|null|
 |**2024-09-29**|**Nonideality-aware training makes memristive networks more robust to adversarial attacks**|Dovydas Joksas et.al.|[2409.19671](http://arxiv.org/abs/2409.19671)|**[link](https://github.com/joksas/nonideality-aware-memristive-networks-under-attack)**|
@@ -619,6 +623,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-30**|**Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning**|Weitai Kang et.al.|[2410.00255](http://arxiv.org/abs/2410.00255)|**[link](https://github.com/weitaikang/robin3d)**|
 |**2024-09-30**|**Ranking Over Scoring: Towards Reliable and Robust Automated Evaluation of LLM-Generated Medical Explanatory Arguments**|Iker De la Iglesia et.al.|[2409.20565](http://arxiv.org/abs/2409.20565)|null|
 |**2024-09-30**|**Robust LLM safeguarding via refusal feature adversarial training**|Lei Yu et.al.|[2409.20089](http://arxiv.org/abs/2409.20089)|null|
 |**2024-09-29**|**A Certified Robust Watermark For Large Language Models**|Xianheng Feng et.al.|[2409.19708](http://arxiv.org/abs/2409.19708)|null|
@@ -779,6 +784,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**Elaborative Subtopic Query Reformulation for Broad and Indirect Queries in Travel Destination Recommendation**|Qianfeng Wen et.al.|[2410.01598](http://arxiv.org/abs/2410.01598)|**[link](https://github.com/yifanliu2/roegen-recsys-24-eqr)**|
 |**2024-09-30**|**Mitigating Propensity Bias of Large Language Models for Recommender Systems**|Guixian Zhang et.al.|[2409.20052](http://arxiv.org/abs/2409.20052)|null|
 |**2024-10-01**|**Enhancing High-order Interaction Awareness in LLM-based Recommender Model**|Xinfeng Wang et.al.|[2409.19979](http://arxiv.org/abs/2409.19979)|**[link](https://github.com/WangXFng/ELMRec)**|
 |**2024-09-30**|**Large Language Model Empowered Embedding Generator for Sequential Recommendation**|Qidong Liu et.al.|[2409.19925](http://arxiv.org/abs/2409.19925)|**[link](https://github.com/liuqidong07/LLMEmb)**|
