@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.03
+## Updated on 2024.10.04
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -166,9 +166,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-02**|**MOREL: Enhancing Adversarial Robustness through Multi-Objective Representation Learning**|Sedjro Salomon Hotegni et.al.|[2410.01697](http://arxiv.org/abs/2410.01697)|**[link](https://github.com/salomonhotegni/MOREL)**|
+|**2024-10-03**|**MOREL: Enhancing Adversarial Robustness through Multi-Objective Representation Learning**|Sedjro Salomon Hotegni et.al.|[2410.01697](http://arxiv.org/abs/2410.01697)|**[link](https://github.com/salomonhotegni/MOREL)**|
 |**2024-10-02**|**On Using Certified Training towards Empirical Robustness**|Alessandro De Palma et.al.|[2410.01617](http://arxiv.org/abs/2410.01617)|null|
-|**2024-10-02**|**Fake It Until You Break It: On the Adversarial Robustness of AI-generated Image Detectors**|Sina Mavali et.al.|[2410.01574](http://arxiv.org/abs/2410.01574)|**[link](https://github.com/smavali/aigi-break)**|
+|**2024-10-03**|**Fake It Until You Break It: On the Adversarial Robustness of AI-generated Image Detectors**|Sina Mavali et.al.|[2410.01574](http://arxiv.org/abs/2410.01574)|**[link](https://github.com/smavali/aigi-break)**|
 |**2024-09-30**|**Robust LLM safeguarding via refusal feature adversarial training**|Lei Yu et.al.|[2409.20089](http://arxiv.org/abs/2409.20089)|null|
 |**2024-09-29**|**A Certified Robust Watermark For Large Language Models**|Xianheng Feng et.al.|[2409.19708](http://arxiv.org/abs/2409.19708)|null|
 |**2024-09-29**|**Nonideality-aware training makes memristive networks more robust to adversarial attacks**|Dovydas Joksas et.al.|[2409.19671](http://arxiv.org/abs/2409.19671)|**[link](https://github.com/joksas/nonideality-aware-memristive-networks-under-attack)**|
