@@ -784,7 +784,7 @@ layout: default
 |**2024-09-26**|**Enhancing Tourism Recommender Systems for Sustainable City Trips Using Retrieval-Augmented Generation**|Ashmi Banerjee et.al.|[2409.18003](http://arxiv.org/abs/2409.18003)|null|
 |**2024-10-01**|**A Prompting-Based Representation Learning Method for Recommendation with Large Language Models**|Junyi Chen et.al.|[2409.16674](http://arxiv.org/abs/2409.16674)|null|
 |**2024-09-18**|**Recommendation with Generative Models**|Yashar Deldjoo et.al.|[2409.15173](http://arxiv.org/abs/2409.15173)|null|
-|**2024-09-22**|**Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations**|Peixin Qin et.al.|[2409.14399](http://arxiv.org/abs/2409.14399)|null|
+|**2024-09-22**|**Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations**|Peixin Qin et.al.|[2409.14399](http://arxiv.org/abs/2409.14399)|**[link](https://github.com/mumen798/PC-CRS)**|
 |**2024-09-06**|**Retrieval Augmented Generation-Based Incident Resolution Recommendation System for IT Support**|Paulina Toro Isaza et.al.|[2409.13707](http://arxiv.org/abs/2409.13707)|null|
 |**2024-09-05**|**MAS4POI: a Multi-Agents Collaboration System for Next POI Recommendation**|Yuqian Wu et.al.|[2409.13700](http://arxiv.org/abs/2409.13700)|null|
 |**2024-09-19**|**HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling**|Junyi Chen et.al.|[2409.12740](http://arxiv.org/abs/2409.12740)|**[link](https://github.com/bytedance/hllm)**|
@@ -894,7 +894,7 @@ layout: default
 |**2024-05-31**|**Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item**|Qidong Liu et.al.|[2405.20646](http://arxiv.org/abs/2405.20646)|**[link](https://github.com/liuqidong07/LLM-ESR)**|
 |**2024-06-04**|**Generating Query Recommendations via LLMs**|Andrea Bacciu et.al.|[2405.19749](http://arxiv.org/abs/2405.19749)|null|
 |**2024-05-30**|**Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations**|Hai-Dang Kieu et.al.|[2405.19612](http://arxiv.org/abs/2405.19612)|null|
-|**2024-05-28**|**SLMRec: Empowering Small Language Models for Sequential Recommendation**|Wujiang Xu et.al.|[2405.17890](http://arxiv.org/abs/2405.17890)|null|
+|**2024-05-28**|**SLMRec: Empowering Small Language Models for Sequential Recommendation**|Wujiang Xu et.al.|[2405.17890](http://arxiv.org/abs/2405.17890)|**[link](https://github.com/wujiangxu/slmrec)**|
 |**2024-05-28**|**MobileConvRec: A Conversational Dataset for Mobile Apps Recommendations**|Srijata Maji et.al.|[2405.17740](http://arxiv.org/abs/2405.17740)|null|
 |**2024-05-27**|**RAGSys: Item-Cold-Start Recommender as RAG System**|Emile Contal et.al.|[2405.17587](http://arxiv.org/abs/2405.17587)|null|
 |**2024-05-27**|**NoteLLM-2: Multimodal Large Representation Models for Recommendation**|Chao Zhang et.al.|[2405.16789](http://arxiv.org/abs/2405.16789)|null|
