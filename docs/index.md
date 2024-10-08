@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.07
+## Updated on 2024.10.08
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -787,7 +787,7 @@ layout: default
 |**2024-09-26**|**Enhancing Tourism Recommender Systems for Sustainable City Trips Using Retrieval-Augmented Generation**|Ashmi Banerjee et.al.|[2409.18003](http://arxiv.org/abs/2409.18003)|null|
 |**2024-10-01**|**A Prompting-Based Representation Learning Method for Recommendation with Large Language Models**|Junyi Chen et.al.|[2409.16674](http://arxiv.org/abs/2409.16674)|null|
 |**2024-09-18**|**Recommendation with Generative Models**|Yashar Deldjoo et.al.|[2409.15173](http://arxiv.org/abs/2409.15173)|null|
-|**2024-09-22**|**Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations**|Peixin Qin et.al.|[2409.14399](http://arxiv.org/abs/2409.14399)|**[link](https://github.com/mumen798/PC-CRS)**|
+|**2024-09-22**|**Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations**|Peixin Qin et.al.|[2409.14399](http://arxiv.org/abs/2409.14399)|null|
 |**2024-09-06**|**Retrieval Augmented Generation-Based Incident Resolution Recommendation System for IT Support**|Paulina Toro Isaza et.al.|[2409.13707](http://arxiv.org/abs/2409.13707)|null|
 |**2024-09-05**|**MAS4POI: a Multi-Agents Collaboration System for Next POI Recommendation**|Yuqian Wu et.al.|[2409.13700](http://arxiv.org/abs/2409.13700)|null|
 |**2024-09-19**|**HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling**|Junyi Chen et.al.|[2409.12740](http://arxiv.org/abs/2409.12740)|**[link](https://github.com/bytedance/hllm)**|
