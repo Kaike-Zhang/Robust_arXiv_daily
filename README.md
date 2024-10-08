@@ -13,9 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**Item Cluster-aware Prompt Learning for Session-based Recommendation**|Wooseong Yang et.al.|[2410.04756](http://arxiv.org/abs/2410.04756)|null|
 |**2024-10-01**|**Bias in mixed models when analysing longitudinal data subject to irregular observation: when should we worry about it and how can recommended visit intervals help in specifying joint models when needed?**|Rose Garrett et.al.|[2410.00662](http://arxiv.org/abs/2410.00662)|null|
 |**2024-10-01**|**The Unique Taste of LLMs for Papers: Potential issues in Using LLMs for Digital Library Document Recommendation Tasks**|Yifan Tian et.al.|[2409.19868](http://arxiv.org/abs/2409.19868)|null|
-|**2024-09-27**|**Neural Collaborative Filtering to Detect Anomalies in Human Semantic Trajectories**|Yueyang Liu et.al.|[2409.18427](http://arxiv.org/abs/2409.18427)|**[link](https://github.com/alex-cse/NCF_AHSTD)**|
+|**2024-10-07**|**Neural Collaborative Filtering to Detect Anomalies in Human Semantic Trajectories**|Yueyang Liu et.al.|[2409.18427](http://arxiv.org/abs/2409.18427)|**[link](https://github.com/alex-cse/NCF_AHSTD)**|
 |**2024-09-26**|**Improving the Shortest Plank: Vulnerability-Aware Adversarial Training for Robust Recommender System**|Kaike Zhang et.al.|[2409.17476](http://arxiv.org/abs/2409.17476)|**[link](https://github.com/Kaike-Zhang/VAT)**|
 |**2024-09-26**|**Minimizing Live Experiments in Recommender Systems: User Simulation to Evaluate Preference Elicitation Policies**|Chih-Wei Hsu et.al.|[2409.17436](http://arxiv.org/abs/2409.17436)|null|
 |**2024-09-24**|**Algorithmic Drift: A Simulation Framework to Study the Effects of Recommender Systems on User Preferences**|Erica Coppolillo et.al.|[2409.16478](http://arxiv.org/abs/2409.16478)|null|
@@ -174,6 +175,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-05**|**Adversarial Attacks and Robust Defenses in Speaker Embedding based Zero-Shot Text-to-Speech System**|Ze Li et.al.|[2410.04017](http://arxiv.org/abs/2410.04017)|null|
+|**2024-10-04**|**A Brain-Inspired Regularizer for Adversarial Robustness**|Elie Attias et.al.|[2410.03952](http://arxiv.org/abs/2410.03952)|null|
 |**2024-10-03**|**Towards Universal Certified Robustness with Multi-Norm Training**|Enyi Jiang et.al.|[2410.03000](http://arxiv.org/abs/2410.03000)|null|
 |**2024-10-03**|**MOREL: Enhancing Adversarial Robustness through Multi-Objective Representation Learning**|Sedjro Salomon Hotegni et.al.|[2410.01697](http://arxiv.org/abs/2410.01697)|**[link](https://github.com/salomonhotegni/MOREL)**|
 |**2024-10-02**|**On Using Certified Training towards Empirical Robustness**|Alessandro De Palma et.al.|[2410.01617](http://arxiv.org/abs/2410.01617)|null|
@@ -630,7 +633,7 @@
 |**2024-09-30**|**Robust LLM safeguarding via refusal feature adversarial training**|Lei Yu et.al.|[2409.20089](http://arxiv.org/abs/2409.20089)|null|
 |**2024-09-29**|**A Certified Robust Watermark For Large Language Models**|Xianheng Feng et.al.|[2409.19708](http://arxiv.org/abs/2409.19708)|null|
 |**2024-09-27**|**Reward-Robust RLHF in LLMs**|Yuzi Yan et.al.|[2409.15360](http://arxiv.org/abs/2409.15360)|null|
-|**2024-09-23**|**PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs**|Jiahao Yu et.al.|[2409.14729](http://arxiv.org/abs/2409.14729)|null|
+|**2024-09-23**|**PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs**|Jiahao Yu et.al.|[2409.14729](http://arxiv.org/abs/2409.14729)|**[link](https://github.com/sherdencooper/PromptFuzz)**|
 |**2024-09-22**|**Evaluating the Performance and Robustness of LLMs in Materials Science Q&A and Property Predictions**|Hongchen Wang et.al.|[2409.14572](http://arxiv.org/abs/2409.14572)|null|
 |**2024-09-18**|**Towards Building a Robust Knowledge Intensive Question Answering Model with Large Language Models**|Xingyun Hong et.al.|[2409.05385](http://arxiv.org/abs/2409.05385)|null|
 |**2024-08-27**|**When All Options Are Wrong: Evaluating Large Language Model Robustness with Incorrect Multiple-Choice Options**|Gracjan Góral et.al.|[2409.00113](http://arxiv.org/abs/2409.00113)|null|
@@ -786,7 +789,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-04**|**Multimodal Point-of-Interest Recommendation**|Yuta Kanzawa et.al.|[2410.03265](http://arxiv.org/abs/2410.03265)|null|
+|**2024-10-07**|**Efficient Inference for Large Language Model-based Generative Recommendation**|Xinyu Lin et.al.|[2410.05165](http://arxiv.org/abs/2410.05165)|null|
+|**2024-10-07**|**Leverage Knowledge Graph and Large Language Model for Law Article Recommendation: A Case Study of Chinese Criminal Law**|Yongming Chen et.al.|[2410.04949](http://arxiv.org/abs/2410.04949)|null|
+|**2024-10-07**|**FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services**|Wei Yuan et.al.|[2410.04927](http://arxiv.org/abs/2410.04927)|null|
+|**2024-10-07**|**Multimodal Point-of-Interest Recommendation**|Yuta Kanzawa et.al.|[2410.03265](http://arxiv.org/abs/2410.03265)|null|
 |**2024-10-03**|**Cognitive Biases in Large Language Models for News Recommendation**|Yougang Lyu et.al.|[2410.02897](http://arxiv.org/abs/2410.02897)|null|
 |**2024-10-03**|**Multi-modal clothing recommendation model based on large model and VAE enhancement**|Bingjie Huang et.al.|[2410.02219](http://arxiv.org/abs/2410.02219)|null|
 |**2024-10-03**|**A Survey on Point-of-Interest Recommendation: Models, Architectures, and Security**|Qianru Zhang et.al.|[2410.02191](http://arxiv.org/abs/2410.02191)|null|
@@ -799,7 +805,7 @@
 |**2024-09-26**|**Enhancing Tourism Recommender Systems for Sustainable City Trips Using Retrieval-Augmented Generation**|Ashmi Banerjee et.al.|[2409.18003](http://arxiv.org/abs/2409.18003)|null|
 |**2024-10-01**|**A Prompting-Based Representation Learning Method for Recommendation with Large Language Models**|Junyi Chen et.al.|[2409.16674](http://arxiv.org/abs/2409.16674)|null|
 |**2024-09-18**|**Recommendation with Generative Models**|Yashar Deldjoo et.al.|[2409.15173](http://arxiv.org/abs/2409.15173)|null|
-|**2024-09-22**|**Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations**|Peixin Qin et.al.|[2409.14399](http://arxiv.org/abs/2409.14399)|null|
+|**2024-10-07**|**Beyond Persuasion: Towards Conversational Recommender System with Credible Explanations**|Peixin Qin et.al.|[2409.14399](http://arxiv.org/abs/2409.14399)|**[link](https://github.com/mumen798/pc-crs)**|
 |**2024-09-06**|**Retrieval Augmented Generation-Based Incident Resolution Recommendation System for IT Support**|Paulina Toro Isaza et.al.|[2409.13707](http://arxiv.org/abs/2409.13707)|null|
 |**2024-09-05**|**MAS4POI: a Multi-Agents Collaboration System for Next POI Recommendation**|Yuqian Wu et.al.|[2409.13700](http://arxiv.org/abs/2409.13700)|null|
 |**2024-09-19**|**HLLM: Enhancing Sequential Recommendations via Hierarchical Large Language Models for Item and User Modeling**|Junyi Chen et.al.|[2409.12740](http://arxiv.org/abs/2409.12740)|**[link](https://github.com/bytedance/hllm)**|
