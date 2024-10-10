@@ -1,4 +1,4 @@
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -169,14 +169,14 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241010>back to top</a>)</p>
 
 ## Robust ML
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-10-05**|**Adversarial Attacks and Robust Defenses in Speaker Embedding based Zero-Shot Text-to-Speech System**|Ze Li et.al.|[2410.04017](http://arxiv.org/abs/2410.04017)|null|
-|**2024-10-04**|**A Brain-Inspired Regularizer for Adversarial Robustness**|Elie Attias et.al.|[2410.03952](http://arxiv.org/abs/2410.03952)|null|
+|**2024-10-04**|**A Brain-Inspired Regularizer for Adversarial Robustness**|Elie Attias et.al.|[2410.03952](http://arxiv.org/abs/2410.03952)|**[link](https://github.com/elieattias1/pixel-reg)**|
 |**2024-10-03**|**Towards Universal Certified Robustness with Multi-Norm Training**|Enyi Jiang et.al.|[2410.03000](http://arxiv.org/abs/2410.03000)|null|
 |**2024-10-03**|**MOREL: Enhancing Adversarial Robustness through Multi-Objective Representation Learning**|Sedjro Salomon Hotegni et.al.|[2410.01697](http://arxiv.org/abs/2410.01697)|**[link](https://github.com/salomonhotegni/MOREL)**|
 |**2024-10-02**|**On Using Certified Training towards Empirical Robustness**|Alessandro De Palma et.al.|[2410.01617](http://arxiv.org/abs/2410.01617)|null|
@@ -621,7 +621,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241010>back to top</a>)</p>
 
 ## Security LLM
 
@@ -783,7 +783,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241010>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -1047,5 +1047,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20241009>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241010>back to top</a>)</p>
 

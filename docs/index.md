@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.09
+## Updated on 2024.10.10
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -168,7 +168,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-05**|**Adversarial Attacks and Robust Defenses in Speaker Embedding based Zero-Shot Text-to-Speech System**|Ze Li et.al.|[2410.04017](http://arxiv.org/abs/2410.04017)|null|
-|**2024-10-04**|**A Brain-Inspired Regularizer for Adversarial Robustness**|Elie Attias et.al.|[2410.03952](http://arxiv.org/abs/2410.03952)|null|
+|**2024-10-04**|**A Brain-Inspired Regularizer for Adversarial Robustness**|Elie Attias et.al.|[2410.03952](http://arxiv.org/abs/2410.03952)|**[link](https://github.com/elieattias1/pixel-reg)**|
 |**2024-10-03**|**Towards Universal Certified Robustness with Multi-Norm Training**|Enyi Jiang et.al.|[2410.03000](http://arxiv.org/abs/2410.03000)|null|
 |**2024-10-03**|**MOREL: Enhancing Adversarial Robustness through Multi-Objective Representation Learning**|Sedjro Salomon Hotegni et.al.|[2410.01697](http://arxiv.org/abs/2410.01697)|**[link](https://github.com/salomonhotegni/MOREL)**|
 |**2024-10-02**|**On Using Certified Training towards Empirical Robustness**|Alessandro De Palma et.al.|[2410.01617](http://arxiv.org/abs/2410.01617)|null|
