@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation**|Xiaoshan Yu et.al.|[2410.07671](http://arxiv.org/abs/2410.07671)|null|
 |**2024-10-07**|**Item Cluster-aware Prompt Learning for Session-based Recommendation**|Wooseong Yang et.al.|[2410.04756](http://arxiv.org/abs/2410.04756)|null|
 |**2024-10-01**|**Bias in mixed models when analysing longitudinal data subject to irregular observation: when should we worry about it and how can recommended visit intervals help in specifying joint models when needed?**|Rose Garrett et.al.|[2410.00662](http://arxiv.org/abs/2410.00662)|null|
 |**2024-10-01**|**The Unique Taste of LLMs for Papers: Potential issues in Using LLMs for Digital Library Document Recommendation Tasks**|Yifan Tian et.al.|[2409.19868](http://arxiv.org/abs/2409.19868)|null|
@@ -175,6 +176,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Towards Assurance of LLM Adversarial Robustness using Ontology-Driven Argumentation**|Tomas Bueno Momcilovic et.al.|[2410.07962](http://arxiv.org/abs/2410.07962)|null|
+|**2024-10-10**|**Understanding Adversarially Robust Generalization via Weight-Curvature Index**|Yuelin Xu et.al.|[2410.07719](http://arxiv.org/abs/2410.07719)|null|
+|**2024-10-10**|**Adversarial Robustness Overestimation and Instability in TRADES**|Jonathan Weiping Li et.al.|[2410.07675](http://arxiv.org/abs/2410.07675)|null|
 |**2024-10-08**|**Hyper Adversarial Tuning for Boosting Adversarial Robustness of Pretrained Large Vision Models**|Kangtao Lv et.al.|[2410.05951](http://arxiv.org/abs/2410.05951)|null|
 |**2024-10-04**|**Towards Assuring EU AI Act Compliance and Adversarial Robustness of LLMs**|Tomas Bueno Momcilovic et.al.|[2410.05306](http://arxiv.org/abs/2410.05306)|null|
 |**2024-10-04**|**Developing Assurance Cases for Adversarial Robustness and Regulatory Compliance in LLMs**|Tomas Bueno Momcilovic et.al.|[2410.05304](http://arxiv.org/abs/2410.05304)|null|
@@ -630,9 +634,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**Towards Assurance of LLM Adversarial Robustness using Ontology-Driven Argumentation**|Tomas Bueno Momcilovic et.al.|[2410.07962](http://arxiv.org/abs/2410.07962)|null|
+|**2024-10-10**|**Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing**|Pengyu Xue et.al.|[2410.07516](http://arxiv.org/abs/2410.07516)|null|
 |**2024-10-08**|**Probing the Robustness of Theory of Mind in Large Language Models**|Christian Nickel et.al.|[2410.06271](http://arxiv.org/abs/2410.06271)|null|
 |**2024-10-08**|**ConceptAgent: LLM-Driven Precondition Grounding and Tree Search for Robust Task Planning and Execution**|Corban Rivera et.al.|[2410.06108](http://arxiv.org/abs/2410.06108)|null|
-|**2024-10-07**|**Aligning LLMs to Be Robust Against Prompt Injection**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|null|
+|**2024-10-07**|**Aligning LLMs to Be Robust Against Prompt Injection**|Sizhe Chen et.al.|[2410.05451](http://arxiv.org/abs/2410.05451)|**[link](https://github.com/facebookresearch/secalign)**|
 |**2024-10-04**|**Towards Assuring EU AI Act Compliance and Adversarial Robustness of LLMs**|Tomas Bueno Momcilovic et.al.|[2410.05306](http://arxiv.org/abs/2410.05306)|null|
 |**2024-10-04**|**Developing Assurance Cases for Adversarial Robustness and Regulatory Compliance in LLMs**|Tomas Bueno Momcilovic et.al.|[2410.05304](http://arxiv.org/abs/2410.05304)|null|
 |**2024-10-03**|**CulturalBench: a Robust, Diverse and Challenging Benchmark on Measuring the (Lack of) Cultural Knowledge of LLMs**|Yu Ying Chiu et.al.|[2410.02677](http://arxiv.org/abs/2410.02677)|null|
