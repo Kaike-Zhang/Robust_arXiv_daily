@@ -203,7 +203,7 @@
 |**2024-09-12**|**FedProphet: Memory-Efficient Federated Adversarial Training via Theoretic-Robustness and Low-Inconsistency Cascade Learning**|Minxue Tang et.al.|[2409.08372](http://arxiv.org/abs/2409.08372)|null|
 |**2024-09-11**|**A Cost-Aware Approach to Adversarial Robustness in Neural Networks**|Charles Meyers et.al.|[2409.07609](http://arxiv.org/abs/2409.07609)|null|
 |**2024-09-11**|**Introducing Perturb-ability Score (PS) to Enhance Robustness Against Evasion Adversarial Attacks on ML-NIDS**|Mohamed elShehaby et.al.|[2409.07448](http://arxiv.org/abs/2409.07448)|null|
-|**2024-09-11**|**Enhancing adversarial robustness in Natural Language Inference using explanations**|Alexandros Koulakos et.al.|[2409.07423](http://arxiv.org/abs/2409.07423)|null|
+|**2024-09-11**|**Enhancing adversarial robustness in Natural Language Inference using explanations**|Alexandros Koulakos et.al.|[2409.07423](http://arxiv.org/abs/2409.07423)|**[link](https://github.com/alexkoulakos/explain-then-predict)**|
 |**2024-09-11**|**Securing Vision-Language Models with a Robust Encoder Against Jailbreak and Adversarial Attacks**|Md Zarif Hossain et.al.|[2409.07353](http://arxiv.org/abs/2409.07353)|**[link](https://github.com/speedlab-git/robust-encoder-against-jailbreak-attack)**|
 |**2024-09-10**|**Unrevealed Threats: A Comprehensive Study of the Adversarial Robustness of Underwater Image Enhancement Models**|Siyu Zhai et.al.|[2409.06420](http://arxiv.org/abs/2409.06420)|null|
 |**2024-09-10**|**RobustSVC: HuBERT-based Melody Extractor and Adversarial Learning for Robust Singing Voice Conversion**|Wei Chen et.al.|[2409.06237](http://arxiv.org/abs/2409.06237)|null|
@@ -296,7 +296,7 @@
 |**2024-06-24**|**Robust Distribution Learning with Local and Global Adversarial Corruptions**|Sloan Nietert et.al.|[2406.06509](http://arxiv.org/abs/2406.06509)|null|
 |**2024-06-09**|**ProFeAT: Projected Feature Adversarial Training for Self-Supervised Learning of Robust Representations**|Sravanti Addepalli et.al.|[2406.05796](http://arxiv.org/abs/2406.05796)|null|
 |**2024-06-09**|**Certified Robustness to Data Poisoning in Gradient-Based Training**|Philip Sosnin et.al.|[2406.05670](http://arxiv.org/abs/2406.05670)|null|
-|**2024-06-08**|**Exploring Adversarial Robustness of Deep State Space Models**|Biqing Qi et.al.|[2406.05532](http://arxiv.org/abs/2406.05532)|null|
+|**2024-06-08**|**Exploring Adversarial Robustness of Deep State Space Models**|Biqing Qi et.al.|[2406.05532](http://arxiv.org/abs/2406.05532)|**[link](https://github.com/biqing-qi/exploring-adversarial-robustness-of-deep-state-space-models)**|
 |**2024-06-08**|**Large Language Model Assisted Adversarial Robustness Neural Architecture Search**|Rui Zhong et.al.|[2406.05433](http://arxiv.org/abs/2406.05433)|**[link](https://github.com/ruizhong961230/llmo)**|
 |**2024-06-07**|**The Price of Implicit Bias in Adversarially Robust Generalization**|Nikolaos Tsilivis et.al.|[2406.04981](http://arxiv.org/abs/2406.04981)|null|
 |**2024-06-04**|**Certifiably Byzantine-Robust Federated Conformal Prediction**|Mintong Kang et.al.|[2406.01960](http://arxiv.org/abs/2406.01960)|null|
@@ -650,7 +650,7 @@
 |**2024-09-23**|**PROMPTFUZZ: Harnessing Fuzzing Techniques for Robust Testing of Prompt Injection in LLMs**|Jiahao Yu et.al.|[2409.14729](http://arxiv.org/abs/2409.14729)|**[link](https://github.com/sherdencooper/PromptFuzz)**|
 |**2024-09-22**|**Evaluating the Performance and Robustness of LLMs in Materials Science Q&A and Property Predictions**|Hongchen Wang et.al.|[2409.14572](http://arxiv.org/abs/2409.14572)|null|
 |**2024-09-18**|**Towards Building a Robust Knowledge Intensive Question Answering Model with Large Language Models**|Xingyun Hong et.al.|[2409.05385](http://arxiv.org/abs/2409.05385)|null|
-|**2024-10-10**|**Wait, that's not an option: LLMs Robustness with Incorrect Multiple-Choice Options**|Gracjan Góral et.al.|[2409.00113](http://arxiv.org/abs/2409.00113)|null|
+|**2024-10-10**|**Wait, that's not an option: LLMs Robustness with Incorrect Multiple-Choice Options**|Gracjan Góral et.al.|[2409.00113](http://arxiv.org/abs/2409.00113)|**[link](https://github.com/gracjangoral/when-all-options-are-wrong)**|
 |**2024-09-04**|**LLM Defenses Are Not Robust to Multi-Turn Human Jailbreaks Yet**|Nathaniel Li et.al.|[2408.15221](http://arxiv.org/abs/2408.15221)|null|
 |**2024-09-06**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
 |**2024-08-20**|**Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models**|Hongbang Yuan et.al.|[2408.10682](http://arxiv.org/abs/2408.10682)|null|
@@ -686,7 +686,7 @@
 |**2024-06-20**|**PostMark: A Robust Blackbox Watermark for Large Language Models**|Yapei Chang et.al.|[2406.14517](http://arxiv.org/abs/2406.14517)|**[link](https://github.com/lilakk/postmark)**|
 |**2024-06-19**|**Factual Confidence of LLMs: on Reliability and Robustness of Current Estimators**|Matéo Mahaut et.al.|[2406.13415](http://arxiv.org/abs/2406.13415)|null|
 |**2024-06-19**|**Towards Robust Evaluation: A Comprehensive Taxonomy of Datasets and Metrics for Open Domain Question Answering in the Era of Large Language Models**|Akchay Srivastava et.al.|[2406.13232](http://arxiv.org/abs/2406.13232)|null|
-|**2024-06-28**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|null|
+|**2024-06-28**|**WellDunn: On the Robustness and Explainability of Language Models and Large Language Models in Identifying Wellness Dimensions**|Seyedali Mohammadi et.al.|[2406.12058](http://arxiv.org/abs/2406.12058)|**[link](https://github.com/vedantpalit/WellDunn)**|
 |**2024-06-17**|**InternalInspector $I^2$ : Robust Confidence Estimation in LLMs through Internal States**|Mohammad Beigi et.al.|[2406.12053](http://arxiv.org/abs/2406.12053)|null|
 |**2024-07-22**|**Adversarial Style Augmentation via Large Language Model for Robust Fake News Detection**|Sungwon Park et.al.|[2406.11260](http://arxiv.org/abs/2406.11260)|null|
 |**2024-06-16**|**RUPBench: Benchmarking Reasoning Under Perturbations for Robustness Evaluation in Large Language Models**|Yuqing Wang et.al.|[2406.11020](http://arxiv.org/abs/2406.11020)|**[link](https://github.com/eternityyw/rupbench)**|
