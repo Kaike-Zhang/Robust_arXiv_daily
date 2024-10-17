@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**RosePO: Aligning LLM-based Recommenders with Human Values**|Jiayi Liao et.al.|[2410.12519](http://arxiv.org/abs/2410.12519)|null|
 |**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841](http://arxiv.org/abs/2410.11841)|null|
 |**2024-10-14**|**Enhancing Attributed Graph Networks with Alignment and Uniformity Constraints for Session-based Recommendation**|Xinping Zhao et.al.|[2410.10296](http://arxiv.org/abs/2410.10296)|**[link](https://github.com/itsukifujii/attrgau)**|
 |**2024-10-13**|**The Role of Fake Users in Sequential Recommender Systems**|Filippo Betello et.al.|[2410.09936](http://arxiv.org/abs/2410.09936)|null|
@@ -172,6 +173,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**New Paradigm of Adversarial Training: Breaking Inherent Trade-Off between Accuracy and Robustness via Dummy Classes**|Yanyun Wang et.al.|[2410.12671](http://arxiv.org/abs/2410.12671)|null|
+|**2024-10-16**|**DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain**|Fengpeng Li et.al.|[2410.12307](http://arxiv.org/abs/2410.12307)|null|
 |**2024-10-14**|**Adversarially Robust Out-of-Distribution Detection Using Lyapunov-Stabilized Embeddings**|Hossein Mirzaei et.al.|[2410.10744](http://arxiv.org/abs/2410.10744)|**[link](https://github.com/adaptivemotorcontrollab/aros)**|
 |**2024-10-14**|**Towards Calibrated Losses for Adversarial Robust Reject Option Classification**|Vrund Shah et.al.|[2410.10736](http://arxiv.org/abs/2410.10736)|**[link](https://github.com/vrund0212/calibrated-losses-for-adversarial-robust-reject-option-classification)**|
 |**2024-10-14**|**ROSAR: An Adversarial Re-Training Framework for Robust Side-Scan Sonar Object Detection**|Martin Aubard et.al.|[2410.10554](http://arxiv.org/abs/2410.10554)|**[link](https://github.com/remaro-network/rosar-framework)**|
@@ -633,8 +636,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**|Sihao Wu et.al.|[2410.12568](http://arxiv.org/abs/2410.12568)|null|
+|**2024-10-15**|**Bridging Large Language Models and Graph Structure Learning Models for Robust Representation Learning**|Guangxin Su et.al.|[2410.12096](http://arxiv.org/abs/2410.12096)|null|
+|**2024-10-15**|**Concept-Reversed Winograd Schema Challenge: Evaluating and Improving Robust Reasoning in Large Language Models via Abstraction**|Kaiqiao Han et.al.|[2410.12040](http://arxiv.org/abs/2410.12040)|null|
 |**2024-10-14**|**Active Learning for Robust and Representative LLM Generation in Safety-Critical Scenarios**|Sabit Hassan et.al.|[2410.11114](http://arxiv.org/abs/2410.11114)|null|
-|**2024-10-14**|**One Language, Many Gaps: Evaluating Dialect Fairness and Robustness of Large Language Models in Reasoning Tasks**|Fangru Lin et.al.|[2410.11005](http://arxiv.org/abs/2410.11005)|null|
+|**2024-10-14**|**One Language, Many Gaps: Evaluating Dialect Fairness and Robustness of Large Language Models in Reasoning Tasks**|Fangru Lin et.al.|[2410.11005](http://arxiv.org/abs/2410.11005)|**[link](https://github.com/fangru-lin/redial_dialect_robustness_fairness)**|
 |**2024-10-14**|**WILT: A Multi-Turn, Memorization-Robust Inductive Logic Benchmark for LLMs**|Eryk Banatt et.al.|[2410.10998](http://arxiv.org/abs/2410.10998)|null|
 |**2024-10-04**|**Knowledge-Augmented Reasoning for EUAIA Compliance and Adversarial Robustness of LLMs**|Tomas Bueno Momcilovic et.al.|[2410.09078](http://arxiv.org/abs/2410.09078)|null|
 |**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
@@ -806,6 +812,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-16**|**RosePO: Aligning LLM-based Recommenders with Human Values**|Jiayi Liao et.al.|[2410.12519](http://arxiv.org/abs/2410.12519)|null|
+|**2024-10-16**|**Comprehending Knowledge Graphs with Large Language Models for Recommender Systems**|Ziqiang Cui et.al.|[2410.12229](http://arxiv.org/abs/2410.12229)|null|
+|**2024-10-16**|**Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations**|Luyi Ma et.al.|[2410.12228](http://arxiv.org/abs/2410.12228)|null|
 |**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841](http://arxiv.org/abs/2410.11841)|null|
 |**2024-10-15**|**Sequential LLM Framework for Fashion Recommendation**|Han Liu et.al.|[2410.11327](http://arxiv.org/abs/2410.11327)|null|
 |**2024-10-12**|**Towards Scalable Semantic Representation for Recommendation**|Taolin Zhang et.al.|[2410.09560](http://arxiv.org/abs/2410.09560)|null|
