@@ -637,6 +637,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Towards Robust Knowledge Representations in Multilingual LLMs for Equivalence and Inheritance based Consistent Reasoning**|Gaurav Arora et.al.|[2410.14235](http://arxiv.org/abs/2410.14235)|null|
 |**2024-10-17**|**Bias in the Mirror : Are LLMs opinions robust to their own adversarial attacks ?**|Virgile Rennard et.al.|[2410.13517](http://arxiv.org/abs/2410.13517)|null|
 |**2024-10-16**|**Interpreting token compositionality in LLMs: A robustness analysis**|Nura Aljaafari et.al.|[2410.12924](http://arxiv.org/abs/2410.12924)|null|
 |**2024-10-16**|**Robust RL with LLM-Driven Data Synthesis and Policy Adaptation for Autonomous Driving**|Sihao Wu et.al.|[2410.12568](http://arxiv.org/abs/2410.12568)|null|
