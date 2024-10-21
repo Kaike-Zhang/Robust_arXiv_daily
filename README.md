@@ -256,7 +256,7 @@
 |**2024-08-16**|**Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation**|Yiqing Shen et.al.|[2408.04098](http://arxiv.org/abs/2408.04098)|null|
 |**2024-08-06**|**Adversarial Robustness of Open-source Text Classification Models and Fine-Tuning Chains**|Hao Qin et.al.|[2408.02963](http://arxiv.org/abs/2408.02963)|null|
 |**2024-08-05**|**On the Robustness of Malware Detectors to Adversarial Samples**|Muhammad Salman et.al.|[2408.02310](http://arxiv.org/abs/2408.02310)|null|
-|**2024-08-04**|**A Novel Metric for Measuring the Robustness of Large Language Models in Non-adversarial Scenarios**|Samuel Ackerman et.al.|[2408.01963](http://arxiv.org/abs/2408.01963)|null|
+|**2024-08-04**|**A Novel Metric for Measuring the Robustness of Large Language Models in Non-adversarial Scenarios**|Samuel Ackerman et.al.|[2408.01963](http://arxiv.org/abs/2408.01963)|**[link](https://github.com/ibm/emnlp_2024_llm_robustness)**|
 |**2024-08-02**|**Certified Robust Invariant Polytope Training in Neural Controlled ODEs**|Akash Harapanahalli et.al.|[2408.01273](http://arxiv.org/abs/2408.01273)|**[link](https://github.com/gtfactslab/Polytope-Training)**|
 |**2024-08-02**|**Certifiably Robust Encoding Schemes**|Aman Saxena et.al.|[2408.01200](http://arxiv.org/abs/2408.01200)|null|
 |**2024-08-01**|**CERT-ED: Certifiably Robust Text Classification for Edit Distance**|Zhuoqun Huang et.al.|[2408.00728](http://arxiv.org/abs/2408.00728)|null|
@@ -382,7 +382,7 @@
 |**2024-03-24**|**Robust Diffusion Models for Adversarial Purification**|Guang Lin et.al.|[2403.16067](http://arxiv.org/abs/2403.16067)|null|
 |**2024-03-22**|**Robust optimization for adversarial learning with finite sample complexity guarantees**|André Bertolace et.al.|[2403.15207](http://arxiv.org/abs/2403.15207)|null|
 |**2024-03-21**|**Adversary-Robust Graph-Based Learning of WSIs**|Saba Heidari Gheshlaghi et.al.|[2403.14489](http://arxiv.org/abs/2403.14489)|null|
-|**2024-03-20**|**DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation**|Yifan Wu et.al.|[2403.13322](http://arxiv.org/abs/2403.13322)|null|
+|**2024-03-20**|**DD-RobustBench: An Adversarial Robustness Benchmark for Dataset Distillation**|Yifan Wu et.al.|[2403.13322](http://arxiv.org/abs/2403.13322)|**[link](https://github.com/fredwu-hust/dd-robustbench)**|
 |**2024-03-19**|**Robust NAS under adversarial training: benchmark, theory, and beyond**|Yongtao Wu et.al.|[2403.13134](http://arxiv.org/abs/2403.13134)|null|
 |**2024-03-18**|**Robust Overfitting Does Matter: Test-Time Adversarial Purification With FGSM**|Linyu Tang et.al.|[2403.11448](http://arxiv.org/abs/2403.11448)|**[link](https://github.com/tly18/tpap)**|
 |**2024-03-17**|**COLEP: Certifiably Robust Learning-Reasoning Conformal Prediction via Probabilistic Circuits**|Mintong Kang et.al.|[2403.11348](http://arxiv.org/abs/2403.11348)|**[link](https://github.com/kangmintong/colep)**|
@@ -413,7 +413,7 @@
 |**2024-02-27**|**Robustness-Congruent Adversarial Training for Secure Machine Learning Model Updates**|Daniele Angioni et.al.|[2402.17390](http://arxiv.org/abs/2402.17390)|null|
 |**2024-02-25**|**An Adversarial Robustness Benchmark for Enterprise Network Intrusion Detection**|João Vitorino et.al.|[2402.16912](http://arxiv.org/abs/2402.16912)|null|
 |**2024-02-25**|**Adversarial-Robust Transfer Learning for Medical Imaging via Domain Assimilation**|Xiaohui Chen et.al.|[2402.16005](http://arxiv.org/abs/2402.16005)|null|
-|**2024-02-24**|**RAUCA: A Novel Physical Adversarial Attack on Vehicle Detectors via Robust and Accurate Camouflage Generation**|Jiawei Zhou et.al.|[2402.15853](http://arxiv.org/abs/2402.15853)|null|
+|**2024-02-24**|**RAUCA: A Novel Physical Adversarial Attack on Vehicle Detectors via Robust and Accurate Camouflage Generation**|Jiawei Zhou et.al.|[2402.15853](http://arxiv.org/abs/2402.15853)|**[link](https://github.com/seralab/robust-and-accurate-uv-map-based-camouflage-attack)**|
 |**2024-02-23**|**Distilling Adversarial Robustness Using Heterogeneous Teachers**|Jieren Deng et.al.|[2402.15586](http://arxiv.org/abs/2402.15586)|null|
 |**2024-02-26**|**A Robust Defense against Adversarial Attacks on Deep Learning-based Malware Detectors via (De)Randomized Smoothing**|Daniel Gibert et.al.|[2402.15267](http://arxiv.org/abs/2402.15267)|null|
 |**2024-02-22**|**Rethinking Invariance Regularization in Adversarial Training to Improve Robustness-Accuracy Trade-off**|Futa Waseda et.al.|[2402.14648](http://arxiv.org/abs/2402.14648)|null|
@@ -686,7 +686,7 @@
 |**2024-08-13**|**Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models**|Sungmin Cha et.al.|[2408.06621](http://arxiv.org/abs/2408.06621)|null|
 |**2024-08-11**|**LLM-Based Robust Product Classification in Commerce and Compliance**|Sina Gholamian et.al.|[2408.05874](http://arxiv.org/abs/2408.05874)|null|
 |**2024-09-14**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585](http://arxiv.org/abs/2408.04585)|null|
-|**2024-08-04**|**A Novel Metric for Measuring the Robustness of Large Language Models in Non-adversarial Scenarios**|Samuel Ackerman et.al.|[2408.01963](http://arxiv.org/abs/2408.01963)|null|
+|**2024-08-04**|**A Novel Metric for Measuring the Robustness of Large Language Models in Non-adversarial Scenarios**|Samuel Ackerman et.al.|[2408.01963](http://arxiv.org/abs/2408.01963)|**[link](https://github.com/ibm/emnlp_2024_llm_robustness)**|
 |**2024-08-02**|**Coalitions of Large Language Models Increase the Robustness of AI Agents**|Prattyush Mangal et.al.|[2408.01380](http://arxiv.org/abs/2408.01380)|null|
 |**2024-08-02**|**MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code**|Kaiwen Ning et.al.|[2408.01354](http://arxiv.org/abs/2408.01354)|**[link](https://github.com/KevinHeiwa/MCGTM)**|
 |**2024-09-18**|**From ML to LLM: Evaluating the Robustness of Phishing Webpage Detection Models against Adversarial Attacks**|Aditya Kulkarni et.al.|[2407.20361](http://arxiv.org/abs/2407.20361)|null|
