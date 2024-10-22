@@ -181,6 +181,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-18**|**A Hybrid Defense Strategy for Boosting Adversarial Robustness in Vision-Language Models**|Yuhan Liang et.al.|[2410.14911](http://arxiv.org/abs/2410.14911)|null|
 |**2024-10-17**|**Bias in the Mirror : Are LLMs opinions robust to their own adversarial attacks ?**|Virgile Rennard et.al.|[2410.13517](http://arxiv.org/abs/2410.13517)|null|
 |**2024-10-16**|**New Paradigm of Adversarial Training: Breaking Inherent Trade-Off between Accuracy and Robustness via Dummy Classes**|Yanyun Wang et.al.|[2410.12671](http://arxiv.org/abs/2410.12671)|**[link](https://github.com/FlaAI/DUCAT)**|
 |**2024-10-16**|**DAT: Improving Adversarial Robustness via Generative Amplitude Mix-up in Frequency Domain**|Fengpeng Li et.al.|[2410.12307](http://arxiv.org/abs/2410.12307)|**[link](https://github.com/Feng-peng-Li/DAT)**|
