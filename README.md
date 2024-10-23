@@ -181,6 +181,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Optimal Robust Estimation under Local and Global Corruptions: Stronger Adversary and Smaller Error**|Thanasis Pittas et.al.|[2410.17230](http://arxiv.org/abs/2410.17230)|null|
 |**2024-10-18**|**A Hybrid Defense Strategy for Boosting Adversarial Robustness in Vision-Language Models**|Yuhan Liang et.al.|[2410.14911](http://arxiv.org/abs/2410.14911)|null|
 |**2024-10-17**|**Bias in the Mirror : Are LLMs opinions robust to their own adversarial attacks ?**|Virgile Rennard et.al.|[2410.13517](http://arxiv.org/abs/2410.13517)|null|
 |**2024-10-16**|**New Paradigm of Adversarial Training: Breaking Inherent Trade-Off between Accuracy and Robustness via Dummy Classes**|Yanyun Wang et.al.|[2410.12671](http://arxiv.org/abs/2410.12671)|**[link](https://github.com/FlaAI/DUCAT)**|
@@ -829,6 +830,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Bridging Search and Recommendation in Generative Retrieval: Does One Task Help the Other?**|Gustavo Penha et.al.|[2410.16823](http://arxiv.org/abs/2410.16823)|null|
+|**2024-10-22**|**Beyond Retrieval: Generating Narratives in Conversational Recommender Systems**|Krishna Sayana et.al.|[2410.16780](http://arxiv.org/abs/2410.16780)|null|
+|**2024-10-21**|**STAR: A Simple Training-free Approach for Recommendations using Large Language Models**|Dong-Ho Lee et.al.|[2410.16458](http://arxiv.org/abs/2410.16458)|null|
 |**2024-10-17**|**Large Language Models as Narrative-Driven Recommenders**|Lukas Eberhard et.al.|[2410.13604](http://arxiv.org/abs/2410.13604)|null|
 |**2024-10-17**|**Disentangling Likes and Dislikes in Personalized Generative Explainable Recommendation**|Ryotaro Shimizu et.al.|[2410.13248](http://arxiv.org/abs/2410.13248)|null|
 |**2024-10-16**|**RosePO: Aligning LLM-based Recommenders with Human Values**|Jiayi Liao et.al.|[2410.12519](http://arxiv.org/abs/2410.12519)|null|
