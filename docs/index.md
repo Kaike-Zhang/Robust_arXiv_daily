@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -12,7 +12,7 @@ layout: default
 |**2024-10-14**|**Enhancing Attributed Graph Networks with Alignment and Uniformity Constraints for Session-based Recommendation**|Xinping Zhao et.al.|[2410.10296](http://arxiv.org/abs/2410.10296)|**[link](https://github.com/itsukifujii/attrgau)**|
 |**2024-10-13**|**The Role of Fake Users in Sequential Recommender Systems**|Filippo Betello et.al.|[2410.09936](http://arxiv.org/abs/2410.09936)|null|
 |**2024-10-12**|**Towards Scalable Semantic Representation for Recommendation**|Taolin Zhang et.al.|[2410.09560](http://arxiv.org/abs/2410.09560)|null|
-|**2024-10-15**|**DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation**|Xiaoshan Yu et.al.|[2410.07671](http://arxiv.org/abs/2410.07671)|null|
+|**2024-10-15**|**DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation**|Xiaoshan Yu et.al.|[2410.07671](http://arxiv.org/abs/2410.07671)|**[link](https://github.com/LabyrinthineLeo/DISCO)**|
 |**2024-10-07**|**Item Cluster-aware Prompt Learning for Session-based Recommendation**|Wooseong Yang et.al.|[2410.04756](http://arxiv.org/abs/2410.04756)|null|
 |**2024-10-01**|**Bias in mixed models when analysing longitudinal data subject to irregular observation: when should we worry about it and how can recommended visit intervals help in specifying joint models when needed?**|Rose Garrett et.al.|[2410.00662](http://arxiv.org/abs/2410.00662)|null|
 |**2024-10-01**|**The Unique Taste of LLMs for Papers: Potential issues in Using LLMs for Digital Library Document Recommendation Tasks**|Yifan Tian et.al.|[2409.19868](http://arxiv.org/abs/2409.19868)|null|

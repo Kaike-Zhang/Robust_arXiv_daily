@@ -1,4 +1,4 @@
-## Updated on 2024.10.23
+## Updated on 2024.10.24
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -18,7 +18,7 @@
 |**2024-10-14**|**Enhancing Attributed Graph Networks with Alignment and Uniformity Constraints for Session-based Recommendation**|Xinping Zhao et.al.|[2410.10296](http://arxiv.org/abs/2410.10296)|**[link](https://github.com/itsukifujii/attrgau)**|
 |**2024-10-13**|**The Role of Fake Users in Sequential Recommender Systems**|Filippo Betello et.al.|[2410.09936](http://arxiv.org/abs/2410.09936)|null|
 |**2024-10-12**|**Towards Scalable Semantic Representation for Recommendation**|Taolin Zhang et.al.|[2410.09560](http://arxiv.org/abs/2410.09560)|null|
-|**2024-10-15**|**DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation**|Xiaoshan Yu et.al.|[2410.07671](http://arxiv.org/abs/2410.07671)|null|
+|**2024-10-15**|**DISCO: A Hierarchical Disentangled Cognitive Diagnosis Framework for Interpretable Job Recommendation**|Xiaoshan Yu et.al.|[2410.07671](http://arxiv.org/abs/2410.07671)|**[link](https://github.com/LabyrinthineLeo/DISCO)**|
 |**2024-10-07**|**Item Cluster-aware Prompt Learning for Session-based Recommendation**|Wooseong Yang et.al.|[2410.04756](http://arxiv.org/abs/2410.04756)|null|
 |**2024-10-01**|**Bias in mixed models when analysing longitudinal data subject to irregular observation: when should we worry about it and how can recommended visit intervals help in specifying joint models when needed?**|Rose Garrett et.al.|[2410.00662](http://arxiv.org/abs/2410.00662)|null|
 |**2024-10-01**|**The Unique Taste of LLMs for Papers: Potential issues in Using LLMs for Digital Library Document Recommendation Tasks**|Yifan Tian et.al.|[2409.19868](http://arxiv.org/abs/2409.19868)|null|
@@ -175,7 +175,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241024>back to top</a>)</p>
 
 ## Robust ML
 
@@ -643,7 +643,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241024>back to top</a>)</p>
 
 ## Security LLM
 
@@ -824,7 +824,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241024>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -1103,5 +1103,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20241023>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241024>back to top</a>)</p>
 
