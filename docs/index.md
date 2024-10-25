@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.10.24
+## Updated on 2024.10.25
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -642,7 +642,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-23**|**Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models**|He Cao et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|null|
 |**2024-10-23**|**AutoRNet: Automatically Optimizing Heuristics for Robust Network Design via Large Language Models**|He Yu et.al.|[2410.17656](http://arxiv.org/abs/2410.17656)|null|
-|**2024-10-23**|**ESpeW: Robust Copyright Protection for LLM-based EaaS via Embedding-Specific Watermark**|Zongqi Wang et.al.|[2410.17552](http://arxiv.org/abs/2410.17552)|**[link](https://github.com/liudan193/ESpeW)**|
+|**2024-10-24**|**ESpeW: Robust Copyright Protection for LLM-based EaaS via Embedding-Specific Watermark**|Zongqi Wang et.al.|[2410.17552](http://arxiv.org/abs/2410.17552)|**[link](https://github.com/liudan193/ESpeW)**|
 |**2024-10-18**|**Towards Robust Knowledge Representations in Multilingual LLMs for Equivalence and Inheritance based Consistent Reasoning**|Gaurav Arora et.al.|[2410.14235](http://arxiv.org/abs/2410.14235)|null|
 |**2024-10-17**|**Bias in the Mirror : Are LLMs opinions robust to their own adversarial attacks ?**|Virgile Rennard et.al.|[2410.13517](http://arxiv.org/abs/2410.13517)|null|
 |**2024-10-16**|**Interpreting token compositionality in LLMs: A robustness analysis**|Nura Aljaafari et.al.|[2410.12924](http://arxiv.org/abs/2410.12924)|null|
