@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429](http://arxiv.org/abs/2410.19429)|null|
 |**2024-10-24**|**End-to-end Training for Recommendation with Language-based User Profiles**|Zhaolin Gao et.al.|[2410.18870](http://arxiv.org/abs/2410.18870)|**[link](https://github.com/zhaolingao/langptune)**|
 |**2024-10-16**|**RosePO: Aligning LLM-based Recommenders with Human Values**|Jiayi Liao et.al.|[2410.12519](http://arxiv.org/abs/2410.12519)|null|
 |**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841](http://arxiv.org/abs/2410.11841)|null|
@@ -824,6 +825,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-25**|**TEARS: Textual Representations for Scrutable Recommendations**|Emiliano Penaloza et.al.|[2410.19302](http://arxiv.org/abs/2410.19302)|null|
 |**2024-10-24**|**End-to-end Training for Recommendation with Language-based User Profiles**|Zhaolin Gao et.al.|[2410.18870](http://arxiv.org/abs/2410.18870)|**[link](https://github.com/zhaolingao/langptune)**|
 |**2024-10-22**|**Bridging Search and Recommendation in Generative Retrieval: Does One Task Help the Other?**|Gustavo Penha et.al.|[2410.16823](http://arxiv.org/abs/2410.16823)|null|
 |**2024-10-22**|**Beyond Retrieval: Generating Narratives in Conversational Recommender Systems**|Krishna Sayana et.al.|[2410.16780](http://arxiv.org/abs/2410.16780)|null|
