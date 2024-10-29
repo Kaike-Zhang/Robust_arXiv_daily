@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**GPRec: Bi-level User Modeling for Deep Recommenders**|Yejing Wang et.al.|[2410.20730](http://arxiv.org/abs/2410.20730)|null|
+|**2024-10-28**|**GenUP: Generative User Profilers as In-Context Learners for Next POI Recommender Systems**|Wilson Wongso et.al.|[2410.20643](http://arxiv.org/abs/2410.20643)|**[link](https://github.com/w11wo/genup)**|
+|**2024-10-28**|**Collaborative Knowledge Fusion: A Novel Approach for Multi-task Recommender Systems via LLMs**|Chuang Zhao et.al.|[2410.20642](http://arxiv.org/abs/2410.20642)|null|
 |**2024-10-25**|**Generative Diffusion Models for Sequential Recommendations**|Sharare Zolghadr et.al.|[2410.19429](http://arxiv.org/abs/2410.19429)|null|
 |**2024-10-24**|**End-to-end Training for Recommendation with Language-based User Profiles**|Zhaolin Gao et.al.|[2410.18870](http://arxiv.org/abs/2410.18870)|**[link](https://github.com/zhaolingao/langptune)**|
 |**2024-10-16**|**RosePO: Aligning LLM-based Recommenders with Human Values**|Jiayi Liao et.al.|[2410.12519](http://arxiv.org/abs/2410.12519)|null|
@@ -183,6 +186,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Evaluating the Robustness of LiDAR Point Cloud Tracking Against Adversarial Attack**|Shengjing Tian et.al.|[2410.20893](http://arxiv.org/abs/2410.20893)|null|
 |**2024-10-24**|**Complexity Matters: Effective Dimensionality as a Measure for Adversarial Robustness**|David Khachaturov et.al.|[2410.18556](http://arxiv.org/abs/2410.18556)|null|
 |**2024-10-23**|**FedGMark: Certifiably Robust Watermarking for Federated Graph Learning**|Yuxin Yang et.al.|[2410.17533](http://arxiv.org/abs/2410.17533)|**[link](https://github.com/yuxin104/fedgmark)**|
 |**2024-10-22**|**Optimal Robust Estimation under Local and Global Corruptions: Stronger Adversary and Smaller Error**|Thanasis Pittas et.al.|[2410.17230](http://arxiv.org/abs/2410.17230)|null|
@@ -653,6 +657,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**Are LLM-Judges Robust to Expressions of Uncertainty? Investigating the effect of Epistemic Markers on LLM-based Evaluation**|Dongryeol Lee et.al.|[2410.20774](http://arxiv.org/abs/2410.20774)|null|
 |**2024-10-23**|**Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models**|He Cao et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|**[link](https://github.com/idea-xl/g4d)**|
 |**2024-10-23**|**AutoRNet: Automatically Optimizing Heuristics for Robust Network Design via Large Language Models**|He Yu et.al.|[2410.17656](http://arxiv.org/abs/2410.17656)|null|
 |**2024-10-24**|**ESpeW: Robust Copyright Protection for LLM-based EaaS via Embedding-Specific Watermark**|Zongqi Wang et.al.|[2410.17552](http://arxiv.org/abs/2410.17552)|**[link](https://github.com/liudan193/ESpeW)**|
@@ -837,6 +842,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-28**|**GenUP: Generative User Profilers as In-Context Learners for Next POI Recommender Systems**|Wilson Wongso et.al.|[2410.20643](http://arxiv.org/abs/2410.20643)|**[link](https://github.com/w11wo/genup)**|
+|**2024-10-28**|**Collaborative Knowledge Fusion: A Novel Approach for Multi-task Recommender Systems via LLMs**|Chuang Zhao et.al.|[2410.20642](http://arxiv.org/abs/2410.20642)|null|
+|**2024-10-26**|**FLOW: A Feedback LOop FrameWork for Simultaneously Enhancing Recommendation and User Agents**|Shihao Cai et.al.|[2410.20027](http://arxiv.org/abs/2410.20027)|null|
+|**2024-10-22**|**Personalized Recommendation Systems using Multimodal, Autonomous, Multi Agent Systems**|Param Thakkar et.al.|[2410.19855](http://arxiv.org/abs/2410.19855)|null|
+|**2024-10-10**|**Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond**|Qi Wang et.al.|[2410.19744](http://arxiv.org/abs/2410.19744)|**[link](https://github.com/jindongli-ai/next-generation-llm-based-recommender-systems-survey)**|
 |**2024-10-25**|**TEARS: Textual Representations for Scrutable Recommendations**|Emiliano Penaloza et.al.|[2410.19302](http://arxiv.org/abs/2410.19302)|null|
 |**2024-10-24**|**End-to-end Training for Recommendation with Language-based User Profiles**|Zhaolin Gao et.al.|[2410.18870](http://arxiv.org/abs/2410.18870)|**[link](https://github.com/zhaolingao/langptune)**|
 |**2024-10-22**|**Bridging Search and Recommendation in Generative Retrieval: Does One Task Help the Other?**|Gustavo Penha et.al.|[2410.16823](http://arxiv.org/abs/2410.16823)|null|
