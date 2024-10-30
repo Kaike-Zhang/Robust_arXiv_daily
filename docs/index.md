@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**SimRec: Mitigating the Cold-Start Problem in Sequential Recommendation by Integrating Item Similarity**|Shaked Brody et.al.|[2410.22136](http://arxiv.org/abs/2410.22136)|**[link](https://github.com/amazon-science/sequential-recommendation-using-similarity)**|
+|**2024-10-29**|**Dual Conditional Diffusion Models for Sequential Recommendation**|Hongtao Huang et.al.|[2410.21967](http://arxiv.org/abs/2410.21967)|null|
+|**2024-10-29**|**Guided Diffusion-based Counterfactual Augmentation for Robust Session-based Recommendation**|Muskan Gupta et.al.|[2410.21892](http://arxiv.org/abs/2410.21892)|null|
 |**2024-10-28**|**GPRec: Bi-level User Modeling for Deep Recommenders**|Yejing Wang et.al.|[2410.20730](http://arxiv.org/abs/2410.20730)|null|
 |**2024-10-28**|**GenUP: Generative User Profilers as In-Context Learners for Next POI Recommender Systems**|Wilson Wongso et.al.|[2410.20643](http://arxiv.org/abs/2410.20643)|**[link](https://github.com/w11wo/genup)**|
 |**2024-10-28**|**Collaborative Knowledge Fusion: A Novel Approach for Multi-task Recommender Systems via LLMs**|Chuang Zhao et.al.|[2410.20642](http://arxiv.org/abs/2410.20642)|null|
@@ -178,6 +181,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**On the Robustness of Adversarial Training Against Uncertainty Attacks**|Emanuele Ledda et.al.|[2410.21952](http://arxiv.org/abs/2410.21952)|null|
 |**2024-10-28**|**Evaluating the Robustness of LiDAR Point Cloud Tracking Against Adversarial Attack**|Shengjing Tian et.al.|[2410.20893](http://arxiv.org/abs/2410.20893)|null|
 |**2024-10-24**|**Complexity Matters: Effective Dimensionality as a Measure for Adversarial Robustness**|David Khachaturov et.al.|[2410.18556](http://arxiv.org/abs/2410.18556)|null|
 |**2024-10-23**|**FedGMark: Certifiably Robust Watermarking for Federated Graph Learning**|Yuxin Yang et.al.|[2410.17533](http://arxiv.org/abs/2410.17533)|**[link](https://github.com/yuxin104/fedgmark)**|
@@ -647,6 +651,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-27**|**LLM Robustness Against Misinformation in Biomedical Question Answering**|Alexander Bondarenko et.al.|[2410.21330](http://arxiv.org/abs/2410.21330)|null|
 |**2024-10-28**|**Are LLM-Judges Robust to Expressions of Uncertainty? Investigating the effect of Epistemic Markers on LLM-based Evaluation**|Dongryeol Lee et.al.|[2410.20774](http://arxiv.org/abs/2410.20774)|null|
 |**2024-10-23**|**Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models**|He Cao et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|**[link](https://github.com/idea-xl/g4d)**|
 |**2024-10-23**|**AutoRNet: Automatically Optimizing Heuristics for Robust Network Design via Large Language Models**|He Yu et.al.|[2410.17656](http://arxiv.org/abs/2410.17656)|null|
