@@ -185,6 +185,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**ROBIN: Robust and Invisible Watermarks for Diffusion Models with Adversarial Optimization**|Huayang Huang et.al.|[2411.03862](http://arxiv.org/abs/2411.03862)|**[link](https://github.com/hannah1102/robin)**|
 |**2024-11-05**|**Enhancing Adversarial Robustness via Uncertainty-Aware Distributional Adversarial Training**|Junhao Dong et.al.|[2411.02871](http://arxiv.org/abs/2411.02871)|null|
 |**2024-11-05**|**Adversarial multi-task underwater acoustic target recognition: towards robustness against various influential factors**|Yuan Xie et.al.|[2411.02848](http://arxiv.org/abs/2411.02848)|**[link](https://github.com/xy980523/shipsear-an-unofficial-train-test-split)**|
 |**2024-11-04**|**Alignment-Based Adversarial Training (ABAT) for Improving the Robustness and Accuracy of EEG-Based BCIs**|Xiaoqing Chen et.al.|[2411.02094](http://arxiv.org/abs/2411.02094)|**[link](https://github.com/xqchen914/abat)**|
