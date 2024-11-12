@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-10**|**Metric Learning for Tag Recommendation: Tackling Data Sparsity and Cold Start Issues**|Yuanshuai Luo et.al.|[2411.06374](http://arxiv.org/abs/2411.06374)|null|
 |**2024-11-03**|**Efficient and Robust Regularized Federated Recommendation**|Langming Liu et.al.|[2411.01540](http://arxiv.org/abs/2411.01540)|**[link](https://github.com/Applied-Machine-Learning-Lab/RFRec)**|
 |**2024-11-02**|**Bi-Level Graph Structure Learning for Next POI Recommendation**|Liang Wang et.al.|[2411.01169](http://arxiv.org/abs/2411.01169)|null|
 |**2024-10-31**|**PSL: Rethinking and Improving Softmax Loss from Pairwise Perspective for Recommendation**|Weiqin Yang et.al.|[2411.00163](http://arxiv.org/abs/2411.00163)|**[link](https://github.com/tiny-snow/ir-benchmark)**|
@@ -185,6 +186,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**The Inherent Adversarial Robustness of Analog In-Memory Computing**|Corey Lammie et.al.|[2411.07023](http://arxiv.org/abs/2411.07023)|null|
 |**2024-11-08**|**Reasoning Robustness of LLMs to Adversarial Typographical Errors**|Esther Gan et.al.|[2411.05345](http://arxiv.org/abs/2411.05345)|null|
 |**2024-11-07**|**Adversarial Robustness of In-Context Learning in Transformers for Linear Regression**|Usman Anwar et.al.|[2411.05189](http://arxiv.org/abs/2411.05189)|null|
 |**2024-11-07**|**Game-Theoretic Defenses for Robust Conformal Prediction Against Adversarial Attacks in Medical Imaging**|Rui Luo et.al.|[2411.04376](http://arxiv.org/abs/2411.04376)|null|
@@ -666,6 +668,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-09**|**Robust Detection of LLM-Generated Text: A Comparative Analysis**|Yongye Su et.al.|[2411.06248](http://arxiv.org/abs/2411.06248)|null|
 |**2024-11-08**|**Reasoning Robustness of LLMs to Adversarial Typographical Errors**|Esther Gan et.al.|[2411.05345](http://arxiv.org/abs/2411.05345)|null|
 |**2024-11-08**|**Robust and Efficient Fine-tuning of LLMs with Bayesian Reparameterization of Low-Rank Adaptation**|Ayan Sengupta et.al.|[2411.04358](http://arxiv.org/abs/2411.04358)|**[link](https://github.com/lcs2-iiitd/monteclora)**|
 |**2024-11-02**|**Leveraging LLM and Text-Queried Separation for Noise-Robust Sound Event Detection**|Han Yin et.al.|[2411.01174](http://arxiv.org/abs/2411.01174)|**[link](https://github.com/apple-yinhan/noise-robust-sed)**|
@@ -853,6 +856,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-09**|**Snippet-based Conversational Recommender System**|Haibo Sun et.al.|[2411.06064](http://arxiv.org/abs/2411.06064)|null|
+|**2024-11-09**|**Personalized News Recommendation System via LLM Embedding and Co-Occurrence Patterns**|Zheng Li et.al.|[2411.06046](http://arxiv.org/abs/2411.06046)|null|
 |**2024-11-05**|**Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation**|Junchen Fu et.al.|[2411.02992](http://arxiv.org/abs/2411.02992)|null|
 |**2024-11-04**|**Enhancing ID-based Recommendation with Large Language Models**|Lei Chen et.al.|[2411.02041](http://arxiv.org/abs/2411.02041)|null|
 |**2024-11-01**|**Beyond Utility: Evaluating LLM as Recommender**|Chumeng Jiang et.al.|[2411.00331](http://arxiv.org/abs/2411.00331)|**[link](https://github.com/jiangdeccc/evallmasrecommender)**|
