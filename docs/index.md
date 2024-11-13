@@ -856,6 +856,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-11**|**Richer Output for Richer Countries: Uncovering Geographical Disparities in Generated Stories and Travel Recommendations**|Kirti Bhagat et.al.|[2411.07320](http://arxiv.org/abs/2411.07320)|null|
 |**2024-11-09**|**Snippet-based Conversational Recommender System**|Haibo Sun et.al.|[2411.06064](http://arxiv.org/abs/2411.06064)|null|
 |**2024-11-09**|**Personalized News Recommendation System via LLM Embedding and Co-Occurrence Patterns**|Zheng Li et.al.|[2411.06046](http://arxiv.org/abs/2411.06046)|null|
 |**2024-11-05**|**Efficient and Effective Adaptation of Multimodal Foundation Models in Sequential Recommendation**|Junchen Fu et.al.|[2411.02992](http://arxiv.org/abs/2411.02992)|null|
