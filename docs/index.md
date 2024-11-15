@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**MARM: Unlocking the Future of Recommendation Systems through Memory Augmentation and Scalable Complexity**|Xiao Lv et.al.|[2411.09425](http://arxiv.org/abs/2411.09425)|null|
+|**2024-11-14**|**DeBaTeR: Denoising Bipartite Temporal Graph for Recommendation**|Xinyu He et.al.|[2411.09181](http://arxiv.org/abs/2411.09181)|null|
 |**2024-11-10**|**Metric Learning for Tag Recommendation: Tackling Data Sparsity and Cold Start Issues**|Yuanshuai Luo et.al.|[2411.06374](http://arxiv.org/abs/2411.06374)|null|
 |**2024-11-03**|**Efficient and Robust Regularized Federated Recommendation**|Langming Liu et.al.|[2411.01540](http://arxiv.org/abs/2411.01540)|**[link](https://github.com/Applied-Machine-Learning-Lab/RFRec)**|
 |**2024-11-02**|**Bi-Level Graph Structure Learning for Next POI Recommendation**|Liang Wang et.al.|[2411.01169](http://arxiv.org/abs/2411.01169)|null|
@@ -186,6 +188,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation**|Zheng Zhou et.al.|[2411.09265](http://arxiv.org/abs/2411.09265)|**[link](https://github.com/zhouzhengqd/beard)**|
+|**2024-11-13**|**Confidence-aware Denoised Fine-tuning of Off-the-shelf Models for Certified Robustness**|Suhyeok Jang et.al.|[2411.08933](http://arxiv.org/abs/2411.08933)|**[link](https://github.com/suhyeok24/ft-cadis)**|
 |**2024-11-13**|**Robust Optimal Power Flow Against Adversarial Attacks: A Tri-Level Optimization Approach**|Saman Mazaheri Khamaneh et.al.|[2411.08618](http://arxiv.org/abs/2411.08618)|null|
 |**2024-11-12**|**Multi-Agent Stochastic Bandits Robust to Adversarial Corruptions**|Fatemeh Ghaffari et.al.|[2411.08167](http://arxiv.org/abs/2411.08167)|null|
 |**2024-11-11**|**The Inherent Adversarial Robustness of Analog In-Memory Computing**|Corey Lammie et.al.|[2411.07023](http://arxiv.org/abs/2411.07023)|null|
@@ -197,7 +201,7 @@ layout: default
 |**2024-11-05**|**Adversarial multi-task underwater acoustic target recognition: towards robustness against various influential factors**|Yuan Xie et.al.|[2411.02848](http://arxiv.org/abs/2411.02848)|**[link](https://github.com/xy980523/shipsear-an-unofficial-train-test-split)**|
 |**2024-11-04**|**Alignment-Based Adversarial Training (ABAT) for Improving the Robustness and Accuracy of EEG-Based BCIs**|Xiaoqing Chen et.al.|[2411.02094](http://arxiv.org/abs/2411.02094)|**[link](https://github.com/xqchen914/abat)**|
 |**2024-11-03**|**Achieving Domain-Independent Certified Robustness via Knowledge Continuity**|Alan Sun et.al.|[2411.01644](http://arxiv.org/abs/2411.01644)|**[link](https://github.com/alansun17904/kc)**|
-|**2024-11-01**|**Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing**|Weizhi Gao et.al.|[2411.00899](http://arxiv.org/abs/2411.00899)|null|
+|**2024-11-01**|**Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing**|Weizhi Gao et.al.|[2411.00899](http://arxiv.org/abs/2411.00899)|**[link](https://github.com/weizhigao/serialized-randomized-smoothing)**|
 |**2024-10-31**|**ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs**|Yuchen Yang et.al.|[2410.24214](http://arxiv.org/abs/2410.24214)|null|
 |**2024-11-02**|**Understanding and Improving Adversarial Collaborative Filtering for Robust Recommendation**|Kaike Zhang et.al.|[2410.22844](http://arxiv.org/abs/2410.22844)|**[link](https://github.com/Kaike-Zhang/PamaCF)**|
 |**2024-10-29**|**On the Robustness of Adversarial Training Against Uncertainty Attacks**|Emanuele Ledda et.al.|[2410.21952](http://arxiv.org/abs/2410.21952)|**[link](https://github.com/EmanueleLedda97/UncertaintyAdversarialRobustness)**|
@@ -670,6 +674,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-13**|**Robustness and Confounders in the Demographic Alignment of LLMs with Human Perceptions of Offensiveness**|Shayan Alipour et.al.|[2411.08977](http://arxiv.org/abs/2411.08977)|null|
 |**2024-11-09**|**Robust Detection of LLM-Generated Text: A Comparative Analysis**|Yongye Su et.al.|[2411.06248](http://arxiv.org/abs/2411.06248)|null|
 |**2024-11-08**|**Reasoning Robustness of LLMs to Adversarial Typographical Errors**|Esther Gan et.al.|[2411.05345](http://arxiv.org/abs/2411.05345)|null|
 |**2024-11-08**|**Robust and Efficient Fine-tuning of LLMs with Bayesian Reparameterization of Low-Rank Adaptation**|Ayan Sengupta et.al.|[2411.04358](http://arxiv.org/abs/2411.04358)|**[link](https://github.com/lcs2-iiitd/monteclora)**|
@@ -858,6 +863,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**PTR: Precision-Driven Tool Recommendation for Large Language Models**|Hang Gao et.al.|[2411.09613](http://arxiv.org/abs/2411.09613)|null|
+|**2024-11-14**|**MARM: Unlocking the Future of Recommendation Systems through Memory Augmentation and Scalable Complexity**|Xiao Lv et.al.|[2411.09425](http://arxiv.org/abs/2411.09425)|null|
+|**2024-11-14**|**LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation**|Shutong Qiao et.al.|[2411.09410](http://arxiv.org/abs/2411.09410)|null|
 |**2024-11-11**|**Richer Output for Richer Countries: Uncovering Geographical Disparities in Generated Stories and Travel Recommendations**|Kirti Bhagat et.al.|[2411.07320](http://arxiv.org/abs/2411.07320)|null|
 |**2024-11-09**|**Snippet-based Conversational Recommender System**|Haibo Sun et.al.|[2411.06064](http://arxiv.org/abs/2411.06064)|null|
 |**2024-11-09**|**Personalized News Recommendation System via LLM Embedding and Co-Occurrence Patterns**|Zheng Li et.al.|[2411.06046](http://arxiv.org/abs/2411.06046)|null|
