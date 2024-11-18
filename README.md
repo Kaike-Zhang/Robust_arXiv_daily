@@ -196,8 +196,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors**|Jiawei Zhou et.al.|[2411.10029](http://arxiv.org/abs/2411.10029)|null|
+|**2024-11-15**|**Fully Dynamic Adversarially Robust Correlation Clustering in Polylogarithmic Update Time**|Vladimir Braverman et.al.|[2411.09979](http://arxiv.org/abs/2411.09979)|null|
 |**2024-11-14**|**BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation**|Zheng Zhou et.al.|[2411.09265](http://arxiv.org/abs/2411.09265)|**[link](https://github.com/zhouzhengqd/beard)**|
-|**2024-11-13**|**Confidence-aware Denoised Fine-tuning of Off-the-shelf Models for Certified Robustness**|Suhyeok Jang et.al.|[2411.08933](http://arxiv.org/abs/2411.08933)|**[link](https://github.com/suhyeok24/ft-cadis)**|
+|**2024-11-15**|**Confidence-aware Denoised Fine-tuning of Off-the-shelf Models for Certified Robustness**|Suhyeok Jang et.al.|[2411.08933](http://arxiv.org/abs/2411.08933)|**[link](https://github.com/suhyeok24/ft-cadis)**|
 |**2024-11-13**|**Robust Optimal Power Flow Against Adversarial Attacks: A Tri-Level Optimization Approach**|Saman Mazaheri Khamaneh et.al.|[2411.08618](http://arxiv.org/abs/2411.08618)|null|
 |**2024-11-12**|**Multi-Agent Stochastic Bandits Robust to Adversarial Corruptions**|Fatemeh Ghaffari et.al.|[2411.08167](http://arxiv.org/abs/2411.08167)|null|
 |**2024-11-11**|**The Inherent Adversarial Robustness of Analog In-Memory Computing**|Corey Lammie et.al.|[2411.07023](http://arxiv.org/abs/2411.07023)|null|
@@ -877,7 +879,7 @@
 |---|---|---|---|---|
 |**2024-11-14**|**PTR: Precision-Driven Tool Recommendation for Large Language Models**|Hang Gao et.al.|[2411.09613](http://arxiv.org/abs/2411.09613)|null|
 |**2024-11-14**|**MARM: Unlocking the Future of Recommendation Systems through Memory Augmentation and Scalable Complexity**|Xiao Lv et.al.|[2411.09425](http://arxiv.org/abs/2411.09425)|null|
-|**2024-11-14**|**LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation**|Shutong Qiao et.al.|[2411.09410](http://arxiv.org/abs/2411.09410)|null|
+|**2024-11-15**|**LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation**|Shutong Qiao et.al.|[2411.09410](http://arxiv.org/abs/2411.09410)|null|
 |**2024-11-11**|**Richer Output for Richer Countries: Uncovering Geographical Disparities in Generated Stories and Travel Recommendations**|Kirti Bhagat et.al.|[2411.07320](http://arxiv.org/abs/2411.07320)|null|
 |**2024-11-09**|**Snippet-based Conversational Recommender System**|Haibo Sun et.al.|[2411.06064](http://arxiv.org/abs/2411.06064)|null|
 |**2024-11-09**|**Personalized News Recommendation System via LLM Embedding and Co-Occurrence Patterns**|Zheng Li et.al.|[2411.06046](http://arxiv.org/abs/2411.06046)|null|
