@@ -188,6 +188,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Exploring adversarial robustness of JPEG AI: methodology, comparison and new methods**|Egor Kovalev et.al.|[2411.11795](http://arxiv.org/abs/2411.11795)|null|
+|**2024-11-15**|**Comparing Robustness Against Adversarial Attacks in Code Generation: LLM-Generated vs. Human-Written**|Md Abdul Awal et.al.|[2411.10565](http://arxiv.org/abs/2411.10565)|null|
 |**2024-11-15**|**Toward Robust and Accurate Adversarial Camouflage Generation against Vehicle Detectors**|Jiawei Zhou et.al.|[2411.10029](http://arxiv.org/abs/2411.10029)|null|
 |**2024-11-15**|**Fully Dynamic Adversarially Robust Correlation Clustering in Polylogarithmic Update Time**|Vladimir Braverman et.al.|[2411.09979](http://arxiv.org/abs/2411.09979)|null|
 |**2024-11-14**|**BEARD: Benchmarking the Adversarial Robustness for Dataset Distillation**|Zheng Zhou et.al.|[2411.09265](http://arxiv.org/abs/2411.09265)|**[link](https://github.com/zhouzhengqd/beard)**|
@@ -676,6 +678,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-15**|**Comparing Robustness Against Adversarial Attacks in Code Generation: LLM-Generated vs. Human-Written**|Md Abdul Awal et.al.|[2411.10565](http://arxiv.org/abs/2411.10565)|null|
 |**2024-11-13**|**Robustness and Confounders in the Demographic Alignment of LLMs with Human Perceptions of Offensiveness**|Shayan Alipour et.al.|[2411.08977](http://arxiv.org/abs/2411.08977)|null|
 |**2024-11-09**|**Robust Detection of LLM-Generated Text: A Comparative Analysis**|Yongye Su et.al.|[2411.06248](http://arxiv.org/abs/2411.06248)|null|
 |**2024-11-08**|**Reasoning Robustness of LLMs to Adversarial Typographical Errors**|Esther Gan et.al.|[2411.05345](http://arxiv.org/abs/2411.05345)|null|
@@ -865,6 +868,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-16**|**Language Model Evolutionary Algorithms for Recommender Systems: Benchmarks and Algorithm Comparisons**|Jiao Liu et.al.|[2411.10697](http://arxiv.org/abs/2411.10697)|null|
 |**2024-11-14**|**PTR: Precision-Driven Tool Recommendation for Large Language Models**|Hang Gao et.al.|[2411.09613](http://arxiv.org/abs/2411.09613)|null|
 |**2024-11-14**|**MARM: Unlocking the Future of Recommendation Systems through Memory Augmentation and Scalable Complexity**|Xiao Lv et.al.|[2411.09425](http://arxiv.org/abs/2411.09425)|null|
 |**2024-11-15**|**LLM-assisted Explicit and Implicit Multi-interest Learning Framework for Sequential Recommendation**|Shutong Qiao et.al.|[2411.09410](http://arxiv.org/abs/2411.09410)|null|
