@@ -880,6 +880,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-18**|**Metamorphic Evaluation of ChatGPT as a Recommender System**|Madhurima Khirbat et.al.|[2411.12121](http://arxiv.org/abs/2411.12121)|null|
 |**2024-11-16**|**Language Model Evolutionary Algorithms for Recommender Systems: Benchmarks and Algorithm Comparisons**|Jiao Liu et.al.|[2411.10697](http://arxiv.org/abs/2411.10697)|null|
 |**2024-11-14**|**PTR: Precision-Driven Tool Recommendation for Large Language Models**|Hang Gao et.al.|[2411.09613](http://arxiv.org/abs/2411.09613)|null|
 |**2024-11-14**|**MARM: Unlocking the Future of Recommendation Systems through Memory Augmentation and Scalable Complexity**|Xiao Lv et.al.|[2411.09425](http://arxiv.org/abs/2411.09425)|null|
