@@ -189,6 +189,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**A Survey on Adversarial Robustness of LiDAR-based Machine Learning Perception in Autonomous Vehicles**|Junae Kim et.al.|[2411.13778](http://arxiv.org/abs/2411.13778)|null|
 |**2024-11-20**|**TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models**|Xin Wang et.al.|[2411.13136](http://arxiv.org/abs/2411.13136)|null|
 |**2024-11-18**|**Exploring adversarial robustness of JPEG AI: methodology, comparison and new methods**|Egor Kovalev et.al.|[2411.11795](http://arxiv.org/abs/2411.11795)|null|
 |**2024-11-15**|**Comparing Robustness Against Adversarial Attacks in Code Generation: LLM-Generated vs. Human-Written**|Md Abdul Awal et.al.|[2411.10565](http://arxiv.org/abs/2411.10565)|null|
@@ -680,6 +681,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**Evaluating the Robustness of Analogical Reasoning in Large Language Models**|Martha Lewis et.al.|[2411.14215](http://arxiv.org/abs/2411.14215)|**[link](https://github.com/marthaflinderslewis/robust-analogy)**|
+|**2024-11-21**|**DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization**|Hexuan Deng et.al.|[2411.14055](http://arxiv.org/abs/2411.14055)|**[link](https://github.com/hexuandeng/drpruning)**|
+|**2024-11-21**|**Robust Detection of Watermarks for Large Language Models Under Human Edits**|Xiang Li et.al.|[2411.13868](http://arxiv.org/abs/2411.13868)|null|
 |**2024-11-15**|**Comparing Robustness Against Adversarial Attacks in Code Generation: LLM-Generated vs. Human-Written**|Md Abdul Awal et.al.|[2411.10565](http://arxiv.org/abs/2411.10565)|null|
 |**2024-11-13**|**Robustness and Confounders in the Demographic Alignment of LLMs with Human Perceptions of Offensiveness**|Shayan Alipour et.al.|[2411.08977](http://arxiv.org/abs/2411.08977)|null|
 |**2024-11-09**|**Robust Detection of LLM-Generated Text: A Comparative Analysis**|Yongye Su et.al.|[2411.06248](http://arxiv.org/abs/2411.06248)|null|
@@ -870,6 +874,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-21**|**HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems**|Qiyao Ma et.al.|[2411.13865](http://arxiv.org/abs/2411.13865)|null|
+|**2024-11-21**|**LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display Advertisement Recommender System**|Fengxin Li et.al.|[2411.13789](http://arxiv.org/abs/2411.13789)|null|
 |**2024-11-20**|**Unleashing the Power of Large Language Models for Group POI Recommendations**|Jing Long et.al.|[2411.13415](http://arxiv.org/abs/2411.13415)|null|
 |**2024-11-18**|**Metamorphic Evaluation of ChatGPT as a Recommender System**|Madhurima Khirbat et.al.|[2411.12121](http://arxiv.org/abs/2411.12121)|null|
 |**2024-11-16**|**Language Model Evolutionary Algorithms for Recommender Systems: Benchmarks and Algorithm Comparisons**|Jiao Liu et.al.|[2411.10697](http://arxiv.org/abs/2411.10697)|null|
