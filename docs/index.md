@@ -316,7 +316,7 @@ layout: default
 |**2024-07-04**|**Certifiably Robust Image Watermark**|Zhengyuan Jiang et.al.|[2407.04086](http://arxiv.org/abs/2407.04086)|**[link](https://github.com/zhengyuan-jiang/Watermark-Library)**|
 |**2024-07-04**|**Mitigating Low-Frequency Bias: Feature Recalibration and Frequency Attention Regularization for Adversarial Robustness**|Kejia Zhang et.al.|[2407.04016](http://arxiv.org/abs/2407.04016)|null|
 |**2024-07-04**|**RobQuNNs: A Methodology for Robust Quanvolutional Neural Networks against Adversarial Attacks**|Walid El Maouaki et.al.|[2407.03875](http://arxiv.org/abs/2407.03875)|null|
-|**2024-07-04**|**Adversarial Robustness of VAEs across Intersectional Subgroups**|Chethan Krishnamurthy Ramanaik et.al.|[2407.03864](http://arxiv.org/abs/2407.03864)|null|
+|**2024-07-04**|**Adversarial Robustness of VAEs across Intersectional Subgroups**|Chethan Krishnamurthy Ramanaik et.al.|[2407.03864](http://arxiv.org/abs/2407.03864)|**[link](https://github.com/ChethanKodase/robustness_of_subgroups)**|
 |**2024-07-03**|**SPLITZ: Certifiable Robustness via Split Lipschitz Randomized Smoothing**|Meiyu Zhong et.al.|[2407.02811](http://arxiv.org/abs/2407.02811)|null|
 |**2024-06-30**|**A Whole-Process Certifiably Robust Aggregation Method Against Backdoor Attacks in Federated Learning**|Anqi Zhou et.al.|[2407.00719](http://arxiv.org/abs/2407.00719)|null|
 |**2024-06-30**|**Consistency Purification: Effective and Efficient Diffusion Purification towards Certified Robustness**|Yiquan Li et.al.|[2407.00623](http://arxiv.org/abs/2407.00623)|null|
@@ -359,7 +359,7 @@ layout: default
 |**2024-05-30**|**Enhancing Adversarial Robustness in SNNs with Sparse Gradients**|Yujia Liu et.al.|[2405.20355](http://arxiv.org/abs/2405.20355)|null|
 |**2024-06-03**|**Exploring the Robustness of Decision-Level Through Adversarial Attacks on LLM-Based Embodied Models**|Shuyuan Liu et.al.|[2405.19802](http://arxiv.org/abs/2405.19802)|null|
 |**2024-05-29**|**Confronting the Reproducibility Crisis: A Case Study in Validating Certified Robustness**|Richard H. Moulton et.al.|[2405.18753](http://arxiv.org/abs/2405.18753)|null|
-|**2024-05-28**|**ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator**|Junda Zhu et.al.|[2405.18111](http://arxiv.org/abs/2405.18111)|null|
+|**2024-05-28**|**ATM: Adversarial Tuning Multi-agent System Makes a Robust Retrieval-Augmented Generator**|Junda Zhu et.al.|[2405.18111](http://arxiv.org/abs/2405.18111)|**[link](https://github.com/chuhac/atm-rag)**|
 |**2024-05-28**|**Towards Unified Robustness Against Both Backdoor and Adversarial Attacks**|Zhenxing Niu et.al.|[2405.17929](http://arxiv.org/abs/2405.17929)|**[link](https://github.com/john-niu-07/pud)**|
 |**2024-05-27**|**TIMA: Text-Image Mutual Awareness for Balancing Zero-Shot Adversarial Robustness and Generalization Ability**|Fengji Ma et.al.|[2405.17678](http://arxiv.org/abs/2405.17678)|null|
 |**2024-05-27**|**A One-Layer Decoder-Only Transformer is a Two-Layer RNN: With an Application to Certified Robustness**|Yuhao Zhang et.al.|[2405.17361](http://arxiv.org/abs/2405.17361)|null|
@@ -705,7 +705,7 @@ layout: default
 |**2024-10-14**|**One Language, Many Gaps: Evaluating Dialect Fairness and Robustness of Large Language Models in Reasoning Tasks**|Fangru Lin et.al.|[2410.11005](http://arxiv.org/abs/2410.11005)|**[link](https://github.com/fangru-lin/redial_dialect_robustness_fairness)**|
 |**2024-10-14**|**WILT: A Multi-Turn, Memorization-Robust Inductive Logic Benchmark for LLMs**|Eryk Banatt et.al.|[2410.10998](http://arxiv.org/abs/2410.10998)|null|
 |**2024-10-04**|**Knowledge-Augmented Reasoning for EUAIA Compliance and Adversarial Robustness of LLMs**|Tomas Bueno Momcilovic et.al.|[2410.09078](http://arxiv.org/abs/2410.09078)|null|
-|**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|null|
+|**2024-10-11**|**PEAR: A Robust and Flexible Automation Framework for Ptychography Enabled by Multiple Large Language Model Agents**|Xiangyu Yin et.al.|[2410.09034](http://arxiv.org/abs/2410.09034)|**[link](https://github.com/xyin-anl/Nodeology)**|
 |**2024-10-11**|**MergePrint: Robust Fingerprinting against Merging Large Language Models**|Shojiro Yamabe et.al.|[2410.08604](http://arxiv.org/abs/2410.08604)|null|
 |**2024-10-10**|**Towards Assurance of LLM Adversarial Robustness using Ontology-Driven Argumentation**|Tomas Bueno Momcilovic et.al.|[2410.07962](http://arxiv.org/abs/2410.07962)|null|
 |**2024-10-10**|**Exploring and Lifting the Robustness of LLM-powered Automated Program Repair with Metamorphic Testing**|Pengyu Xue et.al.|[2410.07516](http://arxiv.org/abs/2410.07516)|null|
