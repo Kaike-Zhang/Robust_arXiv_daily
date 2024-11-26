@@ -198,6 +198,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-24**|**Chain of Attack: On the Robustness of Vision-Language Models Against Transfer-Based Adversarial Attacks**|Peng Xie et.al.|[2411.15720](http://arxiv.org/abs/2411.15720)|null|
+|**2024-11-22**|**Exploring the Robustness and Transferability of Patch-Based Adversarial Attacks in Quantized Neural Networks**|Amira Guesmi et.al.|[2411.15246](http://arxiv.org/abs/2411.15246)|null|
+|**2024-11-20**|**Towards Million-Scale Adversarial Robustness Evaluation With Stronger Individual Attacks**|Yong Xie et.al.|[2411.15210](http://arxiv.org/abs/2411.15210)|null|
 |**2024-11-21**|**A Survey on Adversarial Robustness of LiDAR-based Machine Learning Perception in Autonomous Vehicles**|Junae Kim et.al.|[2411.13778](http://arxiv.org/abs/2411.13778)|null|
 |**2024-11-20**|**TAPT: Test-Time Adversarial Prompt Tuning for Robust Inference in Vision-Language Models**|Xin Wang et.al.|[2411.13136](http://arxiv.org/abs/2411.13136)|null|
 |**2024-11-18**|**Exploring adversarial robustness of JPEG AI: methodology, comparison and new methods**|Egor Kovalev et.al.|[2411.11795](http://arxiv.org/abs/2411.11795)|null|
@@ -692,6 +695,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-23**|**Towards Robust Evaluation of Unlearning in LLMs via Data Transformations**|Abhinav Joshi et.al.|[2411.15477](http://arxiv.org/abs/2411.15477)|**[link](https://github.com/exploration-lab/relu)**|
 |**2024-11-20**|**Robust Planning with Compound LLM Architectures: An LLM-Modulo Approach**|Atharva Gundawar et.al.|[2411.14484](http://arxiv.org/abs/2411.14484)|null|
 |**2024-11-21**|**Evaluating the Robustness of Analogical Reasoning in Large Language Models**|Martha Lewis et.al.|[2411.14215](http://arxiv.org/abs/2411.14215)|**[link](https://github.com/marthaflinderslewis/robust-analogy)**|
 |**2024-11-21**|**DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization**|Hexuan Deng et.al.|[2411.14055](http://arxiv.org/abs/2411.14055)|**[link](https://github.com/hexuandeng/drpruning)**|
