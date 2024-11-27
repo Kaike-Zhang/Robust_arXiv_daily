@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-26**|**Towards Robust Cross-Domain Recommendation with Joint Identifiability of User Preference**|Jing Du et.al.|[2411.17361](http://arxiv.org/abs/2411.17361)|null|
 |**2024-11-22**|**The 1st Workshop on Human-Centered Recommender Systems**|Kaike Zhang et.al.|[2411.14760](http://arxiv.org/abs/2411.14760)|null|
 |**2024-11-19**|**Towards Fairness in AI for Melanoma Detection: Systemic Review and Recommendations**|Laura N Montoya et.al.|[2411.12846](http://arxiv.org/abs/2411.12846)|null|
 |**2024-11-14**|**MARM: Unlocking the Future of Recommendation Systems through Memory Augmentation and Scalable Complexity**|Xiao Lv et.al.|[2411.09425](http://arxiv.org/abs/2411.09425)|null|
@@ -686,7 +687,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-23**|**Towards Robust Evaluation of Unlearning in LLMs via Data Transformations**|Abhinav Joshi et.al.|[2411.15477](http://arxiv.org/abs/2411.15477)|**[link](https://github.com/exploration-lab/relu)**|
-|**2024-11-20**|**Robust Planning with Compound LLM Architectures: An LLM-Modulo Approach**|Atharva Gundawar et.al.|[2411.14484](http://arxiv.org/abs/2411.14484)|null|
+|**2024-11-20**|**Robust Planning with Compound LLM Architectures: An LLM-Modulo Approach**|Atharva Gundawar et.al.|[2411.14484](http://arxiv.org/abs/2411.14484)|**[link](https://github.com/Atharva-Gundawar/LLM-Modulo-prompts)**|
 |**2024-11-21**|**Evaluating the Robustness of Analogical Reasoning in Large Language Models**|Martha Lewis et.al.|[2411.14215](http://arxiv.org/abs/2411.14215)|**[link](https://github.com/marthaflinderslewis/robust-analogy)**|
 |**2024-11-21**|**DRPruning: Efficient Large Language Model Pruning through Distributionally Robust Optimization**|Hexuan Deng et.al.|[2411.14055](http://arxiv.org/abs/2411.14055)|**[link](https://github.com/hexuandeng/drpruning)**|
 |**2024-11-21**|**Robust Detection of Watermarks for Large Language Models Under Human Edits**|Xiang Li et.al.|[2411.13868](http://arxiv.org/abs/2411.13868)|**[link](https://github.com/lx10077/TrGoF)**|
@@ -883,7 +884,7 @@ layout: default
 |**2024-11-22**|**GOT4Rec: Graph of Thoughts for Sequential Recommendation**|Zewen Long et.al.|[2411.14922](http://arxiv.org/abs/2411.14922)|null|
 |**2024-11-16**|**Unveiling User Preferences: A Knowledge Graph and LLM-Driven Approach for Conversational Recommendation**|Zhangchi Qiu et.al.|[2411.14459](http://arxiv.org/abs/2411.14459)|null|
 |**2024-11-21**|**HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems**|Qiyao Ma et.al.|[2411.13865](http://arxiv.org/abs/2411.13865)|null|
-|**2024-11-21**|**LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display Advertisement Recommender System**|Fengxin Li et.al.|[2411.13789](http://arxiv.org/abs/2411.13789)|null|
+|**2024-11-26**|**LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display Advertisement Recommender System**|Fengxin Li et.al.|[2411.13789](http://arxiv.org/abs/2411.13789)|null|
 |**2024-11-20**|**Unleashing the Power of Large Language Models for Group POI Recommendations**|Jing Long et.al.|[2411.13415](http://arxiv.org/abs/2411.13415)|null|
 |**2024-11-18**|**Metamorphic Evaluation of ChatGPT as a Recommender System**|Madhurima Khirbat et.al.|[2411.12121](http://arxiv.org/abs/2411.12121)|null|
 |**2024-11-16**|**Language Model Evolutionary Algorithms for Recommender Systems: Benchmarks and Algorithm Comparisons**|Jiao Liu et.al.|[2411.10697](http://arxiv.org/abs/2411.10697)|null|
