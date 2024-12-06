@@ -701,6 +701,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-28**|**CovidLLM: A Robust Large Language Model with Missing Value Adaptation and Multi-Objective Learning Strategy for Predicting Disease Severity and Clinical Outcomes in COVID-19 Patients**|Shengjun Zhu et.al.|[2412.03593](http://arxiv.org/abs/2412.03593)|null|
 |**2024-12-04**|**Robust Multi-bit Text Watermark with LLM-based Paraphrasers**|Xiaojun Xu et.al.|[2412.03123](http://arxiv.org/abs/2412.03123)|**[link](https://github.com/xiaojunxu/multi-bit-text-watermark)**|
 |**2024-12-01**|**SelfPrompt: Autonomously Evaluating LLM Robustness via Domain-Constrained Knowledge Guidelines and Refined Adversarial Prompts**|Aihua Pei et.al.|[2412.00765](http://arxiv.org/abs/2412.00765)|null|
 |**2024-11-29**|**On the Adversarial Robustness of Instruction-Tuned Large Language Models for Code**|Md Imran Hossen et.al.|[2411.19508](http://arxiv.org/abs/2411.19508)|null|
@@ -902,6 +903,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-05**|**Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models**|Yuhao Wang et.al.|[2412.04107](http://arxiv.org/abs/2412.04107)|null|
 |**2024-11-17**|**Enabling Explainable Recommendation in E-commerce with LLM-powered Product Knowledge Graph**|Menghan Wang et.al.|[2412.01837](http://arxiv.org/abs/2412.01837)|null|
 |**2024-12-01**|**Scaling New Frontiers: Insights into Large Recommendation Models**|Wei Guo et.al.|[2412.00714](http://arxiv.org/abs/2412.00714)|**[link](https://github.com/ustc-starteam/large-recommendation-models)**|
 |**2024-11-29**|**Cross-Domain Recommendation Meets Large Language Models**|Ajay Krishna Vajjala et.al.|[2411.19862](http://arxiv.org/abs/2411.19862)|**[link](https://github.com/ajaykv1/CDR_Meets_LLMs)**|
