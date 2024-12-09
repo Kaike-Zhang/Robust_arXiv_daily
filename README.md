@@ -701,6 +701,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Continuous Speech Tokens Makes LLMs Robust Multi-Modality Learners**|Ze Yuan et.al.|[2412.04917](http://arxiv.org/abs/2412.04917)|null|
 |**2024-11-28**|**CovidLLM: A Robust Large Language Model with Missing Value Adaptation and Multi-Objective Learning Strategy for Predicting Disease Severity and Clinical Outcomes in COVID-19 Patients**|Shengjun Zhu et.al.|[2412.03593](http://arxiv.org/abs/2412.03593)|**[link](https://github.com/sysll/CovidLLM)**|
 |**2024-12-04**|**Robust Multi-bit Text Watermark with LLM-based Paraphrasers**|Xiaojun Xu et.al.|[2412.03123](http://arxiv.org/abs/2412.03123)|**[link](https://github.com/xiaojunxu/multi-bit-text-watermark)**|
 |**2024-12-01**|**SelfPrompt: Autonomously Evaluating LLM Robustness via Domain-Constrained Knowledge Guidelines and Refined Adversarial Prompts**|Aihua Pei et.al.|[2412.00765](http://arxiv.org/abs/2412.00765)|null|
