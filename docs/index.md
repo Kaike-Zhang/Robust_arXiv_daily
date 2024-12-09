@@ -639,7 +639,7 @@ layout: default
 |**2023-08-12**|**On the Interplay of Convolutional Padding and Adversarial Robustness**|Paul Gavrikov et.al.|[2308.06612](http://arxiv.org/abs/2308.06612)|**[link](https://github.com/paulgavrikov/padding_robustness)**|
 |**2023-08-12**|**Not So Robust After All: Evaluating the Robustness of Deep Neural Networks to Unseen Adversarial Attacks**|Roman Garaev et.al.|[2308.06467](http://arxiv.org/abs/2308.06467)|null|
 |**2023-08-21**|**Critical Points ++: An Agile Point Cloud Importance Measure for Robust Classification, Adversarial Defense and Explainable AI**|Meir Yossef Levi et.al.|[2308.05525](http://arxiv.org/abs/2308.05525)|**[link](https://github.com/yossilevii100/critical_points2)**|
-|**2023-08-17**|**Adversarial ModSecurity: Countering Adversarial SQL Injections with Robust Machine Learning**|Biagio Montaruli et.al.|[2308.04964](http://arxiv.org/abs/2308.04964)|null|
+|**2023-08-17**|**Adversarial ModSecurity: Countering Adversarial SQL Injections with Robust Machine Learning**|Biagio Montaruli et.al.|[2308.04964](http://arxiv.org/abs/2308.04964)|**[link](https://github.com/pralab/modsec-learn)**|
 |**2023-08-09**|**Representation Learning for Audio Privacy Preservation using Source Separation and Robust Adversarial Learning**|Diep Luong et.al.|[2308.04960](http://arxiv.org/abs/2308.04960)|null|
 |**2023-08-08**|**Enhancing Adversarial Robustness in Low-Label Regime via Adaptively Weighted Regularization and Knowledge Distillation**|Dongyoon Yang et.al.|[2308.04061](http://arxiv.org/abs/2308.04061)|**[link](https://github.com/dyoony/srst_awr)**|
 |**2023-08-07**|**Fixed Inter-Neuron Covariability Induces Adversarial Robustness**|Muhammad Ahmed Shah et.al.|[2308.03956](http://arxiv.org/abs/2308.03956)|null|
@@ -932,7 +932,7 @@ layout: default
 |**2024-10-16**|**RosePO: Aligning LLM-based Recommenders with Human Values**|Jiayi Liao et.al.|[2410.12519](http://arxiv.org/abs/2410.12519)|null|
 |**2024-10-16**|**Comprehending Knowledge Graphs with Large Language Models for Recommender Systems**|Ziqiang Cui et.al.|[2410.12229](http://arxiv.org/abs/2410.12229)|null|
 |**2024-10-16**|**Triple Modality Fusion: Aligning Visual, Textual, and Graph Data with Large Language Models for Multi-Behavior Recommendations**|Luyi Ma et.al.|[2410.12228](http://arxiv.org/abs/2410.12228)|null|
-|**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841](http://arxiv.org/abs/2410.11841)|null|
+|**2024-10-15**|**GaVaMoE: Gaussian-Variational Gated Mixture of Experts for Explainable Recommendation**|Fei Tang et.al.|[2410.11841](http://arxiv.org/abs/2410.11841)|**[link](https://github.com/sugarandgugu/GaVaMoE)**|
 |**2024-10-15**|**Sequential LLM Framework for Fashion Recommendation**|Han Liu et.al.|[2410.11327](http://arxiv.org/abs/2410.11327)|null|
 |**2024-10-12**|**Towards Scalable Semantic Representation for Recommendation**|Taolin Zhang et.al.|[2410.09560](http://arxiv.org/abs/2410.09560)|null|
 |**2024-10-09**|**Hallucinating AI Hijacking Attack: Large Language Models and Malicious Code Recommenders**|David Noever et.al.|[2410.06462](http://arxiv.org/abs/2410.06462)|null|
