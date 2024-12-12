@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions**|Jing Jiang et.al.|[2412.08071](http://arxiv.org/abs/2412.08071)|null|
 |**2024-12-10**|**RLT4Rec: Reinforcement Learning Transformer for User Cold Start and Item Recommendation**|Dilina Chandika Rajapakse et.al.|[2412.07403](http://arxiv.org/abs/2412.07403)|null|
 |**2024-12-04**|**Enhancing Recommendation Systems with GNNs and Addressing Over-Smoothing**|Wenyi Liu et.al.|[2412.03097](http://arxiv.org/abs/2412.03097)|null|
 |**2024-12-02**|**e-Fold Cross-Validation for Recommender-System Evaluation**|Moritz Baumgart et.al.|[2412.01011](http://arxiv.org/abs/2412.01011)|null|
@@ -699,6 +700,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-10**|**Asking Again and Again: Exploring LLM Robustness to Repeated Questions**|Sagi Shaier et.al.|[2412.07923](http://arxiv.org/abs/2412.07923)|null|
 |**2024-12-08**|**Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization**|Dongwei Wang et.al.|[2412.06858](http://arxiv.org/abs/2412.06858)|null|
 |**2024-12-06**|**Continuous Speech Tokens Makes LLMs Robust Multi-Modality Learners**|Ze Yuan et.al.|[2412.04917](http://arxiv.org/abs/2412.04917)|null|
 |**2024-11-28**|**CovidLLM: A Robust Large Language Model with Missing Value Adaptation and Multi-Objective Learning Strategy for Predicting Disease Severity and Clinical Outcomes in COVID-19 Patients**|Shengjun Zhu et.al.|[2412.03593](http://arxiv.org/abs/2412.03593)|**[link](https://github.com/sysll/CovidLLM)**|
@@ -901,6 +903,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-11**|**AltFS: Agency-light Feature Selection with Large Language Models in Deep Recommender Systems**|Pengyue Jia et.al.|[2412.08516](http://arxiv.org/abs/2412.08516)|null|
+|**2024-12-03**|**MRP-LLM: Multitask Reflective Large Language Models for Privacy-Preserving Next POI Recommendation**|Ziqing Wu et.al.|[2412.07796](http://arxiv.org/abs/2412.07796)|null|
 |**2024-12-10**|**Scaling Sequential Recommendation Models with Transformers**|Pablo Zivic et.al.|[2412.07585](http://arxiv.org/abs/2412.07585)|**[link](https://github.com/mercadolibre/srt)**|
 |**2024-12-09**|**Bridging Conversational and Collaborative Signals for Conversational Recommendation**|Ahmad Bin Rabiah et.al.|[2412.06949](http://arxiv.org/abs/2412.06949)|null|
 |**2024-12-09**|**PRECISE: Pre-training Sequential Recommenders with Collaborative and Semantic Information**|Chonggang Song et.al.|[2412.06308](http://arxiv.org/abs/2412.06308)|null|
