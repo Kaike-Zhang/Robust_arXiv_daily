@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Goal-Conditioned Supervised Learning for Multi-Objective Recommendation**|Shijun Li et.al.|[2412.08911](http://arxiv.org/abs/2412.08911)|null|
 |**2024-12-11**|**A Tutorial of Personalized Federated Recommender Systems: Recent Advances and Future Directions**|Jing Jiang et.al.|[2412.08071](http://arxiv.org/abs/2412.08071)|null|
 |**2024-12-10**|**RLT4Rec: Reinforcement Learning Transformer for User Cold Start and Item Recommendation**|Dilina Chandika Rajapakse et.al.|[2412.07403](http://arxiv.org/abs/2412.07403)|null|
 |**2024-12-04**|**Enhancing Recommendation Systems with GNNs and Addressing Over-Smoothing**|Wenyi Liu et.al.|[2412.03097](http://arxiv.org/abs/2412.03097)|null|
@@ -700,6 +701,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**Towards Understanding the Robustness of LLM-based Evaluations under Perturbations**|Manav Chaudhary et.al.|[2412.09269](http://arxiv.org/abs/2412.09269)|null|
 |**2024-12-10**|**Asking Again and Again: Exploring LLM Robustness to Repeated Questions**|Sagi Shaier et.al.|[2412.07923](http://arxiv.org/abs/2412.07923)|**[link](https://github.com/Shaier/question_repeat)**|
 |**2024-12-08**|**Taming Sensitive Weights : Noise Perturbation Fine-tuning for Robust LLM Quantization**|Dongwei Wang et.al.|[2412.06858](http://arxiv.org/abs/2412.06858)|null|
 |**2024-12-06**|**Continuous Speech Tokens Makes LLMs Robust Multi-Modality Learners**|Ze Yuan et.al.|[2412.04917](http://arxiv.org/abs/2412.04917)|null|
@@ -903,6 +905,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-12**|**SPRec: Leveraging Self-Play to Debias Preference Alignment for Large Language Model-based Recommendations**|Chongming Gao et.al.|[2412.09243](http://arxiv.org/abs/2412.09243)|null|
+|**2024-12-12**|**MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation**|Zheyuan Zhang et.al.|[2412.08847](http://arxiv.org/abs/2412.08847)|null|
 |**2024-12-11**|**AltFS: Agency-light Feature Selection with Large Language Models in Deep Recommender Systems**|Pengyue Jia et.al.|[2412.08516](http://arxiv.org/abs/2412.08516)|null|
 |**2024-12-03**|**MRP-LLM: Multitask Reflective Large Language Models for Privacy-Preserving Next POI Recommendation**|Ziqing Wu et.al.|[2412.07796](http://arxiv.org/abs/2412.07796)|null|
 |**2024-12-10**|**Scaling Sequential Recommendation Models with Transformers**|Pablo Zivic et.al.|[2412.07585](http://arxiv.org/abs/2412.07585)|**[link](https://github.com/mercadolibre/srt)**|
