@@ -324,7 +324,7 @@ layout: default
 |**2024-07-29**|**Adversarial Robustness in RGB-Skeleton Action Recognition: Leveraging Attention Modality Reweighter**|Chao Liu et.al.|[2407.19981](http://arxiv.org/abs/2407.19981)|null|
 |**2024-07-28**|**Exploring the Adversarial Robustness of CLIP for AI-generated Image Detection**|Vincenzo De Rosa et.al.|[2407.19553](http://arxiv.org/abs/2407.19553)|null|
 |**2024-07-28**|**Robust Fast Adaptation from Adversarially Explicit Task Distribution Generation**|Cheems Wang et.al.|[2407.19523](http://arxiv.org/abs/2407.19523)|null|
-|**2024-07-25**|**Adversarial Robust Decision Transformer: Enhancing Robustness of RvS via Minimax Returns-to-go**|Xiaohang Tang et.al.|[2407.18414](http://arxiv.org/abs/2407.18414)|null|
+|**2024-07-25**|**Adversarial Robust Decision Transformer: Enhancing Robustness of RvS via Minimax Returns-to-go**|Xiaohang Tang et.al.|[2407.18414](http://arxiv.org/abs/2407.18414)|**[link](https://github.com/xiaohangt/ardt)**|
 |**2024-07-22**|**Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs**|Abhay Sheshadri et.al.|[2407.15549](http://arxiv.org/abs/2407.15549)|**[link](https://github.com/aengusl/latent-adversarial-training)**|
 |**2024-07-20**|**Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models**|Md Zarif Hossain et.al.|[2407.14971](http://arxiv.org/abs/2407.14971)|null|
 |**2024-07-18**|**Distributionally and Adversarially Robust Logistic Regression via Intersecting Wasserstein Balls**|Aras Selvi et.al.|[2407.13625](http://arxiv.org/abs/2407.13625)|null|
@@ -503,7 +503,7 @@ layout: default
 |**2024-01-29**|**Adversarial Training on Purification (AToP): Advancing Both Robustness and Generalization**|Guang Lin et.al.|[2401.16352](http://arxiv.org/abs/2401.16352)|**[link](https://github.com/glin2022/atop)**|
 |**2024-01-27**|**Music Auto-Tagging with Robust Music Representation Learned via Domain Adversarial Training**|Haesun Joung et.al.|[2401.15323](http://arxiv.org/abs/2401.15323)|null|
 |**2024-01-26**|**Conserve-Update-Revise to Cure Generalization and Robustness Trade-off in Adversarial Training**|Shruthi Gowda et.al.|[2401.14948](http://arxiv.org/abs/2401.14948)|**[link](https://github.com/neurai-lab/cure)**|
-|**2024-01-26**|**Mitigating Feature Gap for Adversarial Robustness by Feature Disentanglement**|Nuoyan Zhou et.al.|[2401.14707](http://arxiv.org/abs/2401.14707)|null|
+|**2024-01-26**|**Mitigating Feature Gap for Adversarial Robustness by Feature Disentanglement**|Nuoyan Zhou et.al.|[2401.14707](http://arxiv.org/abs/2401.14707)|**[link](https://github.com/changzhang777/AFD)**|
 |**2024-01-25**|**The Surprising Harmfulness of Benign Overfitting for Adversarial Robustness**|Yifan Hao et.al.|[2401.12236](http://arxiv.org/abs/2401.12236)|null|
 |**2024-01-21**|**Adversarial Augmentation Training Makes Action Recognition Models More Robust to Realistic Video Distribution Shifts**|Kiyoon Kim et.al.|[2401.11406](http://arxiv.org/abs/2401.11406)|null|
 |**2024-01-20**|**CARE: Ensemble Adversarial Robustness Evaluation Against Adaptive Attackers for Security Applications**|Hangsheng Zhang et.al.|[2401.11126](http://arxiv.org/abs/2401.11126)|null|
@@ -759,7 +759,7 @@ layout: default
 |**2024-09-06**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
 |**2024-08-20**|**Towards Robust Knowledge Unlearning: An Adversarial Framework for Assessing and Improving Unlearning Robustness in Large Language Models**|Hongbang Yuan et.al.|[2408.10682](http://arxiv.org/abs/2408.10682)|null|
 |**2024-08-20**|**Enhancing Robustness in Large Language Models: Prompting for Mitigating the Impact of Irrelevant Information**|Ming Jiang et.al.|[2408.10615](http://arxiv.org/abs/2408.10615)|null|
-|**2024-08-20**|**Task-level Distributionally Robust Optimization for Large Language Model-based Dense Retrieval**|Guangyuan Ma et.al.|[2408.10613](http://arxiv.org/abs/2408.10613)|null|
+|**2024-08-20**|**Task-level Distributionally Robust Optimization for Large Language Model-based Dense Retrieval**|Guangyuan Ma et.al.|[2408.10613](http://arxiv.org/abs/2408.10613)|**[link](https://github.com/tdro-llm/tdro)**|
 |**2024-08-19**|**GANPrompt: Enhancing Robustness in LLM-Based Recommendations with GAN-Enhanced Diversity Prompts**|Xinyu Li et.al.|[2408.09671](http://arxiv.org/abs/2408.09671)|null|
 |**2024-08-18**|**A Transcription Prompt-based Efficient Audio Large Language Model for Robust Speech Recognition**|Yangze Li et.al.|[2408.09491](http://arxiv.org/abs/2408.09491)|null|
 |**2024-08-16**|**Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?**|Zhongjian Zhang et.al.|[2408.08685](http://arxiv.org/abs/2408.08685)|null|
