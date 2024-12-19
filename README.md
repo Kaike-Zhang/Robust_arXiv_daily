@@ -212,7 +212,7 @@
 |**2024-12-14**|**Improving Graph Neural Networks via Adversarial Robustness Evaluation**|Yongyu Wang et.al.|[2412.10850](http://arxiv.org/abs/2412.10850)|null|
 |**2024-12-13**|**On Adversarial Robustness and Out-of-Distribution Robustness of Large Language Models**|April Yang et.al.|[2412.10535](http://arxiv.org/abs/2412.10535)|**[link](https://github.com/jordantab/llm-robustness-experiment)**|
 |**2024-12-13**|**Adversarial Robustness of Bottleneck Injected Deep Neural Networks for Task-Oriented Communication**|Alireza Furutanpey et.al.|[2412.10265](http://arxiv.org/abs/2412.10265)|null|
-|**2024-12-13**|**$\textrm{A}^{\textrm{2}}$ RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion**|Jiawei Li et.al.|[2412.09954](http://arxiv.org/abs/2412.09954)|**[link](https://github.com/lok-18/a2rnet)**|
+|**2024-12-18**|**A2RNet: Adversarial Attack Resilient Network for Robust Infrared and Visible Image Fusion**|Jiawei Li et.al.|[2412.09954](http://arxiv.org/abs/2412.09954)|**[link](https://github.com/lok-18/a2rnet)**|
 |**2024-12-17**|**Adaptive Epsilon Adversarial Training for Robust Gravitational Wave Parameter Estimation Using Normalizing Flows**|Yiqian Yang et.al.|[2412.07559](http://arxiv.org/abs/2412.07559)|null|
 |**2024-12-10**|**Defensive Dual Masking for Robust Adversarial Defense**|Wangli Yang et.al.|[2412.07078](http://arxiv.org/abs/2412.07078)|null|
 |**2024-12-16**|**Take Fake as Real: Realistic-like Robust Black-box Adversarial Attack to Evade AIGC Detection**|Caiyun Xie et.al.|[2412.06727](http://arxiv.org/abs/2412.06727)|**[link](https://github.com/xcy-github/R2BA_Evade_AIGC_Detection)**|
@@ -932,6 +932,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-18**|**Semantic Convergence: Harmonizing Recommender Systems via Two-Stage Alignment and Behavioral Semantic Tokenization**|Guanghan Li et.al.|[2412.13771](http://arxiv.org/abs/2412.13771)|null|
+|**2024-12-18**|**Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models**|Zheng Hu et.al.|[2412.13544](http://arxiv.org/abs/2412.13544)|**[link](https://github.com/laowangzi/cikgrec)**|
+|**2024-12-18**|**Large Language Model Enhanced Recommender Systems: Taxonomy, Trend, Application and Future**|Qidong Liu et.al.|[2412.13432](http://arxiv.org/abs/2412.13432)|**[link](https://github.com/liuqidong07/awesome-llm-enhanced-recommender-systems)**|
 |**2024-12-17**|**A Survey on Sequential Recommendation**|Liwei Pan et.al.|[2412.12770](http://arxiv.org/abs/2412.12770)|null|
 |**2024-12-17**|**LLM is Knowledge Graph Reasoner: LLM's Intuition-aware Knowledge Graph Reasoning for Cold-start Sequential Recommendation**|Keigo Sakurai et.al.|[2412.12464](http://arxiv.org/abs/2412.12464)|null|
 |**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
