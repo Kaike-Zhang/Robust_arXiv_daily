@@ -199,6 +199,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Boosting GNN Performance via Training Sample Selection Based on Adversarial Robustness Evaluation**|Yongyu Wang et.al.|[2412.14738](http://arxiv.org/abs/2412.14738)|null|
+|**2024-12-19**|**Holistic Adversarially Robust Pruning**|Qi Zhao et.al.|[2412.14714](http://arxiv.org/abs/2412.14714)|null|
 |**2024-12-17**|**Adversarially robust generalization theory via Jacobian regularization for deep neural networks**|Dongya Wu et.al.|[2412.12449](http://arxiv.org/abs/2412.12449)|null|
 |**2024-12-16**|**Towards Adversarial Robustness of Model-Level Mixture-of-Experts Architectures for Semantic Segmentation**|Svetlana Pavlitska et.al.|[2412.11608](http://arxiv.org/abs/2412.11608)|null|
 |**2024-12-14**|**Improving Graph Neural Networks via Adversarial Robustness Evaluation**|Yongyu Wang et.al.|[2412.10850](http://arxiv.org/abs/2412.10850)|null|
@@ -710,6 +712,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**RobustFT: Robust Supervised Fine-tuning for Large Language Models under Noisy Response**|Junyu Luo et.al.|[2412.14922](http://arxiv.org/abs/2412.14922)|**[link](https://github.com/luo-junyu/robustft)**|
 |**2024-12-17**|**Boosting LLM-based Relevance Modeling with Distribution-Aware Robust Learning**|Hong Liu et.al.|[2412.12504](http://arxiv.org/abs/2412.12504)|null|
 |**2024-12-16**|**A Benchmark and Robustness Study of In-Context-Learning with Large Language Models in Music Entity Detection**|Simon Hachmeier et.al.|[2412.11851](http://arxiv.org/abs/2412.11851)|**[link](https://github.com/progsi/ytuncoverllm)**|
 |**2024-12-15**|**Semantic Steganography: A Framework for Robust and High-Capacity Information Hiding using Large Language Models**|Minhao Bai et.al.|[2412.11043](http://arxiv.org/abs/2412.11043)|null|
@@ -920,6 +923,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-19**|**Are Longer Prompts Always Better? Prompt Selection in Large Language Models for Recommendation Systems**|Genki Kusano et.al.|[2412.14454](http://arxiv.org/abs/2412.14454)|null|
 |**2024-12-18**|**Semantic Convergence: Harmonizing Recommender Systems via Two-Stage Alignment and Behavioral Semantic Tokenization**|Guanghan Li et.al.|[2412.13771](http://arxiv.org/abs/2412.13771)|null|
 |**2024-12-18**|**Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models**|Zheng Hu et.al.|[2412.13544](http://arxiv.org/abs/2412.13544)|**[link](https://github.com/laowangzi/cikgrec)**|
 |**2024-12-18**|**Large Language Model Enhanced Recommender Systems: Taxonomy, Trend, Application and Future**|Qidong Liu et.al.|[2412.13432](http://arxiv.org/abs/2412.13432)|**[link](https://github.com/liuqidong07/awesome-llm-enhanced-recommender-systems)**|
