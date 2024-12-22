@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.12.21
+## Updated on 2024.12.22
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -930,7 +930,7 @@ layout: default
 |**2024-12-17**|**A Survey on Sequential Recommendation**|Liwei Pan et.al.|[2412.12770](http://arxiv.org/abs/2412.12770)|null|
 |**2024-12-17**|**LLM is Knowledge Graph Reasoner: LLM's Intuition-aware Knowledge Graph Reasoning for Cold-start Sequential Recommendation**|Keigo Sakurai et.al.|[2412.12464](http://arxiv.org/abs/2412.12464)|null|
 |**2024-12-16**|**Enhancing Healthcare Recommendation Systems with a Multimodal LLMs-based MOE Architecture**|Jingyu Xu et.al.|[2412.11557](http://arxiv.org/abs/2412.11557)|null|
-|**2024-12-15**|**RecSys Arena: Pair-wise Recommender System Evaluation with Large Language Models**|Zhuo Wu et.al.|[2412.11068](http://arxiv.org/abs/2412.11068)|**[link](https://github.com/anonyprojects/recsys-arena)**|
+|**2024-12-15**|**RecSys Arena: Pair-wise Recommender System Evaluation with Large Language Models**|Zhuo Wu et.al.|[2412.11068](http://arxiv.org/abs/2412.11068)|null|
 |**2024-12-12**|**SPRec: Leveraging Self-Play to Debias Preference Alignment for Large Language Model-based Recommendations**|Chongming Gao et.al.|[2412.09243](http://arxiv.org/abs/2412.09243)|null|
 |**2024-12-12**|**MOPI-HFRS: A Multi-objective Personalized Health-aware Food Recommendation System with LLM-enhanced Interpretation**|Zheyuan Zhang et.al.|[2412.08847](http://arxiv.org/abs/2412.08847)|**[link](https://github.com/Anonymous-Be3fb6/MOPI-HFRS)**|
 |**2024-12-11**|**AltFS: Agency-light Feature Selection with Large Language Models in Deep Recommender Systems**|Pengyue Jia et.al.|[2412.08516](http://arxiv.org/abs/2412.08516)|null|
