@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Legommenders: A Comprehensive Content-Based Recommendation Library with LLM Support**|Qijiong Liu et.al.|[2412.15973](http://arxiv.org/abs/2412.15973)|null|
 |**2024-12-17**|**A Survey on Recommendation Unlearning: Fundamentals, Taxonomy, Evaluation, and Open Questions**|Yuyuan Li et.al.|[2412.12836](http://arxiv.org/abs/2412.12836)|null|
 |**2024-12-16**|**Beyond Graph Convolution: Multimodal Recommendation with Topology-aware MLPs**|Junjie Huang et.al.|[2412.11747](http://arxiv.org/abs/2412.11747)|**[link](https://github.com/jessicahuang0163/TMLP)**|
 |**2024-12-15**|**Multi-Graph Co-Training for Capturing User Intent in Session-based Recommendation**|Zhe Yang et.al.|[2412.11105](http://arxiv.org/abs/2412.11105)|**[link](https://github.com/liang-tian-tian/mgcot)**|
@@ -199,6 +200,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Watertox: The Art of Simplicity in Universal Attacks A Cross-Model Framework for Robust Adversarial Generation**|Zhenghao Gao et.al.|[2412.15924](http://arxiv.org/abs/2412.15924)|null|
 |**2024-12-19**|**Boosting GNN Performance via Training Sample Selection Based on Adversarial Robustness Evaluation**|Yongyu Wang et.al.|[2412.14738](http://arxiv.org/abs/2412.14738)|null|
 |**2024-12-19**|**Holistic Adversarially Robust Pruning**|Qi Zhao et.al.|[2412.14714](http://arxiv.org/abs/2412.14714)|null|
 |**2024-12-17**|**Adversarially robust generalization theory via Jacobian regularization for deep neural networks**|Dongya Wu et.al.|[2412.12449](http://arxiv.org/abs/2412.12449)|null|
@@ -923,6 +925,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-20**|**Legommenders: A Comprehensive Content-Based Recommendation Library with LLM Support**|Qijiong Liu et.al.|[2412.15973](http://arxiv.org/abs/2412.15973)|null|
 |**2024-12-19**|**Are Longer Prompts Always Better? Prompt Selection in Large Language Models for Recommendation Systems**|Genki Kusano et.al.|[2412.14454](http://arxiv.org/abs/2412.14454)|null|
 |**2024-12-18**|**Semantic Convergence: Harmonizing Recommender Systems via Two-Stage Alignment and Behavioral Semantic Tokenization**|Guanghan Li et.al.|[2412.13771](http://arxiv.org/abs/2412.13771)|null|
 |**2024-12-18**|**Bridging the User-side Knowledge Gap in Knowledge-aware Recommendations with Large Language Models**|Zheng Hu et.al.|[2412.13544](http://arxiv.org/abs/2412.13544)|**[link](https://github.com/laowangzi/cikgrec)**|
