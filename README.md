@@ -1193,7 +1193,7 @@
 |**2024-04-06**|**Concept -- An Evaluation Protocol on Conversation Recommender Systems with System-centric and User-centric Factors**|Chen Huang et.al.|[2404.03304](http://arxiv.org/abs/2404.03304)|**[link](https://github.com/huangzichun/concept4crs)**|
 |**2024-04-22**|**Where to Move Next: Zero-shot Generalization of LLMs for Next POI Recommendation**|Shanshan Feng et.al.|[2404.01855](http://arxiv.org/abs/2404.01855)|**[link](https://github.com/llmmove/llmmove)**|
 |**2024-04-01**|**Maximizing User Experience with LLMOps-Driven Personalized Recommendation Systems**|Chenxi Shi et.al.|[2404.00903](http://arxiv.org/abs/2404.00903)|null|
-|**2024-04-07**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702](http://arxiv.org/abs/2404.00702)|null|
+|**2024-04-07**|**Tired of Plugins? Large Language Models Can Be End-To-End Recommenders**|Wenlin Zhang et.al.|[2404.00702](http://arxiv.org/abs/2404.00702)|**[link](https://github.com/applied-machine-learning-lab/llmtreerec)**|
 |**2024-03-31**|**A Review of Modern Recommender Systems Using Generative Models (Gen-RecSys)**|Yashar Deldjoo et.al.|[2404.00579](http://arxiv.org/abs/2404.00579)|**[link](https://github.com/yasdel/llm-recsys)**|
 |**2024-03-30**|**Aligning Large Language Models with Recommendation Knowledge**|Yuwei Cao et.al.|[2404.00245](http://arxiv.org/abs/2404.00245)|null|
 |**2024-03-30**|**Enhancing Content-based Recommendation via Large Language Model**|Wentao Xu et.al.|[2404.00236](http://arxiv.org/abs/2404.00236)|**[link](https://github.com/cjx96/loid)**|
