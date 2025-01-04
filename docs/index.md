@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.01.03
+## Updated on 2025.01.04
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -730,7 +730,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-12-30**|**Automated Robustness Testing for LLM-based NLP Software**|Mingxuan Xiao et.al.|[2412.21016](http://arxiv.org/abs/2412.21016)|null|
+|**2024-12-30**|**Automated Robustness Testing for LLM-based NLP Software**|Mingxuan Xiao et.al.|[2412.21016](http://arxiv.org/abs/2412.21016)|**[link](https://github.com/lumos-xiao/abs)**|
 |**2024-12-28**|**ComparisonQA: Evaluating Factuality Robustness of LLMs Through Knowledge Frequency Control and Uncertainty**|Qing Zong et.al.|[2412.20251](http://arxiv.org/abs/2412.20251)|**[link](https://github.com/HKUST-KnowComp/ComparisonQA)**|
 |**2024-12-25**|**Optimizing Large Language Models with an Enhanced LoRA Fine-Tuning Algorithm for Efficiency and Robustness in NLP Tasks**|Jiacheng Hu et.al.|[2412.18729](http://arxiv.org/abs/2412.18729)|null|
 |**2024-12-23**|**Path-of-Thoughts: Extracting and Following Paths for Robust Relational Reasoning with Large Language Models**|Ge Zhang et.al.|[2412.17963](http://arxiv.org/abs/2412.17963)|null|
