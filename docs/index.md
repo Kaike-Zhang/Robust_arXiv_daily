@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Causal survival analysis, Estimation of the Average Treatment Effect (ATE): Practical Recommendations**|Charlotte Voinot et.al.|[2501.05836](http://arxiv.org/abs/2501.05836)|null|
 |**2025-01-08**|**Efficient and Responsible Adaptation of Large Language Models for Robust and Equitable Top-k Recommendations**|Kirandeep Kaur et.al.|[2501.04762](http://arxiv.org/abs/2501.04762)|null|
 |**2025-01-07**|**KGIF: Optimizing Relation-Aware Recommendations with Knowledge Graph Information Fusion**|Dong Hyun Jeon et.al.|[2501.04161](http://arxiv.org/abs/2501.04161)|null|
 |**2025-01-08**|**Rethinking Byzantine Robustness in Federated Recommendation from Sparse Aggregation Perspective**|Zhongjian Zhang et.al.|[2501.03301](http://arxiv.org/abs/2501.03301)|**[link](https://github.com/zhongjian-zhang/spattack)**|
@@ -216,7 +217,7 @@ layout: default
 |**2025-01-02**|**Towards Adversarially Robust Deep Metric Learning**|Xiaopeng Ke et.al.|[2501.01025](http://arxiv.org/abs/2501.01025)|null|
 |**2024-12-29**|**On Adversarial Robustness of Language Models in Transfer Learning**|Bohdan Turbal et.al.|[2501.00066](http://arxiv.org/abs/2501.00066)|null|
 |**2024-12-28**|**A Robust Adversarial Ensemble with Causal (Feature Interaction) Interpretations for Image Classification**|Chunheng Zhao et.al.|[2412.20025](http://arxiv.org/abs/2412.20025)|null|
-|**2024-12-28**|**Adversarial Robustness for Deep Learning-based Wildfire Detection Models**|Ryo Ide et.al.|[2412.20006](http://arxiv.org/abs/2412.20006)|null|
+|**2025-01-10**|**Adversarial Robustness for Deep Learning-based Wildfire Prediction Models**|Ryo Ide et.al.|[2412.20006](http://arxiv.org/abs/2412.20006)|null|
 |**2024-12-27**|**Standard-Deviation-Inspired Regularization for Improving Adversarial Robustness**|Olukorede Fakorede et.al.|[2412.19947](http://arxiv.org/abs/2412.19947)|null|
 |**2024-12-27**|**Enhancing Adversarial Robustness of Deep Neural Networks Through Supervised Contrastive Learning**|Longwei Wang et.al.|[2412.19747](http://arxiv.org/abs/2412.19747)|null|
 |**2024-12-26**|**Federated Hybrid Training and Self-Adversarial Distillation: Towards Robust Edge Networks**|Yu Qiao et.al.|[2412.19354](http://arxiv.org/abs/2412.19354)|null|
@@ -958,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Collaboration of Large Language Models and Small Recommendation Models for Device-Cloud Recommendation**|Zheqi Lv et.al.|[2501.05647](http://arxiv.org/abs/2501.05647)|null|
 |**2025-01-08**|**Efficient and Responsible Adaptation of Large Language Models for Robust and Equitable Top-k Recommendations**|Kirandeep Kaur et.al.|[2501.04762](http://arxiv.org/abs/2501.04762)|null|
 |**2025-01-04**|**Knowledge Graph Retrieval-Augmented Generation for LLM-based Recommendation**|Shijie Wang et.al.|[2501.02226](http://arxiv.org/abs/2501.02226)|null|
 |**2025-01-04**|**The Application of Large Language Models in Recommendation Systems**|Peiyang Yu et.al.|[2501.02178](http://arxiv.org/abs/2501.02178)|null|
