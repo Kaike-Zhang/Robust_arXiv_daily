@@ -7,6 +7,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**Less is More: Information Bottleneck Denoised Multimedia Recommendation**|Yonghui Yang et.al.|[2501.12175](http://arxiv.org/abs/2501.12175)|null|
+|**2025-01-21**|**A Contrastive Framework with User, Item and Review Alignment for Recommendation**|Hoang V. Dong et.al.|[2501.11963](http://arxiv.org/abs/2501.11963)|null|
+|**2025-01-20**|**Poison-RAG: Adversarial Data Poisoning Attacks on Retrieval-Augmented Generation in Recommender Systems**|Fatemeh Nazary et.al.|[2501.11759](http://arxiv.org/abs/2501.11759)|**[link](https://github.com/atenanaz/poison-rag)**|
 |**2025-01-14**|**Advice for Diabetes Self-Management by ChatGPT Models: Challenges and Recommendations**|Waqar Hussain et.al.|[2501.07931](http://arxiv.org/abs/2501.07931)|null|
 |**2025-01-13**|**Intent-Interest Disentanglement and Item-Aware Intent Contrastive Learning for Sequential Recommendation**|Yijin Choi et.al.|[2501.07096](http://arxiv.org/abs/2501.07096)|null|
 |**2025-01-10**|**Causal survival analysis, Estimation of the Average Treatment Effect (ATE): Practical Recommendations**|Charlotte Voinot et.al.|[2501.05836](http://arxiv.org/abs/2501.05836)|null|
@@ -213,6 +216,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-18**|**Certifying Robustness via Topological Representations**|Jens Agerberg et.al.|[2501.10876](http://arxiv.org/abs/2501.10876)|null|
 |**2025-01-16**|**Double Visual Defense: Adversarial Pre-training and Instruction Tuning for Improving Vision-Language Model Robustness**|Zeyu Wang et.al.|[2501.09446](http://arxiv.org/abs/2501.09446)|null|
 |**2025-01-15**|**Salient Information Preserving Adversarial Training Improves Clean and Robust Accuracy**|Timothy Redgrave et.al.|[2501.09086](http://arxiv.org/abs/2501.09086)|null|
 |**2025-01-08**|**Towards Fair Class-wise Robustness: Class Optimal Distribution Adversarial Training**|Hongxin Zhi et.al.|[2501.04527](http://arxiv.org/abs/2501.04527)|null|
@@ -744,6 +748,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-12**|**Robust Hybrid Classical-Quantum Transfer Learning Model for Text Classification Using GPT-Neo 125M with LoRA & SMOTE Enhancement**|Santanam Wishal et.al.|[2501.10435](http://arxiv.org/abs/2501.10435)|null|
 |**2025-01-14**|**Exploring Robustness of Multilingual LLMs on Real-World Noisy Data**|Amirhossein Aliakbarzadeh et.al.|[2501.08322](http://arxiv.org/abs/2501.08322)|**[link](https://github.com/caisa-lab/llms-real-world-noise-robustness)**|
 |**2025-01-14**|**Exploring Robustness of LLMs to Sociodemographically-Conditioned Paraphrasing**|Pulkit Arora et.al.|[2501.08276](http://arxiv.org/abs/2501.08276)|null|
 |**2025-01-14**|**ArithmAttack: Evaluating Robustness of LLMs to Noisy Context in Math Problem Solving**|Zain Ul Abedin et.al.|[2501.08203](http://arxiv.org/abs/2501.08203)|null|
@@ -966,6 +971,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-21**|**LLM-Assisted Knowledge Graph Completion for Curriculum and Domain Modelling in Personalized Higher Education Recommendations**|Hasan Abu-Rasheed et.al.|[2501.12300](http://arxiv.org/abs/2501.12300)|null|
+|**2025-01-21**|**Contextualizing Recommendation Explanations with LLMs: A User Study**|Yuanjun Feng et.al.|[2501.12152](http://arxiv.org/abs/2501.12152)|null|
+|**2025-01-20**|**Poison-RAG: Adversarial Data Poisoning Attacks on Retrieval-Augmented Generation in Recommender Systems**|Fatemeh Nazary et.al.|[2501.11759](http://arxiv.org/abs/2501.11759)|**[link](https://github.com/atenanaz/poison-rag)**|
+|**2025-01-20**|**Revisiting Language Models in Neural News Recommender Systems**|Yuyue Zhao et.al.|[2501.11391](http://arxiv.org/abs/2501.11391)|**[link](https://github.com/go0day/lm4newsrec)**|
+|**2025-01-18**|**Enhancing User Intent for Recommendation Systems via Large Language Models**|Xiaochuan Xu et.al.|[2501.10871](http://arxiv.org/abs/2501.10871)|null|
+|**2025-01-18**|**Harnessing the Potential of Large Language Models in Modern Marketing Management: Applications, Future Directions, and Strategic Recommendations**|Raha Aghaei et.al.|[2501.10685](http://arxiv.org/abs/2501.10685)|null|
 |**2025-01-17**|**Addressing Popularity Bias in Third-Party Library Recommendations Using LLMs**|Claudio Di Sipio et.al.|[2501.10313](http://arxiv.org/abs/2501.10313)|null|
 |**2025-01-16**|**Evaluating Conversational Recommender Systems with Large Language Models: A User-Centric Evaluation Framework**|Nuo Chen et.al.|[2501.09493](http://arxiv.org/abs/2501.09493)|null|
 |**2025-01-14**|**Advice for Diabetes Self-Management by ChatGPT Models: Challenges and Recommendations**|Waqar Hussain et.al.|[2501.07931](http://arxiv.org/abs/2501.07931)|null|
