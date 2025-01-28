@@ -1,4 +1,4 @@
-## Updated on 2025.01.27
+## Updated on 2025.01.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -219,7 +219,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
 
 ## Robust ML
 
@@ -754,7 +754,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
 
 ## Security LLM
 
@@ -769,7 +769,7 @@
 |**2025-01-03**|**AVTrustBench: Assessing and Enhancing Reliability and Robustness in Audio-Visual LLMs**|Sanjoy Chowdhury et.al.|[2501.02135](http://arxiv.org/abs/2501.02135)|null|
 |**2024-12-31**|**Robust and Adaptive Optimization under a Large Language Model Lens**|Dimitris Bertsimas et.al.|[2501.00568](http://arxiv.org/abs/2501.00568)|null|
 |**2024-12-30**|**Automated Robustness Testing for LLM-based NLP Software**|Mingxuan Xiao et.al.|[2412.21016](http://arxiv.org/abs/2412.21016)|**[link](https://github.com/lumos-xiao/abs)**|
-|**2024-12-28**|**ComparisonQA: Evaluating Factuality Robustness of LLMs Through Knowledge Frequency Control and Uncertainty**|Qing Zong et.al.|[2412.20251](http://arxiv.org/abs/2412.20251)|**[link](https://github.com/HKUST-KnowComp/ComparisonQA)**|
+|**2024-12-28**|**ComparisonQA: Evaluating Factuality Robustness of LLMs Through Knowledge Frequency Control and Uncertainty**|Qing Zong et.al.|[2412.20251](http://arxiv.org/abs/2412.20251)|null|
 |**2024-12-25**|**Optimizing Large Language Models with an Enhanced LoRA Fine-Tuning Algorithm for Efficiency and Robustness in NLP Tasks**|Jiacheng Hu et.al.|[2412.18729](http://arxiv.org/abs/2412.18729)|null|
 |**2024-12-23**|**Path-of-Thoughts: Extracting and Following Paths for Robust Relational Reasoning with Large Language Models**|Ge Zhang et.al.|[2412.17963](http://arxiv.org/abs/2412.17963)|null|
 |**2024-12-22**|**Robustness of Large Language Models Against Adversarial Attacks**|Yiyi Tao et.al.|[2412.17011](http://arxiv.org/abs/2412.17011)|null|
@@ -980,7 +980,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -988,7 +988,7 @@
 |---|---|---|---|---|
 |**2025-01-24**|**Recommending Actionable Strategies: A Semantic Approach to Integrating Analytical Frameworks with Decision Heuristics**|Renato Ghisellini et.al.|[2501.14634](http://arxiv.org/abs/2501.14634)|null|
 |**2025-01-23**|**Large Language Model driven Policy Exploration for Recommender Systems**|Jie Wang et.al.|[2501.13816](http://arxiv.org/abs/2501.13816)|null|
-|**2025-01-23**|**Can Large Language Models Understand Preferences in Personalized Recommendation?**|Zhaoxuan Tan et.al.|[2501.13391](http://arxiv.org/abs/2501.13391)|null|
+|**2025-01-23**|**Can Large Language Models Understand Preferences in Personalized Recommendation?**|Zhaoxuan Tan et.al.|[2501.13391](http://arxiv.org/abs/2501.13391)|**[link](https://github.com/tamsiuhin/perrecbench)**|
 |**2025-01-23**|**Full-Stack Optimized Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation**|Rong Shan et.al.|[2501.13344](http://arxiv.org/abs/2501.13344)|null|
 |**2025-01-23**|**AgentRec: Agent Recommendation Using Sentence Embeddings Aligned to Human Feedback**|Joshua Park et.al.|[2501.13333](http://arxiv.org/abs/2501.13333)|**[link](https://github.com/joshprk/agentrec)**|
 |**2025-01-22**|**Leveraging LLMs to Create a Haptic Devices' Recommendation System**|Yang Liu et.al.|[2501.12573](http://arxiv.org/abs/2501.12573)|null|
@@ -1343,5 +1343,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20250127>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250128>back to top</a>)</p>
 
