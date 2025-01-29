@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**Hypergraph Diffusion for High-Order Recommender Systems**|Darnbi Sakong et.al.|[2501.16722](http://arxiv.org/abs/2501.16722)|null|
 |**2025-01-26**|**Distributionally Robust Graph Out-of-Distribution Recommendation via Diffusion Model**|Chu Zhao et.al.|[2501.15555](http://arxiv.org/abs/2501.15555)|null|
 |**2025-01-24**|**Handling Heterophily in Recommender Systems with Wavelet Hypergraph Diffusion**|Darnbi Sakong et.al.|[2501.14399](http://arxiv.org/abs/2501.14399)|null|
 |**2025-01-21**|**Less is More: Information Bottleneck Denoised Multimedia Recommendation**|Yonghui Yang et.al.|[2501.12175](http://arxiv.org/abs/2501.12175)|null|
@@ -226,6 +227,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**Towards Robust Stability Prediction in Smart Grids: GAN-based Approach under Data Constraints and Adversarial Challenges**|Emad Efatinasab et.al.|[2501.16490](http://arxiv.org/abs/2501.16490)|null|
 |**2025-01-25**|**Killing it with Zero-Shot: Adversarially Robust Novelty Detection**|Hossein Mirzaei et.al.|[2501.15271](http://arxiv.org/abs/2501.15271)|**[link](https://github.com/rohban-lab/zarnd)**|
 |**2025-01-23**|**Certified Robustness Under Bounded Levenshtein Distance**|Elias Abad Rocamora et.al.|[2501.13676](http://arxiv.org/abs/2501.13676)|null|
 |**2025-01-18**|**Certifying Robustness via Topological Representations**|Jens Agerberg et.al.|[2501.10876](http://arxiv.org/abs/2501.10876)|null|
@@ -762,6 +764,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-25**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|null|
 |**2025-01-27**|**Robust Mobile Robot Path Planning via LLM-Based Dynamic Waypoint Generation**|Muhammad Taha Tariq et.al.|[2501.15901](http://arxiv.org/abs/2501.15901)|null|
 |**2025-01-24**|**Clear Minds Think Alike: What Makes LLM Fine-tuning Robust? A Study of Token Perplexity**|Chao-Chung Wu et.al.|[2501.14315](http://arxiv.org/abs/2501.14315)|null|
 |**2025-01-22**|**Robust Hybrid Classical-Quantum Transfer Learning Model for Text Classification Using GPT-Neo 125M with LoRA & SMOTE Enhancement**|Santanam Wishal et.al.|[2501.10435](http://arxiv.org/abs/2501.10435)|**[link](https://github.com/kianaaa19/leopold)**|
@@ -990,7 +993,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-01-27**|**SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**|Jingtong Gao et.al.|[2501.16125](http://arxiv.org/abs/2501.16125)|null|
-|**2025-01-25**|**Generating Negative Samples for Multi-Modal Recommendation**|Yanbiao Ji et.al.|[2501.15183](http://arxiv.org/abs/2501.15183)|null|
+|**2025-01-28**|**Generating Negative Samples for Multi-Modal Recommendation**|Yanbiao Ji et.al.|[2501.15183](http://arxiv.org/abs/2501.15183)|null|
 |**2025-01-25**|**PatchRec: Multi-Grained Patching for Efficient LLM-based Sequential Recommendation**|Jiayi Liao et.al.|[2501.15087](http://arxiv.org/abs/2501.15087)|null|
 |**2025-01-24**|**Recommending Actionable Strategies: A Semantic Approach to Integrating Analytical Frameworks with Decision Heuristics**|Renato Ghisellini et.al.|[2501.14634](http://arxiv.org/abs/2501.14634)|null|
 |**2025-01-23**|**Large Language Model driven Policy Exploration for Recommender Systems**|Jie Wang et.al.|[2501.13816](http://arxiv.org/abs/2501.13816)|null|
