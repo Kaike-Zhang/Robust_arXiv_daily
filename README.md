@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation**|Yunzhe Li et.al.|[2501.19232](http://arxiv.org/abs/2501.19232)|null|
 |**2025-01-30**|**Improving Minimax Group Fairness in Sequential Recommendation**|Krishna Acharya et.al.|[2501.18117](http://arxiv.org/abs/2501.18117)|**[link](https://github.com/krishnacharya/sequentialrec-fairness)**|
 |**2025-01-29**|**Distinguished Quantized Guidance for Diffusion-based Sequence Recommendation**|Wenyu Mao et.al.|[2501.17670](http://arxiv.org/abs/2501.17670)|null|
 |**2025-01-29**|**Value Function Decomposition in Markov Recommendation Process**|Xiaobei Wang et.al.|[2501.17409](http://arxiv.org/abs/2501.17409)|null|
@@ -230,6 +231,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Distorting Embedding Space for Safety: A Defense Mechanism for Adversarially Robust Diffusion Models**|Jaesin Ahn et.al.|[2501.18877](http://arxiv.org/abs/2501.18877)|**[link](https://github.com/aei13/des)**|
+|**2025-01-31**|**Trading Inference-Time Compute for Adversarial Robustness**|Wojciech Zaremba et.al.|[2501.18841](http://arxiv.org/abs/2501.18841)|null|
 |**2025-01-21**|**Heterogeneous Multi-Player Multi-Armed Bandits Robust To Adversarial Attacks**|Akshayaa Magesh et.al.|[2501.17882](http://arxiv.org/abs/2501.17882)|null|
 |**2025-01-29**|**CAMP in the Odyssey: Provably Robust Reinforcement Learning with Certified Radius Maximization**|Derui Wang et.al.|[2501.17667](http://arxiv.org/abs/2501.17667)|**[link](https://github.com/neuralsec/camp-robust-rl)**|
 |**2025-01-29**|**A Dual-Agent Adversarial Framework for Robust Generalization in Deep Reinforcement Learning**|Zhengpeng Xie et.al.|[2501.17384](http://arxiv.org/abs/2501.17384)|null|
@@ -770,6 +773,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Improving the Robustness of Representation Misdirection for Large Language Model Unlearning**|Dang Huu-Tien et.al.|[2501.19202](http://arxiv.org/abs/2501.19202)|null|
+|**2025-01-31**|**Towards the Worst-case Robustness of Large Language Models**|Huanran Chen et.al.|[2501.19040](http://arxiv.org/abs/2501.19040)|null|
+|**2025-01-30**|**Examining the Robustness of Large Language Models across Language Complexity**|Jiayi Zhang et.al.|[2501.18738](http://arxiv.org/abs/2501.18738)|null|
 |**2025-01-25**|**RotateKV: Accurate and Robust 2-Bit KV Cache Quantization for LLMs via Outlier-Aware Adaptive Rotations**|Zunhai Su et.al.|[2501.16383](http://arxiv.org/abs/2501.16383)|null|
 |**2025-01-27**|**Robust Mobile Robot Path Planning via LLM-Based Dynamic Waypoint Generation**|Muhammad Taha Tariq et.al.|[2501.15901](http://arxiv.org/abs/2501.15901)|null|
 |**2025-01-24**|**Clear Minds Think Alike: What Makes LLM Fine-tuning Robust? A Study of Token Perplexity**|Chao-Chung Wu et.al.|[2501.14315](http://arxiv.org/abs/2501.14315)|null|
@@ -998,8 +1004,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation**|Yunzhe Li et.al.|[2501.19232](http://arxiv.org/abs/2501.19232)|null|
 |**2025-01-29**|**Uncertainty Quantification and Decomposition for LLM-based Recommendation**|Wonbin Kweon et.al.|[2501.17630](http://arxiv.org/abs/2501.17630)|**[link](https://github.com/wonbinkweon/unc_llm_rec_www2025)**|
-|**2025-01-27**|**SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**|Jingtong Gao et.al.|[2501.16125](http://arxiv.org/abs/2501.16125)|null|
+|**2025-01-31**|**SampleLLM: Optimizing Tabular Data Synthesis in Recommendations**|Jingtong Gao et.al.|[2501.16125](http://arxiv.org/abs/2501.16125)|null|
 |**2025-01-28**|**Generating Negative Samples for Multi-Modal Recommendation**|Yanbiao Ji et.al.|[2501.15183](http://arxiv.org/abs/2501.15183)|null|
 |**2025-01-25**|**PatchRec: Multi-Grained Patching for Efficient LLM-based Sequential Recommendation**|Jiayi Liao et.al.|[2501.15087](http://arxiv.org/abs/2501.15087)|null|
 |**2025-01-24**|**Recommending Actionable Strategies: A Semantic Approach to Integrating Analytical Frameworks with Decision Heuristics**|Renato Ghisellini et.al.|[2501.14634](http://arxiv.org/abs/2501.14634)|null|
