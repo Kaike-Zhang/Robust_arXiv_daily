@@ -390,7 +390,7 @@ layout: default
 |**2024-07-16**|**Variational Randomized Smoothing for Sample-Wise Adversarial Robustness**|Ryo Hase et.al.|[2407.11844](http://arxiv.org/abs/2407.11844)|null|
 |**2024-07-15**|**Towards Adversarially Robust Vision-Language Models: Insights from Design Choices and Prompt Formatting Techniques**|Rishika Bhagwatkar et.al.|[2407.11121](http://arxiv.org/abs/2407.11121)|null|
 |**2024-07-12**|**Evaluating the Adversarial Robustness of Semantic Segmentation: Trying Harder Pays Off**|Levente Halmosi et.al.|[2407.09150](http://arxiv.org/abs/2407.09150)|**[link](https://github.com/szegedai/robust-segmentation-evaluation)**|
-|**2024-07-11**|**Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation**|Riccardo Cantini et.al.|[2407.08441](http://arxiv.org/abs/2407.08441)|null|
+|**2024-07-11**|**Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation**|Riccardo Cantini et.al.|[2407.08441](http://arxiv.org/abs/2407.08441)|**[link](https://github.com/SCAlabUnical/LLM-Bias-Jailbreak)**|
 |**2024-07-09**|**Robust Neural Information Retrieval: An Adversarial and Out-of-distribution Perspective**|Yu-An Liu et.al.|[2407.06992](http://arxiv.org/abs/2407.06992)|**[link](https://github.com/davion-liu/awesome-robustness-in-information-retrieval)**|
 |**2024-07-04**|**Certifiably Robust Image Watermark**|Zhengyuan Jiang et.al.|[2407.04086](http://arxiv.org/abs/2407.04086)|**[link](https://github.com/zhengyuan-jiang/Watermark-Library)**|
 |**2024-07-04**|**Mitigating Low-Frequency Bias: Feature Recalibration and Frequency Attention Regularization for Adversarial Robustness**|Kejia Zhang et.al.|[2407.04016](http://arxiv.org/abs/2407.04016)|null|
@@ -859,7 +859,7 @@ layout: default
 |**2024-07-16**|**Robust Utility-Preserving Text Anonymization Based on Large Language Models**|Tianyu Yang et.al.|[2407.11770](http://arxiv.org/abs/2407.11770)|**[link](https://github.com/ukplab/arxiv2024-rupta)**|
 |**2024-07-15**|**Unraveling the Truth: Do LLMs really Understand Charts? A Deep Dive into Consistency and Robustness**|Srija Mukhopadhyay et.al.|[2407.11229](http://arxiv.org/abs/2407.11229)|null|
 |**2024-07-12**|**Robustness of LLMs to Perturbations in Text**|Ayush Singh et.al.|[2407.08989](http://arxiv.org/abs/2407.08989)|null|
-|**2024-07-11**|**Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation**|Riccardo Cantini et.al.|[2407.08441](http://arxiv.org/abs/2407.08441)|null|
+|**2024-07-11**|**Are Large Language Models Really Bias-Free? Jailbreak Prompts for Assessing Adversarial Robustness to Bias Elicitation**|Riccardo Cantini et.al.|[2407.08441](http://arxiv.org/abs/2407.08441)|**[link](https://github.com/SCAlabUnical/LLM-Bias-Jailbreak)**|
 |**2024-07-08**|**$R^2$ -Guard: Robust Reasoning Enabled LLM Guardrail via Knowledge-Enhanced Logical Reasoning**|Mintong Kang et.al.|[2407.05557](http://arxiv.org/abs/2407.05557)|**[link](https://github.com/kangmintong/r-2-guard)**|
 |**2024-07-01**|**Enhancing the Capability and Robustness of Large Language Models through Reinforcement Learning-Driven Query Refinement**|Zisu Huang et.al.|[2407.01461](http://arxiv.org/abs/2407.01461)|**[link](https://github.com/huangzisu/query-refinement)**|
 |**2024-06-28**|**NLPerturbator: Studying the Robustness of Code LLMs to Natural Language Variations**|Junkai Chen et.al.|[2406.19783](http://arxiv.org/abs/2406.19783)|null|
