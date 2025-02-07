@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-05**|**Contrastive Learning for Cold Start Recommendation with Adaptive Feature Fusion**|Jiacheng Hu et.al.|[2502.03664](http://arxiv.org/abs/2502.03664)|null|
 |**2025-02-05**|**Intent Representation Learning with Large Language Model for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|null|
 |**2025-02-01**|**Personalized Denoising Implicit Feedback for Robust Recommender System**|Kaike Zhang et.al.|[2502.00348](http://arxiv.org/abs/2502.00348)|null|
 |**2025-01-31**|**A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation**|Yunzhe Li et.al.|[2501.19232](http://arxiv.org/abs/2501.19232)|null|
@@ -233,6 +234,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Adapting to Evolving Adversaries with Regularized Continual Robust Training**|Sihui Dai et.al.|[2502.04248](http://arxiv.org/abs/2502.04248)|null|
+|**2025-02-06**|**Improving Adversarial Robustness via Phase and Amplitude-aware Prompting**|Yibo Xu et.al.|[2502.03758](http://arxiv.org/abs/2502.03758)|null|
 |**2025-02-05**|**Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning**|Sunwoo Lee et.al.|[2502.02844](http://arxiv.org/abs/2502.02844)|null|
 |**2025-02-03**|**Adversarial Robustness in Two-Stage Learning-to-Defer: Algorithms and Guarantees**|Yannis Montreuil et.al.|[2502.01027](http://arxiv.org/abs/2502.01027)|null|
 |**2025-02-02**|**Boosting Adversarial Robustness and Generalization with Structural Prior**|Zhichao Hou et.al.|[2502.00834](http://arxiv.org/abs/2502.00834)|null|
@@ -1018,6 +1021,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**|Rui Cai et.al.|[2502.03715](http://arxiv.org/abs/2502.03715)|null|
 |**2025-02-05**|**Intent Representation Learning with Large Language Model for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|null|
 |**2025-02-05**|**Large Language Models Are Universal Recommendation Learners**|Junguang Jiang et.al.|[2502.03041](http://arxiv.org/abs/2502.03041)|null|
 |**2025-02-05**|**FuXi- $α$ : Scaling Recommendation Model with Feature Interaction Enhanced Transformer**|Yufei Ye et.al.|[2502.03036](http://arxiv.org/abs/2502.03036)|null|
