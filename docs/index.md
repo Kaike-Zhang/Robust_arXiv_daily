@@ -1082,7 +1082,7 @@ layout: default
 |**2024-11-27**|**Break the ID-Language Barrier: An Adaption Framework for Sequential Recommendation**|Xiaohan Yu et.al.|[2411.18262](http://arxiv.org/abs/2411.18262)|null|
 |**2024-11-22**|**GOT4Rec: Graph of Thoughts for Sequential Recommendation**|Zewen Long et.al.|[2411.14922](http://arxiv.org/abs/2411.14922)|null|
 |**2024-11-16**|**Unveiling User Preferences: A Knowledge Graph and LLM-Driven Approach for Conversational Recommendation**|Zhangchi Qiu et.al.|[2411.14459](http://arxiv.org/abs/2411.14459)|null|
-|**2024-11-21**|**HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems**|Qiyao Ma et.al.|[2411.13865](http://arxiv.org/abs/2411.13865)|null|
+|**2024-11-21**|**HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems**|Qiyao Ma et.al.|[2411.13865](http://arxiv.org/abs/2411.13865)|**[link](https://github.com/martin-qyma/herec)**|
 |**2024-11-26**|**LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display Advertisement Recommender System**|Fengxin Li et.al.|[2411.13789](http://arxiv.org/abs/2411.13789)|null|
 |**2024-11-20**|**Unleashing the Power of Large Language Models for Group POI Recommendations**|Jing Long et.al.|[2411.13415](http://arxiv.org/abs/2411.13415)|null|
 |**2024-11-18**|**Metamorphic Evaluation of ChatGPT as a Recommender System**|Madhurima Khirbat et.al.|[2411.12121](http://arxiv.org/abs/2411.12121)|null|
