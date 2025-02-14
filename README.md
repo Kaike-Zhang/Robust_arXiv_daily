@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**Beyond Models! Explainable Data Valuation and Metric Adaption for Recommendation**|Renqi Jia et.al.|[2502.08685](http://arxiv.org/abs/2502.08685)|null|
 |**2025-02-10**|**Network Intrusion Datasets: A Survey, Limitations, and Recommendations**|Patrik Goldschmidt et.al.|[2502.06688](http://arxiv.org/abs/2502.06688)|null|
 |**2025-02-05**|**Contrastive Learning for Cold Start Recommendation with Adaptive Feature Fusion**|Jiacheng Hu et.al.|[2502.03664](http://arxiv.org/abs/2502.03664)|null|
 |**2025-02-12**|**Intent Alignment between Interaction and Language Spaces for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|**[link](https://github.com/wangyu0627/irllrec)**|
@@ -795,7 +796,7 @@
 |**2025-02-05**|**SPARC: Subspace-Aware Prompt Adaptation for Robust Continual Learning in LLMs**|Dinithi Jayasuriya et.al.|[2502.02909](http://arxiv.org/abs/2502.02909)|null|
 |**2025-02-05**|**SimMark: A Robust Sentence-Level Similarity-Based Watermarking Algorithm for Large Language Models**|Amirhossein Dabiriaghdam et.al.|[2502.02787](http://arxiv.org/abs/2502.02787)|**[link](https://github.com/DabiriAghdam/SimMark)**|
 |**2025-02-07**|**Robust and Secure Code Watermarking for Large Language Models via ML/Crypto Codesign**|Ruisi Zhang et.al.|[2502.02068](http://arxiv.org/abs/2502.02068)|null|
-|**2025-02-03**|**Robust Federated Finetuning of LLMs via Alternating Optimization of LoRA**|Shuangyi Chen et.al.|[2502.01755](http://arxiv.org/abs/2502.01755)|null|
+|**2025-02-13**|**Robust Federated Finetuning of LLMs via Alternating Optimization of LoRA**|Shuangyi Chen et.al.|[2502.01755](http://arxiv.org/abs/2502.01755)|null|
 |**2025-02-03**|**Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2502.01576](http://arxiv.org/abs/2502.01576)|**[link](https://github.com/hashmatshadab/robust-llava)**|
 |**2025-02-02**|**The Accuracy, Robustness, and Readability of LLM-Generated Sustainability-Related Word Definitions**|Alice Heiman et.al.|[2502.00916](http://arxiv.org/abs/2502.00916)|null|
 |**2025-02-02**|**SecPE: Secure Prompt Ensembling for Private and Robust Large Language Models**|Jiawen Zhang et.al.|[2502.00847](http://arxiv.org/abs/2502.00847)|null|
@@ -1032,6 +1033,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-13**|**Unleashing the Power of Large Language Model for Denoising Recommendation**|Shuyao Wang et.al.|[2502.09058](http://arxiv.org/abs/2502.09058)|null|
 |**2025-02-12**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346](http://arxiv.org/abs/2502.08346)|null|
 |**2025-02-12**|**Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model**|Bencheng Yan et.al.|[2502.08309](http://arxiv.org/abs/2502.08309)|null|
 |**2025-02-12**|**MoLoRec: A Generalizable and Efficient Framework for LLM-Based Recommendation**|Min Hou et.al.|[2502.08271](http://arxiv.org/abs/2502.08271)|null|
