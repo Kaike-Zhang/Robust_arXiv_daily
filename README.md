@@ -1,4 +1,4 @@
-## Updated on 2025.02.13
+## Updated on 2025.02.14
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -15,7 +15,7 @@
 |---|---|---|---|---|
 |**2025-02-10**|**Network Intrusion Datasets: A Survey, Limitations, and Recommendations**|Patrik Goldschmidt et.al.|[2502.06688](http://arxiv.org/abs/2502.06688)|null|
 |**2025-02-05**|**Contrastive Learning for Cold Start Recommendation with Adaptive Feature Fusion**|Jiacheng Hu et.al.|[2502.03664](http://arxiv.org/abs/2502.03664)|null|
-|**2025-02-12**|**Intent Alignment between Interaction and Language Spaces for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|null|
+|**2025-02-12**|**Intent Alignment between Interaction and Language Spaces for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|**[link](https://github.com/wangyu0627/irllrec)**|
 |**2025-02-01**|**Personalized Denoising Implicit Feedback for Robust Recommender System**|Kaike Zhang et.al.|[2502.00348](http://arxiv.org/abs/2502.00348)|null|
 |**2025-01-31**|**A Zero-Shot Generalization Framework for LLM-Driven Cross-Domain Sequential Recommendation**|Yunzhe Li et.al.|[2501.19232](http://arxiv.org/abs/2501.19232)|null|
 |**2025-01-30**|**Improving Minimax Group Fairness in Sequential Recommendation**|Krishna Acharya et.al.|[2501.18117](http://arxiv.org/abs/2501.18117)|**[link](https://github.com/krishnacharya/sequentialrec-fairness)**|
@@ -229,7 +229,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250214>back to top</a>)</p>
 
 ## Robust ML
 
@@ -238,10 +238,10 @@
 |**2025-02-12**|**Cascading Bandits Robust to Adversarial Corruptions**|Jize Xie et.al.|[2502.08077](http://arxiv.org/abs/2502.08077)|null|
 |**2025-02-11**|**RoMA: Robust Malware Attribution via Byte-level Adversarial Training with Global Perturbations and Adversarial Consistency Regularization**|Yuxia Sun et.al.|[2502.07492](http://arxiv.org/abs/2502.07492)|null|
 |**2025-02-11**|**Simplifying Adversarially Robust PAC Learning with Tolerance**|Hassan Ashtiani et.al.|[2502.07232](http://arxiv.org/abs/2502.07232)|null|
-|**2025-02-11**|**CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models**|Sen Peng et.al.|[2502.07225](http://arxiv.org/abs/2502.07225)|null|
+|**2025-02-11**|**CAT: Contrastive Adversarial Training for Evaluating the Robustness of Protective Perturbations in Latent Diffusion Models**|Sen Peng et.al.|[2502.07225](http://arxiv.org/abs/2502.07225)|**[link](https://github.com/senp98/cat)**|
 |**2025-02-09**|**Certifying Language Model Robustness with Fuzzed Randomized Smoothing: An Efficient Defense Against Backdoor Attacks**|Bowei He et.al.|[2502.06892](http://arxiv.org/abs/2502.06892)|null|
 |**2025-02-10**|**Robust Watermarks Leak: Channel-Aware Feature Extraction Enables Adversarial Watermark Manipulation**|Zhongjie Ba et.al.|[2502.06418](http://arxiv.org/abs/2502.06418)|null|
-|**2025-02-07**|**Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification**|Jiayi Luo et.al.|[2502.05000](http://arxiv.org/abs/2502.05000)|null|
+|**2025-02-07**|**Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification**|Jiayi Luo et.al.|[2502.05000](http://arxiv.org/abs/2502.05000)|**[link](https://github.com/RingBDStack/DiffSP)**|
 |**2025-02-07**|**Adversarially-Robust TD Learning with Markovian Data: Finite-Time Rates and Fundamental Limits**|Sreejeet Maity et.al.|[2502.04662](http://arxiv.org/abs/2502.04662)|null|
 |**2025-02-06**|**Adapting to Evolving Adversaries with Regularized Continual Robust Training**|Sihui Dai et.al.|[2502.04248](http://arxiv.org/abs/2502.04248)|null|
 |**2025-02-06**|**Improving Adversarial Robustness via Phase and Amplitude-aware Prompting**|Yibo Xu et.al.|[2502.03758](http://arxiv.org/abs/2502.03758)|null|
@@ -784,7 +784,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250214>back to top</a>)</p>
 
 ## Security LLM
 
@@ -793,7 +793,7 @@
 |**2025-02-04**|**DERMARK: A Dynamic, Efficient and Robust Multi-bit Watermark for Large Language Models**|Qihao Lin et.al.|[2502.05213](http://arxiv.org/abs/2502.05213)|null|
 |**2025-02-04**|**Investigating the Robustness of Deductive Reasoning with Large Language Models**|Fabian Hoppe et.al.|[2502.04352](http://arxiv.org/abs/2502.04352)|null|
 |**2025-02-05**|**SPARC: Subspace-Aware Prompt Adaptation for Robust Continual Learning in LLMs**|Dinithi Jayasuriya et.al.|[2502.02909](http://arxiv.org/abs/2502.02909)|null|
-|**2025-02-05**|**SimMark: A Robust Sentence-Level Similarity-Based Watermarking Algorithm for Large Language Models**|Amirhossein Dabiriaghdam et.al.|[2502.02787](http://arxiv.org/abs/2502.02787)|null|
+|**2025-02-05**|**SimMark: A Robust Sentence-Level Similarity-Based Watermarking Algorithm for Large Language Models**|Amirhossein Dabiriaghdam et.al.|[2502.02787](http://arxiv.org/abs/2502.02787)|**[link](https://github.com/DabiriAghdam/SimMark)**|
 |**2025-02-07**|**Robust and Secure Code Watermarking for Large Language Models via ML/Crypto Codesign**|Ruisi Zhang et.al.|[2502.02068](http://arxiv.org/abs/2502.02068)|null|
 |**2025-02-03**|**Robust Federated Finetuning of LLMs via Alternating Optimization of LoRA**|Shuangyi Chen et.al.|[2502.01755](http://arxiv.org/abs/2502.01755)|null|
 |**2025-02-03**|**Robust-LLaVA: On the Effectiveness of Large-Scale Robust Image Encoders for Multi-modal Large Language Models**|Hashmat Shadab Malik et.al.|[2502.01576](http://arxiv.org/abs/2502.01576)|**[link](https://github.com/hashmatshadab/robust-llava)**|
@@ -1026,7 +1026,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250214>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -1035,11 +1035,11 @@
 |**2025-02-12**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346](http://arxiv.org/abs/2502.08346)|null|
 |**2025-02-12**|**Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model**|Bencheng Yan et.al.|[2502.08309](http://arxiv.org/abs/2502.08309)|null|
 |**2025-02-12**|**MoLoRec: A Generalizable and Efficient Framework for LLM-Based Recommendation**|Min Hou et.al.|[2502.08271](http://arxiv.org/abs/2502.08271)|null|
-|**2025-02-11**|**CreAgent: Towards Long-Term Evaluation of Recommender System under Platform-Creator Information Asymmetry**|Xiaopeng Ye et.al.|[2502.07307](http://arxiv.org/abs/2502.07307)|null|
+|**2025-02-11**|**CreAgent: Towards Long-Term Evaluation of Recommender System under Platform-Creator Information Asymmetry**|Xiaopeng Ye et.al.|[2502.07307](http://arxiv.org/abs/2502.07307)|**[link](https://github.com/shawnye2000/creagent)**|
 |**2025-02-01**|**Solving the Content Gap in Roblox Game Recommendations: LLM-Based Profile Generation and Reranking**|Chen Wang et.al.|[2502.06802](http://arxiv.org/abs/2502.06802)|null|
-|**2025-02-11**|**RALLRec: Improving Retrieval Augmented Large Language Model Recommendation with Representation Learning**|Jian Xu et.al.|[2502.06101](http://arxiv.org/abs/2502.06101)|null|
+|**2025-02-11**|**RALLRec: Improving Retrieval Augmented Large Language Model Recommendation with Representation Learning**|Jian Xu et.al.|[2502.06101](http://arxiv.org/abs/2502.06101)|**[link](https://github.com/jianxu95/rallrec)**|
 |**2025-02-06**|**Boosting Knowledge Graph-based Recommendations through Confidence-Aware Augmentation with Large Language Models**|Rui Cai et.al.|[2502.03715](http://arxiv.org/abs/2502.03715)|null|
-|**2025-02-12**|**Intent Alignment between Interaction and Language Spaces for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|null|
+|**2025-02-12**|**Intent Alignment between Interaction and Language Spaces for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|**[link](https://github.com/wangyu0627/irllrec)**|
 |**2025-02-05**|**Large Language Models Are Universal Recommendation Learners**|Junguang Jiang et.al.|[2502.03041](http://arxiv.org/abs/2502.03041)|null|
 |**2025-02-05**|**FuXi- $α$ : Scaling Recommendation Model with Feature Interaction Enhanced Transformer**|Yufei Ye et.al.|[2502.03036](http://arxiv.org/abs/2502.03036)|null|
 |**2025-02-05**|**FACTER: Fairness-Aware Conformal Thresholding and Prompt Engineering for Enabling Fair LLM-Based Recommender Systems**|Arya Fayyazi et.al.|[2502.02966](http://arxiv.org/abs/2502.02966)|null|
@@ -1408,5 +1408,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20250213>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250214>back to top</a>)</p>
 
