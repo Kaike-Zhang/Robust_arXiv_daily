@@ -13,7 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-12**|**Beyond Models! Explainable Data Valuation and Metric Adaption for Recommendation**|Renqi Jia et.al.|[2502.08685](http://arxiv.org/abs/2502.08685)|null|
+|**2025-02-12**|**Beyond Models! Explainable Data Valuation and Metric Adaption for Recommendation**|Renqi Jia et.al.|[2502.08685](http://arxiv.org/abs/2502.08685)|**[link](https://github.com/renqii/dvr)**|
 |**2025-02-10**|**Network Intrusion Datasets: A Survey, Limitations, and Recommendations**|Patrik Goldschmidt et.al.|[2502.06688](http://arxiv.org/abs/2502.06688)|null|
 |**2025-02-05**|**Contrastive Learning for Cold Start Recommendation with Adaptive Feature Fusion**|Jiacheng Hu et.al.|[2502.03664](http://arxiv.org/abs/2502.03664)|null|
 |**2025-02-12**|**Intent Alignment between Interaction and Language Spaces for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|**[link](https://github.com/wangyu0627/irllrec)**|
@@ -244,9 +244,9 @@
 |**2025-02-10**|**Robust Watermarks Leak: Channel-Aware Feature Extraction Enables Adversarial Watermark Manipulation**|Zhongjie Ba et.al.|[2502.06418](http://arxiv.org/abs/2502.06418)|null|
 |**2025-02-07**|**Robust Graph Learning Against Adversarial Evasion Attacks via Prior-Free Diffusion-Based Structure Purification**|Jiayi Luo et.al.|[2502.05000](http://arxiv.org/abs/2502.05000)|**[link](https://github.com/RingBDStack/DiffSP)**|
 |**2025-02-07**|**Adversarially-Robust TD Learning with Markovian Data: Finite-Time Rates and Fundamental Limits**|Sreejeet Maity et.al.|[2502.04662](http://arxiv.org/abs/2502.04662)|null|
-|**2025-02-06**|**Adapting to Evolving Adversaries with Regularized Continual Robust Training**|Sihui Dai et.al.|[2502.04248](http://arxiv.org/abs/2502.04248)|null|
+|**2025-02-06**|**Adapting to Evolving Adversaries with Regularized Continual Robust Training**|Sihui Dai et.al.|[2502.04248](http://arxiv.org/abs/2502.04248)|**[link](https://github.com/inspire-group/continual_robust_training)**|
 |**2025-02-06**|**Improving Adversarial Robustness via Phase and Amplitude-aware Prompting**|Yibo Xu et.al.|[2502.03758](http://arxiv.org/abs/2502.03758)|null|
-|**2025-02-05**|**Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning**|Sunwoo Lee et.al.|[2502.02844](http://arxiv.org/abs/2502.02844)|null|
+|**2025-02-14**|**Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning**|Sunwoo Lee et.al.|[2502.02844](http://arxiv.org/abs/2502.02844)|null|
 |**2025-02-03**|**Adversarial Robustness in Two-Stage Learning-to-Defer: Algorithms and Guarantees**|Yannis Montreuil et.al.|[2502.01027](http://arxiv.org/abs/2502.01027)|null|
 |**2025-02-02**|**Boosting Adversarial Robustness and Generalization with Structural Prior**|Zhichao Hou et.al.|[2502.00834](http://arxiv.org/abs/2502.00834)|null|
 |**2025-01-31**|**Distorting Embedding Space for Safety: A Defense Mechanism for Adversarially Robust Diffusion Models**|Jaesin Ahn et.al.|[2501.18877](http://arxiv.org/abs/2501.18877)|**[link](https://github.com/aei13/des)**|
@@ -1033,8 +1033,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-14**|**SessionRec: Next Session Prediction Paradigm For Generative Sequential Recommendation**|Lei Huang et.al.|[2502.10157](http://arxiv.org/abs/2502.10157)|null|
+|**2025-02-14**|**A Survey on LLM-powered Agents for Recommender Systems**|Qiyao Peng et.al.|[2502.10050](http://arxiv.org/abs/2502.10050)|null|
+|**2025-02-13**|**A Survey on LLM-based News Recommender Systems**|Rongyao Wang et.al.|[2502.09797](http://arxiv.org/abs/2502.09797)|null|
+|**2025-02-13**|**Genetic Data Governance in Crisis: Policy Recommendations for Safeguarding Privacy and Preventing Discrimination**|Vivek Ramanan et.al.|[2502.09716](http://arxiv.org/abs/2502.09716)|null|
 |**2025-02-13**|**Unleashing the Power of Large Language Model for Denoising Recommendation**|Shuyao Wang et.al.|[2502.09058](http://arxiv.org/abs/2502.09058)|null|
-|**2025-02-12**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346](http://arxiv.org/abs/2502.08346)|null|
+|**2025-02-14**|**Graph Foundation Models for Recommendation: A Comprehensive Survey**|Bin Wu et.al.|[2502.08346](http://arxiv.org/abs/2502.08346)|null|
 |**2025-02-12**|**Unlocking Scaling Law in Industrial Recommendation Systems with a Three-step Paradigm based Large User Model**|Bencheng Yan et.al.|[2502.08309](http://arxiv.org/abs/2502.08309)|null|
 |**2025-02-12**|**MoLoRec: A Generalizable and Efficient Framework for LLM-Based Recommendation**|Min Hou et.al.|[2502.08271](http://arxiv.org/abs/2502.08271)|null|
 |**2025-02-11**|**CreAgent: Towards Long-Term Evaluation of Recommender System under Platform-Creator Information Asymmetry**|Xiaopeng Ye et.al.|[2502.07307](http://arxiv.org/abs/2502.07307)|**[link](https://github.com/shawnye2000/creagent)**|
