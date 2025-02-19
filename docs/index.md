@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Preventing the Popular Item Embedding Based Attack in Federated Recommendations**|Jun Zhang et.al.|[2502.12958](http://arxiv.org/abs/2502.12958)|null|
+|**2025-02-18**|**From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval**|Jian Jia et.al.|[2502.12448](http://arxiv.org/abs/2502.12448)|null|
 |**2025-02-17**|**Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier**|Theresia Veronika Rampisela et.al.|[2502.11921](http://arxiv.org/abs/2502.11921)|**[link](https://github.com/theresiavr/DPFR-recsys-evaluation)**|
 |**2025-02-12**|**Beyond Models! Explainable Data Valuation and Metric Adaption for Recommendation**|Renqi Jia et.al.|[2502.08685](http://arxiv.org/abs/2502.08685)|**[link](https://github.com/renqii/dvr)**|
 |**2025-02-10**|**Network Intrusion Datasets: A Survey, Limitations, and Recommendations**|Patrik Goldschmidt et.al.|[2502.06688](http://arxiv.org/abs/2502.06688)|null|
@@ -229,6 +231,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-17**|**Alignment and Adversarial Robustness: Are More Human-Like Models More Secure?**|Blaine Hoak et.al.|[2502.12377](http://arxiv.org/abs/2502.12377)|null|
 |**2025-02-17**|**Adversarially Robust CLIP Models Can Induce Better (Robust) Perceptual Metrics**|Francesco Croce et.al.|[2502.11725](http://arxiv.org/abs/2502.11725)|null|
 |**2025-02-12**|**Cascading Bandits Robust to Adversarial Corruptions**|Jize Xie et.al.|[2502.08077](http://arxiv.org/abs/2502.08077)|null|
 |**2025-02-15**|**RoMA: Robust Malware Attribution via Byte-level Adversarial Training with Global Perturbations and Adversarial Consistency Regularization**|Yuxia Sun et.al.|[2502.07492](http://arxiv.org/abs/2502.07492)|null|
@@ -783,6 +786,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**AEIA-MN: Evaluating the Robustness of Multimodal LLM-Powered Mobile Agents Against Active Environmental Injection Attacks**|Yurun Chen et.al.|[2502.13053](http://arxiv.org/abs/2502.13053)|null|
+|**2025-02-18**|**Fraud-R1 : A Multi-Round Benchmark for Assessing the Robustness of LLM Against Augmented Fraud and Phishing Inducements**|Shu Yang et.al.|[2502.12904](http://arxiv.org/abs/2502.12904)|null|
 |**2025-02-17**|**FedEAT: A Robustness Optimization Framework for Federated LLMs**|Yahao Pang et.al.|[2502.11863](http://arxiv.org/abs/2502.11863)|null|
 |**2025-02-17**|**Revisiting Robust RAG: Do We Still Need Complex Robust Training in the Era of Powerful LLMs?**|Hanxing Ding et.al.|[2502.11400](http://arxiv.org/abs/2502.11400)|null|
 |**2025-02-17**|**HellaSwag-Pro: A Large-Scale Bilingual Benchmark for Evaluating the Robustness of LLMs in Commonsense Reasoning**|Xiaoyuan Li et.al.|[2502.11393](http://arxiv.org/abs/2502.11393)|null|
@@ -1029,9 +1034,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**Q-STRUM Debate: Query-Driven Contrastive Summarization for Recommendation Comparison**|George-Kirollos Saad et.al.|[2502.12921](http://arxiv.org/abs/2502.12921)|null|
+|**2025-02-18**|**G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable Recommendation**|Yuhan Li et.al.|[2502.12586](http://arxiv.org/abs/2502.12586)|null|
+|**2025-02-18**|**From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval**|Jian Jia et.al.|[2502.12448](http://arxiv.org/abs/2502.12448)|null|
 |**2025-02-17**|**Enhancing Recommendation Explanations through User-Centric Refinement**|Jingsen Zhang et.al.|[2502.11721](http://arxiv.org/abs/2502.11721)|null|
 |**2025-02-15**|**Order-agnostic Identifier for Large Language Model-based Generative Recommendation**|Xinyu Lin et.al.|[2502.10833](http://arxiv.org/abs/2502.10833)|null|
-|**2025-02-14**|**SessionRec: Next Session Prediction Paradigm For Generative Sequential Recommendation**|Lei Huang et.al.|[2502.10157](http://arxiv.org/abs/2502.10157)|null|
+|**2025-02-18**|**SessionRec: Next Session Prediction Paradigm For Generative Sequential Recommendation**|Lei Huang et.al.|[2502.10157](http://arxiv.org/abs/2502.10157)|null|
 |**2025-02-14**|**A Survey on LLM-powered Agents for Recommender Systems**|Qiyao Peng et.al.|[2502.10050](http://arxiv.org/abs/2502.10050)|null|
 |**2025-02-13**|**A Survey on LLM-based News Recommender Systems**|Rongyao Wang et.al.|[2502.09797](http://arxiv.org/abs/2502.09797)|null|
 |**2025-02-13**|**Genetic Data Governance in Crisis: Policy Recommendations for Safeguarding Privacy and Preventing Discrimination**|Vivek Ramanan et.al.|[2502.09716](http://arxiv.org/abs/2502.09716)|null|
