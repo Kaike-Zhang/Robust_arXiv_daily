@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.02.25
+## Updated on 2025.02.26
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-02-22**|**Exploiting Epistemic Uncertainty in Cold-Start Recommendation Systems**|Yang Xiang et.al.|[2502.16256](http://arxiv.org/abs/2502.16256)|null|
-|**2025-02-22**|**Semantic Gaussian Mixture Variational Autoencoder for Sequential Recommendation**|Beibei Li et.al.|[2502.16140](http://arxiv.org/abs/2502.16140)|null|
+|**2025-02-22**|**Semantic Gaussian Mixture Variational Autoencoder for Sequential Recommendation**|Beibei Li et.al.|[2502.16140](http://arxiv.org/abs/2502.16140)|**[link](https://github.com/libeibei95/sigma)**|
 |**2025-02-18**|**Preventing the Popular Item Embedding Based Attack in Federated Recommendations**|Jun Zhang et.al.|[2502.12958](http://arxiv.org/abs/2502.12958)|null|
 |**2025-02-18**|**From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval**|Jian Jia et.al.|[2502.12448](http://arxiv.org/abs/2502.12448)|null|
 |**2025-02-17**|**Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier**|Theresia Veronika Rampisela et.al.|[2502.11921](http://arxiv.org/abs/2502.11921)|**[link](https://github.com/theresiavr/DPFR-recsys-evaluation)**|
@@ -233,8 +233,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**Improved Diffusion-based Generative Model with Better Adversarial Robustness**|Zekun Wang et.al.|[2502.17099](http://arxiv.org/abs/2502.17099)|null|
-|**2025-02-23**|**Keeping up with dynamic attackers: Certifying robustness to adaptive online data poisoning**|Avinandan Bose et.al.|[2502.16737](http://arxiv.org/abs/2502.16737)|null|
+|**2025-02-24**|**Improved Diffusion-based Generative Model with Better Adversarial Robustness**|Zekun Wang et.al.|[2502.17099](http://arxiv.org/abs/2502.17099)|**[link](https://github.com/kugwzk/at_diff)**|
+|**2025-02-23**|**Keeping up with dynamic attackers: Certifying robustness to adaptive online data poisoning**|Avinandan Bose et.al.|[2502.16737](http://arxiv.org/abs/2502.16737)|**[link](https://github.com/avinandan22/certified-robustness)**|
 |**2025-02-23**|**Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error**|Haoran Li et.al.|[2502.16734](http://arxiv.org/abs/2502.16734)|null|
 |**2025-02-21**|**Adversarially-Robust Gossip Algorithms for Approximate Quantile and Mean Computations**|Bernhard Haeupler et.al.|[2502.15320](http://arxiv.org/abs/2502.15320)|null|
 |**2025-02-20**|**EigenShield: Causal Subspace Filtering via Random Matrix Theory for Adversarially Robust Vision-Language Models**|Nastaran Darabi et.al.|[2502.14976](http://arxiv.org/abs/2502.14976)|null|
@@ -794,7 +794,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-24**|**MultiOCR-QA: Dataset for Evaluating Robustness of LLMs in Question Answering on Multilingual OCR Texts**|Bhawna Piryani et.al.|[2502.16781](http://arxiv.org/abs/2502.16781)|null|
+|**2025-02-24**|**MultiOCR-QA: Dataset for Evaluating Robustness of LLMs in Question Answering on Multilingual OCR Texts**|Bhawna Piryani et.al.|[2502.16781](http://arxiv.org/abs/2502.16781)|**[link](https://github.com/datascienceuibk/multiocr-qa)**|
 |**2025-02-23**|**Navigation-GPT: A Robust and Adaptive Framework Utilizing Large Language Models for Navigation Applications**|Feng Ma et.al.|[2502.16402](http://arxiv.org/abs/2502.16402)|null|
 |**2025-02-22**|**ThinkBench: Dynamic Out-of-Distribution Evaluation for Robust LLM Reasoning**|Shulin Huang et.al.|[2502.16268](http://arxiv.org/abs/2502.16268)|null|
 |**2025-02-21**|**IPAD: Inverse Prompt for AI Detection -- A Robust and Explainable LLM-Generated Text Detector**|Zheng Chen et.al.|[2502.15902](http://arxiv.org/abs/2502.15902)|null|
