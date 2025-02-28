@@ -1,4 +1,4 @@
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -235,13 +235,13 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250228>back to top</a>)</p>
 
 ## Robust ML
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-25**|**CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification**|Mingkun Zhang et.al.|[2502.18176](http://arxiv.org/abs/2502.18176)|null|
+|**2025-02-25**|**CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification**|Mingkun Zhang et.al.|[2502.18176](http://arxiv.org/abs/2502.18176)|**[link](https://github.com/tmlresearchgroup-cas/clipure)**|
 |**2025-02-24**|**Improved Diffusion-based Generative Model with Better Adversarial Robustness**|Zekun Wang et.al.|[2502.17099](http://arxiv.org/abs/2502.17099)|**[link](https://github.com/kugwzk/at_diff)**|
 |**2025-02-23**|**Keeping up with dynamic attackers: Certifying robustness to adaptive online data poisoning**|Avinandan Bose et.al.|[2502.16737](http://arxiv.org/abs/2502.16737)|**[link](https://github.com/avinandan22/certified-robustness)**|
 |**2025-02-23**|**Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error**|Haoran Li et.al.|[2502.16734](http://arxiv.org/abs/2502.16734)|null|
@@ -799,7 +799,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250228>back to top</a>)</p>
 
 ## Security LLM
 
@@ -810,7 +810,7 @@
 |**2025-02-24**|**MultiOCR-QA: Dataset for Evaluating Robustness of LLMs in Question Answering on Multilingual OCR Texts**|Bhawna Piryani et.al.|[2502.16781](http://arxiv.org/abs/2502.16781)|**[link](https://github.com/datascienceuibk/multiocr-qa)**|
 |**2025-02-23**|**Navigation-GPT: A Robust and Adaptive Framework Utilizing Large Language Models for Navigation Applications**|Feng Ma et.al.|[2502.16402](http://arxiv.org/abs/2502.16402)|null|
 |**2025-02-22**|**ThinkBench: Dynamic Out-of-Distribution Evaluation for Robust LLM Reasoning**|Shulin Huang et.al.|[2502.16268](http://arxiv.org/abs/2502.16268)|null|
-|**2025-02-21**|**IPAD: Inverse Prompt for AI Detection -- A Robust and Explainable LLM-Generated Text Detector**|Zheng Chen et.al.|[2502.15902](http://arxiv.org/abs/2502.15902)|null|
+|**2025-02-21**|**IPAD: Inverse Prompt for AI Detection -- A Robust and Explainable LLM-Generated Text Detector**|Zheng Chen et.al.|[2502.15902](http://arxiv.org/abs/2502.15902)|**[link](https://github.com/Bellafc/IPAD-Inver-Prompt-for-AI-Detection-)**|
 |**2025-02-21**|**Investigating the Adaptive Robustness with Knowledge Conflicts in LLM-based Multi-Agent Systems**|Tianjie Ju et.al.|[2502.15153](http://arxiv.org/abs/2502.15153)|null|
 |**2025-02-19**|**EvoP: Robust LLM Inference via Evolutionary Pruning**|Shangyu Wu et.al.|[2502.14910](http://arxiv.org/abs/2502.14910)|null|
 |**2025-02-22**|**Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach**|Shenglai Zeng et.al.|[2502.14100](http://arxiv.org/abs/2502.14100)|null|
@@ -1058,7 +1058,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250228>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -1467,5 +1467,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20250227>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250228>back to top</a>)</p>
 

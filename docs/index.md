@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.02.27
+## Updated on 2025.02.28
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -233,7 +233,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-25**|**CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification**|Mingkun Zhang et.al.|[2502.18176](http://arxiv.org/abs/2502.18176)|null|
+|**2025-02-25**|**CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification**|Mingkun Zhang et.al.|[2502.18176](http://arxiv.org/abs/2502.18176)|**[link](https://github.com/tmlresearchgroup-cas/clipure)**|
 |**2025-02-24**|**Improved Diffusion-based Generative Model with Better Adversarial Robustness**|Zekun Wang et.al.|[2502.17099](http://arxiv.org/abs/2502.17099)|**[link](https://github.com/kugwzk/at_diff)**|
 |**2025-02-23**|**Keeping up with dynamic attackers: Certifying robustness to adaptive online data poisoning**|Avinandan Bose et.al.|[2502.16737](http://arxiv.org/abs/2502.16737)|**[link](https://github.com/avinandan22/certified-robustness)**|
 |**2025-02-23**|**Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error**|Haoran Li et.al.|[2502.16734](http://arxiv.org/abs/2502.16734)|null|
@@ -800,7 +800,7 @@ layout: default
 |**2025-02-24**|**MultiOCR-QA: Dataset for Evaluating Robustness of LLMs in Question Answering on Multilingual OCR Texts**|Bhawna Piryani et.al.|[2502.16781](http://arxiv.org/abs/2502.16781)|**[link](https://github.com/datascienceuibk/multiocr-qa)**|
 |**2025-02-23**|**Navigation-GPT: A Robust and Adaptive Framework Utilizing Large Language Models for Navigation Applications**|Feng Ma et.al.|[2502.16402](http://arxiv.org/abs/2502.16402)|null|
 |**2025-02-22**|**ThinkBench: Dynamic Out-of-Distribution Evaluation for Robust LLM Reasoning**|Shulin Huang et.al.|[2502.16268](http://arxiv.org/abs/2502.16268)|null|
-|**2025-02-21**|**IPAD: Inverse Prompt for AI Detection -- A Robust and Explainable LLM-Generated Text Detector**|Zheng Chen et.al.|[2502.15902](http://arxiv.org/abs/2502.15902)|null|
+|**2025-02-21**|**IPAD: Inverse Prompt for AI Detection -- A Robust and Explainable LLM-Generated Text Detector**|Zheng Chen et.al.|[2502.15902](http://arxiv.org/abs/2502.15902)|**[link](https://github.com/Bellafc/IPAD-Inver-Prompt-for-AI-Detection-)**|
 |**2025-02-21**|**Investigating the Adaptive Robustness with Knowledge Conflicts in LLM-based Multi-Agent Systems**|Tianjie Ju et.al.|[2502.15153](http://arxiv.org/abs/2502.15153)|null|
 |**2025-02-19**|**EvoP: Robust LLM Inference via Evolutionary Pruning**|Shangyu Wu et.al.|[2502.14910](http://arxiv.org/abs/2502.14910)|null|
 |**2025-02-22**|**Towards Context-Robust LLMs: A Gated Representation Fine-tuning Approach**|Shenglai Zeng et.al.|[2502.14100](http://arxiv.org/abs/2502.14100)|null|
