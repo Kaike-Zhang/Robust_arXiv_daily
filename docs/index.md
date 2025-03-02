@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.01
+## Updated on 2025.03.02
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -237,7 +237,7 @@ layout: default
 |**2025-02-25**|**CLIPure: Purification in Latent Space via CLIP for Adversarially Robust Zero-Shot Classification**|Mingkun Zhang et.al.|[2502.18176](http://arxiv.org/abs/2502.18176)|**[link](https://github.com/tmlresearchgroup-cas/clipure)**|
 |**2025-02-24**|**Improved Diffusion-based Generative Model with Better Adversarial Robustness**|Zekun Wang et.al.|[2502.17099](http://arxiv.org/abs/2502.17099)|**[link](https://github.com/kugwzk/at_diff)**|
 |**2025-02-23**|**Keeping up with dynamic attackers: Certifying robustness to adaptive online data poisoning**|Avinandan Bose et.al.|[2502.16737](http://arxiv.org/abs/2502.16737)|**[link](https://github.com/avinandan22/certified-robustness)**|
-|**2025-02-23**|**Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error**|Haoran Li et.al.|[2502.16734](http://arxiv.org/abs/2502.16734)|null|
+|**2025-02-23**|**Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error**|Haoran Li et.al.|[2502.16734](http://arxiv.org/abs/2502.16734)|**[link](https://github.com/RyanHaoranLi/CAR-RL)**|
 |**2025-02-21**|**Adversarially-Robust Gossip Algorithms for Approximate Quantile and Mean Computations**|Bernhard Haeupler et.al.|[2502.15320](http://arxiv.org/abs/2502.15320)|null|
 |**2025-02-20**|**EigenShield: Causal Subspace Filtering via Random Matrix Theory for Adversarially Robust Vision-Language Models**|Nastaran Darabi et.al.|[2502.14976](http://arxiv.org/abs/2502.14976)|null|
 |**2025-02-20**|**Generalization Certificates for Adversarially Robust Bayesian Linear Regression**|Mahalakshmi Sabanayagam et.al.|[2502.14298](http://arxiv.org/abs/2502.14298)|null|
