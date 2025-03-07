@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -238,7 +238,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-05**|**CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP**|Songlong Xing et.al.|[2503.03613](http://arxiv.org/abs/2503.03613)|null|
+|**2025-03-05**|**CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP**|Songlong Xing et.al.|[2503.03613](http://arxiv.org/abs/2503.03613)|**[link](https://github.com/Sxing2/CLIP-Test-time-Counterattacks)**|
 |**2025-03-03**|**Same Question, Different Words: A Latent Adversarial Framework for Prompt Robustness**|Tingchen Fu et.al.|[2503.01345](http://arxiv.org/abs/2503.01345)|null|
 |**2025-02-28**|**1-Lipschitz Network Initialization for Certifiably Robust Classification Applications: A Decay Problem**|Marius F. R. Juston et.al.|[2503.00240](http://arxiv.org/abs/2503.00240)|null|
 |**2025-02-28**|**Exploring the Impact of Temperature Scaling in Softmax for Classification and Adversarial Robustness**|Hao Xuan et.al.|[2502.20604](http://arxiv.org/abs/2502.20604)|null|
