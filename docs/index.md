@@ -938,7 +938,7 @@ layout: default
 |**2024-08-02**|**Coalitions of Large Language Models Increase the Robustness of AI Agents**|Prattyush Mangal et.al.|[2408.01380](http://arxiv.org/abs/2408.01380)|null|
 |**2024-08-02**|**MCGMark: An Encodable and Robust Online Watermark for LLM-Generated Malicious Code**|Kaiwen Ning et.al.|[2408.01354](http://arxiv.org/abs/2408.01354)|**[link](https://github.com/KevinHeiwa/MCGTM)**|
 |**2024-09-18**|**From ML to LLM: Evaluating the Robustness of Phishing Webpage Detection Models against Adversarial Attacks**|Aditya Kulkarni et.al.|[2407.20361](http://arxiv.org/abs/2407.20361)|null|
-|**2024-07-26**|**Exploring Scaling Trends in LLM Robustness**|Nikolaus Howe et.al.|[2407.18213](http://arxiv.org/abs/2407.18213)|null|
+|**2024-07-26**|**Exploring Scaling Trends in LLM Robustness**|Nikolaus Howe et.al.|[2407.18213](http://arxiv.org/abs/2407.18213)|**[link](https://github.com/AlignmentResearch/scaling-llm-robustness-paper)**|
 |**2024-09-16**|**Robust Privacy Amidst Innovation with Large Language Models Through a Critical Assessment of the Risks**|Yao-Shun Chuang et.al.|[2407.16166](http://arxiv.org/abs/2407.16166)|**[link](https://github.com/lifestrugglee/privacy-synthetic-generation)**|
 |**2024-08-21**|**Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs**|Abhay Sheshadri et.al.|[2407.15549](http://arxiv.org/abs/2407.15549)|**[link](https://github.com/aengusl/latent-adversarial-training)**|
 |**2024-07-03**|**Truth is Universal: Robust Detection of Lies in LLMs**|Lennart Bürger et.al.|[2407.12831](http://arxiv.org/abs/2407.12831)|**[link](https://github.com/sciai-lab/truth_is_universal)**|
