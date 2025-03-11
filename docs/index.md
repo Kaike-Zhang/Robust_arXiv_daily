@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-08**|**Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems**|Kibum Kim et.al.|[2503.06238](http://arxiv.org/abs/2503.06238)|null|
+|**2025-03-08**|**A Digital Twin-Driven Recommendation System for Adaptive Campus Course Timetabling**|Keshu Wu et.al.|[2503.06109](http://arxiv.org/abs/2503.06109)|null|
 |**2025-03-06**|**Training-Free Graph Filtering via Multimodal Feature Refinement for Extremely Fast Multimodal Recommendation**|Yu-Seung Roh et.al.|[2503.04406](http://arxiv.org/abs/2503.04406)|null|
 |**2025-03-05**|**Addressing Overprescribing Challenges: Fine-Tuning Large Language Models for Medication Recommendation Tasks**|Zihao Zhao et.al.|[2503.03687](http://arxiv.org/abs/2503.03687)|null|
 |**2025-03-04**|**Sparse Meets Dense: Unified Generative Recommendations with Cascaded Sparse-Dense Representations**|Yuhao Yang et.al.|[2503.02453](http://arxiv.org/abs/2503.02453)|null|
@@ -239,6 +241,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Breaking the Limits of Quantization-Aware Defenses: QADT-R for Robustness Against Patch-Based Adversarial Attacks in QNNs**|Amira Guesmi et.al.|[2503.07058](http://arxiv.org/abs/2503.07058)|null|
+|**2025-03-09**|**Enhancing NLP Robustness and Generalization through LLM-Generated Contrast Sets: A Scalable Framework for Systematic Evaluation and Adversarial Training**|Hender Lin et.al.|[2503.06648](http://arxiv.org/abs/2503.06648)|null|
+|**2025-03-09**|**MMARD: Improving the Min-Max Optimization Process in Adversarial Robustness Distillation**|Yuzheng Wang et.al.|[2503.06559](http://arxiv.org/abs/2503.06559)|null|
+|**2025-03-08**|**Adversarial Robustness of Discriminative Self-Supervised Learning in Vision**|Ömer Veysel Çağatan et.al.|[2503.06361](http://arxiv.org/abs/2503.06361)|null|
 |**2025-03-05**|**Adversarial Example Based Fingerprinting for Robust Copyright Protection in Split Learning**|Zhangting Lin et.al.|[2503.04825](http://arxiv.org/abs/2503.04825)|null|
 |**2025-03-06**|**Robust Eavesdropping in the Presence of Adversarial Communications for RF Fingerprinting**|Andrew Yuan et.al.|[2503.04120](http://arxiv.org/abs/2503.04120)|null|
 |**2025-03-05**|**CLIP is Strong Enough to Fight Back: Test-time Counterattacks towards Zero-shot Adversarial Robustness of CLIP**|Songlong Xing et.al.|[2503.03613](http://arxiv.org/abs/2503.03613)|**[link](https://github.com/Sxing2/CLIP-Test-time-Counterattacks)**|
@@ -808,6 +814,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-09**|**Enhancing NLP Robustness and Generalization through LLM-Generated Contrast Sets: A Scalable Framework for Systematic Evaluation and Adversarial Training**|Hender Lin et.al.|[2503.06648](http://arxiv.org/abs/2503.06648)|null|
+|**2025-03-08**|**Advancing Autonomous Vehicle Intelligence: Deep Learning and Multimodal LLM for Traffic Sign Recognition and Robust Lane Detection**|Chandan Kumar Sah et.al.|[2503.06313](http://arxiv.org/abs/2503.06313)|null|
+|**2025-03-07**|**This Is Your Doge, If It Please You: Exploring Deception and Robustness in Mixture of LLMs**|Lorenz Wolf et.al.|[2503.05856](http://arxiv.org/abs/2503.05856)|null|
 |**2025-03-07**|**An Empirical Study of Conformal Prediction in LLM with ASP Scaffolds for Robust Reasoning**|Navdeep Kaur et.al.|[2503.05439](http://arxiv.org/abs/2503.05439)|null|
 |**2025-03-07**|**Shifting Perspectives: Steering Vector Ensembles for Robust Bias Mitigation in LLMs**|Zara Siddique et.al.|[2503.05371](http://arxiv.org/abs/2503.05371)|null|
 |**2025-03-06**|**Benchmarking Reasoning Robustness in Large Language Models**|Tong Yu et.al.|[2503.04550](http://arxiv.org/abs/2503.04550)|null|
@@ -1076,6 +1085,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Process-Supervised LLM Recommenders via Flow-guided Tuning**|Chongming Gao et.al.|[2503.07377](http://arxiv.org/abs/2503.07377)|null|
+|**2025-03-09**|**Graph Retrieval-Augmented LLM for Conversational Recommendation Systems**|Zhangchi Qiu et.al.|[2503.06430](http://arxiv.org/abs/2503.06430)|null|
+|**2025-03-08**|**Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems**|Kibum Kim et.al.|[2503.06238](http://arxiv.org/abs/2503.06238)|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
 |**2025-03-07**|**Benchmarking LLMs in Recommendation Tasks: A Comparative Evaluation with Conventional Recommenders**|Qijiong Liu et.al.|[2503.05493](http://arxiv.org/abs/2503.05493)|null|
 |**2025-03-06**|**Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation**|Ziqiang Cui et.al.|[2503.04162](http://arxiv.org/abs/2503.04162)|null|
