@@ -241,6 +241,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Strengthening the Internal Adversarial Robustness in Lifted Neural Networks**|Christopher Zach et.al.|[2503.07818](http://arxiv.org/abs/2503.07818)|null|
 |**2025-03-10**|**Breaking the Limits of Quantization-Aware Defenses: QADT-R for Robustness Against Patch-Based Adversarial Attacks in QNNs**|Amira Guesmi et.al.|[2503.07058](http://arxiv.org/abs/2503.07058)|null|
 |**2025-03-09**|**Enhancing NLP Robustness and Generalization through LLM-Generated Contrast Sets: A Scalable Framework for Systematic Evaluation and Adversarial Training**|Hender Lin et.al.|[2503.06648](http://arxiv.org/abs/2503.06648)|null|
 |**2025-03-09**|**MMARD: Improving the Min-Max Optimization Process in Adversarial Robustness Distillation**|Yuzheng Wang et.al.|[2503.06559](http://arxiv.org/abs/2503.06559)|null|
@@ -1085,6 +1086,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Counterfactual Language Reasoning for Explainable Recommendation Systems**|Guanrong Li et.al.|[2503.08051](http://arxiv.org/abs/2503.08051)|null|
+|**2025-03-10**|**Uncovering Cross-Domain Recommendation Ability of Large Language Models**|Xinyi Liu et.al.|[2503.07761](http://arxiv.org/abs/2503.07761)|null|
 |**2025-03-10**|**Process-Supervised LLM Recommenders via Flow-guided Tuning**|Chongming Gao et.al.|[2503.07377](http://arxiv.org/abs/2503.07377)|null|
 |**2025-03-09**|**Graph Retrieval-Augmented LLM for Conversational Recommendation Systems**|Zhangchi Qiu et.al.|[2503.06430](http://arxiv.org/abs/2503.06430)|null|
 |**2025-03-08**|**Image is All You Need: Towards Efficient and Effective Large Language Model-Based Recommender Systems**|Kibum Kim et.al.|[2503.06238](http://arxiv.org/abs/2503.06238)|null|
