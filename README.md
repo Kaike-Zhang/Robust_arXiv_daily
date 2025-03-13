@@ -1,4 +1,4 @@
-## Updated on 2025.03.12
+## Updated on 2025.03.13
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -243,7 +243,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
 
 ## Robust ML
 
@@ -819,7 +819,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
 
 ## Security LLM
 
@@ -837,7 +837,7 @@
 |**2025-03-04**|**SAFE: A Sparse Autoencoder-Based Framework for Robust Query Enrichment and Hallucination Mitigation in LLMs**|Samir Abdaljalil et.al.|[2503.03032](http://arxiv.org/abs/2503.03032)|null|
 |**2025-03-04**|**LLM-Safety Evaluations Lack Robustness**|Tim Beyer et.al.|[2503.02574](http://arxiv.org/abs/2503.02574)|null|
 |**2025-02-26**|**Online Pseudo-average Shifting Attention(PASA) for Robust Low-precision LLM Inference: Algorithms and Numerical Analysis**|Long Cheng et.al.|[2503.01873](http://arxiv.org/abs/2503.01873)|null|
-|**2025-03-03**|**ABFS: Natural Robustness Testing for LLM-based NLP Software**|Mingxuan Xiao et.al.|[2503.01319](http://arxiv.org/abs/2503.01319)|null|
+|**2025-03-03**|**ABFS: Natural Robustness Testing for LLM-based NLP Software**|Mingxuan Xiao et.al.|[2503.01319](http://arxiv.org/abs/2503.01319)|**[link](https://github.com/lumos-xiao/ABFS)**|
 |**2025-02-28**|**SCORE: Systematic COnsistency and Robustness Evaluation for Large Language Models**|Grigor Nalbandyan et.al.|[2503.00137](http://arxiv.org/abs/2503.00137)|**[link](https://github.com/EleutherAI/lm-evaluation-harness)**|
 |**2025-02-25**|**Monte Carlo Temperature: a robust sampling strategy for LLM's uncertainty quantification methods**|Nicola Cecere et.al.|[2502.18389](http://arxiv.org/abs/2502.18389)|null|
 |**2025-02-24**|**Towards Robust Legal Reasoning: Harnessing Logical LLMs in Law**|Manuj Kant et.al.|[2502.17638](http://arxiv.org/abs/2502.17638)|null|
@@ -1092,7 +1092,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -1111,7 +1111,7 @@
 |**2025-03-04**|**Towards Explainable Doctor Recommendation with Large Language Models**|Ziyang Zeng et.al.|[2503.02298](http://arxiv.org/abs/2503.02298)|null|
 |**2025-03-03**|**LLMInit: A Free Lunch from Large Language Models for Selective Initialization of Recommendation**|Weizhi Zhang et.al.|[2503.01814](http://arxiv.org/abs/2503.01814)|null|
 |**2025-03-03**|**Leveraging LLMs for Mental Health: Detection and Recommendations from Social Discussions**|Vaishali Aggarwal et.al.|[2503.01442](http://arxiv.org/abs/2503.01442)|null|
-|**2025-03-03**|**Academic Literature Recommendation in Large-scale Citation Networks Enhanced by Large Language Models**|Kun Liu et.al.|[2503.01189](http://arxiv.org/abs/2503.01189)|null|
+|**2025-03-03**|**Academic Literature Recommendation in Large-scale Citation Networks Enhanced by Large Language Models**|Kun Liu et.al.|[2503.01189](http://arxiv.org/abs/2503.01189)|**[link](https://github.com/Gaotianchen97/Academic-Literature-Recommendation-in-Large-scale-Citation-Networks)**|
 |**2025-03-01**|**Instructor-Worker Large Language Model System for Policy Recommendation: a Case Study on Air Quality Analysis of the January 2025 Los Angeles Wildfires**|Kyle Gao et.al.|[2503.00566](http://arxiv.org/abs/2503.00566)|null|
 |**2025-02-28**|**Personalized Causal Graph Reasoning for LLMs: A Case Study on Dietary Recommendations**|Zhongqi Yang et.al.|[2503.00134](http://arxiv.org/abs/2503.00134)|null|
 |**2025-02-27**|**KEDRec-LM: A Knowledge-distilled Explainable Drug Recommendation Large Language Model**|Kai Zhang et.al.|[2502.20350](http://arxiv.org/abs/2502.20350)|null|
@@ -1518,5 +1518,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20250312>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250313>back to top</a>)</p>
 
