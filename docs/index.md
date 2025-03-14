@@ -241,6 +241,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology**|Hashmat Shadab Malik et.al.|[2503.10629](http://arxiv.org/abs/2503.10629)|null|
+|**2025-03-13**|**Robustness Tokens: Towards Adversarial Robustness of Transformers**|Brian Pulfer et.al.|[2503.10191](http://arxiv.org/abs/2503.10191)|null|
 |**2025-03-12**|**Quantitative Analysis of Deeply Quantized Tiny Neural Networks Robust to Adversarial Attacks**|Idris Zakariyya et.al.|[2503.08973](http://arxiv.org/abs/2503.08973)|null|
 |**2025-03-11**|**FairDeFace: Evaluating the Fairness and Adversarial Robustness of Face Obfuscation Methods**|Seyyed Mohammad Sadegh Moosavi Khorzooghi et.al.|[2503.08731](http://arxiv.org/abs/2503.08731)|null|
 |**2025-03-10**|**Strengthening the Internal Adversarial Robustness in Lifted Neural Networks**|Christopher Zach et.al.|[2503.07818](http://arxiv.org/abs/2503.07818)|null|
@@ -1091,6 +1093,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-13**|**Short-term AI literacy intervention does not reduce over-reliance on incorrect ChatGPT recommendations**|Brett Puppart et.al.|[2503.10556](http://arxiv.org/abs/2503.10556)|null|
 |**2025-03-12**|**Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs**|Jiani Huang et.al.|[2503.09382](http://arxiv.org/abs/2503.09382)|null|
 |**2025-03-11**|**Exposing Product Bias in LLM Investment Recommendation**|Yuhan Zhi et.al.|[2503.08750](http://arxiv.org/abs/2503.08750)|null|
 |**2025-03-11**|**Counterfactual Language Reasoning for Explainable Recommendation Systems**|Guanrong Li et.al.|[2503.08051](http://arxiv.org/abs/2503.08051)|null|
