@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -241,10 +241,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-13**|**Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology**|Hashmat Shadab Malik et.al.|[2503.10629](http://arxiv.org/abs/2503.10629)|null|
-|**2025-03-13**|**Robustness Tokens: Towards Adversarial Robustness of Transformers**|Brian Pulfer et.al.|[2503.10191](http://arxiv.org/abs/2503.10191)|null|
+|**2025-03-13**|**Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology**|Hashmat Shadab Malik et.al.|[2503.10629](http://arxiv.org/abs/2503.10629)|**[link](https://github.com/hashmatshadab/hsat)**|
+|**2025-03-13**|**Robustness Tokens: Towards Adversarial Robustness of Transformers**|Brian Pulfer et.al.|[2503.10191](http://arxiv.org/abs/2503.10191)|**[link](https://github.com/brianpulfer/robustness-tokens)**|
 |**2025-03-12**|**Quantitative Analysis of Deeply Quantized Tiny Neural Networks Robust to Adversarial Attacks**|Idris Zakariyya et.al.|[2503.08973](http://arxiv.org/abs/2503.08973)|null|
-|**2025-03-11**|**FairDeFace: Evaluating the Fairness and Adversarial Robustness of Face Obfuscation Methods**|Seyyed Mohammad Sadegh Moosavi Khorzooghi et.al.|[2503.08731](http://arxiv.org/abs/2503.08731)|null|
+|**2025-03-11**|**FairDeFace: Evaluating the Fairness and Adversarial Robustness of Face Obfuscation Methods**|Seyyed Mohammad Sadegh Moosavi Khorzooghi et.al.|[2503.08731](http://arxiv.org/abs/2503.08731)|**[link](https://github.com/fairdeface/FairDeface)**|
 |**2025-03-10**|**Strengthening the Internal Adversarial Robustness in Lifted Neural Networks**|Christopher Zach et.al.|[2503.07818](http://arxiv.org/abs/2503.07818)|null|
 |**2025-03-10**|**Breaking the Limits of Quantization-Aware Defenses: QADT-R for Robustness Against Patch-Based Adversarial Attacks in QNNs**|Amira Guesmi et.al.|[2503.07058](http://arxiv.org/abs/2503.07058)|null|
 |**2025-03-09**|**Enhancing NLP Robustness and Generalization through LLM-Generated Contrast Sets: A Scalable Framework for Systematic Evaluation and Adversarial Training**|Hender Lin et.al.|[2503.06648](http://arxiv.org/abs/2503.06648)|null|
@@ -821,10 +821,10 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-12**|**Safer or Luckier? LLMs as Safety Evaluators Are Not Robust to Artifacts**|Hongyu Chen et.al.|[2503.09347](http://arxiv.org/abs/2503.09347)|null|
 |**2025-03-11**|**Interpretable and Robust Dialogue State Tracking via Natural Language Summarization with LLMs**|Rafael Carranza et.al.|[2503.08857](http://arxiv.org/abs/2503.08857)|null|
-|**2025-03-11**|**Robust Multi-Objective Controlled Decoding of Large Language Models**|Seongho Son et.al.|[2503.08796](http://arxiv.org/abs/2503.08796)|null|
+|**2025-03-11**|**Robust Multi-Objective Controlled Decoding of Large Language Models**|Seongho Son et.al.|[2503.08796](http://arxiv.org/abs/2503.08796)|**[link](https://github.com/williambankes/robust-multi-objective-decoding)**|
 |**2025-03-09**|**Enhancing NLP Robustness and Generalization through LLM-Generated Contrast Sets: A Scalable Framework for Systematic Evaluation and Adversarial Training**|Hender Lin et.al.|[2503.06648](http://arxiv.org/abs/2503.06648)|null|
 |**2025-03-08**|**Advancing Autonomous Vehicle Intelligence: Deep Learning and Multimodal LLM for Traffic Sign Recognition and Robust Lane Detection**|Chandan Kumar Sah et.al.|[2503.06313](http://arxiv.org/abs/2503.06313)|null|
-|**2025-03-07**|**This Is Your Doge, If It Please You: Exploring Deception and Robustness in Mixture of LLMs**|Lorenz Wolf et.al.|[2503.05856](http://arxiv.org/abs/2503.05856)|null|
+|**2025-03-07**|**This Is Your Doge, If It Please You: Exploring Deception and Robustness in Mixture of LLMs**|Lorenz Wolf et.al.|[2503.05856](http://arxiv.org/abs/2503.05856)|**[link](https://github.com/lorenzflow/robust-moa)**|
 |**2025-03-07**|**An Empirical Study of Conformal Prediction in LLM with ASP Scaffolds for Robust Reasoning**|Navdeep Kaur et.al.|[2503.05439](http://arxiv.org/abs/2503.05439)|null|
 |**2025-03-07**|**Shifting Perspectives: Steering Vector Ensembles for Robust Bias Mitigation in LLMs**|Zara Siddique et.al.|[2503.05371](http://arxiv.org/abs/2503.05371)|null|
 |**2025-03-06**|**Benchmarking Reasoning Robustness in Large Language Models**|Tong Yu et.al.|[2503.04550](http://arxiv.org/abs/2503.04550)|null|
