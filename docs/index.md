@@ -242,6 +242,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Narrowing Class-Wise Robustness Gaps in Adversarial Training**|Fatemeh Amerehi et.al.|[2503.16179](http://arxiv.org/abs/2503.16179)|null|
 |**2025-03-18**|**LipShiFT: A Certifiably Robust Shift-based Vision Transformer**|Rohan Menon et.al.|[2503.14751](http://arxiv.org/abs/2503.14751)|null|
 |**2025-03-18**|**Survey of Adversarial Robustness in Multimodal Large Language Models**|Chengze Jiang et.al.|[2503.13962](http://arxiv.org/abs/2503.13962)|null|
 |**2025-03-18**|**Evolution-based Region Adversarial Prompt Learning for Robustness Enhancement in Vision-Language Models**|Xiaojun Jia et.al.|[2503.12874](http://arxiv.org/abs/2503.12874)|null|
