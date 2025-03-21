@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.03.20
+## Updated on 2025.03.21
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -248,7 +248,7 @@ layout: default
 |**2025-03-15**|**Robust Dataset Distillation by Matching Adversarial Trajectories**|Wei Lai et.al.|[2503.12069](http://arxiv.org/abs/2503.12069)|null|
 |**2025-03-14**|**Adversarial Data Collection: Human-Collaborative Perturbations for Efficient and Robust Robotic Imitation Learning**|Siyuan Huang et.al.|[2503.11646](http://arxiv.org/abs/2503.11646)|null|
 |**2025-03-14**|**Are Deep Speech Denoising Models Robust to Adversarial Noise?**|Will Schwarzer et.al.|[2503.11627](http://arxiv.org/abs/2503.11627)|null|
-|**2025-03-14**|**Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data**|Lilin Zhang et.al.|[2503.11032](http://arxiv.org/abs/2503.11032)|null|
+|**2025-03-20**|**Weakly Supervised Contrastive Adversarial Training for Learning Robust Features from Semi-supervised Data**|Lilin Zhang et.al.|[2503.11032](http://arxiv.org/abs/2503.11032)|null|
 |**2025-03-13**|**Hierarchical Self-Supervised Adversarial Training for Robust Vision Models in Histopathology**|Hashmat Shadab Malik et.al.|[2503.10629](http://arxiv.org/abs/2503.10629)|**[link](https://github.com/hashmatshadab/hsat)**|
 |**2025-03-13**|**Robustness Tokens: Towards Adversarial Robustness of Transformers**|Brian Pulfer et.al.|[2503.10191](http://arxiv.org/abs/2503.10191)|**[link](https://github.com/brianpulfer/robustness-tokens)**|
 |**2025-03-12**|**Quantitative Analysis of Deeply Quantized Tiny Neural Networks Robust to Adversarial Attacks**|Idris Zakariyya et.al.|[2503.08973](http://arxiv.org/abs/2503.08973)|null|
@@ -1103,7 +1103,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-18**|**TablePilot: Recommending Human-Preferred Tabular Data Analysis with Large Language Models**|Deyin Yi et.al.|[2503.13262](http://arxiv.org/abs/2503.13262)|null|
+|**2025-03-20**|**TablePilot: Recommending Human-Preferred Tabular Data Analysis with Large Language Models**|Deyin Yi et.al.|[2503.13262](http://arxiv.org/abs/2503.13262)|null|
 |**2025-03-16**|**LLMSeR: Enhancing Sequential Recommendation via LLM-based Data Augmentation**|Yuqi Sun et.al.|[2503.12547](http://arxiv.org/abs/2503.12547)|null|
 |**2025-03-12**|**Harmonizing Large Language Models with Collaborative Behavioral Signals for Conversational Recommendation**|Guanrong Li et.al.|[2503.10703](http://arxiv.org/abs/2503.10703)|**[link](https://github.com/kylokano/LatentCRS)**|
 |**2025-03-13**|**Short-term AI literacy intervention does not reduce over-reliance on incorrect ChatGPT recommendations**|Brett Puppart et.al.|[2503.10556](http://arxiv.org/abs/2503.10556)|null|
