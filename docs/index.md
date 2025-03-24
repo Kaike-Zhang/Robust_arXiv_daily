@@ -242,6 +242,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability**|Sanjif Shanmugavelu et.al.|[2503.17173](http://arxiv.org/abs/2503.17173)|null|
+|**2025-03-21**|**Principal Eigenvalue Regularization for Improved Worst-Class Certified Robustness of Smoothed Classifiers**|Gaojie Jin et.al.|[2503.17172](http://arxiv.org/abs/2503.17172)|null|
 |**2025-03-20**|**Narrowing Class-Wise Robustness Gaps in Adversarial Training**|Fatemeh Amerehi et.al.|[2503.16179](http://arxiv.org/abs/2503.16179)|null|
 |**2025-03-18**|**LipShiFT: A Certifiably Robust Shift-based Vision Transformer**|Rohan Menon et.al.|[2503.14751](http://arxiv.org/abs/2503.14751)|null|
 |**2025-03-18**|**Survey of Adversarial Robustness in Multimodal Large Language Models**|Chengze Jiang et.al.|[2503.13962](http://arxiv.org/abs/2503.13962)|null|
@@ -828,6 +830,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-21**|**A Study into Investigating Temporal Robustness of LLMs**|Jonas Wallat et.al.|[2503.17073](http://arxiv.org/abs/2503.17073)|null|
 |**2025-03-19**|**Robust Transmission of Punctured Text with Large Language Model-based Recovery**|Sojeong Park et.al.|[2503.14831](http://arxiv.org/abs/2503.14831)|null|
 |**2025-03-18**|**Survey of Adversarial Robustness in Multimodal Large Language Models**|Chengze Jiang et.al.|[2503.13962](http://arxiv.org/abs/2503.13962)|null|
 |**2025-03-12**|**Safer or Luckier? LLMs as Safety Evaluators Are Not Robust to Artifacts**|Hongyu Chen et.al.|[2503.09347](http://arxiv.org/abs/2503.09347)|null|
@@ -1104,6 +1107,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[2503.16734](http://arxiv.org/abs/2503.16734)|null|
 |**2025-03-20**|**TablePilot: Recommending Human-Preferred Tabular Data Analysis with Large Language Models**|Deyin Yi et.al.|[2503.13262](http://arxiv.org/abs/2503.13262)|null|
 |**2025-03-21**|**LLMSeR: Enhancing Sequential Recommendation via LLM-based Data Augmentation**|Yuqi Sun et.al.|[2503.12547](http://arxiv.org/abs/2503.12547)|null|
 |**2025-03-12**|**Harmonizing Large Language Models with Collaborative Behavioral Signals for Conversational Recommendation**|Guanrong Li et.al.|[2503.10703](http://arxiv.org/abs/2503.10703)|**[link](https://github.com/kylokano/LatentCRS)**|
