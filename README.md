@@ -252,6 +252,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Feature Statistics with Uncertainty Help Adversarial Robustness**|Ran Wang et.al.|[2503.20583](http://arxiv.org/abs/2503.20583)|null|
 |**2025-03-25**|**Lifting Linear Sketches: Optimal Bounds and Adversarial Robustness**|Elena Gribelyuk et.al.|[2503.19629](http://arxiv.org/abs/2503.19629)|null|
 |**2025-03-24**|**When is dataset cartography ineffective? Using training dynamics does not improve robustness against Adversarial SQuAD**|Paul K. Mandal et.al.|[2503.18290](http://arxiv.org/abs/2503.18290)|null|
 |**2025-03-21**|**Robustness of deep learning classification to adversarial input on GPUs: asynchronous parallel accumulation is a source of vulnerability**|Sanjif Shanmugavelu et.al.|[2503.17173](http://arxiv.org/abs/2503.17173)|null|
@@ -844,6 +845,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**Enhancing the Robustness of LLM-Generated Code: Empirical Study and Framework**|ZiKe Li et.al.|[2503.20197](http://arxiv.org/abs/2503.20197)|null|
 |**2025-03-25**|**FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models**|Dahyun Jung et.al.|[2503.19540](http://arxiv.org/abs/2503.19540)|null|
 |**2025-03-24**|**J&H: Evaluating the Robustness of Large Language Models Under Knowledge-Injection Attacks in Legal Domain**|Yiran Hu et.al.|[2503.18360](http://arxiv.org/abs/2503.18360)|null|
 |**2025-03-21**|**A Study into Investigating Temporal Robustness of LLMs**|Jonas Wallat et.al.|[2503.17073](http://arxiv.org/abs/2503.17073)|null|
@@ -1125,6 +1127,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-26**|**RALLRec+: Retrieval Augmented Large Language Model Recommendation with Reasoning**|Sichun Luo et.al.|[2503.20430](http://arxiv.org/abs/2503.20430)|null|
 |**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[2503.16734](http://arxiv.org/abs/2503.16734)|null|
 |**2025-03-20**|**TablePilot: Recommending Human-Preferred Tabular Data Analysis with Large Language Models**|Deyin Yi et.al.|[2503.13262](http://arxiv.org/abs/2503.13262)|null|
 |**2025-03-21**|**LLMSeR: Enhancing Sequential Recommendation via LLM-based Data Augmentation**|Yuqi Sun et.al.|[2503.12547](http://arxiv.org/abs/2503.12547)|null|
