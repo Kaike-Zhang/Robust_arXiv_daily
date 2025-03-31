@@ -188,7 +188,7 @@
 |**2024-02-13**|**Causal Learning for Trustworthy Recommender Systems: A Survey**|Jin Li et.al.|[2402.08241](http://arxiv.org/abs/2402.08241)|null|
 |**2024-02-11**|**Towards Robust Car Following Dynamics Modeling via Blackbox Models: Methodology, Analysis, and Recommendations**|Muhammad Bilal Shahid et.al.|[2402.07139](http://arxiv.org/abs/2402.07139)|**[link](https://github.com/coordinated-systems-lab/carfollowmodels)**|
 |**2024-02-01**|**Proton Pencil-Beam Scanning Stereotactic Body Radiation Therapy and Hypofractionated Radiation Therapy for Thoracic Malignancies: Patterns of Practice Survey and Recommendations for Future Development from NRG Oncology and PTCOG**|Wei Liu et.al.|[2402.00489](http://arxiv.org/abs/2402.00489)|null|
-|**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
+|**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|**[link](https://github.com/kaike-zhang/lorec)**|
 |**2024-02-19**|**RecDCL: Dual Contrastive Learning for Recommendation**|Dan Zhang et.al.|[2401.15635](http://arxiv.org/abs/2401.15635)|**[link](https://github.com/thudm/recdcl)**|
 |**2024-01-26**|**Physical Trajectory Inference Attack and Defense in Decentralized POI Recommendation**|Jing Long et.al.|[2401.14583](http://arxiv.org/abs/2401.14583)|null|
 |**2024-01-25**|**The CIPM list "Recommended values of standard frequencies": 2021 update**|H S Margolis et.al.|[2401.14537](http://arxiv.org/abs/2401.14537)|null|
@@ -1072,7 +1072,7 @@
 |**2024-02-08**|**Permute-and-Flip: An optimally robust and watermarkable decoder for LLMs**|Xuandong Zhao et.al.|[2402.05864](http://arxiv.org/abs/2402.05864)|**[link](https://github.com/xuandongzhao/pf-decoding)**|
 |**2024-01-27**|**An Empirical Study on Large Language Models in Accuracy and Robustness under Chinese Industrial Scenarios**|Zongjie Li et.al.|[2402.01723](http://arxiv.org/abs/2402.01723)|null|
 |**2024-02-04**|**Evaluating Large Language Models for Generalization and Robustness via Data Compression**|Yucheng Li et.al.|[2402.00861](http://arxiv.org/abs/2402.00861)|**[link](https://github.com/liyucheng09/llm-compressive)**|
-|**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
+|**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|**[link](https://github.com/kaike-zhang/lorec)**|
 |**2024-01-30**|**Enhancing Compiler Transformation Robustness with Large Language Models**|Yanzhao Wang et.al.|[2401.16797](http://arxiv.org/abs/2401.16797)|null|
 |**2024-01-23**|**Chatterbox: Robust Transport for LLM Token Streaming under Unstable Network**|Hanchen Li et.al.|[2401.12961](http://arxiv.org/abs/2401.12961)|null|
 |**2024-01-19**|**Large Language Models are Efficient Learners of Noise-Robust Speech Recognition**|Yuchen Hu et.al.|[2401.10446](http://arxiv.org/abs/2401.10446)|**[link](https://github.com/yuchen005/robustger)**|
@@ -1259,7 +1259,7 @@
 |**2024-11-28**|**OMuleT: Orchestrating Multiple Tools for Practicable Conversational Recommendation**|Se-eun Yoon et.al.|[2411.19352](http://arxiv.org/abs/2411.19352)|null|
 |**2024-11-27**|**Break the ID-Language Barrier: An Adaption Framework for Sequential Recommendation**|Xiaohan Yu et.al.|[2411.18262](http://arxiv.org/abs/2411.18262)|null|
 |**2024-11-22**|**GOT4Rec: Graph of Thoughts for Sequential Recommendation**|Zewen Long et.al.|[2411.14922](http://arxiv.org/abs/2411.14922)|null|
-|**2024-11-16**|**Unveiling User Preferences: A Knowledge Graph and LLM-Driven Approach for Conversational Recommendation**|Zhangchi Qiu et.al.|[2411.14459](http://arxiv.org/abs/2411.14459)|null|
+|**2024-11-16**|**Unveiling User Preferences: A Knowledge Graph and LLM-Driven Approach for Conversational Recommendation**|Zhangchi Qiu et.al.|[2411.14459](http://arxiv.org/abs/2411.14459)|**[link](https://github.com/icedpanda/COMPASS-official)**|
 |**2024-11-21**|**HARec: Hyperbolic Graph-LLM Alignment for Exploration and Exploitation in Recommender Systems**|Qiyao Ma et.al.|[2411.13865](http://arxiv.org/abs/2411.13865)|**[link](https://github.com/martin-qyma/herec)**|
 |**2024-11-26**|**LEADRE: Multi-Faceted Knowledge Enhanced LLM Empowered Display Advertisement Recommender System**|Fengxin Li et.al.|[2411.13789](http://arxiv.org/abs/2411.13789)|null|
 |**2024-11-20**|**Unleashing the Power of Large Language Models for Group POI Recommendations**|Jing Long et.al.|[2411.13415](http://arxiv.org/abs/2411.13415)|null|
@@ -1299,7 +1299,7 @@
 |**2024-10-08**|**RLRF4Rec: Reinforcement Learning from Recsys Feedback for Enhanced Recommendation Reranking**|Chao Sun et.al.|[2410.05939](http://arxiv.org/abs/2410.05939)|null|
 |**2024-10-08**|**Stereotype or Personalization? User Identity Biases Chatbot Recommendations**|Anjali Kantharuban et.al.|[2410.05613](http://arxiv.org/abs/2410.05613)|null|
 |**2024-10-07**|**Constructing and Masking Preference Profile with LLMs for Filtering Discomforting Recommendation**|Jiahao Liu et.al.|[2410.05411](http://arxiv.org/abs/2410.05411)|null|
-|**2024-10-08**|**Efficient Inference for Large Language Model-based Generative Recommendation**|Xinyu Lin et.al.|[2410.05165](http://arxiv.org/abs/2410.05165)|null|
+|**2024-10-08**|**Efficient Inference for Large Language Model-based Generative Recommendation**|Xinyu Lin et.al.|[2410.05165](http://arxiv.org/abs/2410.05165)|**[link](https://github.com/linxyhaha/atspeed)**|
 |**2024-10-07**|**Leverage Knowledge Graph and Large Language Model for Law Article Recommendation: A Case Study of Chinese Criminal Law**|Yongming Chen et.al.|[2410.04949](http://arxiv.org/abs/2410.04949)|null|
 |**2024-10-09**|**FELLAS: Enhancing Federated Sequential Recommendation with LLM as External Services**|Wei Yuan et.al.|[2410.04927](http://arxiv.org/abs/2410.04927)|null|
 |**2024-10-07**|**Multimodal Point-of-Interest Recommendation**|Yuta Kanzawa et.al.|[2410.03265](http://arxiv.org/abs/2410.03265)|null|
@@ -1371,7 +1371,7 @@
 |**2024-07-31**|**Prometheus Chatbot: Knowledge Graph Collaborative Large Language Model for Computer Components Recommendation**|Yunsheng Wang et.al.|[2407.19643](http://arxiv.org/abs/2407.19643)|**[link](https://github.com/iamryanshengwang/prometheus-chatbot)**|
 |**2024-07-24**|**Reinforced Prompt Personalization for Recommendation with Large Language Models**|Wenyu Mao et.al.|[2407.17115](http://arxiv.org/abs/2407.17115)|**[link](https://github.com/maowenyu-11/rpp)**|
 |**2024-07-21**|**Text-Augmented Multimodal LLMs for Chemical Reaction Condition Recommendation**|Yu Zhang et.al.|[2407.15141](http://arxiv.org/abs/2407.15141)|null|
-|**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|null|
+|**2024-07-18**|**A Comprehensive Review of Recommender Systems: Transitioning from Theory to Practice**|Shaina Raza et.al.|[2407.13699](http://arxiv.org/abs/2407.13699)|**[link](https://github.com/vectorinstitute/recommender-systems-survey)**|
 |**2024-07-18**|**Attention Overflow: Language Model Input Blur during Long-Context Missing Items Recommendation**|Damien Sileo et.al.|[2407.13481](http://arxiv.org/abs/2407.13481)|null|
 |**2024-07-16**|**Whitening Not Recommended for Classification Tasks in LLMs**|Ali Forooghi et.al.|[2407.12886](http://arxiv.org/abs/2407.12886)|null|
 |**2024-07-15**|**Enhancing Medication Recommendation with LLM Text Representation**|Yu-Tzu Lee et.al.|[2407.10453](http://arxiv.org/abs/2407.10453)|null|
@@ -1521,7 +1521,7 @@
 |**2024-02-21**|**Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph**|Qian Zhao et.al.|[2402.13750](http://arxiv.org/abs/2402.13750)|null|
 |**2024-02-18**|**Large Language Models as Data Augmenters for Cold-Start Item Recommendation**|Jianling Wang et.al.|[2402.11724](http://arxiv.org/abs/2402.11724)|null|
 |**2024-02-16**|**SPAR: Personalized Content-Based Recommendation via Long Engagement Attention**|Chiyu Zhang et.al.|[2402.10555](http://arxiv.org/abs/2402.10555)|**[link](https://github.com/jyonn/legommenders)**|
-|**2024-02-17**|**LLM-based Federated Recommendation**|Jujia Zhao et.al.|[2402.09959](http://arxiv.org/abs/2402.09959)|null|
+|**2024-02-17**|**LLM-based Federated Recommendation**|Jujia Zhao et.al.|[2402.09959](http://arxiv.org/abs/2402.09959)|**[link](https://github.com/polaris-jz/fellrec)**|
 |**2024-02-14**|**LLM-Enhanced User-Item Interactions: Leveraging Edge Information for Optimized Recommendations**|Xinyuan Wang et.al.|[2402.09617](http://arxiv.org/abs/2402.09617)|**[link](https://github.com/anord-wang/llm4rec)**|
 |**2024-02-14**|**Rethinking Large Language Model Architectures for Sequential Recommendations**|Hanbing Wang et.al.|[2402.09543](http://arxiv.org/abs/2402.09543)|null|
 |**2024-02-14**|**Large Language Model Interaction Simulator for Cold-Start Item Recommendation**|Feiran Huang et.al.|[2402.09176](http://arxiv.org/abs/2402.09176)|null|
@@ -1537,7 +1537,7 @@
 |**2024-02-02**|**Improving Sequential Recommendations with LLMs**|Artun Boz et.al.|[2402.01339](http://arxiv.org/abs/2402.01339)|**[link](https://github.com/dh-r/llm-sequential-recommendation)**|
 |**2024-02-02**|**A Multi-Agent Conversational Recommender System**|Jiabao Fang et.al.|[2402.01135](http://arxiv.org/abs/2402.01135)|null|
 |**2024-02-01**|**From PARIS to LE-PARIS: Toward Patent Response Automation with Recommender Systems and Collaborative Large Language Models**|Jung-Mei Chu et.al.|[2402.00421](http://arxiv.org/abs/2402.00421)|null|
-|**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|null|
+|**2024-01-31**|**LoRec: Large Language Model for Robust Sequential Recommendation against Poisoning Attacks**|Kaike Zhang et.al.|[2401.17723](http://arxiv.org/abs/2401.17723)|**[link](https://github.com/kaike-zhang/lorec)**|
 |**2024-01-30**|**Data-efficient Fine-tuning for LLM-based Recommendation**|Xinyu Lin et.al.|[2401.17197](http://arxiv.org/abs/2401.17197)|**[link](https://github.com/linxyhaha/dealrec)**|
 |**2024-01-29**|**APIGen: Generative API Method Recommendation**|Yujia Chen et.al.|[2401.15843](http://arxiv.org/abs/2401.15843)|**[link](https://github.com/hitcoderr/apigen)**|
 |**2024-01-25**|**Integrating Large Language Models into Recommendation via Mutual Augmentation and Adaptive Aggregation**|Sichun Luo et.al.|[2401.13870](http://arxiv.org/abs/2401.13870)|null|
