@@ -254,6 +254,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization**|Chaohu Liu et.al.|[2504.01735](http://arxiv.org/abs/2504.01735)|null|
+|**2025-04-02**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
+|**2025-04-02**|**Benchmarking the Spatial Robustness of DNNs via Natural and Adversarial Localized Corruptions**|Giulia Marchiori Pietrosanti et.al.|[2504.01632](http://arxiv.org/abs/2504.01632)|null|
 |**2025-03-29**|**AuditVotes: A Framework Towards More Deployable Certified Robustness for Graph Neural Networks**|Yuni Lai et.al.|[2503.22998](http://arxiv.org/abs/2503.22998)|null|
 |**2025-03-26**|**Robust Deep Reinforcement Learning in Robotics via Adaptive Gradient-Masked Adversarial Attacks**|Zongyuan Zhang et.al.|[2503.20844](http://arxiv.org/abs/2503.20844)|null|
 |**2025-03-26**|**Feature Statistics with Uncertainty Help Adversarial Robustness**|Ran Wang et.al.|[2503.20583](http://arxiv.org/abs/2503.20583)|**[link](https://github.com/techtrekkerz/fsu)**|
