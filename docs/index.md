@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -26,7 +26,7 @@ layout: default
 |**2025-02-18**|**From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval**|Jian Jia et.al.|[2502.12448](http://arxiv.org/abs/2502.12448)|null|
 |**2025-02-17**|**Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier**|Theresia Veronika Rampisela et.al.|[2502.11921](http://arxiv.org/abs/2502.11921)|**[link](https://github.com/theresiavr/DPFR-recsys-evaluation)**|
 |**2025-02-12**|**Beyond Models! Explainable Data Valuation and Metric Adaption for Recommendation**|Renqi Jia et.al.|[2502.08685](http://arxiv.org/abs/2502.08685)|**[link](https://github.com/renqii/dvr)**|
-|**2025-02-10**|**Network Intrusion Datasets: A Survey, Limitations, and Recommendations**|Patrik Goldschmidt et.al.|[2502.06688](http://arxiv.org/abs/2502.06688)|null|
+|**2025-04-02**|**Network Intrusion Datasets: A Survey, Limitations, and Recommendations**|Patrik Goldschmidt et.al.|[2502.06688](http://arxiv.org/abs/2502.06688)|null|
 |**2025-02-05**|**Contrastive Learning for Cold Start Recommendation with Adaptive Feature Fusion**|Jiacheng Hu et.al.|[2502.03664](http://arxiv.org/abs/2502.03664)|null|
 |**2025-02-12**|**Intent Alignment between Interaction and Language Spaces for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|**[link](https://github.com/wangyu0627/irllrec)**|
 |**2025-02-01**|**Personalized Denoising Implicit Feedback for Robust Recommender System**|Kaike Zhang et.al.|[2502.00348](http://arxiv.org/abs/2502.00348)|null|
@@ -247,7 +247,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-02**|**AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization**|Chaohu Liu et.al.|[2504.01735](http://arxiv.org/abs/2504.01735)|null|
-|**2025-04-02**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
+|**2025-04-03**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
 |**2025-04-02**|**Benchmarking the Spatial Robustness of DNNs via Natural and Adversarial Localized Corruptions**|Giulia Marchiori Pietrosanti et.al.|[2504.01632](http://arxiv.org/abs/2504.01632)|null|
 |**2025-03-29**|**AuditVotes: A Framework Towards More Deployable Certified Robustness for Graph Neural Networks**|Yuni Lai et.al.|[2503.22998](http://arxiv.org/abs/2503.22998)|null|
 |**2025-03-26**|**Robust Deep Reinforcement Learning in Robotics via Adaptive Gradient-Masked Adversarial Attacks**|Zongyuan Zhang et.al.|[2503.20844](http://arxiv.org/abs/2503.20844)|null|
@@ -843,7 +843,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-31**|**Model Hemorrhage and the Robustness Limits of Large Language Models**|Ziyang Ma et.al.|[2503.23924](http://arxiv.org/abs/2503.23924)|null|
-|**2025-03-28**|**RobuNFR: Evaluating the Robustness of Large Language Models on Non-Functional Requirements Aware Code Generation**|Feng Lin et.al.|[2503.22851](http://arxiv.org/abs/2503.22851)|null|
+|**2025-04-03**|**RobuNFR: Evaluating the Robustness of Large Language Models on Non-Functional Requirements Aware Code Generation**|Feng Lin et.al.|[2503.22851](http://arxiv.org/abs/2503.22851)|null|
 |**2025-04-01**|**Enhancing the Robustness of LLM-Generated Code: Empirical Study and Framework**|Zike Li et.al.|[2503.20197](http://arxiv.org/abs/2503.20197)|**[link](https://github.com/sysuselab/robgen)**|
 |**2025-03-25**|**FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models**|Dahyun Jung et.al.|[2503.19540](http://arxiv.org/abs/2503.19540)|**[link](https://github.com/ekgus9/FLEX)**|
 |**2025-03-24**|**J&H: Evaluating the Robustness of Large Language Models Under Knowledge-Injection Attacks in Legal Domain**|Yiran Hu et.al.|[2503.18360](http://arxiv.org/abs/2503.18360)|**[link](https://github.com/THUlawtech/LegalAttack)**|

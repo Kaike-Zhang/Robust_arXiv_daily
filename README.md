@@ -1,4 +1,4 @@
-## Updated on 2025.04.03
+## Updated on 2025.04.04
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -32,7 +32,7 @@
 |**2025-02-18**|**From Principles to Applications: A Comprehensive Survey of Discrete Tokenizers in Generation, Comprehension, Recommendation, and Information Retrieval**|Jian Jia et.al.|[2502.12448](http://arxiv.org/abs/2502.12448)|null|
 |**2025-02-17**|**Joint Evaluation of Fairness and Relevance in Recommender Systems with Pareto Frontier**|Theresia Veronika Rampisela et.al.|[2502.11921](http://arxiv.org/abs/2502.11921)|**[link](https://github.com/theresiavr/DPFR-recsys-evaluation)**|
 |**2025-02-12**|**Beyond Models! Explainable Data Valuation and Metric Adaption for Recommendation**|Renqi Jia et.al.|[2502.08685](http://arxiv.org/abs/2502.08685)|**[link](https://github.com/renqii/dvr)**|
-|**2025-02-10**|**Network Intrusion Datasets: A Survey, Limitations, and Recommendations**|Patrik Goldschmidt et.al.|[2502.06688](http://arxiv.org/abs/2502.06688)|null|
+|**2025-04-02**|**Network Intrusion Datasets: A Survey, Limitations, and Recommendations**|Patrik Goldschmidt et.al.|[2502.06688](http://arxiv.org/abs/2502.06688)|null|
 |**2025-02-05**|**Contrastive Learning for Cold Start Recommendation with Adaptive Feature Fusion**|Jiacheng Hu et.al.|[2502.03664](http://arxiv.org/abs/2502.03664)|null|
 |**2025-02-12**|**Intent Alignment between Interaction and Language Spaces for Recommendation**|Yu Wang et.al.|[2502.03307](http://arxiv.org/abs/2502.03307)|**[link](https://github.com/wangyu0627/irllrec)**|
 |**2025-02-01**|**Personalized Denoising Implicit Feedback for Robust Recommender System**|Kaike Zhang et.al.|[2502.00348](http://arxiv.org/abs/2502.00348)|null|
@@ -248,14 +248,14 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250404>back to top</a>)</p>
 
 ## Robust ML
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-02**|**AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization**|Chaohu Liu et.al.|[2504.01735](http://arxiv.org/abs/2504.01735)|null|
-|**2025-04-02**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
+|**2025-04-03**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
 |**2025-04-02**|**Benchmarking the Spatial Robustness of DNNs via Natural and Adversarial Localized Corruptions**|Giulia Marchiori Pietrosanti et.al.|[2504.01632](http://arxiv.org/abs/2504.01632)|null|
 |**2025-03-29**|**AuditVotes: A Framework Towards More Deployable Certified Robustness for Graph Neural Networks**|Yuni Lai et.al.|[2503.22998](http://arxiv.org/abs/2503.22998)|null|
 |**2025-03-26**|**Robust Deep Reinforcement Learning in Robotics via Adaptive Gradient-Masked Adversarial Attacks**|Zongyuan Zhang et.al.|[2503.20844](http://arxiv.org/abs/2503.20844)|null|
@@ -846,14 +846,14 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250404>back to top</a>)</p>
 
 ## Security LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-03-31**|**Model Hemorrhage and the Robustness Limits of Large Language Models**|Ziyang Ma et.al.|[2503.23924](http://arxiv.org/abs/2503.23924)|null|
-|**2025-03-28**|**RobuNFR: Evaluating the Robustness of Large Language Models on Non-Functional Requirements Aware Code Generation**|Feng Lin et.al.|[2503.22851](http://arxiv.org/abs/2503.22851)|null|
+|**2025-04-03**|**RobuNFR: Evaluating the Robustness of Large Language Models on Non-Functional Requirements Aware Code Generation**|Feng Lin et.al.|[2503.22851](http://arxiv.org/abs/2503.22851)|null|
 |**2025-04-01**|**Enhancing the Robustness of LLM-Generated Code: Empirical Study and Framework**|Zike Li et.al.|[2503.20197](http://arxiv.org/abs/2503.20197)|**[link](https://github.com/sysuselab/robgen)**|
 |**2025-03-25**|**FLEX: A Benchmark for Evaluating Robustness of Fairness in Large Language Models**|Dahyun Jung et.al.|[2503.19540](http://arxiv.org/abs/2503.19540)|**[link](https://github.com/ekgus9/FLEX)**|
 |**2025-03-24**|**J&H: Evaluating the Robustness of Large Language Models Under Knowledge-Injection Attacks in Legal Domain**|Yiran Hu et.al.|[2503.18360](http://arxiv.org/abs/2503.18360)|**[link](https://github.com/THUlawtech/LegalAttack)**|
@@ -1130,7 +1130,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250404>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -1569,5 +1569,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20250403>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250404>back to top</a>)</p>
 
