@@ -215,7 +215,7 @@ layout: default
 |**2023-09-25**|**Algorithmic Collusion or Competition: the Role of Platforms' Recommender Systems**|Xingchen Xu et.al.|[2309.14548](http://arxiv.org/abs/2309.14548)|null|
 |**2023-10-19**|**KuaiSim: A Comprehensive Simulator for Recommender Systems**|Kesen Zhao et.al.|[2309.12645](http://arxiv.org/abs/2309.12645)|**[link](https://github.com/applied-machine-learning-lab/kuaisim)**|
 |**2023-08-30**|**Multimodal Recommender Systems in the Prediction of Disease Comorbidity**|Aashish Cheruvu et.al.|[2309.08613](http://arxiv.org/abs/2309.08613)|null|
-|**2023-09-05**|**Robust Recommender System: A Survey and Future Directions**|Kaike Zhang et.al.|[2309.02057](http://arxiv.org/abs/2309.02057)|null|
+|**2023-09-05**|**Robust Recommender System: A Survey and Future Directions**|Kaike Zhang et.al.|[2309.02057](http://arxiv.org/abs/2309.02057)|**[link](https://github.com/kaike-zhang/robust-recommender-system)**|
 |**2023-08-20**|**Adversarial Collaborative Filtering for Free**|Huiyuan Chen et.al.|[2308.13541](http://arxiv.org/abs/2308.13541)|null|
 |**2023-12-31**|**A Bi-Step Grounding Paradigm for Large Language Models in Recommendation Systems**|Keqin Bao et.al.|[2308.08434](http://arxiv.org/abs/2308.08434)|**[link](https://github.com/sai990323/grounding4rec)**|
 |**2023-12-27**|**Investigating the Robustness of Sequential Recommender Systems Against Training Data Perturbations**|Filippo Betello et.al.|[2307.13165](http://arxiv.org/abs/2307.13165)|null|
@@ -586,13 +586,13 @@ layout: default
 |**2024-03-19**|**Robust NAS under adversarial training: benchmark, theory, and beyond**|Yongtao Wu et.al.|[2403.13134](http://arxiv.org/abs/2403.13134)|null|
 |**2024-03-18**|**Robust Overfitting Does Matter: Test-Time Adversarial Purification With FGSM**|Linyu Tang et.al.|[2403.11448](http://arxiv.org/abs/2403.11448)|**[link](https://github.com/tly18/tpap)**|
 |**2024-03-17**|**COLEP: Certifiably Robust Learning-Reasoning Conformal Prediction via Probabilistic Circuits**|Mintong Kang et.al.|[2403.11348](http://arxiv.org/abs/2403.11348)|**[link](https://github.com/kangmintong/colep)**|
-|**2024-03-17**|**RobustSentEmbed: Robust Sentence Embeddings Using Adversarial Self-Supervised Contrastive Learning**|Javad Rafiei Asl et.al.|[2403.11082](http://arxiv.org/abs/2403.11082)|null|
+|**2024-03-17**|**RobustSentEmbed: Robust Sentence Embeddings Using Adversarial Self-Supervised Contrastive Learning**|Javad Rafiei Asl et.al.|[2403.11082](http://arxiv.org/abs/2403.11082)|**[link](https://github.com/jasl1/robustsentembed)**|
 |**2024-03-16**|**Robust Co-Design of Canonical Underactuated Systems for Increased Certifiable Stability**|Federico Girlanda et.al.|[2403.10966](http://arxiv.org/abs/2403.10966)|**[link](https://github.com/dfki-ric-underactuated-lab/robust_codesign)**|
 |**2024-03-15**|**Introducing Adaptive Continuous Adversarial Training (ACAT) to Enhance ML Robustness**|Mohamed elShehaby et.al.|[2403.10461](http://arxiv.org/abs/2403.10461)|null|
 |**2024-03-15**|**NLP Verification: Towards a General Methodology for Certifying Robustness**|Marco Casadio et.al.|[2403.10144](http://arxiv.org/abs/2403.10144)|null|
 |**2024-03-15**|**Efficient Multiplayer Battle Game Optimizer for Adversarial Robust Neural Architecture Search**|Rui Zhong et.al.|[2403.10100](http://arxiv.org/abs/2403.10100)|**[link](https://github.com/ruizhong961230/embgo)**|
 |**2024-03-15**|**Benchmarking Adversarial Robustness of Image Shadow Removal with Shadow-adaptive Attacks**|Chong Wang et.al.|[2403.10076](http://arxiv.org/abs/2403.10076)|null|
-|**2024-03-15**|**Towards Adversarially Robust Dataset Distillation by Curvature Regularization**|Eric Xue et.al.|[2403.10045](http://arxiv.org/abs/2403.10045)|null|
+|**2024-03-15**|**Towards Adversarially Robust Dataset Distillation by Curvature Regularization**|Eric Xue et.al.|[2403.10045](http://arxiv.org/abs/2403.10045)|**[link](https://github.com/yumozi/guard)**|
 |**2024-03-14**|**Adversarial Fine-tuning of Compressed Neural Networks for Joint Improvement of Robustness and Efficiency**|Hallgrimur Thorsteinsson et.al.|[2403.09441](http://arxiv.org/abs/2403.09441)|**[link](https://github.com/saintslab/adver-fine)**|
 |**2024-03-14**|**AVIBench: Towards Evaluating the Robustness of Large Vision-Language Model on Adversarial Visual-Instructions**|Hao Zhang et.al.|[2403.09346](http://arxiv.org/abs/2403.09346)|**[link](https://github.com/zhanghao5201/b-avibench)**|
 |**2024-03-14**|**ADEdgeDrop: Adversarial Edge Dropping for Robust Graph Neural Networks**|Zhaoliang Chen et.al.|[2403.09171](http://arxiv.org/abs/2403.09171)|null|
@@ -765,7 +765,7 @@ layout: default
 |**2023-09-10**|**Outlier Robust Adversarial Training**|Shu Hu et.al.|[2309.05145](http://arxiv.org/abs/2309.05145)|**[link](https://github.com/discovershu/orat)**|
 |**2023-09-09**|**Exploring Robust Features for Improving Adversarial Robustness**|Hong Wang et.al.|[2309.04650](http://arxiv.org/abs/2309.04650)|null|
 |**2023-09-08**|**ARRTOC: Adversarially Robust Real-Time Optimization and Control**|Akhil Ahmed et.al.|[2309.04386](http://arxiv.org/abs/2309.04386)|null|
-|**2023-09-07**|**Adversarially Robust Deep Learning with Optimal-Transport-Regularized Divergences**|Jeremiah Birrell et.al.|[2309.03791](http://arxiv.org/abs/2309.03791)|null|
+|**2023-09-07**|**Adversarially Robust Deep Learning with Optimal-Transport-Regularized Divergences**|Jeremiah Birrell et.al.|[2309.03791](http://arxiv.org/abs/2309.03791)|**[link](https://github.com/star-ailab/armor)**|
 |**2023-09-06**|**J-Guard: Journalism Guided Adversarially Robust Detection of AI-generated News**|Tharindu Kumarage et.al.|[2309.03164](http://arxiv.org/abs/2309.03164)|**[link](https://github.com/TSKumarage/J-Guard)**|
 |**2023-09-06**|**Theoretical Explanation of Activation Sparsity through Flat Minima and Adversarial Robustness**|Ze Peng et.al.|[2309.03004](http://arxiv.org/abs/2309.03004)|null|
 |**2023-09-03**|**AdvMono3D: Advanced Monocular 3D Object Detection with Depth-Aware Robust Adversarial Training**|Xingyuan Li et.al.|[2309.01106](http://arxiv.org/abs/2309.01106)|null|
@@ -990,7 +990,7 @@ layout: default
 |**2024-08-19**|**GANPrompt: Enhancing Robustness in LLM-Based Recommendations with GAN-Enhanced Diversity Prompts**|Xinyu Li et.al.|[2408.09671](http://arxiv.org/abs/2408.09671)|null|
 |**2024-08-18**|**A Transcription Prompt-based Efficient Audio Large Language Model for Robust Speech Recognition**|Yangze Li et.al.|[2408.09491](http://arxiv.org/abs/2408.09491)|null|
 |**2024-08-16**|**Can Large Language Models Improve the Adversarial Robustness of Graph Neural Networks?**|Zhongjian Zhang et.al.|[2408.08685](http://arxiv.org/abs/2408.08685)|**[link](https://github.com/zhongjian-zhang/llm4rgnn)**|
-|**2024-08-13**|**Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models**|Sungmin Cha et.al.|[2408.06621](http://arxiv.org/abs/2408.06621)|null|
+|**2024-08-13**|**Towards Robust and Cost-Efficient Knowledge Unlearning for Large Language Models**|Sungmin Cha et.al.|[2408.06621](http://arxiv.org/abs/2408.06621)|**[link](https://github.com/csm9493/efficient-llm-unlearning)**|
 |**2024-08-11**|**LLM-Based Robust Product Classification in Commerce and Compliance**|Sina Gholamian et.al.|[2408.05874](http://arxiv.org/abs/2408.05874)|null|
 |**2024-09-14**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585](http://arxiv.org/abs/2408.04585)|null|
 |**2024-08-04**|**A Novel Metric for Measuring the Robustness of Large Language Models in Non-adversarial Scenarios**|Samuel Ackerman et.al.|[2408.01963](http://arxiv.org/abs/2408.01963)|**[link](https://github.com/ibm/emnlp_2024_llm_robustness)**|
