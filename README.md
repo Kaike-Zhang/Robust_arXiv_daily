@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-06**|**Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering**|Zheyu Chen et.al.|[2504.04443](http://arxiv.org/abs/2504.04443)|null|
+|**2025-04-06**|**Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent**|Yi Xu et.al.|[2504.04386](http://arxiv.org/abs/2504.04386)|null|
 |**2025-04-03**|**Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation**|Liangbo Ning et.al.|[2504.02458](http://arxiv.org/abs/2504.02458)|null|
 |**2025-04-04**|**FEASE: Shallow AutoEncoding Recommender with Cold Start Handling via Side Features**|Edward DongBo Cui et.al.|[2504.02288](http://arxiv.org/abs/2504.02288)|null|
 |**2025-04-03**|**LLM-Augmented Graph Neural Recommenders: Integrating User Reviews**|Hiroki Kanezashi et.al.|[2504.02195](http://arxiv.org/abs/2504.02195)|null|
@@ -257,6 +259,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**A Study on Adversarial Robustness of Discriminative Prototypical Learning**|Ramin Zarei Sabzevar et.al.|[2504.03782](http://arxiv.org/abs/2504.03782)|null|
 |**2025-03-31**|**AI-Enhanced Resilience in Power Systems: Adversarial Deep Learning for Robust Short-Term Voltage Stability Assessment under Cyber-Attacks**|Yang Li et.al.|[2504.02859](http://arxiv.org/abs/2504.02859)|null|
 |**2025-04-02**|**AdPO: Enhancing the Adversarial Robustness of Large Vision-Language Models with Preference Optimization**|Chaohu Liu et.al.|[2504.01735](http://arxiv.org/abs/2504.01735)|null|
 |**2025-04-03**|**Robust Unsupervised Domain Adaptation for 3D Point Cloud Segmentation Under Source Adversarial Attacks**|Haosheng Li et.al.|[2504.01659](http://arxiv.org/abs/2504.01659)|null|
@@ -856,6 +859,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-03**|**Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning**|Kai Ye et.al.|[2504.03784](http://arxiv.org/abs/2504.03784)|null|
 |**2025-04-03**|**Hide and Seek in Noise Labels: Noise-Robust Collaborative Active Learning with LLM-Powered Assistance**|Bo Yuan et.al.|[2504.02901](http://arxiv.org/abs/2504.02901)|null|
 |**2025-04-03**|**A Framework for Robust Cognitive Evaluation of LLMs**|Karin de Langis et.al.|[2504.02789](http://arxiv.org/abs/2504.02789)|null|
 |**2025-04-03**|**Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study**|Aryan Agrawal et.al.|[2504.02733](http://arxiv.org/abs/2504.02733)|null|
@@ -1146,6 +1150,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**LLM-Alignment Live-Streaming Recommendation**|Yueyang Liu et.al.|[2504.05217](http://arxiv.org/abs/2504.05217)|null|
+|**2025-04-06**|**Universal Item Tokenization for Transferable Generative Recommendation**|Bowen Zheng et.al.|[2504.04405](http://arxiv.org/abs/2504.04405)|null|
+|**2025-04-06**|**Decoding Recommendation Behaviors of In-Context Learning LLMs Through Gradient Descent**|Yi Xu et.al.|[2504.04386](http://arxiv.org/abs/2504.04386)|null|
+|**2025-04-05**|**Investigating and Mitigating Stereotype-aware Unfairness in LLM-based Recommendations**|Zihuai Zhao et.al.|[2504.04199](http://arxiv.org/abs/2504.04199)|null|
+|**2025-04-05**|**MSL: Not All Tokens Are What You Need for Tuning LLM as a Recommender**|Bohao Wang et.al.|[2504.04178](http://arxiv.org/abs/2504.04178)|**[link](https://github.com/WANGBohaO-jpg/MSL)**|
+|**2025-04-04**|**Automating Personalization: Prompt Optimization for Recommendation Reranking**|Chen Wang et.al.|[2504.03965](http://arxiv.org/abs/2504.03965)|null|
 |**2025-04-03**|**Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation**|Liangbo Ning et.al.|[2504.02458](http://arxiv.org/abs/2504.02458)|null|
 |**2025-04-03**|**LLM-Augmented Graph Neural Recommenders: Integrating User Reviews**|Hiroki Kanezashi et.al.|[2504.02195](http://arxiv.org/abs/2504.02195)|null|
 |**2025-03-31**|**Rec-R1: Bridging Generative Large Language Models and User-Centric Recommendation Systems via Reinforcement Learning**|Jiacheng Lin et.al.|[2503.24289](http://arxiv.org/abs/2503.24289)|**[link](https://github.com/linjc16/Rec-R1)**|
