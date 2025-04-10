@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.09
+## Updated on 2025.04.10
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -852,7 +852,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-04-08**|**Leveraging Robust Optimization for LLM Alignment under Distribution Shifts**|Mingye Zhu et.al.|[2504.05831](http://arxiv.org/abs/2504.05831)|null|
-|**2025-04-03**|**Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning**|Kai Ye et.al.|[2504.03784](http://arxiv.org/abs/2504.03784)|null|
+|**2025-04-09**|**Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning**|Kai Ye et.al.|[2504.03784](http://arxiv.org/abs/2504.03784)|null|
 |**2025-04-03**|**Hide and Seek in Noise Labels: Noise-Robust Collaborative Active Learning with LLM-Powered Assistance**|Bo Yuan et.al.|[2504.02901](http://arxiv.org/abs/2504.02901)|null|
 |**2025-04-03**|**A Framework for Robust Cognitive Evaluation of LLMs**|Karin de Langis et.al.|[2504.02789](http://arxiv.org/abs/2504.02789)|null|
 |**2025-04-03**|**Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study**|Aryan Agrawal et.al.|[2504.02733](http://arxiv.org/abs/2504.02733)|null|
