@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**FairEval: Evaluating Fairness in LLM-Based Recommendations with Personality Awareness**|Chandan Kumar Sah et.al.|[2504.07801](http://arxiv.org/abs/2504.07801)|null|
 |**2025-03-05**|**Joint Group Profiling and Recommendation via Deep Neural Network-based Multi-Task Learning**|Ngoc Luyen Le et.al.|[2504.06274](http://arxiv.org/abs/2504.06274)|null|
 |**2025-04-08**|**Stratified Expert Cloning with Adaptive Selection for User Retention in Large-Scale Recommender Systems**|Chengzhi Lin et.al.|[2504.05628](http://arxiv.org/abs/2504.05628)|null|
 |**2025-04-06**|**Squeeze and Excitation: A Weighted Graph Contrastive Learning for Collaborative Filtering**|Zheyu Chen et.al.|[2504.04443](http://arxiv.org/abs/2504.04443)|null|
@@ -253,6 +254,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**|Riccardo Cantini et.al.|[2504.07887](http://arxiv.org/abs/2504.07887)|**[link](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**|
 |**2025-04-07**|**Secure Diagnostics: Adversarial Robustness Meets Clinical Interpretability**|Mohammad Hossein Najafi et.al.|[2504.05483](http://arxiv.org/abs/2504.05483)|null|
 |**2025-04-03**|**A Study on Adversarial Robustness of Discriminative Prototypical Learning**|Ramin Zarei Sabzevar et.al.|[2504.03782](http://arxiv.org/abs/2504.03782)|null|
 |**2025-03-31**|**AI-Enhanced Resilience in Power Systems: Adversarial Deep Learning for Robust Short-Term Voltage Stability Assessment under Cyber-Attacks**|Yang Li et.al.|[2504.02859](http://arxiv.org/abs/2504.02859)|null|
@@ -852,12 +854,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Benchmarking Adversarial Robustness to Bias Elicitation in Large Language Models: Scalable Automated Assessment with LLM-as-a-Judge**|Riccardo Cantini et.al.|[2504.07887](http://arxiv.org/abs/2504.07887)|**[link](https://github.com/SCAlabUnical/CLEAR-Bias_LLM_benchmark)**|
+|**2025-04-10**|**Robust Hallucination Detection in LLMs via Adaptive Token Selection**|Mengjia Niu et.al.|[2504.07863](http://arxiv.org/abs/2504.07863)|null|
+|**2025-04-09**|**Q-Agent: Quality-Driven Chain-of-Thought Image Restoration Agent through Robust Multimodal Large Language Model**|Yingjie Zhou et.al.|[2504.07148](http://arxiv.org/abs/2504.07148)|null|
+|**2025-03-20**|**How Robust Are Router-LLMs? Analysis of the Fragility of LLM Routing Capabilities**|Aly M. Kassem et.al.|[2504.07113](http://arxiv.org/abs/2504.07113)|null|
 |**2025-04-09**|**Towards LLMs Robustness to Changes in Prompt Format Styles**|Lilian Ngweta et.al.|[2504.06969](http://arxiv.org/abs/2504.06969)|null|
 |**2025-04-08**|**Leveraging Robust Optimization for LLM Alignment under Distribution Shifts**|Mingye Zhu et.al.|[2504.05831](http://arxiv.org/abs/2504.05831)|null|
 |**2025-04-09**|**Robust Reinforcement Learning from Human Feedback for Large Language Models Fine-Tuning**|Kai Ye et.al.|[2504.03784](http://arxiv.org/abs/2504.03784)|null|
 |**2025-04-03**|**Hide and Seek in Noise Labels: Noise-Robust Collaborative Active Learning with LLM-Powered Assistance**|Bo Yuan et.al.|[2504.02901](http://arxiv.org/abs/2504.02901)|null|
 |**2025-04-03**|**A Framework for Robust Cognitive Evaluation of LLMs**|Karin de Langis et.al.|[2504.02789](http://arxiv.org/abs/2504.02789)|null|
-|**2025-04-03**|**Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study**|Aryan Agrawal et.al.|[2504.02733](http://arxiv.org/abs/2504.02733)|null|
+|**2025-04-03**|**Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study**|Aryan Agrawal et.al.|[2504.02733](http://arxiv.org/abs/2504.02733)|**[link](https://github.com/ary4n99/llm-robustness)**|
 |**2025-04-03**|**Multi-Mission Tool Bench: Assessing the Robustness of LLM based Agents through Related and Dynamic Missions**|PeiJie Yu et.al.|[2504.02623](http://arxiv.org/abs/2504.02623)|**[link](https://github.com/yupeijei1997/MMTB)**|
 |**2025-04-03**|**Retrieval-Augmented Purifier for Robust LLM-Empowered Recommendation**|Liangbo Ning et.al.|[2504.02458](http://arxiv.org/abs/2504.02458)|null|
 |**2025-04-03**|**Toward General and Robust LLM-enhanced Text-attributed Graph Learning**|Zihao Zhang et.al.|[2504.02343](http://arxiv.org/abs/2504.02343)|null|
@@ -1143,6 +1149,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**FairEval: Evaluating Fairness in LLM-Based Recommendations with Personality Awareness**|Chandan Kumar Sah et.al.|[2504.07801](http://arxiv.org/abs/2504.07801)|null|
+|**2025-04-10**|**A Novel Mamba-based Sequential Recommendation Method**|Jun Yuan et.al.|[2504.07398](http://arxiv.org/abs/2504.07398)|null|
+|**2025-04-09**|**A Multi-Phase Analysis of Blood Culture Stewardship: Machine Learning Prediction, Expert Recommendation Assessment, and LLM Automation**|Fatemeh Amrollahi et.al.|[2504.07278](http://arxiv.org/abs/2504.07278)|null|
 |**2025-04-09**|**BBQRec: Behavior-Bind Quantization for Multi-Modal Sequential Recommendation**|Kaiyuan Li et.al.|[2504.06636](http://arxiv.org/abs/2504.06636)|null|
 |**2025-04-10**|**Unified Generative Search and Recommendation**|Teng Shi et.al.|[2504.05730](http://arxiv.org/abs/2504.05730)|null|
 |**2025-04-08**|**Large Language Models Enhanced Hyperbolic Space Recommender Systems**|Wentao Cheng et.al.|[2504.05694](http://arxiv.org/abs/2504.05694)|null|
