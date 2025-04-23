@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1187,7 +1187,7 @@ layout: default
 |**2025-04-13**|**Multi-Modal Hypergraph Enhanced LLM Learning for Recommendation**|Xu Guo et.al.|[2504.10541](http://arxiv.org/abs/2504.10541)|null|
 |**2025-04-13**|**Distilling Transitional Pattern to Large Language Models for Multimodal Session-based Recommendation**|Jiajie Su et.al.|[2504.10538](http://arxiv.org/abs/2504.10538)|null|
 |**2025-04-14**|**From Prompting to Alignment: A Generative Framework for Query Recommendation**|Erxue Min et.al.|[2504.10208](http://arxiv.org/abs/2504.10208)|null|
-|**2025-04-14**|**HistLLM: A Unified Framework for LLM-Based Multimodal Recommendation with User History Encoding and Compression**|Chen Zhang et.al.|[2504.10150](http://arxiv.org/abs/2504.10150)|null|
+|**2025-04-22**|**HistLLM: A Unified Framework for LLM-Based Multimodal Recommendation with User History Encoding and Compression**|Chen Zhang et.al.|[2504.10150](http://arxiv.org/abs/2504.10150)|null|
 |**2025-04-14**|**Enhancing LLM-based Recommendation through Semantic-Aligned Collaborative Knowledge**|Zihan Wang et.al.|[2504.10107](http://arxiv.org/abs/2504.10107)|null|
 |**2025-04-12**|**SynthTRIPs: A Knowledge-Grounded Framework for Benchmark Query Generation for Personalized Tourism Recommenders**|Ashmi Banerjee et.al.|[2504.09277](http://arxiv.org/abs/2504.09277)|null|
 |**2025-04-11**|**Large Language Model Empowered Recommendation Meets All-domain Continual Pre-Training**|Haokai Ma et.al.|[2504.08949](http://arxiv.org/abs/2504.08949)|null|
