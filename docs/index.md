@@ -1174,6 +1174,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-23**|**Algorithmic Mirror: Designing an Interactive Tool to Promote Self-Reflection for YouTube Recommendations**|Yui Kondo et.al.|[2504.16615](http://arxiv.org/abs/2504.16615)|null|
+|**2025-04-23**|**A Survey of Foundation Model-Powered Recommender Systems: From Feature-Based, Generative to Agentic Paradigms**|Chengkai Huang et.al.|[2504.16420](http://arxiv.org/abs/2504.16420)|null|
 |**2025-04-21**|**From Reviews to Dialogues: Active Synthesis for Zero-Shot LLM-based Conversational Recommender System**|Rohan Surana et.al.|[2504.15476](http://arxiv.org/abs/2504.15476)|null|
 |**2025-04-19**|**HF4Rec: Human-Like Feedback-Driven Optimization Framework for Explainable Recommendation**|Jiakai Tang et.al.|[2504.14147](http://arxiv.org/abs/2504.14147)|null|
 |**2025-04-18**|**Contextualizing Spotify's Audiobook List Recommendations with Descriptive Shelves**|Gustavo Penha et.al.|[2504.13572](http://arxiv.org/abs/2504.13572)|null|
