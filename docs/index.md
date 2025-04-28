@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.27
+## Updated on 2025.04.28
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1189,7 +1189,7 @@ layout: default
 |**2025-04-16**|**Rethinking LLM-Based Recommendations: A Query Generation-Based, Training-Free Approach**|Donghee Han et.al.|[2504.11889](http://arxiv.org/abs/2504.11889)|null|
 |**2025-04-15**|**Improving LLM Interpretability and Performance via Guided Embedding Refinement for Sequential Recommendation**|Nanshan Jia et.al.|[2504.11658](http://arxiv.org/abs/2504.11658)|null|
 |**2025-04-15**|**Exploring Backdoor Attack and Defense for LLM-empowered Recommendations**|Liangbo Ning et.al.|[2504.11182](http://arxiv.org/abs/2504.11182)|null|
-|**2025-04-15**|**MSCRS: Multi-modal Semantic Graph Prompt Learning Framework for Conversational Recommender Systems**|Yibiao Wei et.al.|[2504.10921](http://arxiv.org/abs/2504.10921)|**[link](https://github.com/biaobiao12138/mscrs-main)**|
+|**2025-04-25**|**MSCRS: Multi-modal Semantic Graph Prompt Learning Framework for Conversational Recommender Systems**|Yibiao Wei et.al.|[2504.10921](http://arxiv.org/abs/2504.10921)|**[link](https://github.com/biaobiao12138/mscrs-main)**|
 |**2025-04-14**|**GestureCoach: Rehearsing for Engaging Talks with LLM-Driven Gesture Recommendations**|Ashwin Ram et.al.|[2504.10706](http://arxiv.org/abs/2504.10706)|null|
 |**2025-04-13**|**Multi-Modal Hypergraph Enhanced LLM Learning for Recommendation**|Xu Guo et.al.|[2504.10541](http://arxiv.org/abs/2504.10541)|null|
 |**2025-04-13**|**Distilling Transitional Pattern to Large Language Models for Multimodal Session-based Recommendation**|Jiajie Su et.al.|[2504.10538](http://arxiv.org/abs/2504.10538)|null|
