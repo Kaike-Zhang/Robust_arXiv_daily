@@ -1621,7 +1621,7 @@
 |**2024-02-23**|**Multi-Agent Collaboration Framework for Recommender Systems**|Zhefan Wang et.al.|[2402.15235](http://arxiv.org/abs/2402.15235)|**[link](https://github.com/wzf2000/macrec)**|
 |**2024-02-23**|**Item-side Fairness of Large Language Model-based Recommendation System**|Meng Jiang et.al.|[2402.15215](http://arxiv.org/abs/2402.15215)|**[link](https://github.com/jiangm-c/ifairlrs)**|
 |**2024-02-18**|**Stealthy Attack on Large Language Model based Recommendation**|Jinghao Zhang et.al.|[2402.14836](http://arxiv.org/abs/2402.14836)|null|
-|**2024-02-21**|**LLM4SBR: A Lightweight and Effective Framework for Integrating Large Language Models in Session-based Recommendation**|Shutong Qiao et.al.|[2402.13840](http://arxiv.org/abs/2402.13840)|null|
+|**2024-02-21**|**LLM4SBR: A Lightweight and Effective Framework for Integrating Large Language Models in Session-based Recommendation**|Shutong Qiao et.al.|[2402.13840](http://arxiv.org/abs/2402.13840)|**[link](https://github.com/tsinghua-fib-lab/llm4sbr)**|
 |**2024-02-21**|**Breaking the Barrier: Utilizing Large Language Models for Industrial Recommendation Systems through an Inferential Knowledge Graph**|Qian Zhao et.al.|[2402.13750](http://arxiv.org/abs/2402.13750)|null|
 |**2024-02-18**|**Large Language Models as Data Augmenters for Cold-Start Item Recommendation**|Jianling Wang et.al.|[2402.11724](http://arxiv.org/abs/2402.11724)|null|
 |**2024-02-16**|**SPAR: Personalized Content-Based Recommendation via Long Engagement Attention**|Chiyu Zhang et.al.|[2402.10555](http://arxiv.org/abs/2402.10555)|**[link](https://github.com/jyonn/legommenders)**|
