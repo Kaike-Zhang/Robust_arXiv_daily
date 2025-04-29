@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.04.28
+## Updated on 2025.04.29
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -17,7 +17,7 @@ layout: default
 |**2025-04-15**|**RAID: An In-Training Defense against Attribute Inference Attacks in Recommender Systems**|Xiaohua Feng et.al.|[2504.11510](http://arxiv.org/abs/2504.11510)|null|
 |**2025-04-15**|**Exploring Backdoor Attack and Defense for LLM-empowered Recommendations**|Liangbo Ning et.al.|[2504.11182](http://arxiv.org/abs/2504.11182)|null|
 |**2025-04-14**|**Epistemic Uncertainty-aware Recommendation Systems via Bayesian Deep Ensemble Learning**|Radin Cheraghi et.al.|[2504.10753](http://arxiv.org/abs/2504.10753)|null|
-|**2025-04-14**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|**[link](https://github.com/yimutianyang/sigir2025-sgil)**|
+|**2025-04-27**|**Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning**|Yonghui Yang et.al.|[2504.10432](http://arxiv.org/abs/2504.10432)|**[link](https://github.com/yimutianyang/sigir2025-sgil)**|
 |**2025-03-23**|**Recommendation System in Advertising and Streaming Media: Unsupervised Data Enhancement Sequence Suggestions**|Kowei Shih et.al.|[2504.08740](http://arxiv.org/abs/2504.08740)|null|
 |**2025-04-10**|**FairEval: Evaluating Fairness in LLM-Based Recommendations with Personality Awareness**|Chandan Kumar Sah et.al.|[2504.07801](http://arxiv.org/abs/2504.07801)|null|
 |**2025-03-05**|**Joint Group Profiling and Recommendation via Deep Neural Network-based Multi-Task Learning**|Ngoc Luyen Le et.al.|[2504.06274](http://arxiv.org/abs/2504.06274)|null|
