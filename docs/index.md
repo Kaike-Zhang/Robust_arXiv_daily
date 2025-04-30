@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**X-Cross: Dynamic Integration of Language Models for Cross-Domain Sequential Recommendation**|Guy Hadad et.al.|[2504.20859](http://arxiv.org/abs/2504.20859)|null|
+|**2025-04-25**|**An Integrated Framework for Contextual Personalized LLM-Based Food Recommendation**|Ali Rostami et.al.|[2504.20092](http://arxiv.org/abs/2504.20092)|null|
 |**2025-04-22**|**Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation**|Yuanpeng Qu et.al.|[2504.16077](http://arxiv.org/abs/2504.16077)|null|
 |**2025-04-20**|**Matrix Factorization with Dynamic Multi-view Clustering for Recommender System**|Shangde Gao et.al.|[2504.14565](http://arxiv.org/abs/2504.14565)|null|
 |**2025-04-18**|**Consensus-aware Contrastive Learning for Group Recommendation**|Soyoung Kim et.al.|[2504.13703](http://arxiv.org/abs/2504.13703)|null|
@@ -875,6 +877,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption**|Wenxiao Wang et.al.|[2504.20769](http://arxiv.org/abs/2504.20769)|null|
 |**2025-04-27**|**A Multi-Language Perspective on the Robustness of LLM Code Generation**|Fazle Rabbi et.al.|[2504.19108](http://arxiv.org/abs/2504.19108)|null|
 |**2025-04-26**|**Towards Robust Dialogue Breakdown Detection: Addressing Disruptors in Large Language Models with Self-Guided Reasoning**|Abdellah Ghassel et.al.|[2504.18839](http://arxiv.org/abs/2504.18839)|null|
 |**2025-04-24**|**Towards Robust LLMs: an Adversarial Robustness Measurement Framework**|Natan Levy et.al.|[2504.17723](http://arxiv.org/abs/2504.17723)|null|
@@ -1180,6 +1183,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**Enhancing News Recommendation with Hierarchical LLM Prompting**|Hai-Dang Kieu et.al.|[2504.20452](http://arxiv.org/abs/2504.20452)|null|
+|**2025-04-26**|**MATCHA: Can Multi-Agent Collaboration Build a Trustworthy Conversational Recommender?**|Zheng Hui et.al.|[2504.20094](http://arxiv.org/abs/2504.20094)|null|
+|**2025-04-25**|**An Integrated Framework for Contextual Personalized LLM-Based Food Recommendation**|Ali Rostami et.al.|[2504.20092](http://arxiv.org/abs/2504.20092)|null|
+|**2025-04-15**|**Recommending Clinical Trials for Online Patient Cases using Artificial Intelligence**|Joey Chan et.al.|[2504.20059](http://arxiv.org/abs/2504.20059)|null|
 |**2025-04-29**|**LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation**|Beizhe Hu et.al.|[2504.20013](http://arxiv.org/abs/2504.20013)|null|
 |**2025-04-29**|**AlphaFuse: Learn ID Embeddings for Sequential Recommendation in Null Space of Language Embeddings**|Guoqing Hu et.al.|[2504.19218](http://arxiv.org/abs/2504.19218)|null|
 |**2025-04-26**|**Generative Product Recommendations for Implicit Superlative Queries**|Kaustubh D. Dhole et.al.|[2504.18748](http://arxiv.org/abs/2504.18748)|null|
