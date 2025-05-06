@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-04**|**Tricolore: Multi-Behavior User Profiling for Enhanced Candidate Generation in Recommender Systems**|Xiao Zhou et.al.|[2505.02120](http://arxiv.org/abs/2505.02120)|null|
 |**2025-04-29**|**X-Cross: Dynamic Integration of Language Models for Cross-Domain Sequential Recommendation**|Guy Hadad et.al.|[2504.20859](http://arxiv.org/abs/2504.20859)|null|
 |**2025-04-25**|**An Integrated Framework for Contextual Personalized LLM-Based Food Recommendation**|Ali Rostami et.al.|[2504.20092](http://arxiv.org/abs/2504.20092)|null|
 |**2025-04-22**|**Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation**|Yuanpeng Qu et.al.|[2504.16077](http://arxiv.org/abs/2504.16077)|null|
@@ -268,6 +269,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-03**|**Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation from SAR Images**|Siddharth Kothari et.al.|[2505.01884](http://arxiv.org/abs/2505.01884)|null|
+|**2025-05-03**|**Multimodal Graph Representation Learning for Robust Surgical Workflow Recognition with Adversarial Feature Disentanglement**|Long Bai et.al.|[2505.01766](http://arxiv.org/abs/2505.01766)|null|
 |**2025-05-02**|**Constrained Network Adversarial Attacks: Validity, Robustness, and Transferability**|Anass Grini et.al.|[2505.01328](http://arxiv.org/abs/2505.01328)|null|
 |**2025-04-30**|**Robust Multi-agent Communication Based on Decentralization-Oriented Adversarial Training**|Xuyan Ma et.al.|[2504.21278](http://arxiv.org/abs/2504.21278)|null|
 |**2025-04-16**|**RDI: An adversarial robustness evaluation metric for deep neural networks based on sample clustering features**|Jialei Song et.al.|[2504.18556](http://arxiv.org/abs/2504.18556)|null|
@@ -879,6 +882,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-03**|**High-Fidelity Pseudo-label Generation by Large Language Models for Training Robust Radiology Report Classifiers**|Brian Wong et.al.|[2505.01693](http://arxiv.org/abs/2505.01693)|null|
 |**2025-04-29**|**Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption**|Wenxiao Wang et.al.|[2504.20769](http://arxiv.org/abs/2504.20769)|null|
 |**2025-05-01**|**A Multi-Language Perspective on the Robustness of LLM Code Generation**|Fazle Rabbi et.al.|[2504.19108](http://arxiv.org/abs/2504.19108)|null|
 |**2025-04-26**|**Towards Robust Dialogue Breakdown Detection: Addressing Disruptors in Large Language Models with Self-Guided Reasoning**|Abdellah Ghassel et.al.|[2504.18839](http://arxiv.org/abs/2504.18839)|null|
@@ -1185,6 +1189,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-05**|**Colombian Waitresses y Jueces canadienses: Gender and Country Biases in Occupation Recommendations from LLMs**|Elisa Forcada Rodríguez et.al.|[2505.02456](http://arxiv.org/abs/2505.02456)|null|
+|**2025-04-29**|**LLM-Enabled EV Charging Stations Recommendation**|Zeinab Teimoori et.al.|[2505.01447](http://arxiv.org/abs/2505.01447)|null|
 |**2025-05-02**|**Multi-agents based User Values Mining for Recommendation**|Lijian Chen et.al.|[2505.00981](http://arxiv.org/abs/2505.00981)|null|
 |**2025-05-02**|**Preserving Privacy and Utility in LLM-Based Product Recommendations**|Tina Khezresmaeilzadeh et.al.|[2505.00951](http://arxiv.org/abs/2505.00951)|null|
 |**2025-04-29**|**Enhancing News Recommendation with Hierarchical LLM Prompting**|Hai-Dang Kieu et.al.|[2504.20452](http://arxiv.org/abs/2504.20452)|null|
