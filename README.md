@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
+|**2025-05-06**|**Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models**|Kapil Wanaskar et.al.|[2505.04650](http://arxiv.org/abs/2505.04650)|null|
 |**2025-05-04**|**Tricolore: Multi-Behavior User Profiling for Enhanced Candidate Generation in Recommender Systems**|Xiao Zhou et.al.|[2505.02120](http://arxiv.org/abs/2505.02120)|null|
 |**2025-04-29**|**X-Cross: Dynamic Integration of Language Models for Cross-Domain Sequential Recommendation**|Guy Hadad et.al.|[2504.20859](http://arxiv.org/abs/2504.20859)|null|
 |**2025-04-25**|**An Integrated Framework for Contextual Personalized LLM-Based Food Recommendation**|Ali Rostami et.al.|[2504.20092](http://arxiv.org/abs/2504.20092)|null|
@@ -278,13 +280,13 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-06**|**Robustness in AI-Generated Detection: Enhancing Resistance to Adversarial Attacks**|Sun Haoxuan et.al.|[2505.03435](http://arxiv.org/abs/2505.03435)|null|
-|**2025-05-05**|**Adversarial Robustness Analysis of Vision-Language Models in Medical Image Segmentation**|Anjila Budathoki et.al.|[2505.02971](http://arxiv.org/abs/2505.02971)|null|
+|**2025-05-05**|**Adversarial Robustness Analysis of Vision-Language Models in Medical Image Segmentation**|Anjila Budathoki et.al.|[2505.02971](http://arxiv.org/abs/2505.02971)|**[link](https://github.com/anjilab/secure-private-ai)**|
 |**2025-05-06**|**Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation from SAR Images**|Siddharth Kothari et.al.|[2505.01884](http://arxiv.org/abs/2505.01884)|**[link](https://github.com/gvcl/iwseg-sar-poison)**|
 |**2025-05-03**|**Multimodal Graph Representation Learning for Robust Surgical Workflow Recognition with Adversarial Feature Disentanglement**|Long Bai et.al.|[2505.01766](http://arxiv.org/abs/2505.01766)|null|
 |**2025-05-02**|**Constrained Network Adversarial Attacks: Validity, Robustness, and Transferability**|Anass Grini et.al.|[2505.01328](http://arxiv.org/abs/2505.01328)|null|
 |**2025-04-30**|**Robust Multi-agent Communication Based on Decentralization-Oriented Adversarial Training**|Xuyan Ma et.al.|[2504.21278](http://arxiv.org/abs/2504.21278)|null|
 |**2025-04-16**|**RDI: An adversarial robustness evaluation metric for deep neural networks based on sample clustering features**|Jialei Song et.al.|[2504.18556](http://arxiv.org/abs/2504.18556)|null|
-|**2025-04-24**|**Fine-Tuning Adversarially-Robust Transformers for Single-Image Dehazing**|Vlad Vasilescu et.al.|[2504.17829](http://arxiv.org/abs/2504.17829)|null|
+|**2025-04-24**|**Fine-Tuning Adversarially-Robust Transformers for Single-Image Dehazing**|Vlad Vasilescu et.al.|[2504.17829](http://arxiv.org/abs/2504.17829)|**[link](https://github.com/vladimirescu/robustdehazing)**|
 |**2025-04-24**|**Towards Robust LLMs: an Adversarial Robustness Measurement Framework**|Natan Levy et.al.|[2504.17723](http://arxiv.org/abs/2504.17723)|null|
 |**2025-04-19**|**Hydra: An Agentic Reasoning Approach for Enhancing Adversarial Robustness and Mitigating Hallucinations in Vision-Language Models**|Chung-En et.al.|[2504.14395](http://arxiv.org/abs/2504.14395)|null|
 |**2025-04-18**|**Robust Decentralized Quantum Kernel Learning for Noisy and Adversarial Environment**|Wenxuan Ma et.al.|[2504.13782](http://arxiv.org/abs/2504.13782)|null|
@@ -1205,6 +1207,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
+|**2025-05-08**|**The Pitfalls of Growing Group Complexity: LLMs and Social Choice-Based Aggregation for Group Recommendations**|Cedric Waterschoot et.al.|[2505.05016](http://arxiv.org/abs/2505.05016)|null|
+|**2025-05-08**|**Learning Item Representations Directly from Multimodal Features for Effective Recommendation**|Xin Zhou et.al.|[2505.04960](http://arxiv.org/abs/2505.04960)|null|
+|**2025-05-08**|**Prompt-Based LLMs for Position Bias-Aware Reranking in Personalized Recommendations**|Md Aminul Islam et.al.|[2505.04948](http://arxiv.org/abs/2505.04948)|**[link](https://github.com/aminul7506/llmforreranking)**|
 |**2025-05-07**|**M2Rec: Multi-scale Mamba for Efficient Sequential Recommendation**|Qianru Zhang et.al.|[2505.04445](http://arxiv.org/abs/2505.04445)|null|
 |**2025-05-03**|**Memory Assisted LLM for Personalized Recommendation System**|Jiarui Chen et.al.|[2505.03824](http://arxiv.org/abs/2505.03824)|null|
 |**2025-05-06**|**Avoid Recommending Out-of-Domain Items: Constrained Generative Recommendation with LLMs**|Hao Liao et.al.|[2505.03336](http://arxiv.org/abs/2505.03336)|**[link](https://github.com/microsoft/recai)**|
