@@ -1012,7 +1012,7 @@ layout: default
 |**2024-11-08**|**Robust and Efficient Fine-tuning of LLMs with Bayesian Reparameterization of Low-Rank Adaptation**|Ayan Sengupta et.al.|[2411.04358](http://arxiv.org/abs/2411.04358)|**[link](https://github.com/lcs2-iiitd/monteclora)**|
 |**2024-11-02**|**Leveraging LLM and Text-Queried Separation for Noise-Robust Sound Event Detection**|Han Yin et.al.|[2411.01174](http://arxiv.org/abs/2411.01174)|**[link](https://github.com/apple-yinhan/noise-robust-sed)**|
 |**2024-10-27**|**LLM Robustness Against Misinformation in Biomedical Question Answering**|Alexander Bondarenko et.al.|[2410.21330](http://arxiv.org/abs/2410.21330)|**[link](https://github.com/alebondarenko/llm-robustness)**|
-|**2024-10-28**|**Are LLM-Judges Robust to Expressions of Uncertainty? Investigating the effect of Epistemic Markers on LLM-based Evaluation**|Dongryeol Lee et.al.|[2410.20774](http://arxiv.org/abs/2410.20774)|null|
+|**2024-10-28**|**Are LLM-Judges Robust to Expressions of Uncertainty? Investigating the effect of Epistemic Markers on LLM-based Evaluation**|Dongryeol Lee et.al.|[2410.20774](http://arxiv.org/abs/2410.20774)|**[link](https://github.com/dongryeollee96/ember)**|
 |**2024-10-23**|**Guide for Defense (G4D): Dynamic Guidance for Robust and Balanced Defense in Large Language Models**|He Cao et.al.|[2410.17922](http://arxiv.org/abs/2410.17922)|**[link](https://github.com/idea-xl/g4d)**|
 |**2024-10-23**|**AutoRNet: Automatically Optimizing Heuristics for Robust Network Design via Large Language Models**|He Yu et.al.|[2410.17656](http://arxiv.org/abs/2410.17656)|null|
 |**2024-10-24**|**ESpeW: Robust Copyright Protection for LLM-based EaaS via Embedding-Specific Watermark**|Zongqi Wang et.al.|[2410.17552](http://arxiv.org/abs/2410.17552)|**[link](https://github.com/liudan193/ESpeW)**|
@@ -1258,7 +1258,7 @@ layout: default
 |**2025-04-02**|**Text2Tracks: Prompt-based Music Recommendation via Generative Retrieval**|Enrico Palumbo et.al.|[2503.24193](http://arxiv.org/abs/2503.24193)|null|
 |**2025-03-31**|**Get the Agents Drunk: Memory Perturbations in Autonomous Agent-based Recommender Systems**|Shiyi Yang et.al.|[2503.23804](http://arxiv.org/abs/2503.23804)|null|
 |**2025-03-30**|**LaViC: Adapting Large Vision-Language Models to Visually-Aware Conversational Recommendation**|Hyunsik Jeon et.al.|[2503.23312](http://arxiv.org/abs/2503.23312)|**[link](https://github.com/jeon185/lavic)**|
-|**2025-03-27**|**Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences**|Heejin Kook et.al.|[2503.22005](http://arxiv.org/abs/2503.22005)|null|
+|**2025-03-27**|**Empowering Retrieval-based Conversational Recommendation with Contrasting User Preferences**|Heejin Kook et.al.|[2503.22005](http://arxiv.org/abs/2503.22005)|**[link](https://github.com/kookeej/coral)**|
 |**2025-03-26**|**RALLRec+: Retrieval Augmented Large Language Model Recommendation with Reasoning**|Sichun Luo et.al.|[2503.20430](http://arxiv.org/abs/2503.20430)|**[link](https://github.com/sichunluo/rallrec_plus)**|
 |**2025-03-20**|**Towards Agentic Recommender Systems in the Era of Multimodal Large Language Models**|Chengkai Huang et.al.|[2503.16734](http://arxiv.org/abs/2503.16734)|null|
 |**2025-03-31**|**TablePilot: Recommending Human-Preferred Tabular Data Analysis with Large Language Models**|Deyin Yi et.al.|[2503.13262](http://arxiv.org/abs/2503.13262)|null|
@@ -1381,7 +1381,7 @@ layout: default
 |**2024-12-09**|**Bridging Conversational and Collaborative Signals for Conversational Recommendation**|Ahmad Bin Rabiah et.al.|[2412.06949](http://arxiv.org/abs/2412.06949)|null|
 |**2024-12-09**|**PRECISE: Pre-training Sequential Recommenders with Collaborative and Semantic Information**|Chonggang Song et.al.|[2412.06308](http://arxiv.org/abs/2412.06308)|null|
 |**2024-12-07**|**ULMRec: User-centric Large Language Model for Sequential Recommendation**|Minglai Shao et.al.|[2412.05543](http://arxiv.org/abs/2412.05543)|null|
-|**2024-12-05**|**Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models**|Yuhao Wang et.al.|[2412.04107](http://arxiv.org/abs/2412.04107)|null|
+|**2024-12-05**|**Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models**|Yuhao Wang et.al.|[2412.04107](http://arxiv.org/abs/2412.04107)|**[link](https://github.com/applied-machine-learning-lab/pad)**|
 |**2024-11-17**|**Enabling Explainable Recommendation in E-commerce with LLM-powered Product Knowledge Graph**|Menghan Wang et.al.|[2412.01837](http://arxiv.org/abs/2412.01837)|null|
 |**2024-12-01**|**Scaling New Frontiers: Insights into Large Recommendation Models**|Wei Guo et.al.|[2412.00714](http://arxiv.org/abs/2412.00714)|**[link](https://github.com/ustc-starteam/large-recommendation-models)**|
 |**2024-11-29**|**Cross-Domain Recommendation Meets Large Language Models**|Ajay Krishna Vajjala et.al.|[2411.19862](http://arxiv.org/abs/2411.19862)|**[link](https://github.com/ajaykv1/CDR_Meets_LLMs)**|
@@ -1409,7 +1409,7 @@ layout: default
 |**2024-10-30**|**Causality-Enhanced Behavior Sequence Modeling in LLMs for Personalized Recommendation**|Yang Zhang et.al.|[2410.22809](http://arxiv.org/abs/2410.22809)|**[link](https://github.com/itsmeyjt/cft)**|
 |**2024-10-28**|**GenUP: Generative User Profilers as In-Context Learners for Next POI Recommender Systems**|Wilson Wongso et.al.|[2410.20643](http://arxiv.org/abs/2410.20643)|**[link](https://github.com/w11wo/genup)**|
 |**2024-10-28**|**Collaborative Knowledge Fusion: A Novel Approach for Multi-task Recommender Systems via LLMs**|Chuang Zhao et.al.|[2410.20642](http://arxiv.org/abs/2410.20642)|null|
-|**2024-10-26**|**FLOW: A Feedback LOop FrameWork for Simultaneously Enhancing Recommendation and User Agents**|Shihao Cai et.al.|[2410.20027](http://arxiv.org/abs/2410.20027)|null|
+|**2024-10-26**|**FLOW: A Feedback LOop FrameWork for Simultaneously Enhancing Recommendation and User Agents**|Shihao Cai et.al.|[2410.20027](http://arxiv.org/abs/2410.20027)|**[link](https://github.com/lanyu0303/afl)**|
 |**2024-10-22**|**Personalized Recommendation Systems using Multimodal, Autonomous, Multi Agent Systems**|Param Thakkar et.al.|[2410.19855](http://arxiv.org/abs/2410.19855)|null|
 |**2024-10-10**|**Towards Next-Generation LLM-based Recommender Systems: A Survey and Beyond**|Qi Wang et.al.|[2410.19744](http://arxiv.org/abs/2410.19744)|**[link](https://github.com/jindongli-ai/next-generation-llm-based-recommender-systems-survey)**|
 |**2024-10-25**|**TEARS: Textual Representations for Scrutable Recommendations**|Emiliano Penaloza et.al.|[2410.19302](http://arxiv.org/abs/2410.19302)|null|
@@ -1554,7 +1554,7 @@ layout: default
 |**2024-05-25**|**Retrieval-Augmented Conversational Recommendation with Prompt-based Semi-Structured Natural Language State Tracking**|Sara Kemper et.al.|[2406.00033](http://arxiv.org/abs/2406.00033)|null|
 |**2024-05-31**|**Large Language Models Enhanced Sequential Recommendation for Long-tail User and Item**|Qidong Liu et.al.|[2405.20646](http://arxiv.org/abs/2405.20646)|**[link](https://github.com/liuqidong07/LLM-ESR)**|
 |**2024-06-04**|**Generating Query Recommendations via LLMs**|Andrea Bacciu et.al.|[2405.19749](http://arxiv.org/abs/2405.19749)|null|
-|**2024-05-30**|**Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations**|Hai-Dang Kieu et.al.|[2405.19612](http://arxiv.org/abs/2405.19612)|null|
+|**2024-05-30**|**Keyword-driven Retrieval-Augmented Large Language Models for Cold-start User Recommendations**|Hai-Dang Kieu et.al.|[2405.19612](http://arxiv.org/abs/2405.19612)|**[link](https://github.com/dangkh/kalm4rec-www)**|
 |**2024-05-28**|**SLMRec: Empowering Small Language Models for Sequential Recommendation**|Wujiang Xu et.al.|[2405.17890](http://arxiv.org/abs/2405.17890)|**[link](https://github.com/wujiangxu/slmrec)**|
 |**2024-05-28**|**MobileConvRec: A Conversational Dataset for Mobile Apps Recommendations**|Srijata Maji et.al.|[2405.17740](http://arxiv.org/abs/2405.17740)|null|
 |**2024-05-27**|**RAGSys: Item-Cold-Start Recommender as RAG System**|Emile Contal et.al.|[2405.17587](http://arxiv.org/abs/2405.17587)|null|
@@ -1622,7 +1622,7 @@ layout: default
 |**2024-03-11**|**RecAI: Leveraging Large Language Models for Next-Generation Recommender Systems**|Jianxun Lian et.al.|[2403.06465](http://arxiv.org/abs/2403.06465)|**[link](https://github.com/microsoft/recai)**|
 |**2024-03-11**|**CoRAL: Collaborative Retrieval-Augmented Large Language Models Improve Long-tail Recommendation**|Junda Wu et.al.|[2403.06447](http://arxiv.org/abs/2403.06447)|null|
 |**2024-03-08**|**CFaiRLLM: Consumer Fairness Evaluation in Large-Language Model Recommender System**|Yashar Deldjoo et.al.|[2403.05668](http://arxiv.org/abs/2403.05668)|null|
-|**2024-03-08**|**Aligning Large Language Models for Controllable Recommendations**|Wensheng Lu et.al.|[2403.05063](http://arxiv.org/abs/2403.05063)|null|
+|**2024-03-08**|**Aligning Large Language Models for Controllable Recommendations**|Wensheng Lu et.al.|[2403.05063](http://arxiv.org/abs/2403.05063)|**[link](https://github.com/microsoft/recai)**|
 |**2024-03-08**|**Pearl: A Review-driven Persona-Knowledge Grounded Conversational Recommendation Dataset**|Minjin Kim et.al.|[2403.04460](http://arxiv.org/abs/2403.04460)|**[link](https://github.com/kkmjkim/pearl)**|
 |**2024-03-28**|**Can Small Language Models be Good Reasoners for Sequential Recommendation?**|Yuling Wang et.al.|[2403.04260](http://arxiv.org/abs/2403.04260)|null|
 |**2024-03-07**|**Federated Recommendation via Hybrid Retrieval Augmented Generation**|Huimin Zeng et.al.|[2403.04256](http://arxiv.org/abs/2403.04256)|**[link](https://github.com/huiminzeng/gpt-fedrec)**|
