@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-10**|**Burger: Robust Graph Denoising-augmentation Fusion and Multi-semantic Modeling in Social Recommendation**|Yuqin Lan et.al.|[2505.06612](http://arxiv.org/abs/2505.06612)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 |**2025-05-06**|**Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models**|Kapil Wanaskar et.al.|[2505.04650](http://arxiv.org/abs/2505.04650)|null|
 |**2025-05-04**|**Tricolore: Multi-Behavior User Profiling for Enhanced Candidate Generation in Recommender Systems**|Xiao Zhou et.al.|[2505.02120](http://arxiv.org/abs/2505.02120)|null|
@@ -279,6 +280,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-11**|**A Formally Verified Robustness Certifier for Neural Networks (Extended Version)**|James Tobler et.al.|[2505.06958](http://arxiv.org/abs/2505.06958)|null|
+|**2025-05-08**|**RAP-SM: Robust Adversarial Prompt via Shadow Models for Copyright Verification of Large Language Models**|Zhenhua Xu et.al.|[2505.06304](http://arxiv.org/abs/2505.06304)|null|
 |**2025-05-09**|**Realistic Adversarial Attacks for Robustness Evaluation of Trajectory Prediction Models via Future State Perturbation**|Julian F. Schumann et.al.|[2505.06134](http://arxiv.org/abs/2505.06134)|**[link](https://github.com/jhagenus/general-framework-update-adversarial-jeroen)**|
 |**2025-05-06**|**Robustness in AI-Generated Detection: Enhancing Resistance to Adversarial Attacks**|Sun Haoxuan et.al.|[2505.03435](http://arxiv.org/abs/2505.03435)|null|
 |**2025-05-05**|**Adversarial Robustness Analysis of Vision-Language Models in Medical Image Segmentation**|Anjila Budathoki et.al.|[2505.02971](http://arxiv.org/abs/2505.02971)|**[link](https://github.com/anjilab/secure-private-ai)**|
@@ -897,6 +900,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-08**|**RAP-SM: Robust Adversarial Prompt via Shadow Models for Copyright Verification of Large Language Models**|Zhenhua Xu et.al.|[2505.06304](http://arxiv.org/abs/2505.06304)|null|
 |**2025-05-09**|**Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation**|Stefan Vasilev et.al.|[2505.06027](http://arxiv.org/abs/2505.06027)|null|
 |**2025-05-07**|**OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models**|Xiaoyu Xu et.al.|[2505.04416](http://arxiv.org/abs/2505.04416)|null|
 |**2025-05-06**|**Assessing and Enhancing the Robustness of LLM-based Multi-Agent Systems Through Chaos Engineering**|Joshua Owotogbe et.al.|[2505.03096](http://arxiv.org/abs/2505.03096)|null|
@@ -1209,6 +1213,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-11**|**Optimizing Recommendations using Fine-Tuned LLMs**|Prabhdeep Cheema et.al.|[2505.06841](http://arxiv.org/abs/2505.06841)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
 |**2025-05-08**|**The Pitfalls of Growing Group Complexity: LLMs and Social Choice-Based Aggregation for Group Recommendations**|Cedric Waterschoot et.al.|[2505.05016](http://arxiv.org/abs/2505.05016)|null|
 |**2025-05-08**|**Learning Item Representations Directly from Multimodal Features for Effective Recommendation**|Xin Zhou et.al.|[2505.04960](http://arxiv.org/abs/2505.04960)|null|
