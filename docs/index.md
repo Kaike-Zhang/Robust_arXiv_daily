@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.13
+## Updated on 2025.05.14
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -896,7 +896,7 @@ layout: default
 |**2025-05-06**|**Assessing and Enhancing the Robustness of LLM-based Multi-Agent Systems Through Chaos Engineering**|Joshua Owotogbe et.al.|[2505.03096](http://arxiv.org/abs/2505.03096)|null|
 |**2025-05-03**|**High-Fidelity Pseudo-label Generation by Large Language Models for Training Robust Radiology Report Classifiers**|Brian Wong et.al.|[2505.01693](http://arxiv.org/abs/2505.01693)|null|
 |**2025-04-29**|**Chain-of-Defensive-Thought: Structured Reasoning Elicits Robustness in Large Language Models against Reference Corruption**|Wenxiao Wang et.al.|[2504.20769](http://arxiv.org/abs/2504.20769)|null|
-|**2025-05-01**|**A Multi-Language Perspective on the Robustness of LLM Code Generation**|Fazle Rabbi et.al.|[2504.19108](http://arxiv.org/abs/2504.19108)|null|
+|**2025-05-01**|**A Multi-Language Perspective on the Robustness of LLM Code Generation**|Fazle Rabbi et.al.|[2504.19108](http://arxiv.org/abs/2504.19108)|**[link](https://github.com/frabbisw/robustextended)**|
 |**2025-04-26**|**Towards Robust Dialogue Breakdown Detection: Addressing Disruptors in Large Language Models with Self-Guided Reasoning**|Abdellah Ghassel et.al.|[2504.18839](http://arxiv.org/abs/2504.18839)|null|
 |**2025-04-24**|**Towards Robust LLMs: an Adversarial Robustness Measurement Framework**|Natan Levy et.al.|[2504.17723](http://arxiv.org/abs/2504.17723)|null|
 |**2025-04-21**|**DONOD: Robust and Generalizable Instruction Fine-Tuning for LLMs via Model-Intrinsic Dataset Pruning**|Jucheng Hu et.al.|[2504.14810](http://arxiv.org/abs/2504.14810)|null|
