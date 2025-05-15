@@ -272,6 +272,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems**|Mostafa Jafari et.al.|[2505.09342](http://arxiv.org/abs/2505.09342)|**[link](https://github.com/mostafa-ja/sigma-binary)**|
+|**2025-05-13**|**Robustness Analysis against Adversarial Patch Attacks in Fully Unmanned Stores**|Hyunsik Na et.al.|[2505.08835](http://arxiv.org/abs/2505.08835)|null|
 |**2025-05-14**|**SpecSphere: Dual-Pass Spectral-Spatial Graph Neural Networks with Certified Robustness**|Yoonhyuk Choi et.al.|[2505.08320](http://arxiv.org/abs/2505.08320)|null|
 |**2025-05-12**|**Dynamical Low-Rank Compression of Neural Networks with Robustness under Adversarial Attacks**|Steffen Schotthöfer et.al.|[2505.08022](http://arxiv.org/abs/2505.08022)|null|
 |**2025-05-08**|**Unpacking Robustness in Inflectional Languages: Adversarial Evaluation and Mechanistic Insights**|Paweł Walkowiak et.al.|[2505.07856](http://arxiv.org/abs/2505.07856)|null|
@@ -893,6 +895,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Federated Large Language Models: Feasibility, Robustness, Security and Future Directions**|Wenhao Jiang et.al.|[2505.08830](http://arxiv.org/abs/2505.08830)|null|
 |**2025-05-08**|**RAP-SM: Robust Adversarial Prompt via Shadow Models for Copyright Verification of Large Language Models**|Zhenhua Xu et.al.|[2505.06304](http://arxiv.org/abs/2505.06304)|null|
 |**2025-05-09**|**Unilogit: Robust Machine Unlearning for LLMs Using Uniform-Target Self-Distillation**|Stefan Vasilev et.al.|[2505.06027](http://arxiv.org/abs/2505.06027)|null|
 |**2025-05-07**|**OBLIVIATE: Robust and Practical Machine Unlearning for Large Language Models**|Xiaoyu Xu et.al.|[2505.04416](http://arxiv.org/abs/2505.04416)|null|
