@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.14
+## Updated on 2025.05.15
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -272,7 +272,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-13**|**SpecSphere: Dual-Pass Spectral-Spatial Graph Neural Networks with Certified Robustness**|Yoonhyuk Choi et.al.|[2505.08320](http://arxiv.org/abs/2505.08320)|null|
+|**2025-05-14**|**SpecSphere: Dual-Pass Spectral-Spatial Graph Neural Networks with Certified Robustness**|Yoonhyuk Choi et.al.|[2505.08320](http://arxiv.org/abs/2505.08320)|null|
 |**2025-05-12**|**Dynamical Low-Rank Compression of Neural Networks with Robustness under Adversarial Attacks**|Steffen Schotthöfer et.al.|[2505.08022](http://arxiv.org/abs/2505.08022)|null|
 |**2025-05-08**|**Unpacking Robustness in Inflectional Languages: Adversarial Evaluation and Mechanistic Insights**|Paweł Walkowiak et.al.|[2505.07856](http://arxiv.org/abs/2505.07856)|null|
 |**2025-05-11**|**A Formally Verified Robustness Certifier for Neural Networks (Extended Version)**|James Tobler et.al.|[2505.06958](http://arxiv.org/abs/2505.06958)|null|
