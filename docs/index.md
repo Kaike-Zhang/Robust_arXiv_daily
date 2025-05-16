@@ -2,14 +2,14 @@
 layout: default
 ---
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-10**|**Burger: Robust Graph Denoising-augmentation Fusion and Multi-semantic Modeling in Social Recommendation**|Yuqin Lan et.al.|[2505.06612](http://arxiv.org/abs/2505.06612)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
-|**2025-05-06**|**Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models**|Kapil Wanaskar et.al.|[2505.04650](http://arxiv.org/abs/2505.04650)|null|
+|**2025-05-06**|**Multimodal Benchmarking and Recommendation of Text-to-Image Generation Models**|Kapil Wanaskar et.al.|[2505.04650](http://arxiv.org/abs/2505.04650)|**[link](https://github.com/kapilw25/Evaluation_generated_images)**|
 |**2025-05-04**|**Tricolore: Multi-Behavior User Profiling for Enhanced Candidate Generation in Recommender Systems**|Xiao Zhou et.al.|[2505.02120](http://arxiv.org/abs/2505.02120)|null|
 |**2025-04-29**|**X-Cross: Dynamic Integration of Language Models for Cross-Domain Sequential Recommendation**|Guy Hadad et.al.|[2504.20859](http://arxiv.org/abs/2504.20859)|null|
 |**2025-04-25**|**An Integrated Framework for Contextual Personalized LLM-Based Food Recommendation**|Ali Rostami et.al.|[2504.20092](http://arxiv.org/abs/2504.20092)|null|
