@@ -280,6 +280,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs**|Sijia Chen et.al.|[2505.11413](http://arxiv.org/abs/2505.11413)|null|
 |**2025-05-14**|**Evaluating the Robustness of Adversarial Defenses in Malware Detection Systems**|Mostafa Jafari et.al.|[2505.09342](http://arxiv.org/abs/2505.09342)|**[link](https://github.com/mostafa-ja/sigma-binary)**|
 |**2025-05-13**|**Robustness Analysis against Adversarial Patch Attacks in Fully Unmanned Stores**|Hyunsik Na et.al.|[2505.08835](http://arxiv.org/abs/2505.08835)|null|
 |**2025-05-14**|**SpecSphere: Dual-Pass Spectral-Spatial Graph Neural Networks with Certified Robustness**|Yoonhyuk Choi et.al.|[2505.08320](http://arxiv.org/abs/2505.08320)|null|
@@ -905,6 +906,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs**|Sijia Chen et.al.|[2505.11413](http://arxiv.org/abs/2505.11413)|null|
 |**2025-05-15**|**Are Large Language Models Robust in Understanding Code Against Semantics-Preserving Mutations?**|Pedro Orvalho et.al.|[2505.10443](http://arxiv.org/abs/2505.10443)|null|
 |**2025-05-13**|**Federated Large Language Models: Feasibility, Robustness, Security and Future Directions**|Wenhao Jiang et.al.|[2505.08830](http://arxiv.org/abs/2505.08830)|null|
 |**2025-05-08**|**RAP-SM: Robust Adversarial Prompt via Shadow Models for Copyright Verification of Large Language Models**|Zhenhua Xu et.al.|[2505.06304](http://arxiv.org/abs/2505.06304)|null|
@@ -1220,6 +1222,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Who You Are Matters: Bridging Topics and Social Roles via LLM-Enhanced Logical Recommendation**|Qing Yu et.al.|[2505.10940](http://arxiv.org/abs/2505.10940)|null|
+|**2025-05-16**|**Explain What You Mean: Intent Augmented Knowledge Graph Recommender Built With LLM**|Wenqing Zheng et.al.|[2505.10900](http://arxiv.org/abs/2505.10900)|null|
 |**2025-05-15**|**From Questions to Clinical Recommendations: Large Language Models Driving Evidence-Based Clinical Decision Making**|Dubai Li et.al.|[2505.10282](http://arxiv.org/abs/2505.10282)|**[link](https://github.com/somewordstoolate/quicker)**|
 |**2025-05-15**|**Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M**|Dario Di Palma et.al.|[2505.10212](http://arxiv.org/abs/2505.10212)|**[link](https://github.com/sisinflab/llm-memoryinspector)**|
 |**2025-05-14**|**A Survey on Large Language Models in Multimodal Recommender Systems**|Alejo Lopez-Avila et.al.|[2505.09777](http://arxiv.org/abs/2505.09777)|null|
