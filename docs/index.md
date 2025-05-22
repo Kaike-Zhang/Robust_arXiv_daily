@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.21
+## Updated on 2025.05.22
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -10,7 +10,7 @@ layout: default
 |**2025-05-20**|**DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation**|Hye-young Kim et.al.|[2505.13974](http://arxiv.org/abs/2505.13974)|null|
 |**2025-05-18**|**LLM-Based User Simulation for Low-Knowledge Shilling Attacks on Recommender Systems**|Shengkang Gu et.al.|[2505.13528](http://arxiv.org/abs/2505.13528)|null|
 |**2025-05-19**|**Recommender Systems for Democracy: Toward Adversarial Robustness in Voting Advice Applications**|Frédéric Berdoz et.al.|[2505.13329](http://arxiv.org/abs/2505.13329)|null|
-|**2025-05-18**|**Addressing Missing Data Issue for Diffusion-based Recommendation**|Wenyu Mao et.al.|[2505.12283](http://arxiv.org/abs/2505.12283)|null|
+|**2025-05-18**|**Addressing Missing Data Issue for Diffusion-based Recommendation**|Wenyu Mao et.al.|[2505.12283](http://arxiv.org/abs/2505.12283)|**[link](https://github.com/maowenyu-11/TDM)**|
 |**2025-05-17**|**Conversational Recommendation System using NLP and Sentiment Analysis**|Piyush Talegaonkar et.al.|[2505.11933](http://arxiv.org/abs/2505.11933)|null|
 |**2025-05-10**|**Burger: Robust Graph Denoising-augmentation Fusion and Multi-semantic Modeling in Social Recommendation**|Yuqin Lan et.al.|[2505.06612](http://arxiv.org/abs/2505.06612)|null|
 |**2025-05-08**|**Stealthy LLM-Driven Data Poisoning Attacks Against Embedding-Based Retrieval-Augmented Recommender Systems**|Fatemeh Nazary et.al.|[2505.05196](http://arxiv.org/abs/2505.05196)|null|
@@ -277,7 +277,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-20**|**Adversarially Pretrained Transformers may be Universally Robust In-Context Learners**|Soichiro Kumano et.al.|[2505.14042](http://arxiv.org/abs/2505.14042)|null|
+|**2025-05-20**|**Adversarially Pretrained Transformers may be Universally Robust In-Context Learners**|Soichiro Kumano et.al.|[2505.14042](http://arxiv.org/abs/2505.14042)|**[link](https://github.com/s-kumano/universally-robust-in-context-learner)**|
 |**2025-05-19**|**Recommender Systems for Democracy: Toward Adversarial Robustness in Voting Advice Applications**|Frédéric Berdoz et.al.|[2505.13329](http://arxiv.org/abs/2505.13329)|null|
 |**2025-05-19**|**On the Mechanisms of Adversarial Data Augmentation for Robust and Adaptive Transfer Learning**|Hana Satou et.al.|[2505.12681](http://arxiv.org/abs/2505.12681)|null|
 |**2025-05-18**|**Robust Planning for Autonomous Driving via Mixed Adversarial Diffusion Predictions**|Albert Zhao et.al.|[2505.12327](http://arxiv.org/abs/2505.12327)|null|
@@ -1230,7 +1230,7 @@ layout: default
 |**2025-05-19**|**GAP: Graph-Assisted Prompts for Dialogue-based Medication Recommendation**|Jialun Zhong et.al.|[2505.12888](http://arxiv.org/abs/2505.12888)|null|
 |**2025-05-18**|**LLM-CoT Enhanced Graph Neural Recommendation with Harmonized Group Policy Optimization**|Hailong Luo et.al.|[2505.12396](http://arxiv.org/abs/2505.12396)|null|
 |**2025-05-20**|**Who You Are Matters: Bridging Topics and Social Roles via LLM-Enhanced Logical Recommendation**|Qing Yu et.al.|[2505.10940](http://arxiv.org/abs/2505.10940)|null|
-|**2025-05-16**|**Explain What You Mean: Intent Augmented Knowledge Graph Recommender Built With LLM**|Wenqing Zheng et.al.|[2505.10900](http://arxiv.org/abs/2505.10900)|null|
+|**2025-05-21**|**Explain What You Mean: Intent Augmented Knowledge Graph Recommender Built With An LLM**|Wenqing Zheng et.al.|[2505.10900](http://arxiv.org/abs/2505.10900)|null|
 |**2025-05-15**|**From Questions to Clinical Recommendations: Large Language Models Driving Evidence-Based Clinical Decision Making**|Dubai Li et.al.|[2505.10282](http://arxiv.org/abs/2505.10282)|**[link](https://github.com/somewordstoolate/quicker)**|
 |**2025-05-15**|**Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M**|Dario Di Palma et.al.|[2505.10212](http://arxiv.org/abs/2505.10212)|**[link](https://github.com/sisinflab/llm-memoryinspector)**|
 |**2025-05-14**|**A Survey on Large Language Models in Multimodal Recommender Systems**|Alejo Lopez-Avila et.al.|[2505.09777](http://arxiv.org/abs/2505.09777)|null|
