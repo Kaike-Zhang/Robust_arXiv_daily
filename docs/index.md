@@ -2,11 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems**|Song Jin et.al.|[2505.16429](http://arxiv.org/abs/2505.16429)|null|
+|**2025-05-22**|**Flow Matching based Sequential Recommender Model**|Feng Liu et.al.|[2505.16298](http://arxiv.org/abs/2505.16298)|null|
 |**2025-05-20**|**DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation**|Hye-young Kim et.al.|[2505.13974](http://arxiv.org/abs/2505.13974)|null|
 |**2025-05-18**|**LLM-Based User Simulation for Low-Knowledge Shilling Attacks on Recommender Systems**|Shengkang Gu et.al.|[2505.13528](http://arxiv.org/abs/2505.13528)|null|
 |**2025-05-19**|**Recommender Systems for Democracy: Toward Adversarial Robustness in Voting Advice Applications**|Frédéric Berdoz et.al.|[2505.13329](http://arxiv.org/abs/2505.13329)|null|
@@ -277,6 +279,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**TRAIL: Transferable Robust Adversarial Images via Latent diffusion**|Yuhao Xue et.al.|[2505.16166](http://arxiv.org/abs/2505.16166)|null|
+|**2025-05-16**|**Adversarially Robust Spiking Neural Networks with Sparse Connectivity**|Mathias Schmolli et.al.|[2505.15833](http://arxiv.org/abs/2505.15833)|null|
 |**2025-05-21**|**GAMA: Geometry-Aware Manifold Alignment via Structured Adversarial Perturbations for Robust Domain Adaptation**|Hana Satou et.al.|[2505.15194](http://arxiv.org/abs/2505.15194)|null|
 |**2025-05-21**|**Enhancing Certified Robustness via Block Reflector Orthogonal Layers and Logit Annealing Loss**|Bo-Han Lai et.al.|[2505.15174](http://arxiv.org/abs/2505.15174)|null|
 |**2025-05-20**|**Adversarially Pretrained Transformers may be Universally Robust In-Context Learners**|Soichiro Kumano et.al.|[2505.14042](http://arxiv.org/abs/2505.14042)|**[link](https://github.com/s-kumano/universally-robust-in-context-learner)**|
@@ -908,9 +912,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Fixing Data That Hurts Performance: Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval**|Nandan Thakur et.al.|[2505.16967](http://arxiv.org/abs/2505.16967)|null|
+|**2025-05-22**|**CoTSRF: Utilize Chain of Thought as Stealthy and Robust Fingerprint of Large Language Models**|Zhenzhen Ren et.al.|[2505.16785](http://arxiv.org/abs/2505.16785)|null|
+|**2025-05-22**|**Robust LLM Fingerprinting via Domain-Specific Watermarks**|Thibaud Gloaguen et.al.|[2505.16723](http://arxiv.org/abs/2505.16723)|null|
 |**2025-05-20**|**SEPS: A Separability Measure for Robust Unlearning in LLMs**|Wonje Jeung et.al.|[2505.14832](http://arxiv.org/abs/2505.14832)|null|
 |**2025-05-20**|**YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering**|Jennifer D'Souza et.al.|[2505.14279](http://arxiv.org/abs/2505.14279)|null|
-|**2025-05-20**|**Improving Noise Robustness of LLM-based Zero-shot TTS via Discrete Acoustic Token Denoising**|Ye-Xin Lu et.al.|[2505.13830](http://arxiv.org/abs/2505.13830)|null|
+|**2025-05-22**|**Improving Noise Robustness of LLM-based Zero-shot TTS via Discrete Acoustic Token Denoising**|Ye-Xin Lu et.al.|[2505.13830](http://arxiv.org/abs/2505.13830)|null|
 |**2025-05-18**|**EvoGPT: Enhancing Test Suite Robustness via LLM-Based Generation and Genetic Optimization**|Lior Broide et.al.|[2505.12424](http://arxiv.org/abs/2505.12424)|null|
 |**2025-05-18**|**EVALOOP: Assessing LLM Robustness in Programming from a Self-consistency Perspective**|Sen Fang et.al.|[2505.12185](http://arxiv.org/abs/2505.12185)|null|
 |**2025-05-16**|**CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs**|Sijia Chen et.al.|[2505.11413](http://arxiv.org/abs/2505.11413)|null|
@@ -1227,7 +1234,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-21**|**ThinkRec: Thinking-based recommendation via LLM**|Qihang Yu et.al.|[2505.15091](http://arxiv.org/abs/2505.15091)|**[link](https://github.com/Yu-Qi-hang/ThinkRec)**|
+|**2025-05-22**|**$\text{R}^2\text{ec}$ : Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994](http://arxiv.org/abs/2505.16994)|null|
+|**2025-05-22**|**DeepRec: Towards a Deep Dive Into the Item Space with Large Language Model Based Recommendation**|Bowen Zheng et.al.|[2505.16810](http://arxiv.org/abs/2505.16810)|null|
+|**2025-05-22**|**Causal-Invariant Cross-Domain Out-of-Distribution Recommendation**|Jiajie Zhu et.al.|[2505.16532](http://arxiv.org/abs/2505.16532)|null|
+|**2025-05-22**|**Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems**|Song Jin et.al.|[2505.16429](http://arxiv.org/abs/2505.16429)|null|
+|**2025-05-22**|**ThinkRec: Thinking-based recommendation via LLM**|Qihang Yu et.al.|[2505.15091](http://arxiv.org/abs/2505.15091)|**[link](https://github.com/Yu-Qi-hang/ThinkRec)**|
 |**2025-05-20**|**KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models**|Fnu Mohbat et.al.|[2505.14629](http://arxiv.org/abs/2505.14629)|**[link](https://github.com/mohbattharani/kerl)**|
 |**2025-05-18**|**LLM-Based User Simulation for Low-Knowledge Shilling Attacks on Recommender Systems**|Shengkang Gu et.al.|[2505.13528](http://arxiv.org/abs/2505.13528)|null|
 |**2025-05-18**|**Geography-Aware Large Language Models for Next POI Recommendation**|Zhao Liu et.al.|[2505.13526](http://arxiv.org/abs/2505.13526)|null|
