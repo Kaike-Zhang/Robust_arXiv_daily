@@ -2,13 +2,13 @@
 layout: default
 ---
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-22**|**Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems**|Song Jin et.al.|[2505.16429](http://arxiv.org/abs/2505.16429)|null|
-|**2025-05-22**|**Flow Matching based Sequential Recommender Model**|Feng Liu et.al.|[2505.16298](http://arxiv.org/abs/2505.16298)|null|
+|**2025-05-22**|**Flow Matching based Sequential Recommender Model**|Feng Liu et.al.|[2505.16298](http://arxiv.org/abs/2505.16298)|**[link](https://github.com/fengliu-1/fmrec)**|
 |**2025-05-20**|**DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation**|Hye-young Kim et.al.|[2505.13974](http://arxiv.org/abs/2505.13974)|null|
 |**2025-05-18**|**LLM-Based User Simulation for Low-Knowledge Shilling Attacks on Recommender Systems**|Shengkang Gu et.al.|[2505.13528](http://arxiv.org/abs/2505.13528)|null|
 |**2025-05-19**|**Recommender Systems for Democracy: Toward Adversarial Robustness in Voting Advice Applications**|Frédéric Berdoz et.al.|[2505.13329](http://arxiv.org/abs/2505.13329)|null|
@@ -914,7 +914,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-22**|**Fixing Data That Hurts Performance: Cascading LLMs to Relabel Hard Negatives for Robust Information Retrieval**|Nandan Thakur et.al.|[2505.16967](http://arxiv.org/abs/2505.16967)|null|
 |**2025-05-22**|**CoTSRF: Utilize Chain of Thought as Stealthy and Robust Fingerprint of Large Language Models**|Zhenzhen Ren et.al.|[2505.16785](http://arxiv.org/abs/2505.16785)|null|
-|**2025-05-22**|**Robust LLM Fingerprinting via Domain-Specific Watermarks**|Thibaud Gloaguen et.al.|[2505.16723](http://arxiv.org/abs/2505.16723)|null|
+|**2025-05-22**|**Robust LLM Fingerprinting via Domain-Specific Watermarks**|Thibaud Gloaguen et.al.|[2505.16723](http://arxiv.org/abs/2505.16723)|**[link](https://github.com/eth-sri/robust-llm-fingerprints)**|
 |**2025-05-20**|**SEPS: A Separability Measure for Robust Unlearning in LLMs**|Wonje Jeung et.al.|[2505.14832](http://arxiv.org/abs/2505.14832)|null|
 |**2025-05-20**|**YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering**|Jennifer D'Souza et.al.|[2505.14279](http://arxiv.org/abs/2505.14279)|null|
 |**2025-05-22**|**Improving Noise Robustness of LLM-based Zero-shot TTS via Discrete Acoustic Token Denoising**|Ye-Xin Lu et.al.|[2505.13830](http://arxiv.org/abs/2505.13830)|null|
@@ -1234,7 +1234,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-05-22**|**$\text{R}^2\text{ec}$ : Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994](http://arxiv.org/abs/2505.16994)|null|
+|**2025-05-22**|**$\text{R}^2\text{ec}$ : Towards Large Recommender Models with Reasoning**|Runyang You et.al.|[2505.16994](http://arxiv.org/abs/2505.16994)|**[link](https://github.com/yryangang/rrec)**|
 |**2025-05-22**|**DeepRec: Towards a Deep Dive Into the Item Space with Large Language Model Based Recommendation**|Bowen Zheng et.al.|[2505.16810](http://arxiv.org/abs/2505.16810)|null|
 |**2025-05-22**|**Causal-Invariant Cross-Domain Out-of-Distribution Recommendation**|Jiajie Zhu et.al.|[2505.16532](http://arxiv.org/abs/2505.16532)|null|
 |**2025-05-22**|**Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems**|Song Jin et.al.|[2505.16429](http://arxiv.org/abs/2505.16429)|null|
