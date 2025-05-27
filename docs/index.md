@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1245,7 +1245,7 @@ layout: default
 |**2025-05-22**|**DeepRec: Towards a Deep Dive Into the Item Space with Large Language Model Based Recommendation**|Bowen Zheng et.al.|[2505.16810](http://arxiv.org/abs/2505.16810)|null|
 |**2025-05-22**|**Causal-Invariant Cross-Domain Out-of-Distribution Recommendation**|Jiajie Zhu et.al.|[2505.16532](http://arxiv.org/abs/2505.16532)|null|
 |**2025-05-22**|**Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems**|Song Jin et.al.|[2505.16429](http://arxiv.org/abs/2505.16429)|null|
-|**2025-05-22**|**ThinkRec: Thinking-based recommendation via LLM**|Qihang Yu et.al.|[2505.15091](http://arxiv.org/abs/2505.15091)|**[link](https://github.com/Yu-Qi-hang/ThinkRec)**|
+|**2025-05-24**|**ThinkRec: Thinking-based recommendation via LLM**|Qihang Yu et.al.|[2505.15091](http://arxiv.org/abs/2505.15091)|**[link](https://github.com/Yu-Qi-hang/ThinkRec)**|
 |**2025-05-20**|**KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models**|Fnu Mohbat et.al.|[2505.14629](http://arxiv.org/abs/2505.14629)|**[link](https://github.com/mohbattharani/kerl)**|
 |**2025-05-18**|**LLM-Based User Simulation for Low-Knowledge Shilling Attacks on Recommender Systems**|Shengkang Gu et.al.|[2505.13528](http://arxiv.org/abs/2505.13528)|null|
 |**2025-05-18**|**Geography-Aware Large Language Models for Next POI Recommendation**|Zhao Liu et.al.|[2505.13526](http://arxiv.org/abs/2505.13526)|null|

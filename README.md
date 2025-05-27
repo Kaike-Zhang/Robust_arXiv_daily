@@ -1,4 +1,4 @@
-## Updated on 2025.05.26
+## Updated on 2025.05.27
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -281,7 +281,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 ## Robust ML
 
@@ -920,7 +920,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 ## Security LLM
 
@@ -1246,7 +1246,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -1257,7 +1257,7 @@
 |**2025-05-22**|**DeepRec: Towards a Deep Dive Into the Item Space with Large Language Model Based Recommendation**|Bowen Zheng et.al.|[2505.16810](http://arxiv.org/abs/2505.16810)|null|
 |**2025-05-22**|**Causal-Invariant Cross-Domain Out-of-Distribution Recommendation**|Jiajie Zhu et.al.|[2505.16532](http://arxiv.org/abs/2505.16532)|null|
 |**2025-05-22**|**Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems**|Song Jin et.al.|[2505.16429](http://arxiv.org/abs/2505.16429)|null|
-|**2025-05-22**|**ThinkRec: Thinking-based recommendation via LLM**|Qihang Yu et.al.|[2505.15091](http://arxiv.org/abs/2505.15091)|**[link](https://github.com/Yu-Qi-hang/ThinkRec)**|
+|**2025-05-24**|**ThinkRec: Thinking-based recommendation via LLM**|Qihang Yu et.al.|[2505.15091](http://arxiv.org/abs/2505.15091)|**[link](https://github.com/Yu-Qi-hang/ThinkRec)**|
 |**2025-05-20**|**KERL: Knowledge-Enhanced Personalized Recipe Recommendation using Large Language Models**|Fnu Mohbat et.al.|[2505.14629](http://arxiv.org/abs/2505.14629)|**[link](https://github.com/mohbattharani/kerl)**|
 |**2025-05-18**|**LLM-Based User Simulation for Low-Knowledge Shilling Attacks on Recommender Systems**|Shengkang Gu et.al.|[2505.13528](http://arxiv.org/abs/2505.13528)|null|
 |**2025-05-18**|**Geography-Aware Large Language Models for Next POI Recommendation**|Zhao Liu et.al.|[2505.13526](http://arxiv.org/abs/2505.13526)|null|
@@ -1762,5 +1762,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20250526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250527>back to top</a>)</p>
 
