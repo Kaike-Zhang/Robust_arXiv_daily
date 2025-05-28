@@ -935,6 +935,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486](http://arxiv.org/abs/2505.21486)|null|
+|**2025-05-27**|**Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties**|Jiyoung Lee et.al.|[2505.20875](http://arxiv.org/abs/2505.20875)|null|
+|**2025-05-23**|**Beyond Prompt Engineering: Robust Behavior Control in LLMs via Steering Target Atoms**|Mengru Wang et.al.|[2505.20322](http://arxiv.org/abs/2505.20322)|null|
 |**2025-05-26**|**Task Memory Engine: Spatial Memory for Robust Multi-Step LLM Agents**|Ye Ye et.al.|[2505.19436](http://arxiv.org/abs/2505.19436)|null|
 |**2025-05-24**|**Robustness in Large Language Models: A Survey of Mitigation Strategies and Evaluation Metrics**|Pankaj Kumar et.al.|[2505.18658](http://arxiv.org/abs/2505.18658)|null|
 |**2025-05-23**|**One Model Transfer to All: On Robust Jailbreak Prompts Generation against LLMs**|Linbao Li et.al.|[2505.17598](http://arxiv.org/abs/2505.17598)|null|
@@ -1263,6 +1266,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented Generation**|Wooseong Yang et.al.|[2505.20773](http://arxiv.org/abs/2505.20773)|null|
+|**2025-05-27**|**Bridging the Gap: Self-Optimized Fine-Tuning for LLM-based Recommender Systems**|Heng Tang et.al.|[2505.20771](http://arxiv.org/abs/2505.20771)|null|
+|**2025-05-27**|**What LLMs Miss in Recommendations: Bridging the Gap with Retrieval-Augmented Collaborative Signals**|Shahrooz Pouryousef et.al.|[2505.20730](http://arxiv.org/abs/2505.20730)|null|
+|**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|null|
 |**2025-05-26**|**AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems**|Yu Shang et.al.|[2505.19623](http://arxiv.org/abs/2505.19623)|null|
 |**2025-05-26**|**Improving Recommendation Fairness without Sensitive Attributes Using Multi-Persona LLMs**|Haoran Xin et.al.|[2505.19473](http://arxiv.org/abs/2505.19473)|null|
 |**2025-05-26**|**LLMs as Better Recommenders with Natural Language Collaborative Signals: A Self-Assessing Retrieval Approach**|Haoran Xin et.al.|[2505.19464](http://arxiv.org/abs/2505.19464)|null|
