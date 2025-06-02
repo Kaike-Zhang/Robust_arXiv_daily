@@ -1,4 +1,4 @@
-## Updated on 2025.06.01
+## Updated on 2025.06.02
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -32,7 +32,7 @@
 |**2025-04-25**|**An Integrated Framework for Contextual Personalized LLM-Based Food Recommendation**|Ali Rostami et.al.|[2504.20092](http://arxiv.org/abs/2504.20092)|null|
 |**2025-04-22**|**Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation**|Yuanpeng Qu et.al.|[2504.16077](http://arxiv.org/abs/2504.16077)|null|
 |**2025-04-20**|**Matrix Factorization with Dynamic Multi-view Clustering for Recommender System**|Shangde Gao et.al.|[2504.14565](http://arxiv.org/abs/2504.14565)|null|
-|**2025-04-18**|**Consensus-aware Contrastive Learning for Group Recommendation**|Soyoung Kim et.al.|[2504.13703](http://arxiv.org/abs/2504.13703)|null|
+|**2025-05-30**|**Consensus-aware Contrastive Learning for Group Recommendation**|Soyoung Kim et.al.|[2504.13703](http://arxiv.org/abs/2504.13703)|null|
 |**2025-04-18**|**A Reinforcement Learning Method to Factual and Counterfactual Explanations for Session-based Recommendation**|Han Zhou et.al.|[2504.13632](http://arxiv.org/abs/2504.13632)|null|
 |**2025-04-18**|**Adaptive Long-term Embedding with Denoising and Augmentation for Recommendation**|Zahra Akhlaghi et.al.|[2504.13614](http://arxiv.org/abs/2504.13614)|**[link](https://github.com/zahraakhlaghi/alda4rec)**|
 |**2025-04-09**|**Exploring the Impact of Personality Traits on Conversational Recommender Systems: A Simulation with Large Language Models**|Xiaoyan Zhao et.al.|[2504.12313](http://arxiv.org/abs/2504.12313)|null|
@@ -285,20 +285,20 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 
 ## Robust ML
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-05-28**|**How Do Diffusion Models Improve Adversarial Robustness?**|Liu Yuezhang et.al.|[2505.22839](http://arxiv.org/abs/2505.22839)|null|
-|**2025-05-28**|**Adversarially Robust AI-Generated Image Detection for Free: An Information Theoretic Perspective**|Ruixuan Zhang et.al.|[2505.22604](http://arxiv.org/abs/2505.22604)|null|
+|**2025-05-30**|**Adversarially Robust AI-Generated Image Detection for Free: An Information Theoretic Perspective**|Ruixuan Zhang et.al.|[2505.22604](http://arxiv.org/abs/2505.22604)|null|
 |**2025-05-26**|**On the Robustness of RSMA to Adversarial BD-RIS-Induced Interference**|Arthur S. de Sena et.al.|[2505.20146](http://arxiv.org/abs/2505.20146)|null|
 |**2025-05-26**|**Robust self-testing and certified randomness based on chained Bell inequality**|Rajdeep Paul et.al.|[2505.19917](http://arxiv.org/abs/2505.19917)|null|
 |**2025-05-26**|**Are Time-Series Foundation Models Deployment-Ready? A Systematic Study of Adversarial Robustness Across Domains**|Jiawen Zhang et.al.|[2505.19397](http://arxiv.org/abs/2505.19397)|null|
 |**2025-05-25**|**ALRPHFS: Adversarially Learned Risk Patterns with Hierarchical Fast \& Slow Reasoning for Robust Agent Defense**|Shiyu Xiang et.al.|[2505.19260](http://arxiv.org/abs/2505.19260)|null|
 |**2025-05-25**|**Curvature Dynamic Black-box Attack: revisiting adversarial robustness via dynamic curvature estimation**|Peiran Sun et.al.|[2505.19194](http://arxiv.org/abs/2505.19194)|null|
-|**2025-05-24**|**Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos**|Andrea Ramazzina et.al.|[2505.18899](http://arxiv.org/abs/2505.18899)|null|
+|**2025-05-24**|**Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos**|Andrea Ramazzina et.al.|[2505.18899](http://arxiv.org/abs/2505.18899)|**[link](https://github.com/vittoriogiammarino/eb-laifo)**|
 |**2025-05-23**|**Enhancing Adversarial Robustness of Vision Language Models via Adversarial Mixture Prompt Tuning**|Shiji Zhao et.al.|[2505.17509](http://arxiv.org/abs/2505.17509)|null|
 |**2025-05-23**|**Adversarial Robustness of Nonparametric Regression**|Parsa Moradi et.al.|[2505.17356](http://arxiv.org/abs/2505.17356)|null|
 |**2025-05-22**|**Secure and Private Federated Learning: Achieving Adversarial Resilience through Robust Aggregation**|Kun Yang et.al.|[2505.17226](http://arxiv.org/abs/2505.17226)|null|
@@ -932,18 +932,18 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 
 ## Security LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-29**|**DenoiseRotator: Enhance Pruning Robustness for LLMs via Importance Concentration**|Tianteng Gu et.al.|[2505.23049](http://arxiv.org/abs/2505.23049)|null|
+|**2025-05-29**|**DenoiseRotator: Enhance Pruning Robustness for LLMs via Importance Concentration**|Tianteng Gu et.al.|[2505.23049](http://arxiv.org/abs/2505.23049)|**[link](https://github.com/axel-gu/denoiserotator)**|
 |**2025-05-28**|**Evaluating the Retrieval Robustness of Large Language Models**|Shuyang Cao et.al.|[2505.21870](http://arxiv.org/abs/2505.21870)|null|
 |**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486](http://arxiv.org/abs/2505.21486)|null|
 |**2025-05-27**|**Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties**|Jiyoung Lee et.al.|[2505.20875](http://arxiv.org/abs/2505.20875)|null|
-|**2025-05-23**|**Beyond Prompt Engineering: Robust Behavior Control in LLMs via Steering Target Atoms**|Mengru Wang et.al.|[2505.20322](http://arxiv.org/abs/2505.20322)|null|
-|**2025-05-26**|**Task Memory Engine: Spatial Memory for Robust Multi-Step LLM Agents**|Ye Ye et.al.|[2505.19436](http://arxiv.org/abs/2505.19436)|null|
+|**2025-05-23**|**Beyond Prompt Engineering: Robust Behavior Control in LLMs via Steering Target Atoms**|Mengru Wang et.al.|[2505.20322](http://arxiv.org/abs/2505.20322)|**[link](https://github.com/zjunlp/steer-target-atoms)**|
+|**2025-05-26**|**Task Memory Engine: Spatial Memory for Robust Multi-Step LLM Agents**|Ye Ye et.al.|[2505.19436](http://arxiv.org/abs/2505.19436)|**[link](https://github.com/biubiutomato/tme-agent)**|
 |**2025-05-24**|**Robustness in Large Language Models: A Survey of Mitigation Strategies and Evaluation Metrics**|Pankaj Kumar et.al.|[2505.18658](http://arxiv.org/abs/2505.18658)|null|
 |**2025-05-23**|**One Model Transfer to All: On Robust Jailbreak Prompts Generation against LLMs**|Linbao Li et.al.|[2505.17598](http://arxiv.org/abs/2505.17598)|**[link](https://github.com/llbao/arrattack)**|
 |**2025-05-23**|**Misaligning Reasoning with Answers -- A Framework for Assessing LLM CoT Robustness**|Enyi Jiang et.al.|[2505.17406](http://arxiv.org/abs/2505.17406)|null|
@@ -1265,7 +1265,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -1792,5 +1792,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 
