@@ -960,7 +960,7 @@
 |**2025-05-29**|**YESciEval: Robust LLM-as-a-Judge for Scientific Question Answering**|Jennifer D'Souza et.al.|[2505.14279](http://arxiv.org/abs/2505.14279)|null|
 |**2025-05-22**|**Improving Noise Robustness of LLM-based Zero-shot TTS via Discrete Acoustic Token Denoising**|Ye-Xin Lu et.al.|[2505.13830](http://arxiv.org/abs/2505.13830)|null|
 |**2025-05-18**|**EvoGPT: Enhancing Test Suite Robustness via LLM-Based Generation and Genetic Optimization**|Lior Broide et.al.|[2505.12424](http://arxiv.org/abs/2505.12424)|null|
-|**2025-05-18**|**EVALOOP: Assessing LLM Robustness in Programming from a Self-consistency Perspective**|Sen Fang et.al.|[2505.12185](http://arxiv.org/abs/2505.12185)|null|
+|**2025-06-01**|**EVALOOP: Assessing LLM Robustness in Programming from a Self-consistency Perspective**|Sen Fang et.al.|[2505.12185](http://arxiv.org/abs/2505.12185)|null|
 |**2025-05-16**|**CARES: Comprehensive Evaluation of Safety and Adversarial Robustness in Medical LLMs**|Sijia Chen et.al.|[2505.11413](http://arxiv.org/abs/2505.11413)|null|
 |**2025-05-15**|**Are Large Language Models Robust in Understanding Code Against Semantics-Preserving Mutations?**|Pedro Orvalho et.al.|[2505.10443](http://arxiv.org/abs/2505.10443)|null|
 |**2025-05-13**|**Federated Large Language Models: Feasibility, Robustness, Security and Future Directions**|Wenhao Jiang et.al.|[2505.08830](http://arxiv.org/abs/2505.08830)|null|
