@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-02**|**GLoSS: Generative Language Models with Semantic Search for Sequential Recommendation**|Krishna Acharya et.al.|[2506.01910](http://arxiv.org/abs/2506.01910)|**[link](https://github.com/krishnacharya/GLoSS)**|
+|**2025-05-28**|**Graph Contrastive Learning for Optimizing Sparse Data in Recommender Systems with LightGCL**|Aravinda Jatavallabha et.al.|[2506.00048](http://arxiv.org/abs/2506.00048)|null|
 |**2025-05-30**|**Heterogeneous Graph Masked Contrastive Learning for Robust Recommendation**|Lei Sang et.al.|[2505.24172](http://arxiv.org/abs/2505.24172)|null|
 |**2025-05-28**|**Shapley Value-driven Data Pruning for Recommender Systems**|Yansen Zhang et.al.|[2505.22057](http://arxiv.org/abs/2505.22057)|**[link](https://github.com/Forrest-Stone/SVV)**|
 |**2025-05-28**|**AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems**|Yu Shang et.al.|[2505.19623](http://arxiv.org/abs/2505.19623)|null|
@@ -292,6 +294,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-28**|**Are classical deep neural networks weakly adversarially robust?**|Nuolin Sun et.al.|[2506.02016](http://arxiv.org/abs/2506.02016)|null|
+|**2025-06-02**|**Robust Satisficing Gaussian Process Bandits Under Adversarial Attacks**|Artun Saday et.al.|[2506.01625](http://arxiv.org/abs/2506.01625)|null|
+|**2025-06-01**|**SafeGenes: Evaluating the Adversarial Robustness of Genomic Foundation Models**|Huixin Zhan et.al.|[2506.00821](http://arxiv.org/abs/2506.00821)|null|
+|**2025-05-31**|**Adversarial Machine Learning for Robust Password Strength Estimation**|Pappu Jha et.al.|[2506.00373](http://arxiv.org/abs/2506.00373)|null|
+|**2025-05-31**|**Towards Effective and Efficient Adversarial Defense with Diffusion Models for Robust Visual Tracking**|Long Xu et.al.|[2506.00325](http://arxiv.org/abs/2506.00325)|null|
 |**2025-05-30**|**PatchDEMUX: A Certifiably Robust Framework for Multi-label Classifiers Against Adversarial Patches**|Dennis Jacob et.al.|[2505.24703](http://arxiv.org/abs/2505.24703)|null|
 |**2025-05-30**|**Adversarial Preference Learning for Robust LLM Alignment**|Yuanfu Wang et.al.|[2505.24369](http://arxiv.org/abs/2505.24369)|null|
 |**2025-05-28**|**How Do Diffusion Models Improve Adversarial Robustness?**|Liu Yuezhang et.al.|[2505.22839](http://arxiv.org/abs/2505.22839)|null|
@@ -941,6 +948,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-01**|**Doubly Robust Alignment for Large Language Models**|Erhan Xu et.al.|[2506.01183](http://arxiv.org/abs/2506.01183)|null|
 |**2025-05-30**|**Adversarial Preference Learning for Robust LLM Alignment**|Yuanfu Wang et.al.|[2505.24369](http://arxiv.org/abs/2505.24369)|null|
 |**2025-05-30**|**Faithful and Robust LLM-Driven Theorem Proving for NLI Explanations**|Xin Quan et.al.|[2505.24264](http://arxiv.org/abs/2505.24264)|null|
 |**2025-05-30**|**Bootstrapping LLM Robustness for VLM Safety via Reducing the Pretraining Modality Gap**|Wenhan Yang et.al.|[2505.24208](http://arxiv.org/abs/2505.24208)|null|
@@ -1277,6 +1285,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-02**|**Towards Human-like Preference Profiling in Sequential Recommendation**|Zhongyu Ouyang et.al.|[2506.02261](http://arxiv.org/abs/2506.02261)|null|
+|**2025-06-02**|**GLoSS: Generative Language Models with Semantic Search for Sequential Recommendation**|Krishna Acharya et.al.|[2506.01910](http://arxiv.org/abs/2506.01910)|**[link](https://github.com/krishnacharya/GLoSS)**|
+|**2025-06-02**|**GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion**|Sunkyung Lee et.al.|[2506.01673](http://arxiv.org/abs/2506.01673)|null|
+|**2025-06-02**|**Generative Next POI Recommendation with Semantic ID**|Dongsheng Wang et.al.|[2506.01375](http://arxiv.org/abs/2506.01375)|null|
+|**2025-05-30**|**FACE: A Fine-grained Reference Free Evaluator for Conversational Recommender Systems**|Hideaki Joko et.al.|[2506.00314](http://arxiv.org/abs/2506.00314)|null|
+|**2025-05-29**|**Whose Name Comes Up? Auditing LLM-Based Scholar Recommendations**|Daniele Barolo et.al.|[2506.00074](http://arxiv.org/abs/2506.00074)|null|
 |**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|null|
 |**2025-05-29**|**Augment or Not? A Comparative Study of Pure and Augmented Large Language Model Recommenders**|Wei-Hsiang Huang et.al.|[2505.23053](http://arxiv.org/abs/2505.23053)|null|
 |**2025-05-27**|**Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented Generation**|Wooseong Yang et.al.|[2505.20773](http://arxiv.org/abs/2505.20773)|null|
