@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.03
+## Updated on 2025.06.04
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -938,7 +938,7 @@ layout: default
 |**2025-05-28**|**Evaluating the Retrieval Robustness of Large Language Models**|Shuyang Cao et.al.|[2505.21870](http://arxiv.org/abs/2505.21870)|null|
 |**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486](http://arxiv.org/abs/2505.21486)|null|
 |**2025-05-27**|**Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties**|Jiyoung Lee et.al.|[2505.20875](http://arxiv.org/abs/2505.20875)|null|
-|**2025-05-23**|**Beyond Prompt Engineering: Robust Behavior Control in LLMs via Steering Target Atoms**|Mengru Wang et.al.|[2505.20322](http://arxiv.org/abs/2505.20322)|**[link](https://github.com/zjunlp/steer-target-atoms)**|
+|**2025-06-03**|**Beyond Prompt Engineering: Robust Behavior Control in LLMs via Steering Target Atoms**|Mengru Wang et.al.|[2505.20322](http://arxiv.org/abs/2505.20322)|**[link](https://github.com/zjunlp/steer-target-atoms)**|
 |**2025-05-26**|**Task Memory Engine: Spatial Memory for Robust Multi-Step LLM Agents**|Ye Ye et.al.|[2505.19436](http://arxiv.org/abs/2505.19436)|**[link](https://github.com/biubiutomato/tme-agent)**|
 |**2025-05-24**|**Robustness in Large Language Models: A Survey of Mitigation Strategies and Evaluation Metrics**|Pankaj Kumar et.al.|[2505.18658](http://arxiv.org/abs/2505.18658)|null|
 |**2025-05-23**|**One Model Transfer to All: On Robust Jailbreak Prompts Generation against LLMs**|Linbao Li et.al.|[2505.17598](http://arxiv.org/abs/2505.17598)|**[link](https://github.com/llbao/arrattack)**|
