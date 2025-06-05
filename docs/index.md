@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.04
+## Updated on 2025.06.05
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -303,7 +303,7 @@ layout: default
 |**2025-05-24**|**Beyond Domain Randomization: Event-Inspired Perception for Visually Robust Adversarial Imitation from Videos**|Andrea Ramazzina et.al.|[2505.18899](http://arxiv.org/abs/2505.18899)|**[link](https://github.com/vittoriogiammarino/eb-laifo)**|
 |**2025-05-23**|**Enhancing Adversarial Robustness of Vision Language Models via Adversarial Mixture Prompt Tuning**|Shiji Zhao et.al.|[2505.17509](http://arxiv.org/abs/2505.17509)|null|
 |**2025-05-23**|**Adversarial Robustness of Nonparametric Regression**|Parsa Moradi et.al.|[2505.17356](http://arxiv.org/abs/2505.17356)|null|
-|**2025-05-22**|**Secure and Private Federated Learning: Achieving Adversarial Resilience through Robust Aggregation**|Kun Yang et.al.|[2505.17226](http://arxiv.org/abs/2505.17226)|null|
+|**2025-06-03**|**Secure and Private Federated Learning: Achieving Adversarial Resilience through Robust Aggregation**|Kun Yang et.al.|[2505.17226](http://arxiv.org/abs/2505.17226)|null|
 |**2025-05-20**|**Trust Me, I Can Handle It: Self-Generated Adversarial Scenario Extrapolation for Robust Language Models**|Md Rafi Ur Rashid et.al.|[2505.17089](http://arxiv.org/abs/2505.17089)|null|
 |**2025-05-22**|**TRAIL: Transferable Robust Adversarial Images via Latent diffusion**|Yuhao Xue et.al.|[2505.16166](http://arxiv.org/abs/2505.16166)|null|
 |**2025-05-16**|**Adversarially Robust Spiking Neural Networks with Sparse Connectivity**|Mathias Schmolli et.al.|[2505.15833](http://arxiv.org/abs/2505.15833)|null|
@@ -945,7 +945,7 @@ layout: default
 |**2025-05-29**|**DenoiseRotator: Enhance Pruning Robustness for LLMs via Importance Concentration**|Tianteng Gu et.al.|[2505.23049](http://arxiv.org/abs/2505.23049)|**[link](https://github.com/axel-gu/denoiserotator)**|
 |**2025-05-28**|**Evaluating the Retrieval Robustness of Large Language Models**|Shuyang Cao et.al.|[2505.21870](http://arxiv.org/abs/2505.21870)|null|
 |**2025-05-27**|**Robust Hypothesis Generation: LLM-Automated Language Bias for Inductive Logic Programming**|Yang Yang et.al.|[2505.21486](http://arxiv.org/abs/2505.21486)|null|
-|**2025-05-27**|**Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties**|Jiyoung Lee et.al.|[2505.20875](http://arxiv.org/abs/2505.20875)|null|
+|**2025-06-04**|**Trans-EnV: A Framework for Evaluating the Linguistic Robustness of LLMs Against English Varieties**|Jiyoung Lee et.al.|[2505.20875](http://arxiv.org/abs/2505.20875)|null|
 |**2025-06-03**|**Beyond Prompt Engineering: Robust Behavior Control in LLMs via Steering Target Atoms**|Mengru Wang et.al.|[2505.20322](http://arxiv.org/abs/2505.20322)|**[link](https://github.com/zjunlp/steer-target-atoms)**|
 |**2025-05-26**|**Task Memory Engine: Spatial Memory for Robust Multi-Step LLM Agents**|Ye Ye et.al.|[2505.19436](http://arxiv.org/abs/2505.19436)|**[link](https://github.com/biubiutomato/tme-agent)**|
 |**2025-05-24**|**Robustness in Large Language Models: A Survey of Mitigation Strategies and Evaluation Metrics**|Pankaj Kumar et.al.|[2505.18658](http://arxiv.org/abs/2505.18658)|null|
@@ -1283,7 +1283,7 @@ layout: default
 |**2025-05-29**|**Augment or Not? A Comparative Study of Pure and Augmented Large Language Model Recommenders**|Wei-Hsiang Huang et.al.|[2505.23053](http://arxiv.org/abs/2505.23053)|null|
 |**2025-05-27**|**Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented Generation**|Wooseong Yang et.al.|[2505.20773](http://arxiv.org/abs/2505.20773)|null|
 |**2025-05-27**|**Bridging the Gap: Self-Optimized Fine-Tuning for LLM-based Recommender Systems**|Heng Tang et.al.|[2505.20771](http://arxiv.org/abs/2505.20771)|null|
-|**2025-05-27**|**What LLMs Miss in Recommendations: Bridging the Gap with Retrieval-Augmented Collaborative Signals**|Shahrooz Pouryousef et.al.|[2505.20730](http://arxiv.org/abs/2505.20730)|null|
+|**2025-06-04**|**What LLMs Miss in Recommendations: Bridging the Gap with Retrieval-Augmented Collaborative Signals**|Shahrooz Pouryousef et.al.|[2505.20730](http://arxiv.org/abs/2505.20730)|null|
 |**2025-05-26**|**Fine-grained List-wise Alignment for Generative Medication Recommendation**|Chenxiao Fan et.al.|[2505.20218](http://arxiv.org/abs/2505.20218)|**[link](https://github.com/cxfann/flame)**|
 |**2025-05-28**|**AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems**|Yu Shang et.al.|[2505.19623](http://arxiv.org/abs/2505.19623)|null|
 |**2025-05-26**|**Improving Recommendation Fairness without Sensitive Attributes Using Multi-Persona LLMs**|Haoran Xin et.al.|[2505.19473](http://arxiv.org/abs/2505.19473)|null|
