@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.05
+## Updated on 2025.06.06
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -286,12 +286,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-06-04**|**RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors**|Hicham Eddoubi et.al.|[2506.03988](http://arxiv.org/abs/2506.03988)|null|
+|**2025-06-05**|**RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors**|Hicham Eddoubi et.al.|[2506.03988](http://arxiv.org/abs/2506.03988)|null|
 |**2025-05-28**|**Are classical deep neural networks weakly adversarially robust?**|Nuolin Sun et.al.|[2506.02016](http://arxiv.org/abs/2506.02016)|null|
 |**2025-06-02**|**Robust Satisficing Gaussian Process Bandits Under Adversarial Attacks**|Artun Saday et.al.|[2506.01625](http://arxiv.org/abs/2506.01625)|null|
 |**2025-06-01**|**SafeGenes: Evaluating the Adversarial Robustness of Genomic Foundation Models**|Huixin Zhan et.al.|[2506.00821](http://arxiv.org/abs/2506.00821)|null|
 |**2025-05-31**|**Adversarial Machine Learning for Robust Password Strength Estimation**|Pappu Jha et.al.|[2506.00373](http://arxiv.org/abs/2506.00373)|null|
-|**2025-05-31**|**Towards Effective and Efficient Adversarial Defense with Diffusion Models for Robust Visual Tracking**|Long Xu et.al.|[2506.00325](http://arxiv.org/abs/2506.00325)|null|
+|**2025-05-31**|**Towards Effective and Efficient Adversarial Defense with Diffusion Models for Robust Visual Tracking**|Long Xu et.al.|[2506.00325](http://arxiv.org/abs/2506.00325)|**[link](https://github.com/pgao-lab/DiffDf)**|
 |**2025-05-30**|**PatchDEMUX: A Certifiably Robust Framework for Multi-label Classifiers Against Adversarial Patches**|Dennis Jacob et.al.|[2505.24703](http://arxiv.org/abs/2505.24703)|null|
 |**2025-05-30**|**Adversarial Preference Learning for Robust LLM Alignment**|Yuanfu Wang et.al.|[2505.24369](http://arxiv.org/abs/2505.24369)|null|
 |**2025-05-28**|**How Do Diffusion Models Improve Adversarial Robustness?**|Liu Yuezhang et.al.|[2505.22839](http://arxiv.org/abs/2505.22839)|null|
