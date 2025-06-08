@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.07
+## Updated on 2025.06.08
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1292,8 +1292,8 @@ layout: default
 |**2025-06-02**|**Generative Next POI Recommendation with Semantic ID**|Dongsheng Wang et.al.|[2506.01375](http://arxiv.org/abs/2506.01375)|null|
 |**2025-05-30**|**FACE: A Fine-grained Reference Free Evaluator for Conversational Recommender Systems**|Hideaki Joko et.al.|[2506.00314](http://arxiv.org/abs/2506.00314)|null|
 |**2025-05-29**|**Whose Name Comes Up? Auditing LLM-Based Scholar Recommendations**|Daniele Barolo et.al.|[2506.00074](http://arxiv.org/abs/2506.00074)|null|
-|**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|null|
-|**2025-05-29**|**Augment or Not? A Comparative Study of Pure and Augmented Large Language Model Recommenders**|Wei-Hsiang Huang et.al.|[2505.23053](http://arxiv.org/abs/2505.23053)|null|
+|**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|**[link](https://github.com/ramituncc49er/atars)**|
+|**2025-05-29**|**Augment or Not? A Comparative Study of Pure and Augmented Large Language Model Recommenders**|Wei-Hsiang Huang et.al.|[2505.23053](http://arxiv.org/abs/2505.23053)|**[link](https://github.com/miulab/lmrec-survey)**|
 |**2025-05-27**|**Cold-Start Recommendation with Knowledge-Guided Retrieval-Augmented Generation**|Wooseong Yang et.al.|[2505.20773](http://arxiv.org/abs/2505.20773)|null|
 |**2025-05-27**|**Bridging the Gap: Self-Optimized Fine-Tuning for LLM-based Recommender Systems**|Heng Tang et.al.|[2505.20771](http://arxiv.org/abs/2505.20771)|null|
 |**2025-06-04**|**What LLMs Miss in Recommendations: Bridging the Gap with Retrieval-Augmented Collaborative Signals**|Shahrooz Pouryousef et.al.|[2505.20730](http://arxiv.org/abs/2505.20730)|null|
