@@ -1,4 +1,4 @@
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Recommender systems, stigmergy, and the tyranny of popularity**|Zackary Okun Dunivin et.al.|[2506.06162](http://arxiv.org/abs/2506.06162)|null|
 |**2025-06-06**|**User Altruism in Recommendation Systems**|Ekaterina Fedorova et.al.|[2506.04525](http://arxiv.org/abs/2506.04525)|null|
 |**2025-06-02**|**GLoSS: Generative Language Models with Semantic Search for Sequential Recommendation**|Krishna Acharya et.al.|[2506.01910](http://arxiv.org/abs/2506.01910)|**[link](https://github.com/krishnacharya/GLoSS)**|
 |**2025-05-28**|**Graph Contrastive Learning for Optimizing Sparse Data in Recommender Systems with LightGCL**|Aravinda Jatavallabha et.al.|[2506.00048](http://arxiv.org/abs/2506.00048)|null|
@@ -289,14 +290,14 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Robust ML
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-05**|**Robustness as Architecture: Designing IQA Models to Withstand Adversarial Perturbations**|Igor Meleshin et.al.|[2506.04951](http://arxiv.org/abs/2506.04951)|null|
-|**2025-06-05**|**RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors**|Hicham Eddoubi et.al.|[2506.03988](http://arxiv.org/abs/2506.03988)|null|
+|**2025-06-05**|**RAID: A Dataset for Testing the Adversarial Robustness of AI-Generated Image Detectors**|Hicham Eddoubi et.al.|[2506.03988](http://arxiv.org/abs/2506.03988)|**[link](https://github.com/pralab/raid)**|
 |**2025-05-28**|**Are classical deep neural networks weakly adversarially robust?**|Nuolin Sun et.al.|[2506.02016](http://arxiv.org/abs/2506.02016)|null|
 |**2025-06-02**|**Robust Satisficing Gaussian Process Bandits Under Adversarial Attacks**|Artun Saday et.al.|[2506.01625](http://arxiv.org/abs/2506.01625)|null|
 |**2025-06-01**|**SafeGenes: Evaluating the Adversarial Robustness of Genomic Foundation Models**|Huixin Zhan et.al.|[2506.00821](http://arxiv.org/abs/2506.00821)|null|
@@ -945,12 +946,13 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## Security LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**LLM-Symbolic Integration for Robust Temporal Tabular Reasoning**|Atharv Kulkarni et.al.|[2506.05746](http://arxiv.org/abs/2506.05746)|null|
 |**2025-06-05**|**Automatic Robustness Stress Testing of LLMs as Mathematical Problem Solvers**|Yutao Hou et.al.|[2506.05038](http://arxiv.org/abs/2506.05038)|null|
 |**2025-06-05**|**LogicPuzzleRL: Cultivating Robust Mathematical Reasoning in LLMs via Reinforcement Learning**|Zhen Hao Wong et.al.|[2506.04821](http://arxiv.org/abs/2506.04821)|null|
 |**2025-06-05**|**MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models**|Gio Paik et.al.|[2506.04688](http://arxiv.org/abs/2506.04688)|null|
@@ -1287,12 +1289,14 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
 ## LLM4Rec
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**Recommender systems, stigmergy, and the tyranny of popularity**|Zackary Okun Dunivin et.al.|[2506.06162](http://arxiv.org/abs/2506.06162)|null|
+|**2025-06-06**|**Research on Personalized Financial Product Recommendation by Integrating Large Language Models and Graph Neural Networks**|Yushang Zhao et.al.|[2506.05873](http://arxiv.org/abs/2506.05873)|null|
 |**2025-06-05**|**Reason-to-Recommend: Using Interaction-of-Thought Reasoning to Enhance LLM Recommendation**|Keyu Zhao et.al.|[2506.05069](http://arxiv.org/abs/2506.05069)|null|
 |**2025-06-05**|**PUB: An LLM-Enhanced Personality-Driven User Behaviour Simulator for Recommender System Evaluation**|Chenglong Ma et.al.|[2506.04551](http://arxiv.org/abs/2506.04551)|null|
 |**2025-06-04**|**GORACS: Group-level Optimal Transport-guided Coreset Selection for LLM-based Recommender Systems**|Tiehua Mei et.al.|[2506.04015](http://arxiv.org/abs/2506.04015)|null|
@@ -1825,5 +1829,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20250609>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
 
