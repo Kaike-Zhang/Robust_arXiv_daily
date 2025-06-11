@@ -1,4 +1,4 @@
-## Updated on 2025.06.10
+## Updated on 2025.06.11
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -17,7 +17,7 @@
 |**2025-06-07**|**SAFER: A Calibrated Risk-Aware Multimodal Recommendation Model for Dynamic Treatment Regimes**|Yishan Shen et.al.|[2506.06649](http://arxiv.org/abs/2506.06649)|null|
 |**2025-06-06**|**Recommender systems, stigmergy, and the tyranny of popularity**|Zackary Okun Dunivin et.al.|[2506.06162](http://arxiv.org/abs/2506.06162)|null|
 |**2025-06-06**|**User Altruism in Recommendation Systems**|Ekaterina Fedorova et.al.|[2506.04525](http://arxiv.org/abs/2506.04525)|null|
-|**2025-06-02**|**GLoSS: Generative Language Models with Semantic Search for Sequential Recommendation**|Krishna Acharya et.al.|[2506.01910](http://arxiv.org/abs/2506.01910)|**[link](https://github.com/krishnacharya/GLoSS)**|
+|**2025-06-09**|**GLoSS: Generative Language Models with Semantic Search for Sequential Recommendation**|Krishna Acharya et.al.|[2506.01910](http://arxiv.org/abs/2506.01910)|**[link](https://github.com/krishnacharya/GLoSS)**|
 |**2025-05-28**|**Graph Contrastive Learning for Optimizing Sparse Data in Recommender Systems with LightGCL**|Aravinda Jatavallabha et.al.|[2506.00048](http://arxiv.org/abs/2506.00048)|null|
 |**2025-05-30**|**Heterogeneous Graph Masked Contrastive Learning for Robust Recommendation**|Lei Sang et.al.|[2505.24172](http://arxiv.org/abs/2505.24172)|null|
 |**2025-05-28**|**Shapley Value-driven Data Pruning for Recommender Systems**|Yansen Zhang et.al.|[2505.22057](http://arxiv.org/abs/2505.22057)|**[link](https://github.com/Forrest-Stone/SVV)**|
@@ -292,7 +292,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
 
 ## Robust ML
 
@@ -954,7 +954,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
 
 ## Security LLM
 
@@ -1300,7 +1300,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -1315,7 +1315,7 @@
 |**2025-06-04**|**Scaling Transformers for Discriminative Recommendation via Generative Pretraining**|Chunqi Wang et.al.|[2506.03699](http://arxiv.org/abs/2506.03699)|null|
 |**2025-06-03**|**Universal Reusability in Recommender Systems: The Case for Dataset- and Task-Independent Frameworks**|Tri Kurniawan Wijaya et.al.|[2506.03391](http://arxiv.org/abs/2506.03391)|null|
 |**2025-06-02**|**Towards Human-like Preference Profiling in Sequential Recommendation**|Zhongyu Ouyang et.al.|[2506.02261](http://arxiv.org/abs/2506.02261)|null|
-|**2025-06-02**|**GLoSS: Generative Language Models with Semantic Search for Sequential Recommendation**|Krishna Acharya et.al.|[2506.01910](http://arxiv.org/abs/2506.01910)|**[link](https://github.com/krishnacharya/GLoSS)**|
+|**2025-06-09**|**GLoSS: Generative Language Models with Semantic Search for Sequential Recommendation**|Krishna Acharya et.al.|[2506.01910](http://arxiv.org/abs/2506.01910)|**[link](https://github.com/krishnacharya/GLoSS)**|
 |**2025-06-02**|**GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion**|Sunkyung Lee et.al.|[2506.01673](http://arxiv.org/abs/2506.01673)|null|
 |**2025-06-02**|**Generative Next POI Recommendation with Semantic ID**|Dongsheng Wang et.al.|[2506.01375](http://arxiv.org/abs/2506.01375)|null|
 |**2025-05-30**|**FACE: A Fine-grained Reference Free Evaluator for Conversational Recommender Systems**|Hideaki Joko et.al.|[2506.00314](http://arxiv.org/abs/2506.00314)|null|
@@ -1841,5 +1841,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20250610>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250611>back to top</a>)</p>
 
