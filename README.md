@@ -1306,6 +1306,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Serendipitous Recommendation with Multimodal LLM**|Haoting Wang et.al.|[2506.08283](http://arxiv.org/abs/2506.08283)|null|
+|**2025-06-09**|**No Stupid Questions: An Analysis of Question Query Generation for Citation Recommendation**|Brian D. Zimmerman et.al.|[2506.08196](http://arxiv.org/abs/2506.08196)|null|
 |**2025-05-31**|**Research on E-Commerce Long-Tail Product Recommendation Mechanism Based on Large-Scale Language Models**|Qingyi Lu et.al.|[2506.06336](http://arxiv.org/abs/2506.06336)|null|
 |**2025-06-06**|**Recommender systems, stigmergy, and the tyranny of popularity**|Zackary Okun Dunivin et.al.|[2506.06162](http://arxiv.org/abs/2506.06162)|null|
 |**2025-06-06**|**Research on Personalized Financial Product Recommendation by Integrating Large Language Models and Graph Neural Networks**|Yushang Zhao et.al.|[2506.05873](http://arxiv.org/abs/2506.05873)|null|
