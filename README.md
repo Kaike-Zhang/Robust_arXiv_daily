@@ -14,7 +14,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|null|
-|**2025-06-09**|**Addressing Correlated Latent Exogenous Variables in Debiased Recommender Systems**|Shuqiang Zhang et.al.|[2506.07517](http://arxiv.org/abs/2506.07517)|null|
+|**2025-06-09**|**Addressing Correlated Latent Exogenous Variables in Debiased Recommender Systems**|Shuqiang Zhang et.al.|[2506.07517](http://arxiv.org/abs/2506.07517)|**[link](https://github.com/wallacesui/kdd25-background-variable)**|
 |**2025-06-07**|**SAFER: A Calibrated Risk-Aware Multimodal Recommendation Model for Dynamic Treatment Regimes**|Yishan Shen et.al.|[2506.06649](http://arxiv.org/abs/2506.06649)|null|
 |**2025-06-06**|**Recommender systems, stigmergy, and the tyranny of popularity**|Zackary Okun Dunivin et.al.|[2506.06162](http://arxiv.org/abs/2506.06162)|null|
 |**2025-06-06**|**User Altruism in Recommendation Systems**|Ekaterina Fedorova et.al.|[2506.04525](http://arxiv.org/abs/2506.04525)|**[link](https://github.com/mckitch24/recsys)**|
@@ -27,7 +27,7 @@
 |**2025-05-26**|**Fairness Practices in Industry: A Case Study in Machine Learning Teams Building Recommender Systems**|Jing Nathan Yan et.al.|[2505.19441](http://arxiv.org/abs/2505.19441)|null|
 |**2025-05-22**|**Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems**|Song Jin et.al.|[2505.16429](http://arxiv.org/abs/2505.16429)|null|
 |**2025-05-22**|**Flow Matching based Sequential Recommender Model**|Feng Liu et.al.|[2505.16298](http://arxiv.org/abs/2505.16298)|**[link](https://github.com/fengliu-1/fmrec)**|
-|**2025-05-20**|**DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation**|Hye-young Kim et.al.|[2505.13974](http://arxiv.org/abs/2505.13974)|null|
+|**2025-05-20**|**DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation**|Hye-young Kim et.al.|[2505.13974](http://arxiv.org/abs/2505.13974)|**[link](https://github.com/hyeyoung1218/diff)**|
 |**2025-05-18**|**LLM-Based User Simulation for Low-Knowledge Shilling Attacks on Recommender Systems**|Shengkang Gu et.al.|[2505.13528](http://arxiv.org/abs/2505.13528)|null|
 |**2025-05-19**|**Recommender Systems for Democracy: Toward Adversarial Robustness in Voting Advice Applications**|Frédéric Berdoz et.al.|[2505.13329](http://arxiv.org/abs/2505.13329)|null|
 |**2025-05-18**|**Addressing Missing Data Issue for Diffusion-based Recommendation**|Wenyu Mao et.al.|[2505.12283](http://arxiv.org/abs/2505.12283)|**[link](https://github.com/maowenyu-11/TDM)**|
@@ -300,9 +300,9 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-11**|**AngleRoCL: Angle-Robust Concept Learning for Physically View-Invariant T2I Adversarial Patches**|Wenjun Ji et.al.|[2506.09538](http://arxiv.org/abs/2506.09538)|null|
-|**2025-06-10**|**PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**|Mojtaba Nafez et.al.|[2506.09237](http://arxiv.org/abs/2506.09237)|null|
+|**2025-06-10**|**PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**|Mojtaba Nafez et.al.|[2506.09237](http://arxiv.org/abs/2506.09237)|**[link](https://github.com/rohban-lab/patchgaurd)**|
 |**2025-06-09**|**Adversarial Attack Classification and Robustness Testing for Large Language Models for Code**|Yang Liu et.al.|[2506.07942](http://arxiv.org/abs/2506.07942)|null|
-|**2025-06-09**|**Enhancing Adversarial Robustness with Conformal Prediction: A Framework for Guaranteed Model Reliability**|Jie Bao et.al.|[2506.07804](http://arxiv.org/abs/2506.07804)|null|
+|**2025-06-09**|**Enhancing Adversarial Robustness with Conformal Prediction: A Framework for Guaranteed Model Reliability**|Jie Bao et.al.|[2506.07804](http://arxiv.org/abs/2506.07804)|**[link](https://github.com/bjbbbb/enhancing-adversarial-robustness-with-conformal-prediction)**|
 |**2025-06-09**|**ProARD: progressive adversarial robustness distillation: provide wide range of robust students**|Seyedhamidreza Mousavi et.al.|[2506.07666](http://arxiv.org/abs/2506.07666)|null|
 |**2025-06-08**|**D2R: dual regularization loss with collaborative adversarial generation for model robustness**|Zhenyu Liu et.al.|[2506.07056](http://arxiv.org/abs/2506.07056)|null|
 |**2025-06-07**|**Robust Learnability of Sample-Compressible Distributions under Noisy or Adversarial Perturbations**|Arefe Boushehrian et.al.|[2506.06613](http://arxiv.org/abs/2506.06613)|null|
@@ -963,7 +963,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-11**|**LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge**|Songze Li et.al.|[2506.09443](http://arxiv.org/abs/2506.09443)|null|
+|**2025-06-11**|**LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge**|Songze Li et.al.|[2506.09443](http://arxiv.org/abs/2506.09443)|**[link](https://github.com/s3ic-lab/robustjudge)**|
 |**2025-06-11**|**Token Constraint Decoding Improves Robustness on Question Answering for Large Language Models**|Jui-Ming Yao et.al.|[2506.09408](http://arxiv.org/abs/2506.09408)|null|
 |**2025-06-09**|**Adversarial Attack Classification and Robustness Testing for Large Language Models for Code**|Yang Liu et.al.|[2506.07942](http://arxiv.org/abs/2506.07942)|null|
 |**2025-06-11**|**RSafe: Incentivizing proactive reasoning to build robust and adaptive LLM safeguards**|Jingnan Zheng et.al.|[2506.07736](http://arxiv.org/abs/2506.07736)|null|
