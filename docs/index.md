@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-14**|**Are We Really Measuring Progress? Transferring Insights from Evaluating Recommender Systems to Temporal Link Prediction**|Filip Cornell et.al.|[2506.12588](http://arxiv.org/abs/2506.12588)|null|
 |**2025-06-13**|**Dual-View Disentangled Multi-Intent Learning for Enhanced Collaborative Filtering**|Shanfan Zhang et.al.|[2506.11538](http://arxiv.org/abs/2506.11538)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|null|
 |**2025-06-09**|**Addressing Correlated Latent Exogenous Variables in Debiased Recommender Systems**|Shuqiang Zhang et.al.|[2506.07517](http://arxiv.org/abs/2506.07517)|**[link](https://github.com/wallacesui/kdd25-background-variable)**|
@@ -292,6 +293,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**Position: Certified Robustness Does Not (Yet) Imply Model Security**|Andrew C. Cullen et.al.|[2506.13024](http://arxiv.org/abs/2506.13024)|null|
+|**2025-06-15**|**Intriguing Frequency Interpretation of Adversarial Robustness for CNNs and ViTs**|Lu Chen et.al.|[2506.12875](http://arxiv.org/abs/2506.12875)|null|
+|**2025-06-15**|**NAP-Tuning: Neural Augmented Prompt Tuning for Adversarially Robust Vision-Language Models**|Jiaming Zhang et.al.|[2506.12706](http://arxiv.org/abs/2506.12706)|null|
 |**2025-06-13**|**Attention-based Adversarial Robust Distillation in Radio Signal Classifications for Low-Power IoT Devices**|Lu Zhang et.al.|[2506.11892](http://arxiv.org/abs/2506.11892)|null|
 |**2025-06-11**|**AngleRoCL: Angle-Robust Concept Learning for Physically View-Invariant T2I Adversarial Patches**|Wenjun Ji et.al.|[2506.09538](http://arxiv.org/abs/2506.09538)|null|
 |**2025-06-10**|**PatchGuard: Adversarially Robust Anomaly Detection and Localization through Vision Transformers and Pseudo Anomalies**|Mojtaba Nafez et.al.|[2506.09237](http://arxiv.org/abs/2506.09237)|**[link](https://github.com/rohban-lab/patchgaurd)**|
@@ -955,6 +959,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-14**|**Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization**|Filip Sondej et.al.|[2506.12484](http://arxiv.org/abs/2506.12484)|null|
 |**2025-06-08**|**Evaluating and Improving Robustness in Large Language Models: A Survey and Future Directions**|Kun Zhang et.al.|[2506.11111](http://arxiv.org/abs/2506.11111)|null|
 |**2025-06-11**|**LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge**|Songze Li et.al.|[2506.09443](http://arxiv.org/abs/2506.09443)|**[link](https://github.com/s3ic-lab/robustjudge)**|
 |**2025-06-11**|**Token Constraint Decoding Improves Robustness on Question Answering for Large Language Models**|Jui-Ming Yao et.al.|[2506.09408](http://arxiv.org/abs/2506.09408)|null|
@@ -1302,6 +1307,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-16**|**IGD: Token Decisiveness Modeling via Information Gain in LLMs for Personalized Recommendation**|Zijie Lin et.al.|[2506.13229](http://arxiv.org/abs/2506.13229)|null|
+|**2025-06-16**|**C-TLSAN: Content-Enhanced Time-Aware Long- and Short-Term Attention Network for Personalized Recommendation**|Siqi Liang et.al.|[2506.13021](http://arxiv.org/abs/2506.13021)|null|
 |**2025-06-09**|**Serendipitous Recommendation with Multimodal LLM**|Haoting Wang et.al.|[2506.08283](http://arxiv.org/abs/2506.08283)|null|
 |**2025-06-09**|**No Stupid Questions: An Analysis of Question Query Generation for Citation Recommendation**|Brian D. Zimmerman et.al.|[2506.08196](http://arxiv.org/abs/2506.08196)|null|
 |**2025-05-31**|**Research on E-Commerce Long-Tail Product Recommendation Mechanism Based on Large-Scale Language Models**|Qingyi Lu et.al.|[2506.06336](http://arxiv.org/abs/2506.06336)|null|
