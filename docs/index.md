@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -1325,7 +1325,7 @@ layout: default
 |**2025-06-02**|**Towards Human-like Preference Profiling in Sequential Recommendation**|Zhongyu Ouyang et.al.|[2506.02261](http://arxiv.org/abs/2506.02261)|null|
 |**2025-06-09**|**GLoSS: Generative Language Models with Semantic Search for Sequential Recommendation**|Krishna Acharya et.al.|[2506.01910](http://arxiv.org/abs/2506.01910)|**[link](https://github.com/krishnacharya/GLoSS)**|
 |**2025-06-02**|**GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion**|Sunkyung Lee et.al.|[2506.01673](http://arxiv.org/abs/2506.01673)|null|
-|**2025-06-02**|**Generative Next POI Recommendation with Semantic ID**|Dongsheng Wang et.al.|[2506.01375](http://arxiv.org/abs/2506.01375)|null|
+|**2025-06-18**|**Generative Next POI Recommendation with Semantic ID**|Dongsheng Wang et.al.|[2506.01375](http://arxiv.org/abs/2506.01375)|null|
 |**2025-05-30**|**FACE: A Fine-grained Reference Free Evaluator for Conversational Recommender Systems**|Hideaki Joko et.al.|[2506.00314](http://arxiv.org/abs/2506.00314)|null|
 |**2025-05-29**|**Whose Name Comes Up? Auditing LLM-Based Scholar Recommendations**|Daniele Barolo et.al.|[2506.00074](http://arxiv.org/abs/2506.00074)|null|
 |**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|**[link](https://github.com/ramituncc49er/atars)**|

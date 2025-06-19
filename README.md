@@ -1,4 +1,4 @@
-## Updated on 2025.06.18
+## Updated on 2025.06.19
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -295,7 +295,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## Robust ML
 
@@ -963,7 +963,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## Security LLM
 
@@ -1314,7 +1314,7 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
 ## LLM4Rec
 
@@ -1337,7 +1337,7 @@
 |**2025-06-02**|**Towards Human-like Preference Profiling in Sequential Recommendation**|Zhongyu Ouyang et.al.|[2506.02261](http://arxiv.org/abs/2506.02261)|null|
 |**2025-06-09**|**GLoSS: Generative Language Models with Semantic Search for Sequential Recommendation**|Krishna Acharya et.al.|[2506.01910](http://arxiv.org/abs/2506.01910)|**[link](https://github.com/krishnacharya/GLoSS)**|
 |**2025-06-02**|**GRAM: Generative Recommendation via Semantic-aware Multi-granular Late Fusion**|Sunkyung Lee et.al.|[2506.01673](http://arxiv.org/abs/2506.01673)|null|
-|**2025-06-02**|**Generative Next POI Recommendation with Semantic ID**|Dongsheng Wang et.al.|[2506.01375](http://arxiv.org/abs/2506.01375)|null|
+|**2025-06-18**|**Generative Next POI Recommendation with Semantic ID**|Dongsheng Wang et.al.|[2506.01375](http://arxiv.org/abs/2506.01375)|null|
 |**2025-05-30**|**FACE: A Fine-grained Reference Free Evaluator for Conversational Recommender Systems**|Hideaki Joko et.al.|[2506.00314](http://arxiv.org/abs/2506.00314)|null|
 |**2025-05-29**|**Whose Name Comes Up? Auditing LLM-Based Scholar Recommendations**|Daniele Barolo et.al.|[2506.00074](http://arxiv.org/abs/2506.00074)|null|
 |**2025-05-29**|**Engineering Serendipity through Recommendations of Items with Atypical Aspects**|Ramit Aditya et.al.|[2505.23580](http://arxiv.org/abs/2505.23580)|**[link](https://github.com/ramituncc49er/atars)**|
@@ -1861,5 +1861,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
 
