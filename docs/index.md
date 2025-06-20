@@ -2,14 +2,15 @@
 layout: default
 ---
 
-## Updated on 2025.06.19
+## Updated on 2025.06.20
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**Advancing Loss Functions in Recommender Systems: A Comparative Study with a Rényi Divergence-Based Solution**|Shengjia Zhang et.al.|[2506.15120](http://arxiv.org/abs/2506.15120)|null|
 |**2025-06-14**|**Are We Really Measuring Progress? Transferring Insights from Evaluating Recommender Systems to Temporal Link Prediction**|Filip Cornell et.al.|[2506.12588](http://arxiv.org/abs/2506.12588)|null|
 |**2025-06-13**|**Dual-View Disentangled Multi-Intent Learning for Enhanced Collaborative Filtering**|Shanfan Zhang et.al.|[2506.11538](http://arxiv.org/abs/2506.11538)|null|
-|**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|null|
+|**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|**[link](https://github.com/nargesnemati/mccl)**|
 |**2025-06-09**|**Addressing Correlated Latent Exogenous Variables in Debiased Recommender Systems**|Shuqiang Zhang et.al.|[2506.07517](http://arxiv.org/abs/2506.07517)|**[link](https://github.com/wallacesui/kdd25-background-variable)**|
 |**2025-06-07**|**SAFER: A Calibrated Risk-Aware Multimodal Recommendation Model for Dynamic Treatment Regimes**|Yishan Shen et.al.|[2506.06649](http://arxiv.org/abs/2506.06649)|null|
 |**2025-06-06**|**Recommender systems, stigmergy, and the tyranny of popularity**|Zackary Okun Dunivin et.al.|[2506.06162](http://arxiv.org/abs/2506.06162)|null|
@@ -969,7 +970,7 @@ layout: default
 |**2025-06-09**|**Evaluating LLMs Robustness in Less Resourced Languages with Proxy Models**|Maciej Chrabąszcz et.al.|[2506.07645](http://arxiv.org/abs/2506.07645)|null|
 |**2025-06-06**|**LLM-Symbolic Integration for Robust Temporal Tabular Reasoning**|Atharv Kulkarni et.al.|[2506.05746](http://arxiv.org/abs/2506.05746)|null|
 |**2025-06-05**|**Automatic Robustness Stress Testing of LLMs as Mathematical Problem Solvers**|Yutao Hou et.al.|[2506.05038](http://arxiv.org/abs/2506.05038)|null|
-|**2025-06-05**|**LogicPuzzleRL: Cultivating Robust Mathematical Reasoning in LLMs via Reinforcement Learning**|Zhen Hao Wong et.al.|[2506.04821](http://arxiv.org/abs/2506.04821)|null|
+|**2025-06-05**|**LogicPuzzleRL: Cultivating Robust Mathematical Reasoning in LLMs via Reinforcement Learning**|Zhen Hao Wong et.al.|[2506.04821](http://arxiv.org/abs/2506.04821)|**[link](https://github.com/wongzhenhao/GameRL)**|
 |**2025-06-05**|**MMRefine: Unveiling the Obstacles to Robust Refinement in Multimodal Large Language Models**|Gio Paik et.al.|[2506.04688](http://arxiv.org/abs/2506.04688)|null|
 |**2025-06-04**|**RadialRouter: Structured Representation for Efficient and Robust Large Language Models Routing**|Ruihan Jin et.al.|[2506.03880](http://arxiv.org/abs/2506.03880)|null|
 |**2025-06-04**|**Robustness of Prompting: Enhancing Robustness of Large Language Models Against Prompting Attacks**|Lin Mu et.al.|[2506.03627](http://arxiv.org/abs/2506.03627)|null|
