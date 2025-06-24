@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-21**|**Research on Model Parallelism and Data Parallelism Optimization Methods in Large Language Model-Based Recommendation Systems**|Haowei Yang et.al.|[2506.17551](http://arxiv.org/abs/2506.17551)|null|
+|**2025-06-20**|**AI based Content Creation and Product Recommendation Applications in E-commerce: An Ethical overview**|Aditi Madhusudan Jain et.al.|[2506.17370](http://arxiv.org/abs/2506.17370)|null|
 |**2025-06-19**|**GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks**|Yejing Wang et.al.|[2506.16114](http://arxiv.org/abs/2506.16114)|null|
 |**2025-06-19**|**SEP-GCN: Leveraging Similar Edge Pairs with Temporal and Spatial Contexts for Location-Based Recommender Systems**|Tan Loc Nguyen et.al.|[2506.16003](http://arxiv.org/abs/2506.16003)|null|
 |**2025-06-18**|**Advancing Loss Functions in Recommender Systems: A Comparative Study with a Rényi Divergence-Based Solution**|Shengjia Zhang et.al.|[2506.15120](http://arxiv.org/abs/2506.15120)|**[link](https://github.com/cynthia-shengjia/aaai-2025-drrl)**|
@@ -296,6 +298,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-22**|**Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection**|Quan Zhou et.al.|[2506.18134](http://arxiv.org/abs/2506.18134)|null|
 |**2025-06-20**|**Analyzing PDFs like Binaries: Adversarially Robust PDF Malware Analysis via Intermediate Representation and Language Model**|Side Liu et.al.|[2506.17162](http://arxiv.org/abs/2506.17162)|null|
 |**2025-06-20**|**Off-Policy Actor-Critic for Adversarial Observation Robustness: Virtual Alternative Training via Symmetric Policy Evaluation**|Kosuke Nakanishi et.al.|[2506.16753](http://arxiv.org/abs/2506.16753)|null|
 |**2025-06-19**|**Robustness Evaluation of OCR-based Visual Document Understanding under Multi-Modal Adversarial Attacks**|Dong Nguyen Tien et.al.|[2506.16407](http://arxiv.org/abs/2506.16407)|null|
@@ -1315,6 +1318,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-23**|**LettinGo: Explore User Profile Generation for Recommendation System**|Lu Wang et.al.|[2506.18309](http://arxiv.org/abs/2506.18309)|null|
+|**2025-06-22**|**LLM-Enhanced Multimodal Fusion for Cross-Domain Sequential Recommendation**|Wangyu Wu et.al.|[2506.17966](http://arxiv.org/abs/2506.17966)|null|
+|**2025-06-21**|**CARTS: Collaborative Agents for Recommendation Textual Summarization**|Jiao Chen et.al.|[2506.17765](http://arxiv.org/abs/2506.17765)|null|
+|**2025-06-21**|**Research on Model Parallelism and Data Parallelism Optimization Methods in Large Language Model-Based Recommendation Systems**|Haowei Yang et.al.|[2506.17551](http://arxiv.org/abs/2506.17551)|null|
+|**2025-06-14**|**A Framework for Generating Conversational Recommendation Datasets from Behavioral Interactions**|Vinaik Chhetri et.al.|[2506.17285](http://arxiv.org/abs/2506.17285)|null|
+|**2025-06-14**|**CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models**|Junze Chen et.al.|[2506.17281](http://arxiv.org/abs/2506.17281)|null|
 |**2025-06-20**|**Multi-Objective Recommendation in the Era of Generative AI: A Survey of Recent Progress and Future Prospects**|Zihan Hong et.al.|[2506.16893](http://arxiv.org/abs/2506.16893)|null|
 |**2025-06-20**|**A Simple Contrastive Framework Of Item Tokenization For Generative Recommendation**|Penglong Zhai et.al.|[2506.16683](http://arxiv.org/abs/2506.16683)|null|
 |**2025-06-19**|**GFlowGR: Fine-tuning Generative Recommendation Frameworks with Generative Flow Networks**|Yejing Wang et.al.|[2506.16114](http://arxiv.org/abs/2506.16114)|null|
