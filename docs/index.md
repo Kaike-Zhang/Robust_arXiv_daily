@@ -968,6 +968,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models**|Jungwoo Park et.al.|[2506.19697](http://arxiv.org/abs/2506.19697)|null|
+|**2025-06-21**|**Safe Pruning LoRA: Robust Distance-Guided Pruning for Safety Alignment in Adaptation of LLMs**|Shuang Ao et.al.|[2506.18931](http://arxiv.org/abs/2506.18931)|null|
 |**2025-06-19**|**Probing the Robustness of Large Language Models Safety to Latent Perturbations**|Tianle Gu et.al.|[2506.16078](http://arxiv.org/abs/2506.16078)|**[link](https://github.com/carol-gutianle/latentsafety)**|
 |**2025-06-17**|**LexiMark: Robust Watermarking via Lexical Substitutions to Enhance Membership Verification of an LLM's Textual Training Data**|Eyal German et.al.|[2506.14474](http://arxiv.org/abs/2506.14474)|**[link](https://github.com/eyalgerman/leximark)**|
 |**2025-06-21**|**Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization**|Filip Sondej et.al.|[2506.12484](http://arxiv.org/abs/2506.12484)|null|
