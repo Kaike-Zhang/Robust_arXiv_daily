@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-24**|**DCN^2: Interplay of Implicit Collision Weights and Explicit Cross Layers for Large-Scale Recommendation**|Blaž Škrlj et.al.|[2506.21624](http://arxiv.org/abs/2506.21624)|null|
+|**2025-06-16**|**LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation**|Yingzhi He et.al.|[2506.21579](http://arxiv.org/abs/2506.21579)|null|
 |**2025-06-25**|**RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation**|Ali Tourani et.al.|[2506.20817](http://arxiv.org/abs/2506.20817)|null|
 |**2025-06-24**|**Research on Model Parallelism and Data Parallelism Optimization Methods in Large Language Model-Based Recommendation Systems**|Haowei Yang et.al.|[2506.17551](http://arxiv.org/abs/2506.17551)|null|
 |**2025-06-20**|**AI based Content Creation and Product Recommendation Applications in E-commerce: An Ethical overview**|Aditi Madhusudan Jain et.al.|[2506.17370](http://arxiv.org/abs/2506.17370)|null|
@@ -16,6 +18,7 @@ layout: default
 |**2025-06-14**|**Are We Really Measuring Progress? Transferring Insights from Evaluating Recommender Systems to Temporal Link Prediction**|Filip Cornell et.al.|[2506.12588](http://arxiv.org/abs/2506.12588)|null|
 |**2025-06-13**|**Dual-View Disentangled Multi-Intent Learning for Enhanced Collaborative Filtering**|Shanfan Zhang et.al.|[2506.11538](http://arxiv.org/abs/2506.11538)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|**[link](https://github.com/nargesnemati/mccl)**|
+|**2025-06-26**|**RAE: A Rule-Driven Approach for Attribute Embedding in Property Graph Recommendation**|Sibo Zhao et.al.|[2506.08314](http://arxiv.org/abs/2506.08314)|null|
 |**2025-06-09**|**Addressing Correlated Latent Exogenous Variables in Debiased Recommender Systems**|Shuqiang Zhang et.al.|[2506.07517](http://arxiv.org/abs/2506.07517)|**[link](https://github.com/wallacesui/kdd25-background-variable)**|
 |**2025-06-07**|**SAFER: A Calibrated Risk-Aware Multimodal Recommendation Model for Dynamic Treatment Regimes**|Yishan Shen et.al.|[2506.06649](http://arxiv.org/abs/2506.06649)|null|
 |**2025-06-06**|**Recommender systems, stigmergy, and the tyranny of popularity**|Zackary Okun Dunivin et.al.|[2506.06162](http://arxiv.org/abs/2506.06162)|null|
@@ -1323,6 +1326,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-27**|**ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation**|Reza Yousefi Maragheh et.al.|[2506.21931](http://arxiv.org/abs/2506.21931)|null|
+|**2025-06-19**|**Reinforcement Fine-Tuned Large Language Models for Next POI Recommendation**|Peibo Li et.al.|[2506.21599](http://arxiv.org/abs/2506.21599)|null|
+|**2025-06-16**|**LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation**|Yingzhi He et.al.|[2506.21579](http://arxiv.org/abs/2506.21579)|null|
 |**2025-06-25**|**RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation**|Ali Tourani et.al.|[2506.20817](http://arxiv.org/abs/2506.20817)|null|
 |**2025-06-25**|**Dynamic Context-Aware Prompt Recommendation for Domain-Specific AI Applications**|Xinye Tang et.al.|[2506.20815](http://arxiv.org/abs/2506.20815)|null|
 |**2025-06-25**|**A Literature Review on Simulation in Conversational Recommender Systems**|Haoran Zhang et.al.|[2506.20291](http://arxiv.org/abs/2506.20291)|null|
