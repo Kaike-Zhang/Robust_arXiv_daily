@@ -302,6 +302,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack**|Arnisa Fazla et.al.|[2506.23661](http://arxiv.org/abs/2506.23661)|null|
+|**2025-06-27**|**Are Fast Methods Stable in Adversarially Robust Transfer Learning?**|Joshua C. Zhao et.al.|[2506.22602](http://arxiv.org/abs/2506.22602)|null|
 |**2025-06-26**|**Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments**|Deepak Kumar Panda et.al.|[2506.21127](http://arxiv.org/abs/2506.21127)|null|
 |**2025-06-25**|**InvZW: Invariant Feature Learning via Noise-Adversarial Training for Robust Image Zero-Watermarking**|Abdullah All Tanvir et.al.|[2506.20370](http://arxiv.org/abs/2506.20370)|null|
 |**2025-06-22**|**Targeted False Positive Synthesis via Detector-guided Adversarial Diffusion Attacker for Robust Polyp Detection**|Quan Zhou et.al.|[2506.18134](http://arxiv.org/abs/2506.18134)|null|
@@ -974,6 +976,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-28**|**Smaller = Weaker? Benchmarking Robustness of Quantized LLMs in Code Generation**|Sen Fang et.al.|[2506.22776](http://arxiv.org/abs/2506.22776)|null|
 |**2025-06-24**|**Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models**|Jungwoo Park et.al.|[2506.19697](http://arxiv.org/abs/2506.19697)|null|
 |**2025-06-21**|**Safe Pruning LoRA: Robust Distance-Guided Pruning for Safety Alignment in Adaptation of LLMs**|Shuang Ao et.al.|[2506.18931](http://arxiv.org/abs/2506.18931)|null|
 |**2025-06-19**|**Probing the Robustness of Large Language Models Safety to Latent Perturbations**|Tianle Gu et.al.|[2506.16078](http://arxiv.org/abs/2506.16078)|**[link](https://github.com/carol-gutianle/latentsafety)**|
@@ -1326,6 +1329,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-30**|**Act-With-Think: Chunk Auto-Regressive Modeling for Generative Recommendation**|Yifan Wang et.al.|[2506.23643](http://arxiv.org/abs/2506.23643)|null|
+|**2025-06-30**|**Thought-Augmented Planning for LLM-Powered Interactive Recommender Agent**|Haocheng Yu et.al.|[2506.23485](http://arxiv.org/abs/2506.23485)|null|
 |**2025-06-27**|**ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation**|Reza Yousefi Maragheh et.al.|[2506.21931](http://arxiv.org/abs/2506.21931)|null|
 |**2025-06-30**|**Refine-POI: Reinforcement Fine-Tuned Large Language Models for Next Point-of-Interest Recommendation**|Peibo Li et.al.|[2506.21599](http://arxiv.org/abs/2506.21599)|null|
 |**2025-06-16**|**LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation**|Yingzhi He et.al.|[2506.21579](http://arxiv.org/abs/2506.21579)|null|
