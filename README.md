@@ -1,4 +1,4 @@
-## Updated on 2025.06.30
+## Updated on 2025.07.01
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -22,7 +22,7 @@
 |**2025-06-19**|**SEP-GCN: Leveraging Similar Edge Pairs with Temporal and Spatial Contexts for Location-Based Recommender Systems**|Tan Loc Nguyen et.al.|[2506.16003](http://arxiv.org/abs/2506.16003)|null|
 |**2025-06-18**|**Advancing Loss Functions in Recommender Systems: A Comparative Study with a Rényi Divergence-Based Solution**|Shengjia Zhang et.al.|[2506.15120](http://arxiv.org/abs/2506.15120)|**[link](https://github.com/cynthia-shengjia/aaai-2025-drrl)**|
 |**2025-06-14**|**Are We Really Measuring Progress? Transferring Insights from Evaluating Recommender Systems to Temporal Link Prediction**|Filip Cornell et.al.|[2506.12588](http://arxiv.org/abs/2506.12588)|null|
-|**2025-06-13**|**Dual-View Disentangled Multi-Intent Learning for Enhanced Collaborative Filtering**|Shanfan Zhang et.al.|[2506.11538](http://arxiv.org/abs/2506.11538)|null|
+|**2025-06-30**|**Dual-Perspective Disentangled Multi-Intent Alignment for Enhanced Collaborative Filtering**|Shanfan Zhang et.al.|[2506.11538](http://arxiv.org/abs/2506.11538)|null|
 |**2025-06-12**|**Contrastive Matrix Completion with Denoising and Augmented Graph Views for Robust Recommendation**|Narges Nemati et.al.|[2506.10658](http://arxiv.org/abs/2506.10658)|**[link](https://github.com/nargesnemati/mccl)**|
 |**2025-06-26**|**RAE: A Rule-Driven Approach for Attribute Embedding in Property Graph Recommendation**|Sibo Zhao et.al.|[2506.08314](http://arxiv.org/abs/2506.08314)|null|
 |**2025-06-09**|**Addressing Correlated Latent Exogenous Variables in Debiased Recommender Systems**|Shuqiang Zhang et.al.|[2506.07517](http://arxiv.org/abs/2506.07517)|**[link](https://github.com/wallacesui/kdd25-background-variable)**|
@@ -304,7 +304,7 @@
 |**2023-02-11**|**Regret Guarantees for Adversarial Online Collaborative Filtering**|Stephen Pasteris et.al.|[2302.05765](http://arxiv.org/abs/2302.05765)|null|
 |**2023-01-30**|**Interaction-level Membership Inference Attack Against Federated Recommender Systems**|Wei Yuan et.al.|[2301.10964](http://arxiv.org/abs/2301.10964)|null|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
 ## Robust ML
 
@@ -978,7 +978,7 @@
 |**2023-06-20**|**Harnessing the Power of Adversarial Prompting and Large Language Models for Robust Hypothesis Generation in Astronomy**|Ioana Ciucă et.al.|[2306.11648](http://arxiv.org/abs/2306.11648)|null|
 |**2023-06-21**|**Adversarial Robustness of Prompt-based Few-Shot Learning for Natural Language Understanding**|Venkata Prabhakara Sarath Nookala et.al.|[2306.11066](http://arxiv.org/abs/2306.11066)|**[link](https://github.com/claws-lab/few-shot-adversarial-robustness)**|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
 ## Security LLM
 
@@ -988,7 +988,7 @@
 |**2025-06-21**|**Safe Pruning LoRA: Robust Distance-Guided Pruning for Safety Alignment in Adaptation of LLMs**|Shuang Ao et.al.|[2506.18931](http://arxiv.org/abs/2506.18931)|null|
 |**2025-06-19**|**Probing the Robustness of Large Language Models Safety to Latent Perturbations**|Tianle Gu et.al.|[2506.16078](http://arxiv.org/abs/2506.16078)|**[link](https://github.com/carol-gutianle/latentsafety)**|
 |**2025-06-17**|**LexiMark: Robust Watermarking via Lexical Substitutions to Enhance Membership Verification of an LLM's Textual Training Data**|Eyal German et.al.|[2506.14474](http://arxiv.org/abs/2506.14474)|**[link](https://github.com/eyalgerman/leximark)**|
-|**2025-06-21**|**Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization**|Filip Sondej et.al.|[2506.12484](http://arxiv.org/abs/2506.12484)|null|
+|**2025-06-30**|**Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization**|Filip Sondej et.al.|[2506.12484](http://arxiv.org/abs/2506.12484)|null|
 |**2025-06-08**|**Evaluating and Improving Robustness in Large Language Models: A Survey and Future Directions**|Kun Zhang et.al.|[2506.11111](http://arxiv.org/abs/2506.11111)|null|
 |**2025-06-11**|**LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge**|Songze Li et.al.|[2506.09443](http://arxiv.org/abs/2506.09443)|**[link](https://github.com/s3ic-lab/robustjudge)**|
 |**2025-06-11**|**Token Constraint Decoding Improves Robustness on Question Answering for Large Language Models**|Jui-Ming Yao et.al.|[2506.09408](http://arxiv.org/abs/2506.09408)|null|
@@ -1332,14 +1332,14 @@
 |**2023-04-05**|**Behavioral estimates of conceptual structure are robust across tasks in humans but not large language models**|Siddharth Suresh et.al.|[2304.02754](http://arxiv.org/abs/2304.02754)|null|
 |**2022-05-11**|**Structured, flexible, and robust: benchmarking and improving large language models towards more human-like behavior in out-of-distribution reasoning tasks**|Katherine M. Collins et.al.|[2205.05718](http://arxiv.org/abs/2205.05718)|**[link](https://github.com/collinskatie/structured_flexible_and_robust)**|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
 ## LLM4Rec
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-27**|**ARAG: Agentic Retrieval Augmented Generation for Personalized Recommendation**|Reza Yousefi Maragheh et.al.|[2506.21931](http://arxiv.org/abs/2506.21931)|null|
-|**2025-06-19**|**Reinforcement Fine-Tuned Large Language Models for Next POI Recommendation**|Peibo Li et.al.|[2506.21599](http://arxiv.org/abs/2506.21599)|null|
+|**2025-06-30**|**Refine-POI: Reinforcement Fine-Tuned Large Language Models for Next Point-of-Interest Recommendation**|Peibo Li et.al.|[2506.21599](http://arxiv.org/abs/2506.21599)|null|
 |**2025-06-16**|**LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation**|Yingzhi He et.al.|[2506.21579](http://arxiv.org/abs/2506.21579)|null|
 |**2025-06-25**|**RAG-VisualRec: An Open Resource for Vision- and Text-Enhanced Retrieval-Augmented Generation in Recommendation**|Ali Tourani et.al.|[2506.20817](http://arxiv.org/abs/2506.20817)|null|
 |**2025-06-25**|**Dynamic Context-Aware Prompt Recommendation for Domain-Specific AI Applications**|Xinye Tang et.al.|[2506.20815](http://arxiv.org/abs/2506.20815)|null|
@@ -1897,5 +1897,5 @@
 |**2023-12-25**|**Large Language Models are Not Stable Recommender Systems**|Tianhui Ma et.al.|[2312.15746](http://arxiv.org/abs/2312.15746)|null|
 |**2024-01-03**|**Unlocking the Potential of Large Language Models for Explainable Recommendations**|Yucong Luo et.al.|[2312.15661](http://arxiv.org/abs/2312.15661)|**[link](https://github.com/godfire66666/llm_rec_explanation)**|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
