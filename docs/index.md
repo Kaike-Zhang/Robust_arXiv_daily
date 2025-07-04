@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-02**|**The Future is Agentic: Definitions, Perspectives, and Open Challenges of Multi-Agent Recommender Systems**|Reza Yousefi Maragheh et.al.|[2507.02097](http://arxiv.org/abs/2507.02097)|null|
 |**2025-07-02**|**DARTS: A Dual-View Attack Framework for Targeted Manipulation in Federated Sequential Recommendation**|Qitao Qin et.al.|[2507.01383](http://arxiv.org/abs/2507.01383)|null|
 |**2025-06-24**|**DCN^2: Interplay of Implicit Collision Weights and Explicit Cross Layers for Large-Scale Recommendation**|Blaž Škrlj et.al.|[2506.21624](http://arxiv.org/abs/2506.21624)|null|
 |**2025-06-16**|**LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation**|Yingzhi He et.al.|[2506.21579](http://arxiv.org/abs/2506.21579)|null|
@@ -303,6 +304,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**On the Adversarial Robustness of Online Importance Sampling**|Yotam Kenneth-Mordoch et.al.|[2507.02394](http://arxiv.org/abs/2507.02394)|null|
 |**2025-07-02**|**3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation**|Tianrui Lou et.al.|[2507.01367](http://arxiv.org/abs/2507.01367)|null|
 |**2025-07-03**|**Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack**|Arnisa Fazla et.al.|[2506.23661](http://arxiv.org/abs/2506.23661)|null|
 |**2025-06-27**|**Are Fast Methods Stable in Adversarially Robust Transfer Learning?**|Joshua C. Zhao et.al.|[2506.22602](http://arxiv.org/abs/2506.22602)|null|
@@ -1331,6 +1333,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning**|Siran Chen et.al.|[2507.02626](http://arxiv.org/abs/2507.02626)|null|
+|**2025-07-03**|**Content filtering methods for music recommendation: A review**|Terence Zeng et.al.|[2507.02282](http://arxiv.org/abs/2507.02282)|null|
+|**2025-07-03**|**Listwise Preference Alignment Optimization for Tail Item Recommendation**|Zihao Li et.al.|[2507.02255](http://arxiv.org/abs/2507.02255)|null|
+|**2025-07-02**|**The Future is Agentic: Definitions, Perspectives, and Open Challenges of Multi-Agent Recommender Systems**|Reza Yousefi Maragheh et.al.|[2507.02097](http://arxiv.org/abs/2507.02097)|null|
 |**2025-07-02**|**Context-Aware Code Wiring Recommendation with LLM-based Agent**|Taiming Wang et.al.|[2507.01315](http://arxiv.org/abs/2507.01315)|null|
 |**2025-06-21**|**Research on Low-Latency Inference and Training Efficiency Optimization for Graph Neural Network and Large Language Model-Based Recommendation Systems**|Yushang Zhao et.al.|[2507.01035](http://arxiv.org/abs/2507.01035)|null|
 |**2025-07-01**|**EARN: Efficient Inference Acceleration for LLM-based Generative Recommendation by Register Tokens**|Chaoqun Yang et.al.|[2507.00715](http://arxiv.org/abs/2507.00715)|null|
