@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -304,7 +304,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-02**|**3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation**|Tianrui Lou et.al.|[2507.01367](http://arxiv.org/abs/2507.01367)|null|
-|**2025-06-30**|**Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack**|Arnisa Fazla et.al.|[2506.23661](http://arxiv.org/abs/2506.23661)|null|
+|**2025-07-03**|**Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack**|Arnisa Fazla et.al.|[2506.23661](http://arxiv.org/abs/2506.23661)|null|
 |**2025-06-27**|**Are Fast Methods Stable in Adversarially Robust Transfer Learning?**|Joshua C. Zhao et.al.|[2506.22602](http://arxiv.org/abs/2506.22602)|null|
 |**2025-06-26**|**Robust Policy Switching for Antifragile Reinforcement Learning for UAV Deconfliction in Adversarial Environments**|Deepak Kumar Panda et.al.|[2506.21127](http://arxiv.org/abs/2506.21127)|null|
 |**2025-06-25**|**InvZW: Invariant Feature Learning via Noise-Adversarial Training for Robust Image Zero-Watermarking**|Abdullah All Tanvir et.al.|[2506.20370](http://arxiv.org/abs/2506.20370)|null|
