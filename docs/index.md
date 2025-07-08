@@ -7,6 +7,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**Heterogeneous User Modeling for LLM-based Recommendation**|Honghui Bao et.al.|[2507.04626](http://arxiv.org/abs/2507.04626)|null|
 |**2025-07-02**|**The Future is Agentic: Definitions, Perspectives, and Open Challenges of Multi-Agent Recommender Systems**|Reza Yousefi Maragheh et.al.|[2507.02097](http://arxiv.org/abs/2507.02097)|null|
 |**2025-07-02**|**DARTS: A Dual-View Attack Framework for Targeted Manipulation in Federated Sequential Recommendation**|Qitao Qin et.al.|[2507.01383](http://arxiv.org/abs/2507.01383)|null|
 |**2025-06-24**|**DCN^2: Interplay of Implicit Collision Weights and Explicit Cross Layers for Large-Scale Recommendation**|Blaž Škrlj et.al.|[2506.21624](http://arxiv.org/abs/2506.21624)|null|
@@ -304,6 +305,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-04**|**On the Limits of Robust Control Under Adversarial Disturbances**|Paul Trodden et.al.|[2507.03630](http://arxiv.org/abs/2507.03630)|null|
+|**2025-07-04**|**Evaluating the Evaluators: Trust in Adversarial Robustness Tests**|Antonio Emanuele Cinà et.al.|[2507.03450](http://arxiv.org/abs/2507.03450)|null|
+|**2025-07-04**|**Action Robust Reinforcement Learning via Optimal Adversary Aware Policy Optimization**|Buqing Nie et.al.|[2507.03372](http://arxiv.org/abs/2507.03372)|null|
 |**2025-07-03**|**On the Adversarial Robustness of Online Importance Sampling**|Yotam Kenneth-Mordoch et.al.|[2507.02394](http://arxiv.org/abs/2507.02394)|null|
 |**2025-07-02**|**3D Gaussian Splatting Driven Multi-View Robust Physical Adversarial Camouflage Generation**|Tianrui Lou et.al.|[2507.01367](http://arxiv.org/abs/2507.01367)|null|
 |**2025-07-03**|**Robustness of Misinformation Classification Systems to Adversarial Examples Through BeamAttack**|Arnisa Fazla et.al.|[2506.23661](http://arxiv.org/abs/2506.23661)|null|
@@ -980,6 +984,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-06**|**A validity-guided workflow for robust large language model research in psychology**|Zhicheng Lin et.al.|[2507.04491](http://arxiv.org/abs/2507.04491)|null|
+|**2025-07-05**|**Enhancing Robustness of LLM-Driven Multi-Agent Systems through Randomized Smoothing**|Jinwei Hu et.al.|[2507.04105](http://arxiv.org/abs/2507.04105)|null|
+|**2025-07-04**|**Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation**|Tao Tang et.al.|[2507.03585](http://arxiv.org/abs/2507.03585)|null|
+|**2025-06-27**|**A Large Language Model-Empowered Agent for Reliable and Robust Structural Analysis**|Jiachen Liu et.al.|[2507.02938](http://arxiv.org/abs/2507.02938)|null|
 |**2025-06-28**|**Smaller = Weaker? Benchmarking Robustness of Quantized LLMs in Code Generation**|Sen Fang et.al.|[2506.22776](http://arxiv.org/abs/2506.22776)|null|
 |**2025-06-24**|**Outlier-Safe Pre-Training for Robust 4-Bit Quantization of Large Language Models**|Jungwoo Park et.al.|[2506.19697](http://arxiv.org/abs/2506.19697)|null|
 |**2025-06-21**|**Safe Pruning LoRA: Robust Distance-Guided Pruning for Safety Alignment in Adaptation of LLMs**|Shuang Ao et.al.|[2506.18931](http://arxiv.org/abs/2506.18931)|null|
@@ -1333,6 +1341,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-07**|**LumiCRS: Asymmetric Contrastive Prototype Learning for Long-Tail Conversational Movie Recommendation**|Jinzhi Wang et.al.|[2507.04722](http://arxiv.org/abs/2507.04722)|null|
+|**2025-07-07**|**Heterogeneous User Modeling for LLM-based Recommendation**|Honghui Bao et.al.|[2507.04626](http://arxiv.org/abs/2507.04626)|null|
+|**2025-07-07**|**Hierarchical Intent-guided Optimization with Pluggable LLM-Driven Semantics for Session-based Recommendation**|Jinpeng Chen et.al.|[2507.04623](http://arxiv.org/abs/2507.04623)|null|
+|**2025-07-06**|**Simulating User Watch-Time to Investigate Bias in YouTube Shorts Recommendations**|Selimhan Dagtas et.al.|[2507.04534](http://arxiv.org/abs/2507.04534)|null|
+|**2025-07-06**|**BiFair: A Fairness-aware Training Framework for LLM-enhanced Recommender Systems via Bi-level Optimization**|Jiaming Zhang et.al.|[2507.04294](http://arxiv.org/abs/2507.04294)|null|
+|**2025-07-05**|**Leveraging Multimodal Data and Side Users for Diffusion Cross-Domain Recommendation**|Fan Zhang et.al.|[2507.04000](http://arxiv.org/abs/2507.04000)|null|
+|**2025-07-05**|**Function-based Labels for Complementary Recommendation: Definition, Annotation, and LLM-as-a-Judge**|Chihiro Yamasaki et.al.|[2507.03945](http://arxiv.org/abs/2507.03945)|null|
+|**2025-07-04**|**GENPLUGIN: A Plug-and-Play Framework for Long-Tail Generative Recommendation with Exposure Bias Mitigation**|Kun Yang et.al.|[2507.03568](http://arxiv.org/abs/2507.03568)|null|
+|**2025-07-04**|**LLM4Hint: Leveraging Large Language Models for Hint Recommendation in Offline Query Optimization**|Suchen Liu et.al.|[2507.03384](http://arxiv.org/abs/2507.03384)|null|
+|**2025-07-03**|**Counterfactual Tuning for Temporal Sensitivity Enhancement in Large Language Model-based Recommendation**|Yutian Liu et.al.|[2507.03047](http://arxiv.org/abs/2507.03047)|null|
 |**2025-07-03**|**VRAgent-R1: Boosting Video Recommendation with MLLM-based Agents via Reinforcement Learning**|Siran Chen et.al.|[2507.02626](http://arxiv.org/abs/2507.02626)|null|
 |**2025-07-03**|**Content filtering methods for music recommendation: A review**|Terence Zeng et.al.|[2507.02282](http://arxiv.org/abs/2507.02282)|null|
 |**2025-07-03**|**Listwise Preference Alignment Optimization for Tail Item Recommendation**|Zihao Li et.al.|[2507.02255](http://arxiv.org/abs/2507.02255)|null|
