@@ -13,6 +13,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**When Transformers Meet Recommenders: Integrating Self-Attentive Sequential Recommendation with Fine-Tuned LLMs**|Kechen Liu et.al.|[2507.05733](http://arxiv.org/abs/2507.05733)|null|
 |**2025-07-07**|**Heterogeneous User Modeling for LLM-based Recommendation**|Honghui Bao et.al.|[2507.04626](http://arxiv.org/abs/2507.04626)|null|
 |**2025-07-02**|**The Future is Agentic: Definitions, Perspectives, and Open Challenges of Multi-Agent Recommender Systems**|Reza Yousefi Maragheh et.al.|[2507.02097](http://arxiv.org/abs/2507.02097)|null|
 |**2025-07-02**|**DARTS: A Dual-View Attack Framework for Targeted Manipulation in Federated Sequential Recommendation**|Qitao Qin et.al.|[2507.01383](http://arxiv.org/abs/2507.01383)|null|
@@ -994,6 +995,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Search-based Selection of Metamorphic Relations for Optimized Robustness Testing of Large Language Models**|Sangwon Hyun et.al.|[2507.05565](http://arxiv.org/abs/2507.05565)|null|
+|**2025-06-30**|**User Behavior Prediction as a Generic, Robust, Scalable, and Low-Cost Evaluation Strategy for Estimating Generalization in LLMs**|Sougata Saha et.al.|[2507.05266](http://arxiv.org/abs/2507.05266)|null|
 |**2025-07-06**|**A validity-guided workflow for robust large language model research in psychology**|Zhicheng Lin et.al.|[2507.04491](http://arxiv.org/abs/2507.04491)|null|
 |**2025-07-05**|**Enhancing Robustness of LLM-Driven Multi-Agent Systems through Randomized Smoothing**|Jinwei Hu et.al.|[2507.04105](http://arxiv.org/abs/2507.04105)|null|
 |**2025-07-04**|**Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation**|Tao Tang et.al.|[2507.03585](http://arxiv.org/abs/2507.03585)|null|
@@ -1353,6 +1356,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-08**|**Data-Semantics-Aware Recommendation of Diverse Pivot Tables**|Whanhee Cho et.al.|[2507.06171](http://arxiv.org/abs/2507.06171)|null|
+|**2025-07-08**|**Hierarchical Interaction Summarization and Contrastive Prompting for Explainable Recommendations**|Yibin Liu et.al.|[2507.06044](http://arxiv.org/abs/2507.06044)|null|
+|**2025-07-08**|**RecRankerEval: A Flexible and Extensible Framework for Top-k LLM-based Recommendation**|Zeyuan Meng et.al.|[2507.05880](http://arxiv.org/abs/2507.05880)|null|
+|**2025-07-08**|**KERAG_R: Knowledge-Enhanced Retrieval-Augmented Generation for Recommendation**|Zeyuan Meng et.al.|[2507.05863](http://arxiv.org/abs/2507.05863)|null|
+|**2025-07-08**|**When Transformers Meet Recommenders: Integrating Self-Attentive Sequential Recommendation with Fine-Tuned LLMs**|Kechen Liu et.al.|[2507.05733](http://arxiv.org/abs/2507.05733)|null|
 |**2025-07-07**|**LumiCRS: Asymmetric Contrastive Prototype Learning for Long-Tail Conversational Movie Recommendation**|Jinzhi Wang et.al.|[2507.04722](http://arxiv.org/abs/2507.04722)|null|
 |**2025-07-07**|**Heterogeneous User Modeling for LLM-based Recommendation**|Honghui Bao et.al.|[2507.04626](http://arxiv.org/abs/2507.04626)|null|
 |**2025-07-07**|**Hierarchical Intent-guided Optimization with Pluggable LLM-Driven Semantics for Session-based Recommendation**|Jinpeng Chen et.al.|[2507.04623](http://arxiv.org/abs/2507.04623)|null|
