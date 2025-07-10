@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.09
+## Updated on 2025.07.10
 ## RobustnessRS
 
 | Publish Date | Title | Authors | PDF | Code |
@@ -997,7 +997,7 @@ layout: default
 |**2025-06-19**|**Probing the Robustness of Large Language Models Safety to Latent Perturbations**|Tianle Gu et.al.|[2506.16078](http://arxiv.org/abs/2506.16078)|**[link](https://github.com/carol-gutianle/latentsafety)**|
 |**2025-06-17**|**LexiMark: Robust Watermarking via Lexical Substitutions to Enhance Membership Verification of an LLM's Textual Training Data**|Eyal German et.al.|[2506.14474](http://arxiv.org/abs/2506.14474)|**[link](https://github.com/eyalgerman/leximark)**|
 |**2025-06-30**|**Robust LLM Unlearning with MUDMAN: Meta-Unlearning with Disruption Masking And Normalization**|Filip Sondej et.al.|[2506.12484](http://arxiv.org/abs/2506.12484)|null|
-|**2025-06-08**|**Evaluating and Improving Robustness in Large Language Models: A Survey and Future Directions**|Kun Zhang et.al.|[2506.11111](http://arxiv.org/abs/2506.11111)|null|
+|**2025-07-09**|**Evaluating and Improving Robustness in Large Language Models: A Survey and Future Directions**|Kun Zhang et.al.|[2506.11111](http://arxiv.org/abs/2506.11111)|null|
 |**2025-06-11**|**LLMs Cannot Reliably Judge (Yet?): A Comprehensive Assessment on the Robustness of LLM-as-a-Judge**|Songze Li et.al.|[2506.09443](http://arxiv.org/abs/2506.09443)|**[link](https://github.com/s3ic-lab/robustjudge)**|
 |**2025-06-11**|**Token Constraint Decoding Improves Robustness on Question Answering for Large Language Models**|Jui-Ming Yao et.al.|[2506.09408](http://arxiv.org/abs/2506.09408)|null|
 |**2025-06-09**|**Adversarial Attack Classification and Robustness Testing for Large Language Models for Code**|Yang Liu et.al.|[2506.07942](http://arxiv.org/abs/2506.07942)|null|
