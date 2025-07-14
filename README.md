@@ -316,6 +316,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots**|Yang Zhang et.al.|[2507.08303](http://arxiv.org/abs/2507.08303)|null|
+|**2025-07-10**|**Adaptive Diffusion Denoised Smoothing : Certified Robustness via Randomized Smoothing with Differentially Private Guided Denoising Diffusion**|Frederick Shpilevskiy et.al.|[2507.08163](http://arxiv.org/abs/2507.08163)|null|
 |**2025-07-09**|**On the Robustness of Verbal Confidence of LLMs in Adversarial Attacks**|Stephen Obadinma et.al.|[2507.06489](http://arxiv.org/abs/2507.06489)|null|
 |**2025-07-08**|**Reward Models Can Improve Themselves: Reward-Guided Adversarial Failure Mode Discovery for Robust Reward Modeling**|Pankayaraj Pathmanathan et.al.|[2507.06419](http://arxiv.org/abs/2507.06419)|null|
 |**2025-07-04**|**On the Limits of Robust Control Under Adversarial Disturbances**|Paul Trodden et.al.|[2507.03630](http://arxiv.org/abs/2507.03630)|null|
@@ -999,6 +1001,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-11**|**Invariant-based Robust Weights Watermark for Large Language Models**|Qingxiao Guo et.al.|[2507.08288](http://arxiv.org/abs/2507.08288)|null|
 |**2025-07-09**|**Robust Multimodal Large Language Models Against Modality Conflict**|Zongmeng Zhang et.al.|[2507.07151](http://arxiv.org/abs/2507.07151)|null|
 |**2025-07-09**|**On the Robustness of Verbal Confidence of LLMs in Adversarial Attacks**|Stephen Obadinma et.al.|[2507.06489](http://arxiv.org/abs/2507.06489)|null|
 |**2025-07-08**|**Search-based Selection of Metamorphic Relations for Optimized Robustness Testing of Large Language Models**|Sangwon Hyun et.al.|[2507.05565](http://arxiv.org/abs/2507.05565)|null|
