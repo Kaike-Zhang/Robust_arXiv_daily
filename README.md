@@ -13,6 +13,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**ARRC: Explainable, Workflow-Integrated Recommender for Sustainable Resource Optimization Across the Edge-Cloud Continuum**|Brian-Frederik Jahnke et.al.|[2507.12032](http://arxiv.org/abs/2507.12032)|null|
+|**2025-07-16**|**Similarity-Guided Diffusion for Contrastive Sequential Recommendation**|Jinkyeong Choi et.al.|[2507.11866](http://arxiv.org/abs/2507.11866)|null|
 |**2025-07-15**|**Benchmarking and Evaluation of AI Models in Biology: Outcomes and Recommendations from the CZI Virtual Cells Workshop**|Elizabeth Fahsbender et.al.|[2507.10502](http://arxiv.org/abs/2507.10502)|null|
 |**2025-07-14**|**SLIF-MR: Self-loop Iterative Fusion of Heterogeneous Auxiliary Information for Multimodal Recommendation**|Jie Guo et.al.|[2507.09998](http://arxiv.org/abs/2507.09998)|null|
 |**2025-07-11**|**Graph Neural Network Enhanced Sequential Recommendation Method for Cross-Platform Ad Campaign**|Xiang Li et.al.|[2507.08959](http://arxiv.org/abs/2507.08959)|null|
