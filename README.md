@@ -321,6 +321,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**SHIELD: A Secure and Highly Enhanced Integrated Learning for Robust Deepfake Detection against Adversarial Attacks**|Kutub Uddin et.al.|[2507.13170](http://arxiv.org/abs/2507.13170)|null|
 |**2025-07-14**|**REAL-IoT: Characterizing GNN Intrusion Detection Robustness under Practical Adversarial Attack**|Zhonghao Zhan et.al.|[2507.10836](http://arxiv.org/abs/2507.10836)|null|
 |**2025-07-14**|**Distributionally Robust Optimization with Adversarial Data Contamination**|Shuyao Li et.al.|[2507.10718](http://arxiv.org/abs/2507.10718)|null|
 |**2025-07-14**|**3DGAA: Realistic and Robust 3D Gaussian-based Adversarial Attack for Autonomous Driving**|Yixun Zhang et.al.|[2507.09993](http://arxiv.org/abs/2507.09993)|null|
