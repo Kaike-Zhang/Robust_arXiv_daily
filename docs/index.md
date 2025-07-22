@@ -7,6 +7,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-20**|**User Invariant Preference Learning for Multi-Behavior Recommendation**|Mingshi Yan et.al.|[2507.14925](http://arxiv.org/abs/2507.14925)|null|
+|**2025-07-19**|**Rec-AD: An Efficient Computation Framework for FDIA Detection Based on Tensor Train Decomposition and Deep Learning Recommendation Model**|Yunfeng Li et.al.|[2507.14668](http://arxiv.org/abs/2507.14668)|null|
 |**2025-07-16**|**ARRC: Explainable, Workflow-Integrated Recommender for Sustainable Resource Optimization Across the Edge-Cloud Continuum**|Brian-Frederik Jahnke et.al.|[2507.12032](http://arxiv.org/abs/2507.12032)|null|
 |**2025-07-16**|**Similarity-Guided Diffusion for Contrastive Sequential Recommendation**|Jinkyeong Choi et.al.|[2507.11866](http://arxiv.org/abs/2507.11866)|null|
 |**2025-07-15**|**Benchmarking and Evaluation of AI Models in Biology: Outcomes and Recommendations from the CZI Virtual Cells Workshop**|Elizabeth Fahsbender et.al.|[2507.10502](http://arxiv.org/abs/2507.10502)|null|
@@ -313,6 +315,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-20**|**ROBAD: Robust Adversary-aware Local-Global Attended Bad Actor Detection Sequential Model**|Bing He et.al.|[2507.15067](http://arxiv.org/abs/2507.15067)|null|
 |**2025-07-17**|**SHIELD: A Secure and Highly Enhanced Integrated Learning for Robust Deepfake Detection against Adversarial Attacks**|Kutub Uddin et.al.|[2507.13170](http://arxiv.org/abs/2507.13170)|null|
 |**2025-07-14**|**REAL-IoT: Characterizing GNN Intrusion Detection Robustness under Practical Adversarial Attack**|Zhonghao Zhan et.al.|[2507.10836](http://arxiv.org/abs/2507.10836)|null|
 |**2025-07-14**|**Distributionally Robust Optimization with Adversarial Data Contamination**|Shuyao Li et.al.|[2507.10718](http://arxiv.org/abs/2507.10718)|null|
@@ -1000,6 +1003,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-20**|**Byzantine-Robust Decentralized Coordination of LLM Agents**|Yongrae Jo et.al.|[2507.14928](http://arxiv.org/abs/2507.14928)|null|
 |**2025-07-17**|**Revisiting LLM Value Probing Strategies: Are They Robust and Expressive?**|Siqi Shen et.al.|[2507.13490](http://arxiv.org/abs/2507.13490)|null|
 |**2025-07-14**|**How Robust are LLM-Generated Library Imports? An Empirical Study using Stack Overflow**|Jasmine Latendresse et.al.|[2507.10818](http://arxiv.org/abs/2507.10818)|null|
 |**2025-07-11**|**Invariant-based Robust Weights Watermark for Large Language Models**|Qingxiao Guo et.al.|[2507.08288](http://arxiv.org/abs/2507.08288)|null|
@@ -1364,6 +1368,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
+|**2025-07-21**|**RankMixer: Scaling Up Ranking Models in Industrial Recommenders**|Jie Zhu et.al.|[2507.15551](http://arxiv.org/abs/2507.15551)|null|
+|**2025-07-21**|**GREAT: Guiding Query Generation with a Trie for Recommending Related Search about Video at Kuaishou**|Ninglu Shao et.al.|[2507.15267](http://arxiv.org/abs/2507.15267)|null|
+|**2025-07-18**|**Schemora: schema matching via multi-stage recommendation and metadata enrichment using off-the-shelf llms**|Osman Erman Gungor et.al.|[2507.14376](http://arxiv.org/abs/2507.14376)|null|
 |**2025-07-18**|**DUALRec: A Hybrid Sequential and Language Model Framework for Context-Aware Movie Recommendation**|Yitong Li et.al.|[2507.13957](http://arxiv.org/abs/2507.13957)|null|
 |**2025-07-18**|**Consistent Explainers or Unreliable Narrators? Understanding LLM-generated Group Recommendations**|Cedric Waterschoot et.al.|[2507.13705](http://arxiv.org/abs/2507.13705)|null|
 |**2025-07-17**|**Revisiting Prompt Engineering: A Comprehensive Evaluation for LLM-based Personalized Recommendation**|Genki Kusano et.al.|[2507.13525](http://arxiv.org/abs/2507.13525)|null|
