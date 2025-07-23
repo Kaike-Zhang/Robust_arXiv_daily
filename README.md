@@ -323,6 +323,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Learning Acceleration Algorithms for Fast Parametric Convex Optimization with Certified Robustness**|Rajiv Sambharya et.al.|[2507.16264](http://arxiv.org/abs/2507.16264)|null|
 |**2025-07-20**|**ROBAD: Robust Adversary-aware Local-Global Attended Bad Actor Detection Sequential Model**|Bing He et.al.|[2507.15067](http://arxiv.org/abs/2507.15067)|null|
 |**2025-07-17**|**SHIELD: A Secure and Highly Enhanced Integrated Learning for Robust Deepfake Detection against Adversarial Attacks**|Kutub Uddin et.al.|[2507.13170](http://arxiv.org/abs/2507.13170)|null|
 |**2025-07-14**|**REAL-IoT: Characterizing GNN Intrusion Detection Robustness under Practical Adversarial Attack**|Zhonghao Zhan et.al.|[2507.10836](http://arxiv.org/abs/2507.10836)|null|
@@ -1013,6 +1014,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Improving Code LLM Robustness to Prompt Perturbations via Layer-Aware Model Editing**|Shuhan Liu et.al.|[2507.16407](http://arxiv.org/abs/2507.16407)|null|
+|**2025-07-15**|**Small Edits, Big Consequences: Telling Good from Bad Robustness in Large Language Models**|Altynbek Ismailov et.al.|[2507.15868](http://arxiv.org/abs/2507.15868)|null|
 |**2025-07-20**|**Byzantine-Robust Decentralized Coordination of LLM Agents**|Yongrae Jo et.al.|[2507.14928](http://arxiv.org/abs/2507.14928)|null|
 |**2025-07-17**|**Revisiting LLM Value Probing Strategies: Are They Robust and Expressive?**|Siqi Shen et.al.|[2507.13490](http://arxiv.org/abs/2507.13490)|null|
 |**2025-07-14**|**How Robust are LLM-Generated Library Imports? An Empirical Study using Stack Overflow**|Jasmine Latendresse et.al.|[2507.10818](http://arxiv.org/abs/2507.10818)|null|
@@ -1380,6 +1383,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Biases in LLM-Generated Musical Taste Profiles for Recommendation**|Bruno Sguerra et.al.|[2507.16708](http://arxiv.org/abs/2507.16708)|null|
+|**2025-07-22**|**Time to Split: Exploring Data Splitting Strategies for Offline Evaluation of Sequential Recommenders**|Danil Gusak et.al.|[2507.16289](http://arxiv.org/abs/2507.16289)|null|
+|**2025-07-22**|**LLM-Enhanced Reranking for Complementary Product Recommendation**|Zekun Xu et.al.|[2507.16237](http://arxiv.org/abs/2507.16237)|null|
 |**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
 |**2025-07-21**|**RankMixer: Scaling Up Ranking Models in Industrial Recommenders**|Jie Zhu et.al.|[2507.15551](http://arxiv.org/abs/2507.15551)|null|
 |**2025-07-21**|**GREAT: Guiding Query Generation with a Trie for Recommending Related Search about Video at Kuaishou**|Ninglu Shao et.al.|[2507.15267](http://arxiv.org/abs/2507.15267)|null|
