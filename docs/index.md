@@ -7,6 +7,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Enhancing Transferability and Consistency in Cross-Domain Recommendations via Supervised Disentanglement**|Yuhan Wang et.al.|[2507.17112](http://arxiv.org/abs/2507.17112)|null|
+|**2025-07-22**|**VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings**|Ramin Giahi et.al.|[2507.17080](http://arxiv.org/abs/2507.17080)|null|
+|**2025-07-22**|**LLM4MEA: Data-free Model Extraction Attacks on Sequential Recommenders via Large Language Models**|Shilong Zhao et.al.|[2507.16969](http://arxiv.org/abs/2507.16969)|null|
+|**2025-07-09**|**You Don't Bring Me Flowers: Mitigating Unwanted Recommendations Through Conformal Risk Control**|Giovanni De Toni et.al.|[2507.16829](http://arxiv.org/abs/2507.16829)|null|
 |**2025-07-20**|**User Invariant Preference Learning for Multi-Behavior Recommendation**|Mingshi Yan et.al.|[2507.14925](http://arxiv.org/abs/2507.14925)|null|
 |**2025-07-19**|**Rec-AD: An Efficient Computation Framework for FDIA Detection Based on Tensor Train Decomposition and Deep Learning Recommendation Model**|Yunfeng Li et.al.|[2507.14668](http://arxiv.org/abs/2507.14668)|null|
 |**2025-07-16**|**ARRC: Explainable, Workflow-Integrated Recommender for Sustainable Resource Optimization Across the Edge-Cloud Continuum**|Brian-Frederik Jahnke et.al.|[2507.12032](http://arxiv.org/abs/2507.12032)|null|
@@ -315,6 +319,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**On the Interaction of Compressibility and Adversarial Robustness**|Melih Barsbey et.al.|[2507.17725](http://arxiv.org/abs/2507.17725)|null|
 |**2025-07-22**|**Learning Acceleration Algorithms for Fast Parametric Convex Optimization with Certified Robustness**|Rajiv Sambharya et.al.|[2507.16264](http://arxiv.org/abs/2507.16264)|null|
 |**2025-07-20**|**ROBAD: Robust Adversary-aware Local-Global Attended Bad Actor Detection Sequential Model**|Bing He et.al.|[2507.15067](http://arxiv.org/abs/2507.15067)|null|
 |**2025-07-17**|**SHIELD: A Secure and Highly Enhanced Integrated Learning for Robust Deepfake Detection against Adversarial Attacks**|Kutub Uddin et.al.|[2507.13170](http://arxiv.org/abs/2507.13170)|null|
@@ -1004,6 +1009,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Harnessing RLHF for Robust Unanswerability Recognition and Trustworthy Response Generation in LLMs**|Shuyuan Lin et.al.|[2507.16951](http://arxiv.org/abs/2507.16951)|null|
 |**2025-07-22**|**Improving Code LLM Robustness to Prompt Perturbations via Layer-Aware Model Editing**|Shuhan Liu et.al.|[2507.16407](http://arxiv.org/abs/2507.16407)|null|
 |**2025-07-15**|**Small Edits, Big Consequences: Telling Good from Bad Robustness in Large Language Models**|Altynbek Ismailov et.al.|[2507.15868](http://arxiv.org/abs/2507.15868)|null|
 |**2025-07-20**|**Byzantine-Robust Decentralized Coordination of LLM Agents**|Yongrae Jo et.al.|[2507.14928](http://arxiv.org/abs/2507.14928)|null|
@@ -1371,6 +1377,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Exploring the Potential of LLMs for Serendipity Evaluation in Recommender Systems**|Li Kang et.al.|[2507.17290](http://arxiv.org/abs/2507.17290)|null|
+|**2025-07-23**|**R4ec: A Reasoning, Reflection, and Refinement Framework for Recommendation Systems**|Hao Gu et.al.|[2507.17249](http://arxiv.org/abs/2507.17249)|null|
+|**2025-07-22**|**VL-CLIP: Enhancing Multimodal Recommendations via Visual Grounding and LLM-Augmented CLIP Embeddings**|Ramin Giahi et.al.|[2507.17080](http://arxiv.org/abs/2507.17080)|null|
+|**2025-07-22**|**LLM4MEA: Data-free Model Extraction Attacks on Sequential Recommenders via Large Language Models**|Shilong Zhao et.al.|[2507.16969](http://arxiv.org/abs/2507.16969)|null|
 |**2025-07-22**|**Biases in LLM-Generated Musical Taste Profiles for Recommendation**|Bruno Sguerra et.al.|[2507.16708](http://arxiv.org/abs/2507.16708)|null|
 |**2025-07-22**|**Time to Split: Exploring Data Splitting Strategies for Offline Evaluation of Sequential Recommenders**|Danil Gusak et.al.|[2507.16289](http://arxiv.org/abs/2507.16289)|null|
 |**2025-07-22**|**LLM-Enhanced Reranking for Complementary Product Recommendation**|Zekun Xu et.al.|[2507.16237](http://arxiv.org/abs/2507.16237)|null|
